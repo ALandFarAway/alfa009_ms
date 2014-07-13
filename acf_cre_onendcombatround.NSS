@@ -47,15 +47,4 @@ void main()
 
     // Custom code goes here.
 	
-//	if((FindSubString(GetTag(OBJECT_SELF), "kis") != -1) || (FindSubString(GetTag(OBJECT_SELF), "argent") != -1)|| (FindSubString(GetTag(OBJECT_SELF), "guard") != -1))
-//		{object oHome = GetLocalObject(OBJECT_SELF, "oHome");
-//		 if(GetIsInCombat(OBJECT_SELF) == FALSE)
-//		 	{SpeakString("Returning to " + GetName(oHome), TALKVOLUME_SHOUT);
-//			 DelayCommand(IntToFloat(Random(10)), ActionForceMoveToObject(oHome, FALSE, 0.5));
-//			}
-//		 else
-//		 	{ DelayCommand(10.0, SpeakString("Looping acr_cre_onendcombatround", TALKVOLUME_SHOUT));
-//			 DelayCommand(10.0, ExecuteScript("acr_cre_onendcombatround", OBJECT_SELF));
-//			 }
-//		}
 }
