@@ -24,7 +24,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="18B8A3E543FE0638927F4E87601E62F26DD8DBE7" downloadHash="5C4C299C9D42E80588F767CD1D65C65F3208ED87" name="gwynneth cantrev koart hall.trx" dlsize="59771" size="59940" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="14B7FBE07C8A0F47175FB3F3BF2FAF4A915AE411" downloadHash="9D93FA2BE85614AFADC8712027B98808CE64D182" name="gwynneth cantrev koart hall.trx" dlsize="63280" size="63434" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -708,7 +708,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1C810D93F09A2830A20A752B5AF0D76DF155B9F1" downloadHash="79703ED97162EF926DB317F608396C005FED7786" name="gwynneth kingsbay silver salmo.trx" dlsize="191844" size="235389" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="052CD058E241F1447FD059194E24A946D1702FF3" downloadHash="1B6FB2E4F5A23D3CF53CE81375C430E8E17D99C2" name="gwynneth kingsbay silver salmo.trx" dlsize="191128" size="235083" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1110,7 +1110,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F596AF3AE79117D0DD108D8CC13CC6EA985D50F2" downloadHash="4FA43152B5EAC16B3FF36FE05840E8F7C2904CAC" name="gwynneth corwell inns.trx" dlsize="302026" size="304185" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B04A39724790028F1E6D18C1524915DC456D9216" downloadHash="DB99057D98D0B0D70A7801029BBB5001065A684F" name="gwynneth corwell inns.trx" dlsize="302020" size="304184" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1566,7 +1566,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Tlk" hash="4DAFEE1CB9D9EC859F7430AA5E1F7B9160763DBD" downloadHash="F3058D09D67C4D2C251265EA9D6C5482E1FC723F" name="alfa_acr02.tlk" dlsize="146727" size="1182965" critical="false" exclude="false" urlOverride="">
+  <resource type="Tlk" hash="C406DA505610AC23C24A4C8E2762E27FC29DFF1B" downloadHash="3AC1DBAB0EEF856513F8E8199BF3648C093FE39B" name="alfa_acr02.tlk" dlsize="146552" size="1182620" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
