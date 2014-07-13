@@ -44,12 +44,7 @@
 void main()
 {
     ACR_CreatureOnPhysicallyAttacked();
-
+	
     // Custom code goes here.
 	
-	if(GetLocalInt(OBJECT_SELF, "Fleeing") == 1) 
-		{ClearAllActions(TRUE);
-		 ActionMoveAwayFromObject(GetLastAttacker(), TRUE, 200.0);
-		
-		}
 }
