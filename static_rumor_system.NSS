@@ -20,6 +20,27 @@
 //int JournalUpdated = Set to 1 if Journal is to be updated
 //int NewQuestStage = Quest stage this trigger will set quest to
 
+//int ObjectType = for object type (cr =1, pl = 64
+
+//string SpawnWaypointA = waypoint Tag to spawn at
+//string SpawnNameA = resref of spawn to be spawned
+//and so on
+
+//string DayNightRestrict = "" for anytime, Day for only spawns in day, Night for only Night
+
+int nTimeIsOK(object oPC)
+{
+	{
+	if(GetLocalString(OBJECT_SELF,"DayNightRestrict") == "")
+	return TRUE;
+	else if(GetLocalString(OBJECT_SELF,"DayNightRestrict") == "Day" && GetIsNight() == FALSE)
+	return TRUE;
+	else if(GetLocalString(OBJECT_SELF,"DayNightRestrict") == "Night" && GetIsNight() == TRUE)
+	return TRUE;
+	}
+	return FALSE;
+}
+
 int WillFireTrigger(object oPC)
 {
 	object oMember = GetFirstFactionMember(oPC);
@@ -41,23 +62,69 @@ void main()
 	// No one needs this quest to be advanced. Best return now.
 	if(!WillFireTrigger(oPC))
 		return;
-		
+	if(!nTimeIsOK(oPC)) 
+		return;
+			
 	// Make checks to see if rumor was learnt.
 	int nAdvance = FALSE;		
 	if(GetLocalInt(OBJECT_SELF,"NeedTrack") && GetHasFeat(FEAT_TRACK, oPC))
 		nAdvance = TRUE;
-	else if(GetLocalInt(OBJECT_SELF,"NeedGather") && GetIsSkillSuccessful(oPC, SKILL_GATHER_INFORMATION, GetLocalInt(OBJECT_SELF,"DCGather"), False))
+	else if(GetLocalInt(OBJECT_SELF,"NeedGather") && GetIsSkillSuccessful(oPC, SKILL_GATHER_INFORMATION, GetLocalInt(OBJECT_SELF,"DCGather"), FALSE))
 		nAdvance = TRUE;	
-	else if(GetLocalInt(OBJECT_SELF,"NeedListen") && GetIsSkillSuccessful(oPC, SKILL_LISTEN, GetLocalInt(OBJECT_SELF,"DCListen"), False))
+	else if(GetLocalInt(OBJECT_SELF,"NeedListen") && GetIsSkillSuccessful(oPC, SKILL_LISTEN, GetLocalInt(OBJECT_SELF,"DCListen"), FALSE))
 		nAdvance = TRUE;
-	else if(GetLocalInt(OBJECT_SELF,"NeedSpot") && GetIsSkillSuccessful(oPC, SKILL_SPOT, GetLocalInt(OBJECT_SELF,"DCSpot"), False))
+	else if(GetLocalInt(OBJECT_SELF,"NeedSpot") && GetIsSkillSuccessful(oPC, SKILL_SPOT, GetLocalInt(OBJECT_SELF,"DCSpot"), FALSE))
 		nAdvance = TRUE;	
-	else if(GetLocalInt(OBJECT_SELF,"NeedSearch") && GetIsSkillSuccessful(oPC, SKILL_SEARCH, GetLocalInt(OBJECT_SELF,"DCSearch"), False))
+	else if(GetLocalInt(OBJECT_SELF,"NeedSearch") && GetIsSkillSuccessful(oPC, SKILL_SEARCH, GetLocalInt(OBJECT_SELF,"DCSearch"), FALSE))
 		nAdvance = TRUE;
 	
 	if(nAdvance == TRUE){
+		
+		//checks if placables are required then spawns in
+		
+		if(GetLocalString(OBJECT_SELF,"SpawnNameA") != "") { 
+		
+		object oWaypointA = GetWaypointByTag(GetLocalString(OBJECT_SELF,"SpawnWaypointA"));
+		object oTransporterA = CreateObject(GetLocalInt(OBJECT_SELF,"ObjectType"), "SpawnNameA", GetLocation(oWaypointA));
+		SetLocalObject(OBJECT_SELF, "SpawnWaypointA", oTransporterA);
+		
+		}
+		
+		if(GetLocalString(OBJECT_SELF,"SpawnNameB") != "") { 
+		
+		object oWaypointB = GetWaypointByTag(GetLocalString(OBJECT_SELF,"SpawnWaypointB"));
+		object oTransporterB = CreateObject(GetLocalInt(OBJECT_SELF,"ObjectType"), "SpawnNameB", GetLocation(oWaypointB));
+		SetLocalObject(OBJECT_SELF, "SpawnWaypointB", oTransporterB);
+		
+		}
+		
+		if(GetLocalString(OBJECT_SELF,"SpawnNameC") != "") { 
+		
+		object oWaypointC = GetWaypointByTag(GetLocalString(OBJECT_SELF,"SpawnWaypointC"));
+		object oTransporterC = CreateObject(GetLocalInt(OBJECT_SELF,"ObjectType"), "SpawnNameC", GetLocation(oWaypointC));
+		SetLocalObject(OBJECT_SELF, "SpawnWaypointC", oTransporterC);
+		
+		}
+		
+		if(GetLocalString(OBJECT_SELF,"SpawnNameD") != "") { 
+		
+		object oWaypointD = GetWaypointByTag(GetLocalString(OBJECT_SELF,"SpawnWaypointD"));
+		object oTransporterD = CreateObject(GetLocalInt(OBJECT_SELF,"ObjectType"), "SpawnNameD", GetLocation(oWaypointD));
+		SetLocalObject(OBJECT_SELF, "SpawnWaypointD", oTransporterD);
+		
+		}
+		
+		if(GetLocalString(OBJECT_SELF,"SpawnNameE") != "") { 
+		
+		object oWaypointE = GetWaypointByTag(GetLocalString(OBJECT_SELF,"SpawnWaypointE"));
+		object oTransporterE = CreateObject(GetLocalInt(OBJECT_SELF,"ObjectType"), "SpawnNameE", GetLocation(oWaypointE));
+		SetLocalObject(OBJECT_SELF, "SpawnWaypointE", oTransporterE);
+		
+		}
+		
 		// Loop through party members; assume that these people
 		// would tell their friends.
+		
 		object oAdvancing = GetFirstFactionMember(oPC);
 		while(GetIsObjectValid(oAdvancing))
 		{
