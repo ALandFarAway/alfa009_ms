@@ -85,40 +85,40 @@ void main()
 		if(GetLocalString(OBJECT_SELF,"SpawnNameA") != "") { 
 		
 		object oWaypointA = GetWaypointByTag(GetLocalString(OBJECT_SELF,"SpawnWaypointA"));
-		object oTransporterA = CreateObject(GetLocalInt(OBJECT_SELF,"ObjectType"), "SpawnNameA", GetLocation(oWaypointA));
-		SetLocalObject(OBJECT_SELF, "SpawnWaypointA", oTransporterA);
+		object oTransporterA = CreateObject(GetLocalInt(OBJECT_SELF,"ObjectType"), GetLocalString(OBJECT_SELF,"SpawnNameA"), GetLocation(oWaypointA));
+		SetLocalObject(OBJECT_SELF, GetLocalString(OBJECT_SELF,"SpawnWaypointA"), oTransporterA);
 		
 		}
 		
 		if(GetLocalString(OBJECT_SELF,"SpawnNameB") != "") { 
 		
 		object oWaypointB = GetWaypointByTag(GetLocalString(OBJECT_SELF,"SpawnWaypointB"));
-		object oTransporterB = CreateObject(GetLocalInt(OBJECT_SELF,"ObjectType"), "SpawnNameB", GetLocation(oWaypointB));
-		SetLocalObject(OBJECT_SELF, "SpawnWaypointB", oTransporterB);
+		object oTransporterB = CreateObject(GetLocalInt(OBJECT_SELF,"ObjectType"), GetLocalString(OBJECT_SELF,"SpawnNameB"), GetLocation(oWaypointB));
+		SetLocalObject(OBJECT_SELF, GetLocalString(OBJECT_SELF,"SpawnWaypointB"), oTransporterB);
 		
 		}
 		
 		if(GetLocalString(OBJECT_SELF,"SpawnNameC") != "") { 
 		
 		object oWaypointC = GetWaypointByTag(GetLocalString(OBJECT_SELF,"SpawnWaypointC"));
-		object oTransporterC = CreateObject(GetLocalInt(OBJECT_SELF,"ObjectType"), "SpawnNameC", GetLocation(oWaypointC));
-		SetLocalObject(OBJECT_SELF, "SpawnWaypointC", oTransporterC);
+		object oTransporterC = CreateObject(GetLocalInt(OBJECT_SELF,"ObjectType"), GetLocalString(OBJECT_SELF,"SpawnNameC"), GetLocation(oWaypointC));
+		SetLocalObject(OBJECT_SELF, GetLocalString(OBJECT_SELF,"SpawnWaypointC"), oTransporterC);
 		
 		}
 		
 		if(GetLocalString(OBJECT_SELF,"SpawnNameD") != "") { 
 		
 		object oWaypointD = GetWaypointByTag(GetLocalString(OBJECT_SELF,"SpawnWaypointD"));
-		object oTransporterD = CreateObject(GetLocalInt(OBJECT_SELF,"ObjectType"), "SpawnNameD", GetLocation(oWaypointD));
-		SetLocalObject(OBJECT_SELF, "SpawnWaypointD", oTransporterD);
+		object oTransporterD = CreateObject(GetLocalInt(OBJECT_SELF,"ObjectType"), GetLocalString(OBJECT_SELF,"SpawnNameD"), GetLocation(oWaypointD));
+		SetLocalObject(OBJECT_SELF, GetLocalString(OBJECT_SELF,"SpawnWaypointD"), oTransporterD);
 		
 		}
 		
 		if(GetLocalString(OBJECT_SELF,"SpawnNameE") != "") { 
 		
 		object oWaypointE = GetWaypointByTag(GetLocalString(OBJECT_SELF,"SpawnWaypointE"));
-		object oTransporterE = CreateObject(GetLocalInt(OBJECT_SELF,"ObjectType"), "SpawnNameE", GetLocation(oWaypointE));
-		SetLocalObject(OBJECT_SELF, "SpawnWaypointE", oTransporterE);
+		object oTransporterE = CreateObject(GetLocalInt(OBJECT_SELF,"ObjectType"), GetLocalString(OBJECT_SELF,"SpawnNameE"), GetLocation(oWaypointE));
+		SetLocalObject(OBJECT_SELF, GetLocalString(OBJECT_SELF,"SpawnWaypointE"), oTransporterE);
 		
 		}
 		
