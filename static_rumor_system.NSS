@@ -1,6 +1,7 @@
 #include "acr_quest_i"
 #include "acr_notifications_i"
 #include "acr_skills_i"
+#include "acr_items_i"
 
 //Static Rumor System.  Used to pass on information to PC's through triggers.  Variables are as below.  
 //Painfully assembled by Rumple with much help from Foam and Zelknolf.  
@@ -87,7 +88,10 @@ void main()
 		object oWaypointA = GetWaypointByTag(GetLocalString(OBJECT_SELF,"SpawnWaypointA"));
 		object oTransporterA = CreateObject(GetLocalInt(OBJECT_SELF,"ObjectType"), GetLocalString(OBJECT_SELF,"SpawnNameA"), GetLocation(oWaypointA));
 		SetLocalObject(OBJECT_SELF, GetLocalString(OBJECT_SELF,"SpawnWaypointA"), oTransporterA);
+		if (GetLocalInt(OBJECT_SELF,"ObjectType") == 64){ 
+		ACR_GenerateLoot(oTransporterA, GetLocalInt(oTransporterA, "TotalLootValue"), GetLocalInt(oTransporterA, "MaxItemValue"));
 		
+		}
 		}
 		
 		if(GetLocalString(OBJECT_SELF,"SpawnNameB") != "") { 
@@ -95,7 +99,10 @@ void main()
 		object oWaypointB = GetWaypointByTag(GetLocalString(OBJECT_SELF,"SpawnWaypointB"));
 		object oTransporterB = CreateObject(GetLocalInt(OBJECT_SELF,"ObjectType"), GetLocalString(OBJECT_SELF,"SpawnNameB"), GetLocation(oWaypointB));
 		SetLocalObject(OBJECT_SELF, GetLocalString(OBJECT_SELF,"SpawnWaypointB"), oTransporterB);
+		if (GetLocalInt(OBJECT_SELF,"ObjectType") == 64){ 
+		ACR_GenerateLoot(oTransporterB, GetLocalInt(oTransporterB, "TotalLootValue"), GetLocalInt(oTransporterB, "MaxItemValue"));
 		
+		}
 		}
 		
 		if(GetLocalString(OBJECT_SELF,"SpawnNameC") != "") { 
@@ -103,7 +110,10 @@ void main()
 		object oWaypointC = GetWaypointByTag(GetLocalString(OBJECT_SELF,"SpawnWaypointC"));
 		object oTransporterC = CreateObject(GetLocalInt(OBJECT_SELF,"ObjectType"), GetLocalString(OBJECT_SELF,"SpawnNameC"), GetLocation(oWaypointC));
 		SetLocalObject(OBJECT_SELF, GetLocalString(OBJECT_SELF,"SpawnWaypointC"), oTransporterC);
+		if (GetLocalInt(OBJECT_SELF,"ObjectType") == 64){ 
+		ACR_GenerateLoot(oTransporterC, GetLocalInt(oTransporterC, "TotalLootValue"), GetLocalInt(oTransporterC, "MaxItemValue"));
 		
+		}
 		}
 		
 		if(GetLocalString(OBJECT_SELF,"SpawnNameD") != "") { 
@@ -111,7 +121,10 @@ void main()
 		object oWaypointD = GetWaypointByTag(GetLocalString(OBJECT_SELF,"SpawnWaypointD"));
 		object oTransporterD = CreateObject(GetLocalInt(OBJECT_SELF,"ObjectType"), GetLocalString(OBJECT_SELF,"SpawnNameD"), GetLocation(oWaypointD));
 		SetLocalObject(OBJECT_SELF, GetLocalString(OBJECT_SELF,"SpawnWaypointD"), oTransporterD);
+		if (GetLocalInt(OBJECT_SELF,"ObjectType") == 64){ 
+		ACR_GenerateLoot(oTransporterD, GetLocalInt(oTransporterD, "TotalLootValue"), GetLocalInt(oTransporterD, "MaxItemValue"));
 		
+		}
 		}
 		
 		if(GetLocalString(OBJECT_SELF,"SpawnNameE") != "") { 
@@ -119,7 +132,10 @@ void main()
 		object oWaypointE = GetWaypointByTag(GetLocalString(OBJECT_SELF,"SpawnWaypointE"));
 		object oTransporterE = CreateObject(GetLocalInt(OBJECT_SELF,"ObjectType"), GetLocalString(OBJECT_SELF,"SpawnNameE"), GetLocation(oWaypointE));
 		SetLocalObject(OBJECT_SELF, GetLocalString(OBJECT_SELF,"SpawnWaypointE"), oTransporterE);
+		if (GetLocalInt(OBJECT_SELF,"ObjectType") == 64){ 
+		ACR_GenerateLoot(oTransporterE, GetLocalInt(oTransporterE, "TotalLootValue"), GetLocalInt(oTransporterE, "MaxItemValue"));
 		
+		}
 		}
 		
 		// Loop through party members; assume that these people
