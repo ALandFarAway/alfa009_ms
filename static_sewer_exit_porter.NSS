@@ -2,5 +2,5 @@
 
 void main() {
         object oUser = GetLastUsedBy();
-        AssignCommand(oUser, JumpToObject(GetWaypointByTag(WD_SEWERS_LADDER_TOP)));
+        AssignCommand(oUser, JumpToObject(GetWaypointByTag("WD_SEWERS_LADDER_TOP")));
 }
