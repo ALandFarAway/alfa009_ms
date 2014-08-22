@@ -1458,43 +1458,43 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="340675C82F1797213F9A4A66384EFB1949604DD0" downloadHash="C29345DB7F7EE70F3E4C5755C57FAE8BA2E93CA0" name="ship.SEF" dlsize="407" size="1162" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="37F3480D5133BB93DFC7E36B90C4CD79153CA226" downloadHash="F95814B8409F441CDC5E9925BBBC538A258E51B0" name="ship.SEF" dlsize="408" size="1209" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5B660E8465B1A853B47DB3B1F59083A7775AD4F7" downloadHash="6B796D758E45D41A6D6CF936F09C0023027A982D" name="ship_cargo.SEF" dlsize="392" size="1152" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D8A679029468BA94AB99192A0542C6E43048BF93" downloadHash="B5B8E919BCC43BE946371C054082E9CE23DD0945" name="ship_cargo.SEF" dlsize="393" size="1199" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D43FA75E98DC139B9C4C09C6FE78FD436945E0F1" downloadHash="C7AC69D12268D918481B9B789CBCF34089E9E658" name="ship_dragon_head.SEF" dlsize="397" size="1163" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="47E2CA269492CEEC581B13C33A32EB79FCC1078B" downloadHash="EA34DC8BAA7128696BB8528773ED5177D00C9069" name="ship_dragon_head.SEF" dlsize="398" size="1210" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7EE934A1593EF0ACAD7C8E453322612C342021B1" downloadHash="8006B8C0FD4B65E0FF91A6A2E967B3B17493296E" name="ship_rowboat.SEF" dlsize="389" size="1152" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9E6B061419B9B98DBA50B1FCD0E1893A65A28AEE" downloadHash="C0D6492D3B33E9628E831B81EEA11018F890ADCA" name="ship_rowboat.SEF" dlsize="392" size="1199" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="05AC0640669C588B7A659BA4C4AE02730EF08D6F" downloadHash="9E61F1AC2795C196E541DCC5AB28BF70FB91B091" name="ship_sea_ghost.SEF" dlsize="392" size="1154" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="623297FF1C7822C6A3ACCB259D65A42469130ED7" downloadHash="26201804404617526267FCD4A08E827814714D1C" name="ship_sea_ghost.SEF" dlsize="392" size="1201" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="44C63A9F90D48F4F8EC6B8D984883F1575C26AEB" downloadHash="BF4F862A31ACF9E1A7FE9C24CD4678E641EB1082" name="ship_warship.SEF" dlsize="391" size="1152" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5A1814CA270B9D46AD328DF800121E2DED4FB092" downloadHash="843D0C1EABF48A82F4ADCFF65515D6A91EEBB76D" name="ship_warship.SEF" dlsize="393" size="1199" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="98F81269AF8DBDC4131951008327EBEF2BA97A20" downloadHash="12C229319683A632FF4E41CD3FFD374E20FE53C6" name="total_invisibility.SEF" dlsize="325" size="809" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FD97CC37F339CC2AF18C5DB7451EC267EDA78FAD" downloadHash="162F4F66B19A2658D90F9F98287218FA8A7AD6C7" name="total_invisibility.SEF" dlsize="326" size="837" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1717,6 +1717,16 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="160081D293AB4644E3E9892A773327333C8CD83B" downloadHash="E423DDE54CE4661E9CC3C32BAF1B52CD9F8ECCBD" name="fumirnpc.ERF" dlsize="686744" size="9811184" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="95694BCF1E30E6034F108D3B7E3B14AB3A241B1A" downloadHash="3A0632D267A0156AFD0293C016A702AF5EF46A5C" name="queen robyn at sea.trx" dlsize="226529" size="7844513" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="832D45B76DA65AA24CE73C380A79CDCD4E8B8B36" downloadHash="119F8D585B4E034A9A2C752DC3480F3AC2FFF4F9" name="queen robyn at sea int.trx" dlsize="81684" size="81987" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
