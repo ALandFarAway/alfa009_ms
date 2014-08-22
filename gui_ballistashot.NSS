@@ -35,6 +35,7 @@ void main( object TargetObject, float posX, float posY, float posZ, string balli
 		return;
 	}
 	
+	SetLocalInt(ballistaObject, "ROUNDS_TO_LOAD", 2);
 	int AC = 10;
 	if(GetObjectType(TargetObject) == OBJECT_TYPE_CREATURE)
 	{

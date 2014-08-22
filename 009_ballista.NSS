@@ -123,7 +123,6 @@ void main()
 		SetGlobalGUIVariable(oPC, 198, "creature,ground,placeable");
 	    SetGlobalGUIVariable(oPC, 201, "");
 		DisplayGuiScreen(oPC, spawnUIScreenName, 0, spawnUI, 0);
-		SetLocalInt(OBJECT_SELF, "ROUNDS_TO_LOAD", 2);
 	}
 	else if(roundsToLoad == 1)
 	{
