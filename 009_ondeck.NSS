@@ -30,7 +30,7 @@ void DeckHeartbeat(object oPC, vector oldLoc)
 			float diffY = (oldLoc.y - newLoc.y);
 			if((diffX * diffX)+(diffY * diffY) > 9.0f)
 			{
-				if(ACR_SkillCheck(SKILL_BALANCE, oPC, GetWeatherBalance(), TRUE))
+				if(!ACR_SkillCheck(SKILL_BALANCE, oPC, GetWeatherBalance(), TRUE))
 				{
 					ApplyEffectToObject(DURATION_TYPE_TEMPORARY, ExtraordinaryEffect(EffectKnockdown()), oPC, 6.0f);
 				}
