@@ -13,9 +13,9 @@ int GetWeatherBalance()
 		case WEATHER_POWER_LIGHT:
 			return 5;
 		default:
-			return 0;
+			return 1;
 	}
-	return 0;
+	return 1;
 }
 
 void DeckHeartbeat(object oPC, vector oldLoc)
@@ -28,7 +28,7 @@ void DeckHeartbeat(object oPC, vector oldLoc)
 			vector newLoc = GetPosition(oPC);
 			float diffX = (oldLoc.x - newLoc.x);
 			float diffY = (oldLoc.y - newLoc.y);
-			if((diffX * diffX)+(diffY * diffY) > 9.0f)
+			if((diffX * diffX)+(diffY * diffY) > 12.0f)
 			{
 				if(!ACR_SkillCheck(SKILL_BALANCE, oPC, GetWeatherBalance(), TRUE))
 				{
