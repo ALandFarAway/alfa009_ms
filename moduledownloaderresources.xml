@@ -1731,4 +1731,14 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="A85688D3419AB2E53227F90356721E021562D929" downloadHash="CB8670241210D76E55EC53A4D87437CDC9568304" name="queen robyn battle.trx" dlsize="278000" size="7895515" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="C8BC699420980298E675087F1A8172302834B2C3" downloadHash="AC7F11E635E3A75B61CA49589F49654B0141D1B5" name="queen robyn boarding.trx" dlsize="258879" size="7874386" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
 </content>
