@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <content xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <resource type="DirectoryEntry" hash="34E8D5FD5B27D2A3B7305D62BE0F2B6B34CA1B7C" downloadHash="55FA8C1F53F26B04BC8445A05B9ECFDAE23B3973" name="generic merchant at sea.trx" dlsize="486787" size="7857113" critical="false" exclude="false" urlOverride="">
     <server-ref>
@@ -1506,7 +1506,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="8BA3FAE79D50DEF513125348C9573CA5B84CFA05" downloadHash="8E875AF926148AC134A776A5E95DF42A107530BB" name="alfa2_acr.hak" dlsize="4077842" size="119668506" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="B0DFFC3C52F62FEBAA10ACC3984EDF0D8FC3EA0F" downloadHash="97F4038D1E42CB8A6BFF4C1ABF430C1ABFCA645B" name="alfa2_acr.hak" dlsize="4029608" size="119846829" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
@@ -1524,7 +1524,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="0927DD7C3DCB4D0419E2BC68952837E2D34464E3" downloadHash="2D0A079EC5B8BC5C9367718C7B1F8ED1A44ACBB8" name="alfa2_gui.hak" dlsize="10121027" size="42362859" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="DA2A23EB5E72F7E67EA2DE492A52E5ADE520F997" downloadHash="A8CA0B9CE99BBBA030970D42452DB088E1470388" name="alfa2_gui.hak" dlsize="10125502" size="42385281" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
@@ -1560,7 +1560,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="F54A854CC2837F091F27FCA688783805AC9FBED7" downloadHash="5D66F6DA3E3A3BD735409EE0B86A672DE710E481" name="alfa2_templates.hak" dlsize="190865" size="8634817" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="5070D9D7049E0F5F59D0A87544BD7E59582D0AEB" downloadHash="2FD7FF957C23CB67B28E38BD366BD79A20415F57" name="alfa2_templates.hak" dlsize="191611" size="8644035" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
