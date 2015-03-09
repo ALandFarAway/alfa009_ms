@@ -30,7 +30,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BB9DAAE9E4C3B517EE54F3CCCEB8418170792259" downloadHash="EB32D2C1AA0F4A7CEAE8270B0371898A159A5922" name="gwynneth corwell interiors.trx" dlsize="201681" size="204619" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C84DFFF9DCC3678D9E9681B59261F88BD31FAD44" downloadHash="4F604B66143EE87D8ED03B38227CA9A25E2CB064" name="gwynneth corwell interiors.trx" dlsize="201554" size="204601" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -648,7 +648,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="EF0E7179DCEA283273C74D23459D568862E1DE83" downloadHash="716B1046437D634E18060FBE65E0A2CBADA427D3" name="gwynneth corwell shops int.trx" dlsize="234546" size="266977" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="01C741D201BB73E858E94D7CF120E2CEF38005B5" downloadHash="5F7A8BB42566DD83D036A389739BBD5C15417882" name="gwynneth corwell shops int.trx" dlsize="268759" size="270442" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1110,7 +1110,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0277A19CB1FD6C3158E1A0A60861267FCC3751DE" downloadHash="DB99057D98D0B0D70A7801029BBB5001065A684F" name="gwynneth corwell inns.trx" dlsize="302020" size="397098" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5D389A95CFC9A86940690253B8F2FE32A5C1E33E" downloadHash="988A63245EB27369B9E0CB9AB309731497E7FDAA" name="gwynneth corwell inns.trx" dlsize="394149" size="397100" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1584,7 +1584,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9709A60A60E35D1AB35361621B2F019C05C54CAA" downloadHash="77D597E966EF8951BC21F6B5A09800C3CE5708AF" name="gwynneth l34 corwell town.trx" dlsize="5061529" size="27152062" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8EAFAEFF312D3B479D5CA6156D7B86875C6FC328" downloadHash="FFF90653B1D0ABE5AE92FFD88CA044CE28DAF232" name="gwynneth l34 corwell town.trx" dlsize="5114593" size="27175595" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1746,7 +1746,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CC631023FFF6AF84AEA89BE584B0B930E8C084A4" downloadHash="1AAFB543D236131658026B33293D169731C426C5" name="generic caves_waterlogged.trx" dlsize="549309" size="11618160" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B81AD42F0FCD87A216A817F1B7F297A98B023DA7" downloadHash="AE57E9A2E0931851336E20DC35CCBFD9BE0AB13C" name="generic caves_waterlogged.trx" dlsize="543667" size="11618159" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1816,7 +1816,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E094995E06A944188C0217A36030BC04B3BF4FBB" downloadHash="CC16A2DBB39B0AC1B381E97D2E47622AB1A3FA81" name="gwynneth corwell quest areas.trx" dlsize="79645" size="348299" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="01ADA38259AE30246DE2ED04FE462B4E57ECD65F" downloadHash="37FB61664BB775DB8B81EEE67C8397A75F6B5863" name="gwynneth corwell quest areas.trx" dlsize="79673" size="348301" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
