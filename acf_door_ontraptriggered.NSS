@@ -1,24 +1,29 @@
 ////////////////////////////////////////////////////////////////////////////////
 //
-//  System Name : ALFA Quest System
-//     Filename : acr_quest_update
-//    $Revision:: 428        $ current version of the file
-//        $Date:: 2007-09-21#$ date the file was created or modified
-//       Author : Indio
+//  System Name : ACR Configuration File
+//     Filename : acf_door_ontraptriggered  
+//    $Revision:: 231        $ current version of the file
+//        $Date:: 2007-01-20#$ date the file was created or modified
+//       Author : Cipher
+//
+//  Local Variable Prefix =
+//
+//
+//  Dependencies external of nwscript:
 //
 //  Description
-//  This script handles quest state updates. This should be used in the Actions Taken
-//  branch of a conversation.
+//  This script calls the ACR's OnTrapTriggered code for doors, and any custom code
+//  a server may need. It is not updated in ACR updates.
 //
 //  Revision History
-//  2007/08/16  Indio   Inception
-//  2007/09/02  Cipher  Optimized and retrofitted to ACR standards
+//  2007/01/20  Cipher  Inception
 ////////////////////////////////////////////////////////////////////////////////
 
 ////////////////////////////////////////////////////////////////////////////////
 // Includes ////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////
-#include "acr_quest_i"
+
+#include "acr_door_i"
 
 ////////////////////////////////////////////////////////////////////////////////
 // Constants ///////////////////////////////////////////////////////////////////
@@ -40,8 +45,6 @@
 // Function Definitions ////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////
 
-void main(string sQuest, int nState, int bAllPartyMembers=TRUE, int bAllPlayers=FALSE, int bAllowOverrideHigher=FALSE, int nXP=0)
-{
-	// add the quest to the player and his party
-    ACR_AddPersistentJournalQuestEntry(sQuest, nState, GetPCSpeaker(), bAllPartyMembers, bAllPlayers, bAllowOverrideHigher, nXP);
+void main() {
+    ACR_DoorOnTrapTriggered();
 }

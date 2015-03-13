@@ -93,7 +93,12 @@ void main()
 		sMsg = "This herb has leaves of a peculiar sheen, but none look good enough for harvesting.";
 		sRef = "it_skullcap";
 	}
-
+   else if (sTag == "010_herb_herb6") {
+		nHeal = 4;
+		nSurv = 6;
+		sMsg = "This herb's root is very mushy and does not look worth harvesting.";
+		sRef = "it_nararoot";
+	}
 	bHealCheck = GetSkillRank(SKILL_HEAL, oPC, TRUE) >= nHeal;
 	bSurvCheck = GetSkillRank(SKILL_SURVIVAL, oPC, TRUE) >= nSurv;
 	bSpellCheck = GetSkillRank(SKILL_SPELLCRAFT, oPC, TRUE) >= nSpell;

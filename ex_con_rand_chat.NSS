@@ -7,7 +7,7 @@ void main(string sChatType, int nVariable){
 		string sS4;
 		int nWhoSwitch = Random(2)+1;
 		if(nWhoSwitch <= 1)sS1 = "You";
-		if(nWhoSwitch >= 2)sS1 = "I ";
+		if(nWhoSwitch >= 2)sS1 = "I";
 
 		if(nWhoSwitch <= 1){		
 		 switch(Random(6)){

@@ -6,25 +6,25 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="97B27DDE93CED9919A5EF59F854DD812FFDE13EC" downloadHash="8EF820BCAF68B1B7C7DC5980A055FD3E617375B4" name="gwynneth corwell trading coster.trx" dlsize="88823" size="89435" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8F815DBB6A905C9F9B29750123CF7CBF76D6E729" downloadHash="81A71A8C6796ED11D8CAE54C86399657BC186446" name="gwynneth corwell trading coster.trx" dlsize="88825" size="89435" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="95621295AACF5A469A36F49244A30295B6D2A5C6" downloadHash="0292FAF83BAB5F090F8004FF5F16235E025DFEB5" name="norheim il. dragon caves level 2.trx" dlsize="1410340" size="10022216" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4EAAB53053464FE6F3D3BD654BE20BCE854E42C9" downloadHash="E56D30D5AE06570F3693CBA8839F86DFD58E6F7F" name="norheim il. dragon caves level 2.trx" dlsize="1421691" size="10029576" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="AF467706D823D5BB78961EF88F134E2993F1A640" downloadHash="75DC9166FEF6AEA51C1783BE6102D9BE676E2FB8" name="generic hillside with mine.trx" dlsize="1780849" size="10457377" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D1320A923B04B40670230FACA69E4D7920774C32" downloadHash="46A9269BC88C98FFF19AFD4F101F1B469B5ED40D" name="generic hillside with mine.trx" dlsize="1784797" size="10457376" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="14B7FBE07C8A0F47175FB3F3BF2FAF4A915AE411" downloadHash="9D93FA2BE85614AFADC8712027B98808CE64D182" name="gwynneth cantrev koart hall.trx" dlsize="63280" size="63434" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C8C436856A8267428E3AF8516BFFA02B36E0A9C5" downloadHash="5D31DA9D339FE88CFF14449C2B3F753BDD4E881F" name="gwynneth cantrev koart hall.trx" dlsize="63233" size="63379" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -36,7 +36,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DAF95687AC7A805CA9EF10F70CAFACA31B1E3D83" downloadHash="19563A97E7FBA4F11C0ACD112A178D0114CC0CF9" name="moray isle town interiors.trx" dlsize="74764" size="75172" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9ADF41BB9010B57894D144166A19B55F04153686" downloadHash="FC4850BE6ACF7678A1044B5C27AD14AE877A47E7" name="moray isle town interiors.trx" dlsize="74768" size="75173" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -144,7 +144,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="102F3682584763A3339C026AB0E24DAE8697F0DD" downloadHash="924A9576D5B94FB587B42F0E30AA14C9D7E06421" name="gwynneth lowhill vill.trx" dlsize="3838607" size="19437836" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="CDFA0994ED26F03AD1122FF4BEB3553E9EEA90FE" downloadHash="4D57268B48D00C292D496571122DDEDB9E4655C1" name="gwynneth lowhill vill.trx" dlsize="3756382" size="19352127" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -216,7 +216,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="43FA978E7352CD0BA4BE43437DB19A90AC9F8A34" downloadHash="62A316786E41497802AA73C9797EA31AFAD36EA8" name="moray isle moray town.trx" dlsize="4949265" size="20201286" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1784B3985489A2DCE33AE5A97331DF7228346E31" downloadHash="7516B5FD330033FA5225EE6B30EA47DEAA94AC3D" name="moray isle moray town.trx" dlsize="4806201" size="20029004" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -564,7 +564,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="01AB52BE2E623DFBD6AD0F489E129C5BA39F73A7" downloadHash="14290307AE02EE4A88B416B91C8AAF2F28EDD294" name="snowdown temple.trx" dlsize="19390" size="19376" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3E445AC2BEA5121CE9AA59D4E64B174D6B92B3DA" downloadHash="8CE1DAD38D84546670CD4D67AC6A39613A2A42F7" name="snowdown temple.trx" dlsize="5241" size="5222" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -582,7 +582,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="35DE3E55E5034656E32686EDAC05ED8861F59BAE" downloadHash="412230F502C9DAF3E226D9A50099AF41ACBF84B8" name="skaug d4.trx" dlsize="1825215" size="10524874" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="EA19B96A536A4F0C87BB0EB2079D0A249237F464" downloadHash="4AE7BB044F145214AFE3E52B9A321037B1BADE1F" name="skaug d4.trx" dlsize="1822197" size="10524874" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -636,7 +636,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3B906EB105596B4E51AF6AB30AE9CB06BFA573E8" downloadHash="BE82B6118BC152D25B9416E0EBA6A15C76B294C7" name="gwynneth cantrev horstall int.trx" dlsize="165641" size="167432" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9659464F4A7515C9CD73228DD103737A34D2D451" downloadHash="684A7A14D0E00F53F9249C4A6CE7FD641857FAEE" name="gwynneth cantrev horstall int.trx" dlsize="209137" size="213338" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -648,7 +648,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="01C741D201BB73E858E94D7CF120E2CEF38005B5" downloadHash="5F7A8BB42566DD83D036A389739BBD5C15417882" name="gwynneth corwell shops int.trx" dlsize="268759" size="270442" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E6F5C0BBBDD581F04AC1E5FE1F8094A1A313F573" downloadHash="8B93A0008652122E74B585AA11B2463C942839C5" name="gwynneth corwell shops int.trx" dlsize="406967" size="453301" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -660,7 +660,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="41410863BC09D5A0B1E56B03BCF7CA92A5A8941A" downloadHash="EE7BAB1E46CE496E1B86DDBB115A3FF00FA81399" name="gwynneth kingsbay town ext.trx" dlsize="5584205" size="26954981" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="122941F40B78BC91B6A8CD331B75BF0753069C91" downloadHash="300962B4FF8CD1A8830132757BFDD000C7959F8A" name="gwynneth kingsbay town ext.trx" dlsize="5637706" size="26978185" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -672,7 +672,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D1AFC556020578854A9D24F50C6579B921F5E374" downloadHash="69D7D397B3E5C72E8FA01269E48098D17649C1BA" name="snowdown westphal city.trx" dlsize="2495867" size="14410171" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FBE927D8C91212BB0526F9F710399D0D209C70A0" downloadHash="B44610D138D649F8000607E1A7984CAD4DE9ADEB" name="snowdown westphal city.trx" dlsize="2197043" size="14098549" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -762,7 +762,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D38A4DDD9008AB95EB2C614E19BB2034268CBAD8" downloadHash="9FD541DEB603C4FADC72861ECE776309742B7C14" name="gwynneth lowhill interiors.trx" dlsize="348809" size="354513" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="36B738138FFB65DC5C71495B15B6551E71D93002" downloadHash="4997E5B422136A7FCF3CE7C778E7D2303143CFE8" name="gwynneth lowhill interiors.trx" dlsize="345994" size="351781" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -840,7 +840,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0BBD84183A897694B1580B08088CCEFED5C8DBD8" downloadHash="1AA7975DFC35B8DFE1083FE3A1B3E5A621104694" name="skaug blood drake at sea.trx" dlsize="384853" size="7903218" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="552CEB8C885477746D57E7324E6CC3C3F97F4ECC" downloadHash="EC9C667FDA5F0B46887E2494E4358AFA8ABF6798" name="skaug blood drake at sea.trx" dlsize="386830" size="7903218" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -984,13 +984,13 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6B9A02479782D9855E6D034C1664F4C305E3599C" downloadHash="B02E9066D13CF1F1CDC63ECB5DB231B7855FB101" name="skaug public buildings.trx" dlsize="603836" size="609556" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1683FFBF7BD31D662404699EFAFA7D7AB17F6F4D" downloadHash="FBDF4F7A60A0DF6210725FFAA94EB36F145F8566" name="skaug public buildings.trx" dlsize="605882" size="611787" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="25C476ED0ABB50573547D501DF1B44670306A14D" downloadHash="946D0CAB00FA707FA2604480C9FCA0470D049B4C" name="gwynneth cantrev dynnatt.trx" dlsize="5121478" size="23721741" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="27C976D29FB2721B6E60AACE7CFD80D602C9816E" downloadHash="4AA8543930860F73BA9266D629FA9F39A1057B17" name="gwynneth cantrev dynnatt.trx" dlsize="5057011" size="23673739" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1110,7 +1110,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5D389A95CFC9A86940690253B8F2FE32A5C1E33E" downloadHash="988A63245EB27369B9E0CB9AB309731497E7FDAA" name="gwynneth corwell inns.trx" dlsize="394149" size="397100" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7A771A268C3BF8FE81D5BBF6D491BE1F69DB98F6" downloadHash="6CD21D86B87E8BE7CB509A4AD7AB779C212B5FF7" name="gwynneth corwell inns.trx" dlsize="409671" size="412928" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1170,7 +1170,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7644566D4325B646D92D85718BCFC0A603940DBC" downloadHash="C9CF0A02C7A3B4F3178FB8D00DC244E0FD255902" name="gwynneth cantrev horstall.trx" dlsize="1934035" size="12937069" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3C34E7711EA685C0F8BF8947A6BD4ADF0DCEA812" downloadHash="EC8E1EFAA74E2DA3F1602DAEC3A182BB882E2360" name="gwynneth cantrev horstall.trx" dlsize="1901915" size="12898135" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1242,7 +1242,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D7AE5295F6F795BFD930726BD06CC889C91432E4" downloadHash="0AED2D888CDC943F8D939D06DC12818296569587" name="gwynneth cantrev koart village.trx" dlsize="3450599" size="19789638" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E95BC584080B7BC2617458F9A821C63F3BC02428" downloadHash="ECBE62CCE37E87F59229941A9A057360181DE957" name="gwynneth cantrev koart village.trx" dlsize="3518461" size="19887255" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1344,7 +1344,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="16574871874A7075E45632CA35A7A5C4555A3802" downloadHash="668BC1D4B747EC3E524B871FE7A093FF3E1AA083" name="g i37 wyngate cantrev.trx" dlsize="2435904" size="14862170" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="50A023126766A092A1243F6FCAEB31766C84C143" downloadHash="8CD184B65ADEBF2E732B0A2C506C98CE2B1E6CC8" name="g i37 wyngate cantrev.trx" dlsize="2424601" size="14856789" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1368,7 +1368,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="ABEC052631BDD8F192BB843521BC04A14A770CAB" downloadHash="CF16C6B1C610F87748F694E1208115EEDA00576D" name="gwynneth pontswain and grayst.trx" dlsize="6758211" size="28222269" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B2169FD42318D480F7A120CDD280F2ED92B13DE0" downloadHash="0A400BA5D87A2EC146BF092B5326CD2C30F18D3C" name="gwynneth pontswain and grayst.trx" dlsize="6710583" size="28180053" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1584,7 +1584,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8EAFAEFF312D3B479D5CA6156D7B86875C6FC328" downloadHash="FFF90653B1D0ABE5AE92FFD88CA044CE28DAF232" name="gwynneth l34 corwell town.trx" dlsize="5114593" size="27175595" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="398612B24F862CC25338AF27976A52FF49AE163B" downloadHash="9EF9C5C55FA65891E689F22564201C07606269BB" name="gwynneth l34 corwell town.trx" dlsize="5135485" size="27179206" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1696,7 +1696,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="524CBBD355D315D33E1C7E988E4166CA024758F2" downloadHash="FB00B25A2B39C1C147EE4CDE8CF0670C1C480845" name="gwynneth kingsbay p33 interiors.trx" dlsize="82663" size="83872" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A2F9F281C36D0426381DCCF550FF90B51B66849B" downloadHash="B9AA86332D2E5D081CE7FFD48752CB9CDE8381C2" name="gwynneth kingsbay p33 interiors.trx" dlsize="90100" size="91210" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1817,6 +1817,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="01ADA38259AE30246DE2ED04FE462B4E57ECD65F" downloadHash="37FB61664BB775DB8B81EEE67C8397A75F6B5863" name="gwynneth corwell quest areas.trx" dlsize="79673" size="348301" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="EB03F97EAD045C17AEDCAA2CB33833EEDC43E498" downloadHash="DAF1E9C88A2E6E1FE2DED52F20AEBD5FE9E3D349" name="snowdown westphal interiors 1.trx" dlsize="321900" size="324835" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
