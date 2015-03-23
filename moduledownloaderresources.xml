@@ -1696,7 +1696,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="60121458FF70B092A4E68D2B0656938B1E402DF8" downloadHash="B9AA86332D2E5D081CE7FFD48752CB9CDE8381C2" name="gwynneth kingsbay p33 interiors.trx" dlsize="90100" size="90907" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="EE84CD79C28A813513FB8DCBF62724804E4D7298" downloadHash="AC97FB213ECD8CC22FF5DF35AF62943140813424" name="gwynneth kingsbay p33 interiors.trx" dlsize="86701" size="87883" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1821,7 +1821,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="EB03F97EAD045C17AEDCAA2CB33833EEDC43E498" downloadHash="DAF1E9C88A2E6E1FE2DED52F20AEBD5FE9E3D349" name="snowdown westphal interiors 1.trx" dlsize="321900" size="324835" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="41273644B1D05700ABC1FF90F840560B4DBB8DCE" downloadHash="456877EE7A323C98B8EF76FC7A5957ADA2C876BF" name="snowdown westphal interiors 1.trx" dlsize="326388" size="329346" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
