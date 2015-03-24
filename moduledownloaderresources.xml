@@ -636,7 +636,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0C53621BEDDAA36ECA43EAF88270F7228B1CB313" downloadHash="852B03BB1FCE22BD1EF923980189C31ACC405A52" name="gwynneth cantrev horstall int.trx" dlsize="191174" size="281297" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="49DDDDA29183D8D47E0A57AA9D4ABB3B37DF5771" downloadHash="1D659DC19C5363FF560EFC53924135E2A51E490B" name="gwynneth cantrev horstall int.trx" dlsize="186793" size="276642" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1566,7 +1566,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Tlk" hash="3F98D2A98D702EAA7771159BC63645B0FE9F30FB" downloadHash="D9050BCB49B9474D7F7FEE1516441FEAF047C71B" name="alfa_acr02.tlk" dlsize="148273" size="1191162" critical="false" exclude="false" urlOverride="">
+  <resource type="Tlk" hash="9797D2458F42AC1F862C265E1D7F1FEE8BEF48BC" downloadHash="8340781C7C20468E8B6CE149A762D70F7B717849" name="alfa_acr02.tlk" dlsize="148333" size="1191579" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
