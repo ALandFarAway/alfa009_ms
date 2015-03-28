@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <content xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <resource type="DirectoryEntry" hash="34E8D5FD5B27D2A3B7305D62BE0F2B6B34CA1B7C" downloadHash="55FA8C1F53F26B04BC8445A05B9ECFDAE23B3973" name="generic merchant at sea.trx" dlsize="486787" size="7857113" critical="false" exclude="false" urlOverride="">
     <server-ref>
@@ -144,7 +144,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CDFA0994ED26F03AD1122FF4BEB3553E9EEA90FE" downloadHash="4D57268B48D00C292D496571122DDEDB9E4655C1" name="gwynneth lowhill vill.trx" dlsize="3756382" size="19352127" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C50517E96197DD1997DADEA450B78E5D1C5C4777" downloadHash="FD1325304198A755920185892042E51328196DA9" name="gwynneth lowhill vill.trx" dlsize="3693817" size="19304524" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -168,7 +168,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B06F3A19277BA3CFF7A9445F06F2C3AD2EBA8B56" downloadHash="00B544D592071CE94411E34CA8F1553F1FD3A49B" name="alaron callidyrr inns.trx" dlsize="254100" size="840563" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B1AB0DCAB0626EBC5CD07AA0E0899DE93462C649" downloadHash="CB5494F6CD785D5D6DDF5D7C93887E508AFD6146" name="alaron callidyrr inns.trx" dlsize="254404" size="886736" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -186,7 +186,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8E119F634A8980FAA82D60CA1CB0728A863E40F5" downloadHash="E59CE02FBA5429039250BE14D5780E9940D85D43" name="009_startarea.trx" dlsize="86311" size="88438" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="EB65FB06CDBC3A6C965E04C98C8A36395DC85379" downloadHash="9E2B114F4FB3C099619D8C89BDC5B41DAE2E1E9C" name="009_startarea.trx" dlsize="85542" size="87617" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -708,7 +708,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="052CD058E241F1447FD059194E24A946D1702FF3" downloadHash="1B6FB2E4F5A23D3CF53CE81375C430E8E17D99C2" name="gwynneth kingsbay silver salmo.trx" dlsize="191128" size="235083" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2F7F2CB3382D6D83D64A39D05A9538B2D4A6778A" downloadHash="97C907D2177ED67BCEEC17A7958A3214AF183729" name="gwynneth kingsbay silver salmo.trx" dlsize="199039" size="242879" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -762,7 +762,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3F42510D7F82B4D016AF4A4741CD02872AF94FB0" downloadHash="9D45F788CF042F9666832E6E3A1C34CB6F718722" name="gwynneth lowhill interiors.trx" dlsize="382213" size="430655" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F9C216FAD153F2495A1F9A6157BF704AA73AFD72" downloadHash="9CEC0711DA0E620D848C8639D9CC5E15E9B1C509" name="gwynneth lowhill interiors.trx" dlsize="434074" size="573505" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1026,7 +1026,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F856C0412AF96B35898718DB8B282E8FAAF5FC7D" downloadHash="518A2CCC092B76C21DD802AD306B1E3C6D76269D" name="snowdown salty air tavern.trx" dlsize="154598" size="155182" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3F394E0741973E3078210A74416BF62575FC19BD" downloadHash="72351FF4FA0FAC159F4902503A7E452ABE5A1BEE" name="snowdown salty air tavern.trx" dlsize="156978" size="157600" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1110,7 +1110,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="13DDDC898A588C3584D9F6829CA31C277B4589C8" downloadHash="FC52E406E9DD2C874E3C85AF245DD0D7A3508769" name="gwynneth corwell inns.trx" dlsize="420493" size="423549" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5D35147D98382510F3AD1A0E17A858C38B385A0A" downloadHash="EFBEE79755EFBBACF983535594805A0D5D46899C" name="gwynneth corwell inns.trx" dlsize="420038" size="423264" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1851,7 +1851,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="16FFF2DA863988B8966BFD5A80A8C4AE7B6FB810" downloadHash="8379EA4F88EBB963F86566EBDEAE8C7D8ACB22D2" name="009 dm prep area.trx" dlsize="76184" size="79678" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DF3A3001B5A07C12DE1B040F29A5BDC785937289" downloadHash="18F404A60BF4B7E78ABEC18F03BE8E33813B2AD1" name="009 dm prep area.trx" dlsize="76988" size="80445" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
