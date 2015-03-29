@@ -258,7 +258,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F78D9C1491BD5FA8809E043FF2824904CEB960A8" downloadHash="F84D5B87CBAEEA511845C7A5326529E735F0AF7B" name="gwynneth caer corwell.trx" dlsize="1441362" size="13224640" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BF30A7BD44A573DDDD4B95B17286D9F2FDE5578B" downloadHash="0B71B646D7E2757F576AC348DB8FD395A5FD9C27" name="gwynneth caer corwell.trx" dlsize="1424694" size="13205199" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -648,7 +648,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="AF256627B39BA6A6CD9A10245AA5F3B6608A81DD" downloadHash="2BC8C2AD5ED7935C046CE9CFED003B8DA993FCE2" name="gwynneth corwell shops int.trx" dlsize="424633" size="471110" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D3100996340FB62ACF95699F7EF7552E95E1FB36" downloadHash="BF2EBE9430259E92B138F237C6E4CC86E5B2D0AB" name="gwynneth corwell shops int.trx" dlsize="424328" size="471114" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1584,7 +1584,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E06345B85CAC5CA18FA0077C3A1F50FD6E3DB8A1" downloadHash="753DD7162E0006487B893067AE8FCC7E291AD5EA" name="gwynneth l34 corwell town.trx" dlsize="5126711" size="27183946" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="405348E509E4286CC89F01C8D7AEA83E1AA5C0D1" downloadHash="9F8EBAC243309476BD296AB09C1B47B1BCB4BB1A" name="gwynneth l34 corwell town.trx" dlsize="5139290" size="27182615" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1846,7 +1846,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4226137335BC7F967E675BA8F85BDFF52777472C" downloadHash="DFF089389C1F0F19BB2F16B523C383480CFF12F1" name="gwynneth quest areas.trx" dlsize="142182" size="411485" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1BF6B19FB9FAEE7F85BA978E4C12B6855CF8A85D" downloadHash="39110EC7CD84C70A8F1338022814D071DD24F2B4" name="gwynneth quest areas.trx" dlsize="140513" size="409821" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
