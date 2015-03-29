@@ -258,7 +258,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BF30A7BD44A573DDDD4B95B17286D9F2FDE5578B" downloadHash="0B71B646D7E2757F576AC348DB8FD395A5FD9C27" name="gwynneth caer corwell.trx" dlsize="1424694" size="13205199" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DC3D6E956CEC79026EB2028E096C38D1F4CF90DA" downloadHash="CDE7F03992E241998433EB1BF9CD5658D3C2038B" name="gwynneth caer corwell.trx" dlsize="1646997" size="13681773" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1584,7 +1584,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="405348E509E4286CC89F01C8D7AEA83E1AA5C0D1" downloadHash="9F8EBAC243309476BD296AB09C1B47B1BCB4BB1A" name="gwynneth l34 corwell town.trx" dlsize="5139290" size="27182615" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8FD8321BDD48495434DDF811084B8DCB83A077DB" downloadHash="4D3113661B44D81CB02D345E8426C1EBB2D412DC" name="gwynneth l34 corwell town.trx" dlsize="5108339" size="27155185" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1846,7 +1846,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1BF6B19FB9FAEE7F85BA978E4C12B6855CF8A85D" downloadHash="39110EC7CD84C70A8F1338022814D071DD24F2B4" name="gwynneth quest areas.trx" dlsize="140513" size="409821" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="13FA44D279CDEABDDA8D60C1281DC88D83F59C5B" downloadHash="8C204A68FDCC68E68DC9FB466FE281B38CFA49D4" name="gwynneth quest areas.trx" dlsize="140457" size="409807" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
