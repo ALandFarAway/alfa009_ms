@@ -4,7 +4,7 @@
 //     Filename : acf_plc_onconversation.nss
 //    $Revision:: 184        $ current version of the file
 //        $Date:: 2006-12-21#$ date the file was created or modified
-//       Author : ç i p h é r
+//       Author : ï¿½ i p h ï¿½ r
 //
 //   Var Prefix :
 //  Dependencies:
@@ -14,7 +14,7 @@
 //  custom code a server may need. It is not updated in ACR updates.
 //
 //  Revision History
-//  2006/12/20  ç i p h é r  Inception
+//  2006/12/20  ï¿½ i p h ï¿½ r  Inception
 ////////////////////////////////////////////////////////////////////////////////
 
 ////////////////////////////////////////////////////////////////////////////////
