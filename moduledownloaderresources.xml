@@ -258,7 +258,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DC3D6E956CEC79026EB2028E096C38D1F4CF90DA" downloadHash="CDE7F03992E241998433EB1BF9CD5658D3C2038B" name="gwynneth caer corwell.trx" dlsize="1646997" size="13681773" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="17C9D5B6C95A1D2421CC247EEB3C1B2B7ED67FA3" downloadHash="1736847477CCA16AF3453C796E13848975506CF0" name="gwynneth caer corwell.trx" dlsize="1654521" size="13694833" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -648,7 +648,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D3100996340FB62ACF95699F7EF7552E95E1FB36" downloadHash="BF2EBE9430259E92B138F237C6E4CC86E5B2D0AB" name="gwynneth corwell shops int.trx" dlsize="424328" size="471114" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="81B1A6A903864858A49EEE8AFA8F2748EC869B5B" downloadHash="BE418F02F5F123CF77DDE83EA36634B6A4F62C27" name="gwynneth corwell shops int.trx" dlsize="425477" size="472201" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1857,6 +1857,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="A1817AB7ACA632FC5DF4116569C3C5205B032D87" downloadHash="1380E9792E7D8731356C94FF7A85577757639C55" name="gwynneth horstall lighthouse int.trx" dlsize="209964" size="212801" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="B17A048C639381398052799602F23A91B3FA92CA" downloadHash="C55D6DCDF4C6D7702931B5EF7F2C9393DA9FC90D" name="gwynneth corwell crypts.trx" dlsize="206742" size="209525" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
