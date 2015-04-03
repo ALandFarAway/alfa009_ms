@@ -1110,7 +1110,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B15BA32D0D554CD6F50AA0F901959418CA7A7725" downloadHash="356AE475FE804685EA4510C2AF070E5B17DBA175" name="gwynneth corwell inns.trx" dlsize="429180" size="432457" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="71CA0F1518E0AA446BB1FCA689DA8C893A1693DD" downloadHash="5FA1B8CEF338D8374CB9288B8038005EC3E08079" name="gwynneth corwell inns.trx" dlsize="429014" size="432519" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1584,7 +1584,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0B057983F0D5FE903B6DC9980C4F32B414F7367C" downloadHash="FC2EC9EFCA26C24F5DCD0BCCDB5CD15DBB171EEA" name="gwynneth l34 corwell town.trx" dlsize="5144028" size="27178985" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D609E7C06BB6FA7A16772860013466D68275559A" downloadHash="3D3E2F1934EDE296E0F81101FE71F375C2FFC27A" name="gwynneth l34 corwell town.trx" dlsize="5138007" size="27177365" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1836,7 +1836,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D39CC7D4373990527BD05E6373A4619585AF7C58" downloadHash="FECDCB3680D707626EB0CB41B85CFF37E1D3D0A5" name="gwynneth o34  llyrath forest e.trx" dlsize="2587398" size="14700916" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A91DF518CFC89E8C45AAF7865239AC44A1AF213B" downloadHash="79A5FF345E76F7CA7B05D13BF7C8C4FABD4D03E9" name="gwynneth o34  llyrath forest e.trx" dlsize="2604001" size="14720676" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
