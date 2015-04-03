@@ -99,6 +99,14 @@ void main()
 		sMsg = "This herb's root is very mushy and does not look worth harvesting.";
 		sRef = "it_nararoot";
 	}
+	else if (sTag == "009_grassland_wormwood1") {
+		// 1/2 probability of no check 1/2 of simple check
+		nHeal = (Random(2)*2)-1;
+		nSurv = (Random(2)*2)-1;
+		sMsg = "This plant looks useful, but it seems to be past its useful harvest time.";
+		sRef = "009_field_herb1";
+		
+	}
 	bHealCheck = GetSkillRank(SKILL_HEAL, oPC, TRUE) >= nHeal;
 	bSurvCheck = GetSkillRank(SKILL_SURVIVAL, oPC, TRUE) >= nSurv;
 	bSpellCheck = GetSkillRank(SKILL_SPELLCRAFT, oPC, TRUE) >= nSpell;

@@ -44,6 +44,9 @@ void main( string sItemTag ) {
 
 	// Garnishcap: 1gp, 0.5xp, CR 1
 	nGP += ConsumeReward( oPC, "it_garnishcap", 1, 0.5f, 1.0f );
+	
+		// Wormwood: 1gp, 0.5xp, CR 1
+	nGP += ConsumeReward( oPC, "009_field_herb1", 1, 0.5f, 1.0f );
 
 	// Fire Fern Frond: 10gp, 5xp, CR 5
 	nGP += ConsumeReward( oPC, "firefernfrond", 10, 5.0f, 5.0f );
