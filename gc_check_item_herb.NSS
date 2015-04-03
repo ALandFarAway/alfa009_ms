@@ -23,6 +23,7 @@ int StartingConditional()
 	if(GetIsObjectValid(GetItemPossessedBy(GetPCSpeaker(),"it_skullcap"))) return TRUE;
    	if(GetIsObjectValid(GetItemPossessedBy(GetPCSpeaker(),"it_gloomshroom"))) return TRUE;
 	if(GetIsObjectValid(GetItemPossessedBy(GetPCSpeaker(),"it_nararoot"))) return TRUE;
+		if(GetIsObjectValid(GetItemPossessedBy(GetPCSpeaker(),"009_field_herb1"))) return TRUE;
 	
    // return GetIsObjectValid(GetItemPossessedBy(GetPCSpeaker(),sItem));
     
