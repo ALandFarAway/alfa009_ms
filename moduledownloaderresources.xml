@@ -1110,7 +1110,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="71CA0F1518E0AA446BB1FCA689DA8C893A1693DD" downloadHash="5FA1B8CEF338D8374CB9288B8038005EC3E08079" name="gwynneth corwell inns.trx" dlsize="429014" size="432519" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="AD9A1ED5AE4571C192BAFC9E6154A074F4E175A7" downloadHash="6BBF97F19021F8B43F132D88E894F9CFFD2D83E5" name="gwynneth corwell inns.trx" dlsize="429552" size="432727" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1846,7 +1846,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="13FA44D279CDEABDDA8D60C1281DC88D83F59C5B" downloadHash="8C204A68FDCC68E68DC9FB466FE281B38CFA49D4" name="gwynneth quest areas.trx" dlsize="140457" size="409807" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C62EF0B03F26AAB5C31E6AE55581A179A542D41D" downloadHash="E9CE437916ED2555A934F6DBD306BF22BDA6FE54" name="gwynneth quest areas.trx" dlsize="140325" size="409547" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
