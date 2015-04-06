@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <content xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <resource type="DirectoryEntry" hash="34E8D5FD5B27D2A3B7305D62BE0F2B6B34CA1B7C" downloadHash="55FA8C1F53F26B04BC8445A05B9ECFDAE23B3973" name="generic merchant at sea.trx" dlsize="486787" size="7857113" critical="false" exclude="false" urlOverride="">
     <server-ref>
@@ -1566,7 +1566,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Tlk" hash="3F98D2A98D702EAA7771159BC63645B0FE9F30FB" downloadHash="D9050BCB49B9474D7F7FEE1516441FEAF047C71B" name="alfa_acr02.tlk" dlsize="148273" size="1191162" critical="false" exclude="false" urlOverride="">
+  <resource type="Tlk" hash="9797D2458F42AC1F862C265E1D7F1FEE8BEF48BC" downloadHash="8340781C7C20468E8B6CE149A762D70F7B717849" name="alfa_acr02.tlk" dlsize="148333" size="1191579" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
