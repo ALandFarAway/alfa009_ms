@@ -672,7 +672,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4B1B0FE31AAEEA9866AF6FF7A7B1087EF8581C50" downloadHash="7345717C134743113FF07004FB8548E86804E53D" name="snowdown westphal city.trx" dlsize="2116497" size="14020432" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0734D08B636438024ED928088E30660306F8F172" downloadHash="B8F0C802E8C0538782EA3B2B077DE026949094A6" name="snowdown westphal city.trx" dlsize="2118098" size="14023124" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1846,7 +1846,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A7B4ADE8CDB91E7B6BD682F37E45A73D58F0E86D" downloadHash="3782B472AC56B0203212CAD2A781639346669F32" name="gwynneth quest areas.trx" dlsize="140090" size="409154" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="86ECE8BCCC33BDF006FC2F66361CA0E8522D84E7" downloadHash="18922FBE7DB72EF16E7820260762D16ABCD590F4" name="gwynneth quest areas.trx" dlsize="144374" size="413396" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1871,7 +1871,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3C84B504DF64929B6BB58D7454606EB0A419AC67" downloadHash="A919C33257C3C328D0CE3F25564E635C78AD81D5" name="snowdown westphal int 1.trx" dlsize="335815" size="338836" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DAA5D8C1C62798B151385EB55122B0712CDCA3D1" downloadHash="69015530659A51EFA6EACF97C20EA22B65726BDE" name="snowdown westphal int 1.trx" dlsize="330107" size="333775" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
