@@ -258,7 +258,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="17C9D5B6C95A1D2421CC247EEB3C1B2B7ED67FA3" downloadHash="1736847477CCA16AF3453C796E13848975506CF0" name="gwynneth caer corwell.trx" dlsize="1654521" size="13694833" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A65AD920EB86B4821430DBA14A312EA60158BFD7" downloadHash="C5888EF02EDCBA385F5F76251D3658C9D6351041" name="gwynneth caer corwell.trx" dlsize="1904362" size="14336865" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -672,7 +672,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FBE927D8C91212BB0526F9F710399D0D209C70A0" downloadHash="B44610D138D649F8000607E1A7984CAD4DE9ADEB" name="snowdown westphal city.trx" dlsize="2197043" size="14098549" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2CC496C38BEFDA4D938F7BD2233CC38BB7B0EE88" downloadHash="30D3BD2F73A602B5DD49A93A8916ECEC3CE425A8" name="snowdown westphal city.trx" dlsize="2190810" size="14089760" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1110,7 +1110,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="AD9A1ED5AE4571C192BAFC9E6154A074F4E175A7" downloadHash="6BBF97F19021F8B43F132D88E894F9CFFD2D83E5" name="gwynneth corwell inns.trx" dlsize="429552" size="432727" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="289554D6088965737D770267AB651719071869EA" downloadHash="FF6CC17AEF390325F04CA7DB0807D570B1C22276" name="gwynneth corwell inns.trx" dlsize="427669" size="430815" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1826,7 +1826,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="818536AED4512898E7752860582A7EC99D954EFB" downloadHash="13163E355B657B76F37B74EC95A277AB3DA557D8" name="gwynneth n34 kings road .trx" dlsize="3116864" size="15846002" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="86E1BB289CD19A41AE98EECB2330EA98B3A73B45" downloadHash="5071A43CA409F749515C27C1E6F2A0149BBBE248" name="gwynneth n34 kings road .trx" dlsize="3106741" size="15834210" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1836,17 +1836,17 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A91DF518CFC89E8C45AAF7865239AC44A1AF213B" downloadHash="79A5FF345E76F7CA7B05D13BF7C8C4FABD4D03E9" name="gwynneth o34  llyrath forest e.trx" dlsize="2604001" size="14720676" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DB952BA1133C4D78407CBA5F7B1287DA0CCB7200" downloadHash="711578B3239369CF11543BF842B6A77FDDEB191B" name="gwynneth o34  llyrath forest e.trx" dlsize="2601063" size="14710368" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A6F53ED51ACAF769B3F9052CAC45291578BF9F1F" downloadHash="521FA86F3BEC32196285CC8EA8575EB443921689" name="Gwynneth o35  Llyrath forest se.trx" dlsize="2247913" size="14376467" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9B979FAECEE5D994FE5E84ED178921626F8387F1" downloadHash="63EB93D4A44A26A9A8F346EC44172CC422182F9F" name="Gwynneth o35  Llyrath forest se.trx" dlsize="2238226" size="14361240" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C62EF0B03F26AAB5C31E6AE55581A179A542D41D" downloadHash="E9CE437916ED2555A934F6DBD306BF22BDA6FE54" name="gwynneth quest areas.trx" dlsize="140325" size="409547" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A7B4ADE8CDB91E7B6BD682F37E45A73D58F0E86D" downloadHash="3782B472AC56B0203212CAD2A781639346669F32" name="gwynneth quest areas.trx" dlsize="140090" size="409154" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1862,6 +1862,16 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="B17A048C639381398052799602F23A91B3FA92CA" downloadHash="C55D6DCDF4C6D7702931B5EF7F2C9393DA9FC90D" name="gwynneth corwell crypts.trx" dlsize="206742" size="209525" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="0BBF6C24E8249731068A8B9875838D75F82A12FE" downloadHash="A0BAB83FD2DE6186E38EB4E659E86814C9EF3654" name="snowdown westphal int 2.trx" dlsize="85681" size="86635" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="41273644B1D05700ABC1FF90F840560B4DBB8DCE" downloadHash="456877EE7A323C98B8EF76FC7A5957ADA2C876BF" name="snowdown westphal int 1.trx" dlsize="326388" size="329346" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
