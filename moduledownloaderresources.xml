@@ -1026,7 +1026,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="67B9C4AD226B2AD6AD1A35E869DC71D2FD78F0D4" downloadHash="72351FF4FA0FAC159F4902503A7E452ABE5A1BEE" name="snowdown salty air tavern.trx" dlsize="156978" size="159259" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="EF8BCFC400AE569D773B690DE17B24A6385BC74B" downloadHash="AA9F88E1EBFC74F91040B195E732C3A00CCB56FB" name="snowdown salty air tavern.trx" dlsize="157065" size="157829" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
