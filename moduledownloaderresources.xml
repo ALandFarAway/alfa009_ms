@@ -636,7 +636,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="49DDDDA29183D8D47E0A57AA9D4ABB3B37DF5771" downloadHash="1D659DC19C5363FF560EFC53924135E2A51E490B" name="gwynneth cantrev horstall int.trx" dlsize="186793" size="276642" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E1C5A23576ECF68CF1C0111570126982F0C0B5FA" downloadHash="BE42E980AD15309ED021E7B7934853140297D0B9" name="gwynneth cantrev horstall int.trx" dlsize="187621" size="277914" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -672,7 +672,7 @@
       <string>2</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="18DAC5B54FDEA2338CB19F8AAB90A46B957C83D0" downloadHash="573A4683D84A9A585D17EE5727631A2831473E9E" name="snowdown westphal city.trx" dlsize="2123824" size="14023124" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9EF63D579EE7942907DC142DBB19717959D6D251" downloadHash="20D20332266F05FAD9C054BDEC9C03FAF9D6297B" name="snowdown westphal city.trx" dlsize="2107430" size="14007587" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1026,7 +1026,11 @@
       <string>2</string>
     </server-ref>
   </resource>
+<<<<<<< HEAD
   <resource type="DirectoryEntry" hash="505DD7B75426298D960166EBB15C22697784F0D5" downloadHash="14A530C79A8FEE2B0F1EB90068B549521F967A7B" name="snowdown salty air tavern.trx" dlsize="158001" size="158750" critical="false" exclude="false" urlOverride="">
+=======
+  <resource type="DirectoryEntry" hash="EF8BCFC400AE569D773B690DE17B24A6385BC74B" downloadHash="AA9F88E1EBFC74F91040B195E732C3A00CCB56FB" name="snowdown salty air tavern.trx" dlsize="157065" size="157829" critical="false" exclude="false" urlOverride="">
+>>>>>>> b63ef0e39ea6691dba5e49714e71150424f54c98
     <server-ref>
       <string>0</string>
       <string>2</string>
@@ -1871,7 +1875,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FBDF792D123F7223C2C4FC78C2E84C550AE665AA" downloadHash="F994F59A800ADD538E3628F9724DDBB3688262D1" name="snowdown westphal int 1.trx" dlsize="332983" size="336219" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5C72E06CFCC6AB7AAFC367DE609B9D897C7EB23C" downloadHash="BFB17A8F3367675FD26EF706F245736855880379" name="snowdown westphal int 1.trx" dlsize="335203" size="338436" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="A97AEEE0CD27FD7DA97AB11906C430B94BDE5197" downloadHash="93AA98DF17A24769A615DE2C8222C587DFA3D2B0" name="snowdown westphal inn tavern.trx" dlsize="219289" size="221190" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
