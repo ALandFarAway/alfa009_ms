@@ -1475,7 +1475,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7468929B284A0DAE7FBF56AC5D2D5542869A44AE" downloadHash="99359F865A0E959C7613F47404D726BD0E4F187D" name="thayan estate.trx" dlsize="3026284" size="16025054" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6A5D70A8E39ED4F34E11D41F7F654F02D233A6EC" downloadHash="D9C40C8EA14F5291AFAD458D26E560ABE752C780" name="thayan estate.trx" dlsize="3026562" size="16025350" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
