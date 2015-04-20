@@ -1030,7 +1030,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7029D7574933CE28D50DA4A65382F4CDC39DBDA1" downloadHash="607911746DB8770E7BFCC12BE131B894BBB32647" name="xan_area1.trx" dlsize="1505873" size="1549340" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="676E05164D8369C6081F5840FB0DD456522E8889" downloadHash="1A52D97F5A99EA1D2F258B1549D8B604C5CF1202" name="xan_area1.trx" dlsize="1503253" size="1543125" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1547,17 +1547,17 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9DF4381DC083D94B412CB46C4616D0101F765D2B" downloadHash="808B8C371DB4067C3DBEAF0A3C39108D4A088A84" name="thayan estate grounds.trx" dlsize="3225632" size="17580845" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="385BAE5E50422A0108BD7C24E036D3E68DFB74CB" downloadHash="5EF572E0AE376BCC7CE3C72D7ECFE439FD800B32" name="thayan estate grounds.trx" dlsize="3224914" size="17577281" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5268261079BC757165ECAEB90F83E909D5AB9894" downloadHash="3C50FC259AA262CEB78C596F9B62DB66A38FAD4E" name="thayan estate int 1.trx" dlsize="350864" size="355321" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="48F51785DB0DFBA33490501132A866FDB2D97AF0" downloadHash="66A7D452ECBC7FBDA643AAF3F558B027F35DDB4C" name="thayan estate int 1.trx" dlsize="350828" size="355320" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BB5C66A41FF49C8C621FDE86DF7603D7F9C9C2E2" downloadHash="DD2962435AD7E48DD982E6557A34AFA0357A172C" name="thayan estate mansion.trx" dlsize="398737" size="579271" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="34258F7A78F1F903513DF4CDBE28DF8736516B5E" downloadHash="A553722BC96AF5A30C36F7475B2AAD79686BBFA0" name="thayan estate mansion.trx" dlsize="381052" size="561723" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
