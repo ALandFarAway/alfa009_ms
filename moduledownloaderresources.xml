@@ -1475,7 +1475,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="Tlk" hash="3F98D2A98D702EAA7771159BC63645B0FE9F30FB" downloadHash="D9050BCB49B9474D7F7FEE1516441FEAF047C71B" name="alfa_acr02.tlk" dlsize="148273" size="1191162" critical="false" exclude="false" urlOverride="">
+  <resource type="Tlk" hash="9797D2458F42AC1F862C265E1D7F1FEE8BEF48BC" downloadHash="8340781C7C20468E8B6CE149A762D70F7B717849" name="alfa_acr02.tlk" dlsize="148333" size="1191579" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
@@ -1557,7 +1557,32 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="34258F7A78F1F903513DF4CDBE28DF8736516B5E" downloadHash="A553722BC96AF5A30C36F7475B2AAD79686BBFA0" name="thayan estate mansion.trx" dlsize="381052" size="561723" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B7E3E5F6DFF1EB65064F62E1B7D6C4F507C16B44" downloadHash="082212060200C8BE4499ED9D79D2F8C120D07381" name="thayan estate mansion.trx" dlsize="392656" size="573222" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="3EFA8BF0823A06ABC05D165A15981EBA502C3421" downloadHash="6EAECD4C87612602ABB530DE4B2C7DAF9C0DFC68" name="generic cnnt cave_area3.trx" dlsize="814329" size="835848" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="8D137E72CB31AD5B179D45E86E4FF64299CA2EC4" downloadHash="9AB6696FF5EB6880F71155E91841CC6A0166DC8A" name="generic cnnt cave_area4.trx" dlsize="1364743" size="1409821" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="2F46F0F736B5464B2F4DF9C04D30219F17251FA1" downloadHash="1911F9E38EC050FA877D705A0CA7CAB627536BF9" name="generic cnnt cave_area2.trx" dlsize="1243742" size="1325290" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="2CCDBC8A6A517B6C3234177E4C53DEDD49874EEE" downloadHash="A8F36D3052842E9F84FECFF089B9AF3412693B0B" name="generic cnnt cave_area1.trx" dlsize="1507220" size="1547426" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="FB99DA53CFC16BEF847DB810B678865CA02BE829" downloadHash="350FC141BAD7FBC32588848EAAC007CA6518686A" name="generic cnnt cave_area5.trx" dlsize="727164" size="752436" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
