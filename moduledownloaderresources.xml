@@ -20,7 +20,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D1320A923B04B40670230FACA69E4D7920774C32" downloadHash="46A9269BC88C98FFF19AFD4F101F1B469B5ED40D" name="generic hillside with mine.trx" dlsize="1784797" size="10457376" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C341CF222F707479F566F6830CF465F313F92690" downloadHash="B70DF4FBD916D3246989D048AC0D5EB82880E6C7" name="generic hillside with mine.trx" dlsize="1793805" size="10473201" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -330,7 +330,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5D4F4AD741C6254EF02B44DEB48FAE3CB6052366" downloadHash="AFF850A25DDDD3684F149E4A64D34E35C2D7A06D" name="generic coastline.trx" dlsize="3859027" size="20906158" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BBEBE5BF313592FF6FEEAF3195957BF315DD3618" downloadHash="839FF00090DDB16B920C12C500B9166012F674F6" name="generic coastline.trx" dlsize="3859855" size="20917497" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -730,7 +730,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3897E7B11702177A8B480CE244AAE242BB6A971A" downloadHash="0DF86646CCFFD133EEE0A21ABA5A00DC5B93E42F" name="snowdown old tomb l1.trx" dlsize="317762" size="318862" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="58091D4E38618D5EFC4C2EB9BC7EC66DAF9E6FD9" downloadHash="07DC83830DCDFF047B6FF6FF9DB9CA7AD09F15E6" name="snowdown old tomb l1.trx" dlsize="317031" size="318090" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -785,7 +785,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="359780D5F6B1294743E78AA187045B8A0AD8EE5F" downloadHash="72F29182F30B1861683DC095B8EC5311C52711D3" name="gwynneth m32 myrloch east shore.trx" dlsize="3182535" size="16969081" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2079223E85C6667D9E2280F4CEF82B4A33060691" downloadHash="E048044C1FD34D820CC6EFD95EDF1ED1C77373CE" name="gwynneth m32 myrloch east shore.trx" dlsize="3148246" size="16845460" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -885,7 +885,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0BBF6C24E8249731068A8B9875838D75F82A12FE" downloadHash="A0BAB83FD2DE6186E38EB4E659E86814C9EF3654" name="snowdown westphal int 2.trx" dlsize="85681" size="86635" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="57ECAB7358671DBCC104D2D8C61AFADC6D154036" downloadHash="7FA69D924F72AB5AF550AD1F52918389C9F4443F" name="snowdown westphal int 2.trx" dlsize="88002" size="89008" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1105,7 +1105,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9FE32A9CE88CB16C32BCB2DDCB1D36EB1A539681" downloadHash="2343C4506DDCE664F84EABB8ED05310CF5EED89B" name="gwynneth m33 fens of the fallen.trx" dlsize="3326011" size="22577718" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="79276D0078712AB5AC676086C1F5ED53E271C797" downloadHash="8192954204496633EC619AFBEDB1DD69EEB97DAD" name="gwynneth m33 fens of the fallen.trx" dlsize="3359337" size="22590587" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1230,7 +1230,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E95BC584080B7BC2617458F9A821C63F3BC02428" downloadHash="ECBE62CCE37E87F59229941A9A057360181DE957" name="gwynneth cantrev koart village.trx" dlsize="3518461" size="19887255" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="386EEB99DDCF303F101FCFC449CF195C4E0ACE08" downloadHash="0FA25ABFDDA57B138AFD19132C10146AFE2B9ED4" name="gwynneth cantrev koart village.trx" dlsize="3405397" size="19771368" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1557,7 +1557,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B7E3E5F6DFF1EB65064F62E1B7D6C4F507C16B44" downloadHash="082212060200C8BE4499ED9D79D2F8C120D07381" name="thayan estate mansion.trx" dlsize="392656" size="573222" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="667793235026027717C115AE2F4731577BAE3A3A" downloadHash="0792A966EF17E481DBCCF8FB40FEEB224A28639C" name="thayan estate mansion.trx" dlsize="392286" size="573381" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
