@@ -1,6 +1,6 @@
 //kudos to HolyStorm from NWN2 forums for the script
 //goes in OnSpawn and OnConversation. Set Unbumpable
-
+//cr_onspawn_petrify
 void main()
 {
 	// Don't face the speaker

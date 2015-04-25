@@ -40,7 +40,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A2D57B5EB412E056F5404C93F6BCD4B572D44FB4" downloadHash="A9F29EC0275455A7CC81D6AC5BD75444ADFE2B1B" name="alaron callidyrr interiors.trx" dlsize="583331" size="811639" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="47A6D52213BFEEFD4CE90615CD6BA0C0B2517EED" downloadHash="18EFCB5CEC97B3FFF3520D60F165D5660D231DB9" name="alaron callidyrr interiors.trx" dlsize="590698" size="818917" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -195,7 +195,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="EB65FB06CDBC3A6C965E04C98C8A36395DC85379" downloadHash="9E2B114F4FB3C099619D8C89BDC5B41DAE2E1E9C" name="009_startarea.trx" dlsize="85542" size="87617" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4B4CED95ED307BEAC57ADB831C32F63A4922E488" downloadHash="D2D031C0A8F1BD061F15B2469516C8B1C8541445" name="009_startarea.trx" dlsize="85522" size="87618" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1400,7 +1400,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="EB5EF501086B4D68057E3BBFDCCA7B79D8A2426C" downloadHash="6A05C474B0561AF7874255D018B542DD2242DFA8" name="generic mine.trx" dlsize="308970" size="310700" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="953788965E3C36198C161F6C46C5EDDE2333936D" downloadHash="7F159E4F32A0401BDA25C20FD8730C9C045784E7" name="generic mine.trx" dlsize="308970" size="310701" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1552,12 +1552,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="48F51785DB0DFBA33490501132A866FDB2D97AF0" downloadHash="66A7D452ECBC7FBDA643AAF3F558B027F35DDB4C" name="thayan estate int 1.trx" dlsize="350828" size="355320" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4E4F88480A016D81BEBCC20D3705BDD6F95FBB8C" downloadHash="732BBB2BE3F92A54011E2D9BB1DC460AB806C28E" name="thayan estate int 1.trx" dlsize="350244" size="354660" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="667793235026027717C115AE2F4731577BAE3A3A" downloadHash="0792A966EF17E481DBCCF8FB40FEEB224A28639C" name="thayan estate mansion.trx" dlsize="392286" size="573381" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3AF4409B8C19435F5C2A31452225C7CD59BA06DF" downloadHash="F3FF2706D6FBE99EE8AE827F4861ABD7BE25F4ED" name="thayan estate mansion.trx" dlsize="392865" size="528268" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
