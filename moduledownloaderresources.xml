@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <content xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <resource type="DirectoryEntry" hash="EA19B96A536A4F0C87BB0EB2079D0A249237F464" downloadHash="4AE7BB044F145214AFE3E52B9A321037B1BADE1F" name="skaug d4.trx" dlsize="1822197" size="10524874" critical="false" exclude="false" urlOverride="">
     <server-ref>
