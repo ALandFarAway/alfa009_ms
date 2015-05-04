@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <content xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <resource type="DirectoryEntry" hash="EA19B96A536A4F0C87BB0EB2079D0A249237F464" downloadHash="4AE7BB044F145214AFE3E52B9A321037B1BADE1F" name="skaug d4.trx" dlsize="1822197" size="10524874" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9B6E9552877220F50762AE1B14B55067FA9C0275" downloadHash="2E7CD9562C8BCA10443DE8B7226891BB21623DFA" name="skaug d4.trx" dlsize="1834842" size="10538277" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -405,7 +405,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="13188B2FB1A7CB785982F5D40F6E492393D1F6FA" downloadHash="08E94FD8C029588F282351180E7B469B1131D117" name="snowdown westphal inn tavern.trx" dlsize="242039" size="243728" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9CBD621E14BDA0005057B46C376585517A2D3CFC" downloadHash="89942E0743C59B4F28D5B6D13E5EF25F9DA92FCB" name="snowdown westphal inn tavern.trx" dlsize="241199" size="242876" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -645,7 +645,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="870BC9E64410E05F4ECC83A6AA81F90BC2383405" downloadHash="6BAEB3FD1CB11ED49A272957C1DBFE92E396022C" name="snowdown westphal city.trx" dlsize="2099744" size="14005946" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9323ED288724FA9E41F84DD772B605309290551F" downloadHash="1E4BCA012A936B57928D416827E172B88138CC45" name="snowdown westphal city.trx" dlsize="2113800" size="14021674" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -885,7 +885,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="57ECAB7358671DBCC104D2D8C61AFADC6D154036" downloadHash="7FA69D924F72AB5AF550AD1F52918389C9F4443F" name="snowdown westphal int 2.trx" dlsize="88002" size="89008" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BCAB101EC16B5584D51AAEC0B23DE7F3399EDEBD" downloadHash="2AB7E87136162F21AAA03871CC174515D318E975" name="snowdown westphal int 2.trx" dlsize="226807" size="901420" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -920,7 +920,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="55F70839A78DD93C882993AE338BFAD90B46A8F6" downloadHash="B573C81EF759F464FEFB267AD46429D35B6CEA32" name="snowdown westphal int 1.trx" dlsize="334866" size="338198" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8957460FB76F93C46C58F53F06BA56D907BAE600" downloadHash="94A314A2D56798BED93AD932A47D682DEB4515F4" name="snowdown westphal int 1.trx" dlsize="334875" size="338178" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1552,7 +1552,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4E4F88480A016D81BEBCC20D3705BDD6F95FBB8C" downloadHash="732BBB2BE3F92A54011E2D9BB1DC460AB806C28E" name="thayan estate int 1.trx" dlsize="350244" size="354660" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="570D5CC1583611125D4CADC252061F3081E15421" downloadHash="7A04C02398E58D415E26F6EC6AB2CFC7ADF69775" name="thayan estate int 1.trx" dlsize="349927" size="354348" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1583,6 +1583,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="FB99DA53CFC16BEF847DB810B678865CA02BE829" downloadHash="350FC141BAD7FBC32588848EAAC007CA6518686A" name="generic cnnt cave_area5.trx" dlsize="727164" size="752436" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="AA662116F475243F80B870CF84939B185C6AF548" downloadHash="3CAD37C9F665E4965BE03835B6580F93845725F3" name="Festival Grounds.trx" dlsize="1535610" size="11697193" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
