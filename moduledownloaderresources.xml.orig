@@ -2911,7 +2911,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4471C21987B159B2C13BD7A481B6EBDBD4BB6F21" downloadHash="AE6A77277583C7D00C9BECAAA1339BB28713644B" name="oman's isle iron keep town.trx" dlsize="3668205" size="20370760" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BC5F97BA2BBFBAB355D1A38551616F6A662178A1" downloadHash="8B0F6BAC4804F31BBB9236B0229D59D9CB702DE3" name="oman's isle iron keep town.trx" dlsize="3680091" size="20385147" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2966,7 +2966,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="55A12DCF8A8A8D46AF9F789CA771553E678FD849" downloadHash="47D6697B7A29562C7CFCECF10C7F0D2AD91BF503" name="alaron callidyrr temples int.trx" dlsize="101322" size="414980" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0C788B86512A5170A419CDADBB525DF69582373E" downloadHash="6D5DA6A1E02DE10DEF65FB55384BEE9ACC4FF931" name="alaron callidyrr temples int.trx" dlsize="218569" size="263103" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3548,7 +3548,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4BD3302723F5347C0AA9C3E13CA394B5DA8FF58E" downloadHash="EC54C2D0FDEC055A5D80B2C28D05A1E956AD4B00" name="alaron q25a regents field.trx" dlsize="1239225" size="8092414" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0D0905E9D0131D3B5A1A04BCD56A1E30C04D6113" downloadHash="3961C5183ADE6C23F18A37810A051B9FAC616BDD" name="alaron q25a regents field.trx" dlsize="2115168" size="12391957" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -3914,6 +3914,31 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="9124E0CE33700632C0DF71B135DDA8CDED92F68B" downloadHash="92FCCAF5B1FDAE177F39ABE986248CB2DB651479" name="gwynneth n34 kings road.trx" dlsize="3118674" size="15836285" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="3A4CA5D3E5DACD8A8E77C0EC9CE6C29A276EC7C0" downloadHash="A5CE8D9500A230F6DBBD8A3A854B21A510BB3192" name="alaron c callidyrr west.trx" dlsize="2852240" size="17298665" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="3F9FA7FE2D20A150029E5086B3680C4583B9CD46" downloadHash="52875B50B7EE1D8CE2F3E9F4FDAB1636FBE0E9E5" name="alaron c callidyrr docks n.trx" dlsize="3076984" size="19983772" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="8E398286AB85B7BB265A63A65159C19221F7B438" downloadHash="DD92BDC34B880129312B160C15611C1F001247C5" name="alaron c callidyrr high district.trx" dlsize="3040531" size="15782178" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="4DF628B76F432DC987E173AB713B06D1778F4A16" downloadHash="B749FBAF60F3AAABF722BEA8C5314F08EA8A166A" name="alaron c callidyrr east.trx" dlsize="3552104" size="19096869" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="9D2907CFCE094A5D3A8C47EE521FB8F548546C47" downloadHash="F58FBF3C0B13913B610D4EF41E9B08518E894B6A" name="alaron c callidyrr castle ext.trx" dlsize="2408974" size="12739351" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
