@@ -40,7 +40,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="47A6D52213BFEEFD4CE90615CD6BA0C0B2517EED" downloadHash="18EFCB5CEC97B3FFF3520D60F165D5660D231DB9" name="alaron callidyrr interiors.trx" dlsize="590698" size="818917" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7669CF7D400F46CBEC97FCC53E4456064B0C81E3" downloadHash="18EFCB5CEC97B3FFF3520D60F165D5660D231DB9" name="alaron callidyrr interiors.trx" dlsize="590698" size="818918" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1365,7 +1365,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E46204A0E171755676B1FE633909D603E3FD47BB" downloadHash="0BFED56712CD233D6FF279AE760EA07EC24FC2F7" name="alaron callidyrr interiors 2.trx" dlsize="288461" size="921029" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C43572A80411F04D041DDC8658ABE96FB1160384" downloadHash="0BFED56712CD233D6FF279AE760EA07EC24FC2F7" name="alaron callidyrr interiors 2.trx" dlsize="288461" size="873537" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2122,12 +2122,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3A4CA5D3E5DACD8A8E77C0EC9CE6C29A276EC7C0" downloadHash="A5CE8D9500A230F6DBBD8A3A854B21A510BB3192" name="alaron c callidyrr west.trx" dlsize="2852240" size="17298665" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9C4A55C35EB62FF8E342A758133E1E7280FB0DA8" downloadHash="A5CE8D9500A230F6DBBD8A3A854B21A510BB3192" name="alaron c callidyrr west.trx" dlsize="2852240" size="17286525" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3F9FA7FE2D20A150029E5086B3680C4583B9CD46" downloadHash="52875B50B7EE1D8CE2F3E9F4FDAB1636FBE0E9E5" name="alaron c callidyrr docks n.trx" dlsize="3076984" size="19983772" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="731D6B8A1B1998022A901CD775A5DC4EE9F7FDA0" downloadHash="52875B50B7EE1D8CE2F3E9F4FDAB1636FBE0E9E5" name="alaron c callidyrr docks n.trx" dlsize="3076984" size="19962233" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2137,7 +2137,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4DF628B76F432DC987E173AB713B06D1778F4A16" downloadHash="B749FBAF60F3AAABF722BEA8C5314F08EA8A166A" name="alaron c callidyrr east.trx" dlsize="3552104" size="19096869" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0378A71DF6C2A7C06DBEC0CD482C17E21A6C44EC" downloadHash="B749FBAF60F3AAABF722BEA8C5314F08EA8A166A" name="alaron c callidyrr east.trx" dlsize="3552104" size="19112017" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
