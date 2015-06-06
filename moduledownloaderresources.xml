@@ -930,7 +930,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8E1EE2B1E2C8EFCD7D796131CF5D503A9D7C3787" downloadHash="5E267F1FCB65250949E333ADE012A30F1C918FC2" name="gwynneth n33 macsheehan ruins.trx" dlsize="2756119" size="16101587" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B621C792BEA2D9770CAA07C56D1B414B32B7086B" downloadHash="958653B836E530FF4465AE9BFF5E54BE2494DD76" name="gwynneth n33 macsheehan ruins.trx" dlsize="2973798" size="16103329" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1526,6 +1526,21 @@
     </server-ref>
   </resource>
   <resource type="Tlk" hash="9797D2458F42AC1F862C265E1D7F1FEE8BEF48BC" downloadHash="8340781C7C20468E8B6CE149A762D70F7B717849" name="alfa_acr02.tlk" dlsize="148333" size="1191579" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="B6D51F9DA640C0CD20D9AF64F12C2B6D59A23A62" downloadHash="5F1EBEB10023186A197461E91F90FE9E0E337273" name="oman k25 iron keep interiors.trx" dlsize="253639" size="344054" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="5AFCC1486145DA386FC6A4EA0719B7734A47803B" downloadHash="72C569C02450CCE06DDB1F3AB0DE9062D560E2EB" name="oman k25 iron keep cave.trx" dlsize="113188" size="292363" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="BC5F97BA2BBFBAB355D1A38551616F6A662178A1" downloadHash="8B0F6BAC4804F31BBB9236B0229D59D9CB702DE3" name="oman k25 iron keep town.trx" dlsize="3680091" size="20385147" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
