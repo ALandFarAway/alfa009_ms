@@ -110,7 +110,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="289554D6088965737D770267AB651719071869EA" downloadHash="FF6CC17AEF390325F04CA7DB0807D570B1C22276" name="gwynneth l34 corwell inns.trx" dlsize="427669" size="430815" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2B81FBD40D71ADEFEF9096D0DEEF303DEC1FDACA" downloadHash="3823A5487CC99B08D4B94417B63E87A7F221DDFB" name="gwynneth l34 corwell inns.trx" dlsize="424707" size="427822" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -495,7 +495,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="73BC50BC0491670ED1D237AA3C43972DC997EDCE" downloadHash="C3AC547A1D418C687574C5B40AF6C7ED2EF51AC1" name="gwynneth l34 corwell chapel.trx" dlsize="67581" size="67623" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0F29E3429B660D420E554E3C5AEC51B82B76BD7D" downloadHash="6A106B11BB19320CCB1C042618580435581A5F22" name="gwynneth l34 corwell chapel.trx" dlsize="67581" size="67623" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -535,7 +535,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9C4A55C35EB62FF8E342A758133E1E7280FB0DA8" downloadHash="623DF1AD29097065F867EC6DA2A96F1637897C3D" name="alaron q22 c callidyrr west.trx" dlsize="2839834" size="17286525" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3A4544619F77EB53B972FA875E3F709BAE751E70" downloadHash="A0548871847BED1DDDFEDEDDC611792877F93F2F" name="alaron q22 c callidyrr west.trx" dlsize="2847650" size="17296190" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1075,7 +1075,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9DB76ED116AC910FFC8501ECF20E5122FAE63704" downloadHash="A3AF688A0280C99B4B672C1A6B9A6EE4E6444A3E" name="gwynneth l34 corwell interiors.trx" dlsize="247255" size="250631" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8E8564ED9C177807DA082E4991D4B63FF12FEBF1" downloadHash="CB20B18DB1650E4519FB770F1D998F932D11C727" name="gwynneth l34 corwell interiors.trx" dlsize="258908" size="262040" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1530,7 +1530,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B6D51F9DA640C0CD20D9AF64F12C2B6D59A23A62" downloadHash="5F1EBEB10023186A197461E91F90FE9E0E337273" name="oman k25 iron keep interiors.trx" dlsize="253639" size="344054" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="50AEF647C00BCB1A9C5AA36F4C7AB582B41101FC" downloadHash="1FA418401A61EC700AD9D20F959A522D5DC98AEE" name="oman k25 iron keep interiors.trx" dlsize="252900" size="343472" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1541,6 +1541,16 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="BC5F97BA2BBFBAB355D1A38551616F6A662178A1" downloadHash="8B0F6BAC4804F31BBB9236B0229D59D9CB702DE3" name="oman k25 iron keep town.trx" dlsize="3680091" size="20385147" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="177BC9EB0371D9D591995203B6ABD98501BDD60F" downloadHash="A5BBE6A51DFBEE911AB5064D5DBFFED91D36D31A" name="alaron callidyrr pot n paper.trx" dlsize="138543" size="226649" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="DB3D2FF272DE8F133E2F0B1A92B8377B3B49C36E" downloadHash="447B67A6908A084DC713A56AF4AFC972E5393A8A" name="alaron q22 inns n taverns 2.trx" dlsize="212962" size="257046" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
