@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<<<<<<< HEAD
-<content xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
-=======
 <content xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <resource type="DirectoryEntry" hash="3AF4409B8C19435F5C2A31452225C7CD59BA06DF" downloadHash="F3FF2706D6FBE99EE8AE827F4861ABD7BE25F4ED" name="thayan estate mansion.trx" dlsize="392865" size="528268" critical="false" exclude="false" urlOverride="">
     <server-ref>
@@ -208,6 +205,11 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="177BC9EB0371D9D591995203B6ABD98501BDD60F" downloadHash="A5BBE6A51DFBEE911AB5064D5DBFFED91D36D31A" name="alaron callidyrr pot n paper.trx" dlsize="138543" size="226649" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
   <resource type="DirectoryEntry" hash="D5C001FD69EEBC1B5AB52ECCA00B529ED5462193" downloadHash="CE637F9DDB74D9D468F5052456FF3E0678EE045C" name="norheim il. dragon caves level 1.trx" dlsize="359251" size="363532" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -279,6 +281,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="1AB38A85037B1B558149B4BA0CA5E1B8CD00B4A3" downloadHash="D93F249B84CE54C0DA5163BB365F5E05FDDB6CBE" name="skaug b4.trx" dlsize="1663475" size="10055116" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="04FBF1714B2B4A5C00FB7CF0AFC16DF0FF0792A2" downloadHash="39B3771E9A5B173A3742DF46161948F775C6755E" name="waterdeep sewer, canal.trx" dlsize="1171408" size="12073697" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -488,6 +495,11 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="50AEF647C00BCB1A9C5AA36F4C7AB582B41101FC" downloadHash="1FA418401A61EC700AD9D20F959A522D5DC98AEE" name="oman k25 iron keep interiors.trx" dlsize="252900" size="343472" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
   <resource type="DirectoryEntry" hash="832D45B76DA65AA24CE73C380A79CDCD4E8B8B36" downloadHash="119F8D585B4E034A9A2C752DC3480F3AC2FFF4F9" name="queen robyn at sea int.trx" dlsize="81684" size="81987" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -588,7 +600,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="47DE69437FFBC9EFB94AC58F21DD4A91B4648E6F" downloadHash="7235E90E9C8E286F92DF02AF505FA5D430C86752" name="skaug a4.trx" dlsize="1262545" size="10068916" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="05290A09F1C1BC75CEDFD1DB54CDECE437871F84" downloadHash="B9233CBC6FB424AED45198314978A29323AE62B1" name="generic farmland.trx" dlsize="1779104" size="10815713" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -609,11 +621,6 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="A61AF79B8F245B9012F8D31269A63922F03399BD" downloadHash="E838B78186C220FCBDD33FBD764613786F3A297D" name="Gwynneth o35  Llyrath forest se.trx" dlsize="2281208" size="14518605" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="5AFCC1486145DA386FC6A4EA0719B7734A47803B" downloadHash="72C569C02450CCE06DDB1F3AB0DE9062D560E2EB" name="oman's isle iron keep caves.trx" dlsize="113188" size="292363" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -783,11 +790,6 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="AAFC11D9852349E2BA2D499D8E38E31ADD17085D" downloadHash="35491AA710C4B64FE50147228F6351EE5E7B4111" name="snowdown s34 westphal int 2.trx" dlsize="223752" size="899599" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="F561B976317AA8902F9C34BBD26057C6A0D13AA2" downloadHash="E426775C0CEA41192B9D135BF3DA345B219514CB" name="generic beach.trx" dlsize="3888978" size="17725799" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -853,7 +855,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2A7A56F9E3AF9CD866E39AD8535E5DAD2FC2DA68" downloadHash="F9895C3B499AC55D306A0E37FF928724E8EF5FA3" name="gwynneth quest areas.trx" dlsize="190701" size="595617" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="557E9DB9198257B7B1F08797E95BA2ABA8F5BB96" downloadHash="2ACABDFBD9CA4B13A719806E20666521B767923C" name="gwynneth quest areas.trx" dlsize="190229" size="459691" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -888,7 +890,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="04FBF1714B2B4A5C00FB7CF0AFC16DF0FF0792A2" downloadHash="39B3771E9A5B173A3742DF46161948F775C6755E" name="waterdeep sewer, canal.trx" dlsize="1171408" size="12073697" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5AFCC1486145DA386FC6A4EA0719B7734A47803B" downloadHash="72C569C02450CCE06DDB1F3AB0DE9062D560E2EB" name="oman k25 iron keep cave.trx" dlsize="113188" size="292363" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -909,6 +911,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="4425775A77DC6EE0643A6258C950569AF9CB9A58" downloadHash="EADA6799CB9BDA080DBC17855DE3F13138C7A053" name="ruathym c5 haven interiors.trx" dlsize="347250" size="482969" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="BC5F97BA2BBFBAB355D1A38551616F6A662178A1" downloadHash="8B0F6BAC4804F31BBB9236B0229D59D9CB702DE3" name="oman k25 iron keep town.trx" dlsize="3680091" size="20385147" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1143,17 +1150,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="98BCFA0FAAC98EC1662F43A388847E671C9D67C2" downloadHash="17D2EB4454AB342629979559C26AFA43618EB476" name="gwynneth l34 corwell thieves gld.trx" dlsize="239075" size="417818" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9C60828C971DF2DF6A6B93365B16597446A96787" downloadHash="6E68FFF02F1FE71EDFBC70CEAC5E2B7F583C3E85" name="alaron q22 inns n taverns 2.trx" dlsize="192651" size="236592" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="094B79D1357AB5B0111105D58426EF4893F2084E" downloadHash="BE3E69F35159C9546D017B1675A0E833139FBFE9" name="alaron p23 dernal swamptown.trx" dlsize="5280649" size="25620405" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="BC5F97BA2BBFBAB355D1A38551616F6A662178A1" downloadHash="8B0F6BAC4804F31BBB9236B0229D59D9CB702DE3" name="oman's isle iron keep town.trx" dlsize="3680091" size="20385147" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1223,7 +1225,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3660FBB942FB01D78E2A7979B29DB8C5761AB85F" downloadHash="4ECE4173DF452FE7282DE9E2DF256DF8E15D622F" name="alaron callidyrr silver signet.trx" dlsize="137721" size="226180" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="AAFC11D9852349E2BA2D499D8E38E31ADD17085D" downloadHash="35491AA710C4B64FE50147228F6351EE5E7B4111" name="snowdown s34 westphal int 2.trx" dlsize="223752" size="899599" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1274,6 +1276,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="F7DA95616DFA7FA180A91635362CFED375A5DD60" downloadHash="8350C21FE59037E305C858F0EFD3B3FB4B02AD14" name="alaron q20 farheight mountains.trx" dlsize="2106019" size="13604622" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="47DE69437FFBC9EFB94AC58F21DD4A91B4648E6F" downloadHash="7235E90E9C8E286F92DF02AF505FA5D430C86752" name="skaug a4.trx" dlsize="1262545" size="10068916" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1353,17 +1360,17 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="98BCFA0FAAC98EC1662F43A388847E671C9D67C2" downloadHash="17D2EB4454AB342629979559C26AFA43618EB476" name="gwynneth l34 corwell thieves gld.trx" dlsize="239075" size="417818" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
   <resource type="DirectoryEntry" hash="521BC84830FAFB4AAF3649F21A37533199CBFF97" downloadHash="75C3F29033205E78CD4940CAC5F859736EF6C56A" name="gwynneth n33 macsheehan  int.trx" dlsize="590628" size="597695" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="6C5389F8B138D6C86E3A1C54ECC2B02EFAA60240" downloadHash="C9D7B090E893BD1B956AB9F87200EFCFEAB9894E" name="skaug c3.trx" dlsize="1493979" size="10688021" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="B6D51F9DA640C0CD20D9AF64F12C2B6D59A23A62" downloadHash="5F1EBEB10023186A197461E91F90FE9E0E337273" name="oman's isle iron keep interiors.trx" dlsize="253639" size="344054" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1458,7 +1465,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="81B1A6A903864858A49EEE8AFA8F2748EC869B5B" downloadHash="BE418F02F5F123CF77DDE83EA36634B6A4F62C27" name="gwynneth l34 corwell shops int.trx" dlsize="425477" size="472201" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="13C12E5CD70215B9EABF621415CF0880BA38CB9A" downloadHash="DF8C58AAF045A20740B62F3C915F49DBB9D12039" name="gwynneth l34 corwell shops int.trx" dlsize="425758" size="472201" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1533,35 +1540,4 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="50AEF647C00BCB1A9C5AA36F4C7AB582B41101FC" downloadHash="1FA418401A61EC700AD9D20F959A522D5DC98AEE" name="oman k25 iron keep interiors.trx" dlsize="252900" size="343472" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="5AFCC1486145DA386FC6A4EA0719B7734A47803B" downloadHash="72C569C02450CCE06DDB1F3AB0DE9062D560E2EB" name="oman k25 iron keep cave.trx" dlsize="113188" size="292363" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="BC5F97BA2BBFBAB355D1A38551616F6A662178A1" downloadHash="8B0F6BAC4804F31BBB9236B0229D59D9CB702DE3" name="oman k25 iron keep town.trx" dlsize="3680091" size="20385147" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="177BC9EB0371D9D591995203B6ABD98501BDD60F" downloadHash="A5BBE6A51DFBEE911AB5064D5DBFFED91D36D31A" name="alaron callidyrr pot n paper.trx" dlsize="138543" size="226649" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="DB3D2FF272DE8F133E2F0B1A92B8377B3B49C36E" downloadHash="447B67A6908A084DC713A56AF4AFC972E5393A8A" name="alaron q22 inns n taverns 2.trx" dlsize="212962" size="257046" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="05290A09F1C1BC75CEDFD1DB54CDECE437871F84" downloadHash="B9233CBC6FB424AED45198314978A29323AE62B1" name="generic farmland.trx" dlsize="1779104" size="10815713" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
 </content>
->>>>>>> 9f77068f7fa227e96cfa288db270e287db0a449a
