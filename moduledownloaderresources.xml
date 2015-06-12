@@ -850,7 +850,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2A7A56F9E3AF9CD866E39AD8535E5DAD2FC2DA68" downloadHash="F9895C3B499AC55D306A0E37FF928724E8EF5FA3" name="gwynneth quest areas.trx" dlsize="190701" size="595617" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7BE0F813EF2807ECAA4D5B0CA0AFC5241FB2DD8A" downloadHash="1D894968C4F8C3679FB557F5AF41F2CFC51A4921" name="gwynneth quest areas.trx" dlsize="189466" size="458853" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
