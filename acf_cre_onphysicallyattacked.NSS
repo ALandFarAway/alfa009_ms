@@ -43,8 +43,48 @@
 
 void main()
 {
+	object attacker = GetLastAttacker();
     ACR_CreatureOnPhysicallyAttacked();
+	float delay = 2.0;
+	
+	/*SendMessageToAllDMs("Creature "+GetName(OBJECT_SELF)+" was attacked.");
+	
+	if (GetAttackTarget() == OBJECT_INVALID)
+		SendMessageToAllDMs("Not attacking anything");
+		
+	if (GetNumActions(OBJECT_SELF) == 0)
+		SendMessageToAllDMs("No queued actions");
+	*/
 	
     // Custom code goes here.
+
 	
+	if (GetLocalInt(OBJECT_SELF, "Fleeing") == 1) 
+	{
+		ClearAllActions(TRUE);
+		ActionMoveAwayFromObject(attacker, TRUE, 200.0);	
+	}
+	/* force an attack if not responding */
+	else if ((GetAttackTarget() == OBJECT_INVALID) && (GetNumActions(OBJECT_SELF) == 0))
+	{
+		/* doesn't fight back */
+		if (GetLocalInt(OBJECT_SELF,"ACR_DOCILE")) {
+			SetLocalInt(OBJECT_SELF, "Fleeing",1);
+			ActionMoveAwayFromObject(attacker, TRUE, 200.0);
+
+			DelayCommand(20.0f, ActionSpeakString("*scampers off into the undergrowth*"));
+			DelayCommand(21.0f, DestroyObject(OBJECT_SELF));
+			return;
+		}
+
+		/* swap to hostile faction */
+		if (GetLocalInt(OBJECT_SELF,"ACR_CRE_WILD_ANIMAL")) {
+			ChangeFaction(OBJECT_SELF, GetObjectByTag("animal_faction_pig"));
+
+		}
+			
+		ActionAttack(attacker);
+		DelayCommand(delay,AssignCommand(OBJECT_SELF,ActionAttack(attacker)));
+		// DelayCommand(5*delay,AssignCommand(OBJECT_SELF,ActionAttack(attacker)));
+	}
 }

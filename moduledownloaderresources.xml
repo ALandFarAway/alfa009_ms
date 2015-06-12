@@ -525,7 +525,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A65AD920EB86B4821430DBA14A312EA60158BFD7" downloadHash="C5888EF02EDCBA385F5F76251D3658C9D6351041" name="gwynneth l33 caer corwell.trx" dlsize="1904362" size="14336865" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6012B38C5CF2F26A7AE5367E2DA991B4D065D7DC" downloadHash="BDA572AF7E422F714C71FE9276319B2DC5C351D2" name="gwynneth l33 caer corwell.trx" dlsize="1896795" size="14251427" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -535,7 +535,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3A4544619F77EB53B972FA875E3F709BAE751E70" downloadHash="A0548871847BED1DDDFEDEDDC611792877F93F2F" name="alaron q22 c callidyrr west.trx" dlsize="2847650" size="17296190" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="175C6EA54A1F4C60C152D18C651114919BA66E53" downloadHash="C6B59C0EDB4D516D003FEF983EDEC4B1D67B442C" name="alaron q22 c callidyrr west.trx" dlsize="2838971" size="17285734" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -850,7 +850,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="86ECE8BCCC33BDF006FC2F66361CA0E8522D84E7" downloadHash="18922FBE7DB72EF16E7820260762D16ABCD590F4" name="gwynneth quest areas.trx" dlsize="144374" size="413396" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2A7A56F9E3AF9CD866E39AD8535E5DAD2FC2DA68" downloadHash="F9895C3B499AC55D306A0E37FF928724E8EF5FA3" name="gwynneth quest areas.trx" dlsize="190701" size="595617" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1551,6 +1551,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="DB3D2FF272DE8F133E2F0B1A92B8377B3B49C36E" downloadHash="447B67A6908A084DC713A56AF4AFC972E5393A8A" name="alaron q22 inns n taverns 2.trx" dlsize="212962" size="257046" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="05290A09F1C1BC75CEDFD1DB54CDECE437871F84" downloadHash="B9233CBC6FB424AED45198314978A29323AE62B1" name="generic farmland.trx" dlsize="1779104" size="10815713" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
