@@ -950,7 +950,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="93C29641659C3050FAF64CC21ABA2270610101FF" downloadHash="091242C091D942BDC7BC99AB5D18B8B29F7F85C1" name="gwynneth l30 myrloch vale.trx" dlsize="7874561" size="41560909" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A452A76580A8D3B823E90968D9B935CB3FAC0623" downloadHash="9769E97C9B143A3F995C9D39A9AFCC2B3299CAD6" name="gwynneth l30 myrloch vale.trx" dlsize="7925651" size="41593216" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
