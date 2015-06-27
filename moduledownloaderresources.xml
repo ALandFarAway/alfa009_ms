@@ -185,7 +185,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4B4CED95ED307BEAC57ADB831C32F63A4922E488" downloadHash="D2D031C0A8F1BD061F15B2469516C8B1C8541445" name="009_startarea.trx" dlsize="85522" size="87618" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C84E0B3FC032E3829574B31D2F35633321EC4BEB" downloadHash="26A79875777E79D8A839839FDAE918D7B84DFE21" name="009_startarea.trx" dlsize="85567" size="87617" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -475,7 +475,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="86A6D538B29F05DB3E2DCF44B0240E53A0DE23F9" downloadHash="229B087FCBAAAF675D8CDD41177DBF7CA02C079B" name="skaug inns &amp; taverns.trx" dlsize="1082151" size="1093597" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D3E0D7A48EE54CA94322072C7C47D9813CADB586" downloadHash="AFB2A538330973EC6373F65E57534380349B0CAE" name="skaug inns &amp; taverns.trx" dlsize="1040975" size="1053493" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -580,7 +580,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="570D5CC1583611125D4CADC252061F3081E15421" downloadHash="7A04C02398E58D415E26F6EC6AB2CFC7ADF69775" name="thayan estate int 1.trx" dlsize="349927" size="354348" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3DCFE8493713ABF3F8786F6DC6DB5D10392CF715" downloadHash="BB34D9189F0189A26CCC026091B6AD209D58F174" name="thayan estate int 1.trx" dlsize="369150" size="374247" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -780,7 +780,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="030F4E07ED45A00BF04848EF0FCD7F79A46EC6D1" downloadHash="1979608DC0DCA49912FACFB55CD2BA43784D4C93" name="gwynneth m31 high home-dwarven.trx" dlsize="9512259" size="43381833" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8FEF83D3FFA2135A8F909CA7F730AD4493B58F96" downloadHash="555C68AE810231A822ED3A9051F01984659794FC" name="gwynneth m31 high home-dwarven.trx" dlsize="9505964" size="43386835" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -870,7 +870,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2F07438A6EC512CDA55E92037E4352C8E0D84DA8" downloadHash="AC1113222C8D58EAF588C4E255D6DEA5C615376B" name="moray isle d28 trollclaw mts.trx" dlsize="5668927" size="24385283" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="42B4405AC1B67389D4B759D4EDFC731607DC1F82" downloadHash="30E3EEFA076BB22B534B14A4D377948D959E3FF5" name="moray isle d28 trollclaw mts.trx" dlsize="5583948" size="24291229" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -995,7 +995,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="73601A336F56869B7E577695C8CD2F7E77E38A3E" downloadHash="01F459A4176A3FA903A6F19D6C18E315C58F100A" name="gwynneth m31 high home lvl1.trx" dlsize="674464" size="705675" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="442E8410ACF038CB13EEFC00673C198F62B34D62" downloadHash="1CD6E567795B9EAADD09BCAEF18F80E628A14CC6" name="gwynneth m31 high home lvl1.trx" dlsize="694609" size="725676" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1140,7 +1140,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9AE040E14972BA08FC4B9B32B68A1E8B1ECCB163" downloadHash="DB37F73132C38F040E3F4DCADA6FE2EA4167DAD3" name="009 dm prep area.trx" dlsize="85434" size="89429" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="924FCFF0655917848ADFB4448FD0CACD5767177D" downloadHash="348B89A2B5A05EB89A3F2503DFCBD7B433CE9844" name="009 dm prep area.trx" dlsize="298809" size="306623" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1556,6 +1556,41 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="0E455218E6B23E2FF1AEC3CC2F28232CDDC3BE55" downloadHash="7B2AAF9875B9266C4C82B55867D9EBD22C244340" name="gwynneth o33 kelemvor tmpl int.trx" dlsize="175741" size="219524" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="2DE9E2BF50A8FDCE6F4CFF62C62F2AD22B97D240" downloadHash="56F25163C6A5FFA452917FED48DB6DE6BD42C95E" name="010_delightful diversions.trx" dlsize="107657" size="150800" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="A6AE803591199BEFB8A66B5D285E2CE83A1E6A63" downloadHash="E6C6EC88A0BC977BB35CC51E8028A8AFDE4CA876" name="alaron s24e torriage coast.trx" dlsize="4120571" size="20402544" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="2B2E11CE0B10825E2D50660DBFEC406524E71B26" downloadHash="306F1CF826FFFB543C89B43CDDB5145E73F5E5A2" name="alaron s23w rillifane run int.trx" dlsize="325909" size="419980" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="201F10D9E5C8BC81B9089E8F2089C6E3E97E33F1" downloadHash="30364A749AD761C231FF36DD9B0EE5048069345B" name="alaron s24w torriage wood.trx" dlsize="5554549" size="24107991" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="13C377AD2B945B597A960224963CF49E8459A6FE" downloadHash="FA85A2AE9D7F367CCA6948985119AC1273615717" name="alaron s23 torriage wood n.trx" dlsize="4057604" size="21308802" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="8F93E071CD977A956D30D899C21B287B0E696B8B" downloadHash="939CEE90C32DFAA1D481C711C8E286B107AA37A4" name="alaron s23w rillifanes run.trx" dlsize="1706246" size="11374505" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="E835DF5259D918461C2330A060D8B5243E524099" downloadHash="64A6C5DA5AC0F6D7DA32F4684C480E69B30768FF" name="alaron q21 cave complex.trx" dlsize="770979" size="6568370" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
