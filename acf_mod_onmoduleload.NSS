@@ -52,7 +52,7 @@ void main() {
 	SetGlobalInt(_ACR_SETTINGS_SERVER_ID, 9);
 	SetGlobalInt(_ACR_SETTINGS_SERVER_REGION, 3538);
 	SetGlobalString(_ACR_SETTINGS_SERVER_NAME, "ALFA 009 Moonshae Isles");
-	SetGlobalString(_ACR_SETTINGS_SERVER_IP, "71.206.175.79");
+	SetGlobalString(_ACR_SETTINGS_SERVER_IP, "71.94.175.23");
 	
 	ACR_ModuleOnModuleLoad();
 	

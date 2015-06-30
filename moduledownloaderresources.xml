@@ -1275,7 +1275,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F7DA95616DFA7FA180A91635362CFED375A5DD60" downloadHash="8350C21FE59037E305C858F0EFD3B3FB4B02AD14" name="alaron q20 farheight mountains.trx" dlsize="2106019" size="13604622" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3D223D8524EE2726B1AF281B461BA27A6002C1AA" downloadHash="09D7935E87B33F9D188E7A3D107C9AFC6EF33FD0" name="alaron q20 farheight mountains.trx" dlsize="2199639" size="13619403" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1330,7 +1330,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0AE69A4B9AF784A028D8D73750745A19B783AFC8" downloadHash="1BA70C1F23F0FFEFD36487774913759BE8D254C8" name="skaug b3.trx" dlsize="1824500" size="10173062" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="08782F2BECF8CFF065C9943C91F8A14E57FC81AA" downloadHash="E44B641F1BC5C7FE4ACD78EC8A235C882BE5685E" name="skaug b3.trx" dlsize="1851703" size="10182046" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1591,6 +1591,31 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="E835DF5259D918461C2330A060D8B5243E524099" downloadHash="64A6C5DA5AC0F6D7DA32F4684C480E69B30768FF" name="alaron q21 cave complex.trx" dlsize="770979" size="6568370" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="77AC1535D4F0411E8FBF991D70B9F7FBAB29D569" downloadHash="4786361E47EDA250BF8521325050111A4E4BD61E" name="skaug port east.trx" dlsize="2497834" size="16890516" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="EAE8AE43B79332302318E7D10B6C618E9A2A2AB3" downloadHash="F5CFAF51ED67B9DE5CBCB91659BA1DAC94ED2F95" name="skaug port west.trx" dlsize="2324128" size="16730881" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="6CE2041F188602328AD85CD6EBA23181B45319F8" downloadHash="3E426FD65DC597056DD127C0BAB5BF14469CC1E4" name="gwynneth i37 wyngate cantrev.trx" dlsize="2354336" size="14778377" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="9D6B51EA5FC33BDE8E56AB3037BE8F74792C2E24" downloadHash="E1291B0959F71703A42321748BA79EB5ED4826E5" name="skaug residences.trx" dlsize="428115" size="431626" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="9104512CB9423FBFAA0CDE454E59D74F0FDD0E41" downloadHash="AA7907F50C927EB52961E1BC6FEC1F77253C9FDD" name="skaug cyrpts.trx" dlsize="544331" size="557501" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
