@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <content xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <resource type="DirectoryEntry" hash="3AF4409B8C19435F5C2A31452225C7CD59BA06DF" downloadHash="F3FF2706D6FBE99EE8AE827F4861ABD7BE25F4ED" name="thayan estate mansion.trx" dlsize="392865" size="528268" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="65ED4551F21C74E7D45DF9C07790F47FE5496CE3" downloadHash="8B81658F6E8C08CBCEDBA531858EB700F73F8B96" name="thayan estate mansion.trx" dlsize="402422" size="538328" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -25,7 +25,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="56ED6453CC1D29507B3E6533C2F5FCC425954E14" downloadHash="31A30889AEA92F42D19A58B4CEDAEEF7CABE22C0" name="gwynneth n34 llyrath forest n.trx" dlsize="4506688" size="20858015" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E0B02BC9F4F79B684DC0F5DA1826EA3CFE52DAE9" downloadHash="AE640A9EBDED1CD6D37FA41843784D27B4D7EF02" name="gwynneth n34 llyrath forest n.trx" dlsize="4519547" size="20857953" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -100,7 +100,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="385BAE5E50422A0108BD7C24E036D3E68DFB74CB" downloadHash="5EF572E0AE376BCC7CE3C72D7ECFE439FD800B32" name="thayan estate grounds.trx" dlsize="3224914" size="17577281" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5A509F0772D419A74B0D696B84B300AF372CE002" downloadHash="E27082B45F139A0E285E6655E2F6E3E50404E62D" name="thayan estate grounds.trx" dlsize="3225418" size="17576876" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -250,7 +250,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0B605B4A39E658C3EAC8B8D54D04936EAD8E8A92" downloadHash="3BA136F7E0A096870CA4F23C215C718A8B339726" name="alaron q22 callidyrr int 2.trx" dlsize="327516" size="732860" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D85F33873121F849D19F954B64157DB85162908F" downloadHash="AFE86191C980FF9B961CFBA1B7C1015E99CD216D" name="alaron q22 callidyrr int 2.trx" dlsize="323490" size="729905" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -455,7 +455,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5773EFA38B0900AE977ADEA96E01189B70CE0A0D" downloadHash="55A5CD31BAA829776DA5B78C13BE338AC92AD815" name="gwynneth n34 llyrath cave.trx" dlsize="169205" size="171372" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="093894AA3CF8A438406AB10C797C7BF746BE20EE" downloadHash="0F683458E5440B0EABC11A00BBDF91501CD5AD42" name="gwynneth n34 llyrath cave.trx" dlsize="172383" size="174409" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -580,7 +580,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3DCFE8493713ABF3F8786F6DC6DB5D10392CF715" downloadHash="BB34D9189F0189A26CCC026091B6AD209D58F174" name="thayan estate int 1.trx" dlsize="369150" size="374247" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4D98997F6AE052457EAFCE704DF00D7E039FFC4E" downloadHash="E17200466F5B48339102E0B55C8729A983610EF5" name="thayan estate int 1.trx" dlsize="384260" size="389079" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -880,7 +880,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A0494D7381F2C84FD1BEB135F527F30904455508" downloadHash="C5F4008257FBE3E2B9725A2CCFB5C275BDC3DD98" name="gwynneth m34 cantrev koart hall.trx" dlsize="63997" size="64120" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="648B8ECCC729D4852C4F1A01FCBB34C2EB5632BF" downloadHash="7457F50761B6F7E347657BA2D5177A8A946692E7" name="gwynneth m34 cantrev koart hall.trx" dlsize="63939" size="64105" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1150,7 +1150,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9C60828C971DF2DF6A6B93365B16597446A96787" downloadHash="6E68FFF02F1FE71EDFBC70CEAC5E2B7F583C3E85" name="alaron q22 inns n taverns 2.trx" dlsize="192651" size="236592" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6AF6DB32BC320D8D4BD12A472B1C3C43C98A0B17" downloadHash="04B31B2DC2AFDDC8CF24D2B3775B0AF1ECA1F16F" name="alaron q22 inns n taverns 2.trx" dlsize="192733" size="236592" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1205,7 +1205,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7669CF7D400F46CBEC97FCC53E4456064B0C81E3" downloadHash="3221A4A74C9274CDC8426D1363BB9DCA582FDEA2" name="alaron q22 callidyrr interiors.trx" dlsize="590180" size="818918" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E846761DB42244FC036443ABDD7D39165ADD26C4" downloadHash="2FC3F303519661DF345C080BCCC7D18AEEB2E0C3" name="alaron q22 callidyrr interiors.trx" dlsize="596235" size="824664" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1405,7 +1405,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1FE5C9DB7859CBC76B9008878B5F0851985B0BD5" downloadHash="94F7AEAF14461D960C6F78C0D30AE6BAD0289F8D" name="alaron q20 farheight mts caves.trx" dlsize="275625" size="2502131" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="845A437E94E8BE41CFEAFAC6270DF6183A6C27DD" downloadHash="55DB296C398ED11550195900F8067C34B1B976F0" name="alaron q20 farheight mts caves.trx" dlsize="278033" size="2502133" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1560,7 +1560,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2DE9E2BF50A8FDCE6F4CFF62C62F2AD22B97D240" downloadHash="56F25163C6A5FFA452917FED48DB6DE6BD42C95E" name="010_delightful diversions.trx" dlsize="107657" size="150800" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="CB537943A8F362B7A1AA4DD9F6D914FBD750AE8A" downloadHash="FC77EAFE98266566DD1ACFECEE2A85138BC138D0" name="010_delightful diversions.trx" dlsize="109424" size="152555" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1621,6 +1621,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="177BC9EB0371D9D591995203B6ABD98501BDD60F" downloadHash="A5BBE6A51DFBEE911AB5064D5DBFFED91D36D31A" name="alaron q22 callidyrr pot n paper.trx" dlsize="138543" size="226649" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="B5644983D34282CD9BA19BF7EB2F59E294EED9F2" downloadHash="004012C4B6D87DB59A8014CF112869642376AFA0" name="009_portal_belowdecks_bg.trx" dlsize="161328" size="166077" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
