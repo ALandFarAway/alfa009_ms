@@ -855,7 +855,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7BE0F813EF2807ECAA4D5B0CA0AFC5241FB2DD8A" downloadHash="1D894968C4F8C3679FB557F5AF41F2CFC51A4921" name="gwynneth quest areas.trx" dlsize="189466" size="458853" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4AEC6D0945F99FF7CA811E87938CA3B06B3406D0" downloadHash="FF75B5C4C280525581F425B297EFCEF4191AF027" name="gwynneth quest areas.trx" dlsize="188035" size="457933" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -955,7 +955,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1F7D2692650D73C9FF4E7EF560A4AF47CFB6C925" downloadHash="CDA1BD55C9F8AE2E408B2A56BB228AD6625802B5" name="alaron r30 kythyss.trx" dlsize="575344" size="9655113" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A0AF3DED5B67C41B14286B7D62E96185E093CDFC" downloadHash="3B8EFD25FCE29DC90DCD3C08FF1B71651D664F5E" name="alaron r30 kythyss.trx" dlsize="580162" size="9672688" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1140,7 +1140,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="924FCFF0655917848ADFB4448FD0CACD5767177D" downloadHash="348B89A2B5A05EB89A3F2503DFCBD7B433CE9844" name="009 dm prep area.trx" dlsize="298809" size="306623" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9B836006BA730245E43EF314433951E838A38DEA" downloadHash="76D5F759DC22222ABD18EC5DA276C63737398170" name="009 dm prep area.trx" dlsize="285897" size="293916" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1210,7 +1210,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0B85B405CED7A0CE8769EA3516F4B3B1A3F97C97" downloadHash="61E202CC008A739D1062FE43B25423B6B72BA7EB" name="snowdown s34 westphal city.trx" dlsize="2175146" size="14078037" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="35CD66D103AA1260CD111B2C9848F1843E96D0D4" downloadHash="363BA83B0D493442D0A87976E64156F854136F2D" name="snowdown s34 westphal city.trx" dlsize="2225612" size="14123319" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1225,7 +1225,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="AAFC11D9852349E2BA2D499D8E38E31ADD17085D" downloadHash="35491AA710C4B64FE50147228F6351EE5E7B4111" name="snowdown s34 westphal int 2.trx" dlsize="223752" size="899599" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="232423ACD3C9522E1E58EDE76D6A04FB3A638018" downloadHash="1CD77B8D11EF538BF98942E1945E17F7143322BE" name="snowdown s34 westphal int 2.trx" dlsize="276234" size="952928" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1560,7 +1560,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CB537943A8F362B7A1AA4DD9F6D914FBD750AE8A" downloadHash="FC77EAFE98266566DD1ACFECEE2A85138BC138D0" name="010_delightful diversions.trx" dlsize="109424" size="152555" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="275DDE1185CAE682B1934AD08B05B29D9C9B0DD3" downloadHash="322EFC1FFA44B05ABC7012CE0897DF97FC86167F" name="010_delightful diversions.trx" dlsize="107907" size="150826" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
