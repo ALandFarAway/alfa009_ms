@@ -915,7 +915,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1C37384F61107A38065BBFADC8479F4AA09EA092" downloadHash="332A1C8B967664FC660EECDD26B4B344A64A2AE7" name="oman k25 iron keep town.trx" dlsize="3713341" size="20374079" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3C3A91BFF575F82647760A5DCAF81857736E0C82" downloadHash="027081616CE5E0640686E2C7C6091B65DE031206" name="oman k25 iron keep town.trx" dlsize="3709463" size="20396471" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1085,7 +1085,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8E8564ED9C177807DA082E4991D4B63FF12FEBF1" downloadHash="CB20B18DB1650E4519FB770F1D998F932D11C727" name="gwynneth l34 corwell interiors.trx" dlsize="258908" size="262040" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8BE3EB5EF70DE3F4BB314C2995E7C5D23B101AC0" downloadHash="F08435C5CB1A2CCD62A97E9E8C308C1C7C4E7C5E" name="gwynneth l34 corwell interiors.trx" dlsize="256953" size="259816" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
