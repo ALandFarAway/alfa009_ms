@@ -495,7 +495,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="50AEF647C00BCB1A9C5AA36F4C7AB582B41101FC" downloadHash="1FA418401A61EC700AD9D20F959A522D5DC98AEE" name="oman k25 iron keep interiors.trx" dlsize="252900" size="343472" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9730709E5704DC4D885FF659D5E4615A3DEDA649" downloadHash="B3997355326D719ADD14D5DDF65F82295A4F3C49" name="oman k25 iron keep interiors.trx" dlsize="281118" size="371950" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -755,7 +755,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F9C216FAD153F2495A1F9A6157BF704AA73AFD72" downloadHash="9CEC0711DA0E620D848C8639D9CC5E15E9B1C509" name="gwynneth lowhill interiors.trx" dlsize="434074" size="573505" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="04C17F4BEA6DFAAC31698348CFE77802F33417E3" downloadHash="10503BE0C2961DCAF03DBB4EC591C5A55D71FAD2" name="gwynneth lowhill interiors.trx" dlsize="436702" size="576023" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -915,7 +915,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BC5F97BA2BBFBAB355D1A38551616F6A662178A1" downloadHash="8B0F6BAC4804F31BBB9236B0229D59D9CB702DE3" name="oman k25 iron keep town.trx" dlsize="3680091" size="20385147" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1C37384F61107A38065BBFADC8479F4AA09EA092" downloadHash="332A1C8B967664FC660EECDD26B4B344A64A2AE7" name="oman k25 iron keep town.trx" dlsize="3713341" size="20374079" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1070,7 +1070,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="EE84CD79C28A813513FB8DCBF62724804E4D7298" downloadHash="AC97FB213ECD8CC22FF5DF35AF62943140813424" name="gwynneth p33 kingsbay interiors.trx" dlsize="86701" size="87883" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4C40032F9A781303E25F95FDC50332E4030E85C6" downloadHash="76CD744BE72F246F22EC4A0D3B855624515EB11B" name="gwynneth p33 kingsbay interiors.trx" dlsize="85557" size="86673" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
