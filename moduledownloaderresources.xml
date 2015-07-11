@@ -495,7 +495,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9730709E5704DC4D885FF659D5E4615A3DEDA649" downloadHash="B3997355326D719ADD14D5DDF65F82295A4F3C49" name="oman k25 iron keep interiors.trx" dlsize="281118" size="371950" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="71BD55482C7EAE81EE57AF7FAFB4C05B697B5063" downloadHash="D5C01C94D768705CFADE01FE7C8F414D5A758884" name="oman k25 iron keep interiors.trx" dlsize="271097" size="362154" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1300,7 +1300,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0D0905E9D0131D3B5A1A04BCD56A1E30C04D6113" downloadHash="3961C5183ADE6C23F18A37810A051B9FAC616BDD" name="alaron q25a regents field.trx" dlsize="2115168" size="12391957" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="19F3338C0DA6A14DE616A34B5D2303CDE8085FDF" downloadHash="DC53707334C81F7DF5117C10B219D40D60ED5433" name="alaron q25a regents field.trx" dlsize="2217056" size="12485752" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
