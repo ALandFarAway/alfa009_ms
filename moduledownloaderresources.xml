@@ -855,7 +855,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4AEC6D0945F99FF7CA811E87938CA3B06B3406D0" downloadHash="FF75B5C4C280525581F425B297EFCEF4191AF027" name="gwynneth quest areas.trx" dlsize="188035" size="457933" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C8230EBB6BECA0172CD6ED7A40EA282A76693DD6" downloadHash="76B23C919123B19904DE3793E79391700376ED13" name="gwynneth quest areas.trx" dlsize="188697" size="457932" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1300,7 +1300,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="19F3338C0DA6A14DE616A34B5D2303CDE8085FDF" downloadHash="DC53707334C81F7DF5117C10B219D40D60ED5433" name="alaron q25a regents field.trx" dlsize="2217056" size="12485752" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C612240D6CC9329E07D3A7CD6F6F92A5910B49E1" downloadHash="500BB568C63E66669E519FDA63C3F1FAB9DE881F" name="alaron q25a regents field.trx" dlsize="2220380" size="12489759" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
