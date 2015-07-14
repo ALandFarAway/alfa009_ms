@@ -1300,7 +1300,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C612240D6CC9329E07D3A7CD6F6F92A5910B49E1" downloadHash="500BB568C63E66669E519FDA63C3F1FAB9DE881F" name="alaron q25a regents field.trx" dlsize="2220380" size="12489759" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="14F1ADBFF854A62296BAD0DD67C3252EBB29C98E" downloadHash="2A9F8A6925552C19D88661C8EF9E8B73F4D9039E" name="alaron q25a regents field.trx" dlsize="2325179" size="12590705" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1455,7 +1455,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="41B486F4ED279453727E1C0B0191932CEC5DE9A8" downloadHash="E77A93903434F094F7964FBDEDA9470ED06FB438" name="gwynneth p34 cantrev horstall.trx" dlsize="1893366" size="12896112" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="02D89A9EF6CBB774042EDE16E59FDB5B50154DA9" downloadHash="6DDB16C25B6EB4C6D64D2C0A6E764851F4FA7389" name="gwynneth p34 cantrev horstall.trx" dlsize="1908265" size="12881236" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
