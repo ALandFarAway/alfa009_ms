@@ -1300,7 +1300,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="14F1ADBFF854A62296BAD0DD67C3252EBB29C98E" downloadHash="2A9F8A6925552C19D88661C8EF9E8B73F4D9039E" name="alaron q25a regents field.trx" dlsize="2325179" size="12590705" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FCCE40533A7B0B4E57B89A59C86099BE0299380C" downloadHash="693041B1D8BE521D2D5A645393C2E4F4A14897BB" name="alaron q25a regents field.trx" dlsize="2459592" size="12721302" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>

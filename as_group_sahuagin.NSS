@@ -70,7 +70,7 @@ void main() {
         240.0,  // 240 degrees, put this one at 8 o'clock.
         6.0,    // Six meters out, so the radius of the circle is 6m.
         60.0); // Turned 180 + 240 degrees, so it faces the center.
-    ACR_SpawnObjectAtLocation("abr_cr_hu_orcbasher02", OBJECT_TYPE_CREATURE, lLoc);
+    ACR_SpawnObjectAtLocation("abr_cr_sahuagin00", OBJECT_TYPE_CREATURE, lLoc);
 	
     // Now lets say we have 3 possible leaders for this group of thugs. We want
     // to randomly select one of them.
