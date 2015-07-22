@@ -550,7 +550,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7ECA485BE22682A26651B39E5D12D031658D6A99" downloadHash="832CDDC9FC1B619CCB11D43B19B93D553E279441" name="alaron q22 c callidyrr west.trx" dlsize="2837870" size="17289258" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FEA2ACC3A6BFC663D614059ACDCD58F78193544E" downloadHash="2B9236D4598B41B7B9A790FDF5FF2F455E552E71" name="alaron q22 c callidyrr west.trx" dlsize="2877703" size="17330109" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -700,7 +700,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0C788B86512A5170A419CDADBB525DF69582373E" downloadHash="6D5DA6A1E02DE10DEF65FB55384BEE9ACC4FF931" name="alaron q22_callidyrr temples int.trx" dlsize="218569" size="263103" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="25B32C8DA804F76033C40997AA1F7D5616DA41A1" downloadHash="F89161B081706E164E7FD9440FAAFAC651FFC418" name="alaron q22_callidyrr temples int.trx" dlsize="298898" size="345361" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -855,7 +855,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C8230EBB6BECA0172CD6ED7A40EA282A76693DD6" downloadHash="76B23C919123B19904DE3793E79391700376ED13" name="gwynneth quest areas.trx" dlsize="188697" size="457932" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0FDB3067BF288D8728010894EE2D1E9CF427B589" downloadHash="556CE43BEC94C196CC493AB4B2D449D84621F767" name="gwynneth quest areas.trx" dlsize="190658" size="460928" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1230,7 +1230,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="91929AADC8E1AECE607317C134E659B8716B8BE3" downloadHash="853712AFF838B640C000B502892C4B8EF5F65C68" name="dwyvach g i36 salt flats.trx" dlsize="2951495" size="15955546" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A2FFB4AEFA1EA5BDE844E77B8EB897E3B073696D" downloadHash="42919B4224C78C5BF17A05AB4121F6C4EAED38C5" name="dwyvach g i36 salt flats.trx" dlsize="2960403" size="15960091" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1570,12 +1570,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2B2E11CE0B10825E2D50660DBFEC406524E71B26" downloadHash="306F1CF826FFFB543C89B43CDDB5145E73F5E5A2" name="alaron s23w rillifane run int.trx" dlsize="325909" size="419980" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="146D68FBAB0000D6006F9AAA1A557507D85F5BB7" downloadHash="F3434A1DCE99A6DAC8181C5547EC9E4D827C7C34" name="alaron s23w rillifane run int.trx" dlsize="323171" size="417131" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="201F10D9E5C8BC81B9089E8F2089C6E3E97E33F1" downloadHash="30364A749AD761C231FF36DD9B0EE5048069345B" name="alaron s24w torriage wood.trx" dlsize="5554549" size="24107991" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1BAED4CFEC227507CF4F2C701D8C7C4AE613C66E" downloadHash="0D44F02FD54A321A30E5035771FB86A6ED79B709" name="alaron s24w torriage wood.trx" dlsize="5526636" size="24111360" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1585,7 +1585,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8F93E071CD977A956D30D899C21B287B0E696B8B" downloadHash="939CEE90C32DFAA1D481C711C8E286B107AA37A4" name="alaron s23w rillifanes run.trx" dlsize="1706246" size="11374505" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C7473AE50067578FA7A9BA95265BAA652C8CEE97" downloadHash="E3AD487FB5DB3F212B7E66520B9CAA43DC2DD3DE" name="alaron s23w rillifanes run.trx" dlsize="1725457" size="11395652" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1605,7 +1605,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6CE2041F188602328AD85CD6EBA23181B45319F8" downloadHash="3E426FD65DC597056DD127C0BAB5BF14469CC1E4" name="gwynneth i37 wyngate cantrev.trx" dlsize="2354336" size="14778377" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DAA16109B17769CB76FEC721A51FB48B006060A8" downloadHash="05164654A4092AD85CE8995779F029F20DDE3C2C" name="gwynneth i37 wyngate cantrev.trx" dlsize="2438035" size="14864388" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1630,7 +1630,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="808195F1168DC84FE37B715CF6D0041BD1826062" downloadHash="10FDC36ED9DF9A686389D5F2053FFEAF200716CA" name="alaron q22 callidyrr housing.trx" dlsize="130166" size="264409" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="934E0443F08AD380FFC63C26F593FD3905355723" downloadHash="FD2FD1FDE986EDB1505FD41FDE0DE9BF0CD0A3A5" name="alaron q22 callidyrr housing.trx" dlsize="145284" size="324366" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
