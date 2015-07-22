@@ -1230,7 +1230,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A2FFB4AEFA1EA5BDE844E77B8EB897E3B073696D" downloadHash="42919B4224C78C5BF17A05AB4121F6C4EAED38C5" name="dwyvach g i36 salt flats.trx" dlsize="2960403" size="15960091" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D569F850C231C2480E313357C10E4D4610D6AD2E" downloadHash="2A1D6582D8DF158C8C62B7182D9AC7B6FDB21216" name="dwyvach g i36 salt flats.trx" dlsize="2956790" size="15967821" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1605,7 +1605,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DAA16109B17769CB76FEC721A51FB48B006060A8" downloadHash="05164654A4092AD85CE8995779F029F20DDE3C2C" name="gwynneth i37 wyngate cantrev.trx" dlsize="2438035" size="14864388" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6F32E040A37A05886BA3749AE9DF9D413ACB89EC" downloadHash="C7E220F7839D94D4CDE16BE8EF88AE2203A48882" name="gwynneth i37 wyngate cantrev.trx" dlsize="2314313" size="14749522" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
