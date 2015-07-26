@@ -220,7 +220,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0378A71DF6C2A7C06DBEC0CD482C17E21A6C44EC" downloadHash="223A197E718F208C760E6E0A6CD8D42C99F247AC" name="alaron q22 c callidyrr east.trx" dlsize="3563409" size="19112017" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1F0CC3AA88D6F37402640DCA62D9F3003A123E46" downloadHash="96E61904CB592C7FC0A94D71627048DB78BA3F18" name="alaron q22 c callidyrr east.trx" dlsize="3563223" size="19112094" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -280,7 +280,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1AB38A85037B1B558149B4BA0CA5E1B8CD00B4A3" downloadHash="D93F249B84CE54C0DA5163BB365F5E05FDDB6CBE" name="skaug b4.trx" dlsize="1663475" size="10055116" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1D4803564390E1C1D59FAEB05AABB5BD6274DB70" downloadHash="6D8AFD9678F9BCECDED6C368AA5070D545E07148" name="skaug b4.trx" dlsize="1622119" size="10016782" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -480,7 +480,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="960D738949E6BE94168E4429D02155CCD898A06A" downloadHash="7396350033FD460F17188FB9D6D5A4E33B0E1F3C" name="skaug b5.trx" dlsize="2488004" size="12893270" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6572163C697AAFE7DD5EBDFD942403B52FB05DAF" downloadHash="723D95F9CFC6FDBD51992C857250963027B5F881" name="skaug b5.trx" dlsize="2488243" size="12893342" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -495,7 +495,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="71BD55482C7EAE81EE57AF7FAFB4C05B697B5063" downloadHash="D5C01C94D768705CFADE01FE7C8F414D5A758884" name="oman k25 iron keep interiors.trx" dlsize="271097" size="362154" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9761EBEAC87205EC886E0B6F3DD0F42E5A049015" downloadHash="0D51BA474DDCBD3CCD27B071D64C8CAB6C7DE8A0" name="oman k25 iron keep interiors.trx" dlsize="271292" size="362322" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -550,7 +550,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FEA2ACC3A6BFC663D614059ACDCD58F78193544E" downloadHash="2B9236D4598B41B7B9A790FDF5FF2F455E552E71" name="alaron q22 c callidyrr west.trx" dlsize="2877703" size="17330109" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FA2284B593C5D4494E7DAA27C8B36DD4D6FD606A" downloadHash="6A927FE306F9089A29626C2E8423A7C25EEA6D93" name="alaron q22 c callidyrr west.trx" dlsize="2891275" size="17330152" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -700,7 +700,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="25B32C8DA804F76033C40997AA1F7D5616DA41A1" downloadHash="F89161B081706E164E7FD9440FAAFAC651FFC418" name="alaron q22_callidyrr temples int.trx" dlsize="298898" size="345361" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6F8D628FFCAD35D3318E403B4614DDBB25A8DF6D" downloadHash="3515E80F8F31B95ABCACD3DFB69BCFFDB2B37602" name="alaron q22_callidyrr temples int.trx" dlsize="288148" size="334600" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -815,7 +815,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4390CD1096B76779E1D2EFF62FB0174D79AFF0FC" downloadHash="1D46259E25E3131298904C66A658A6C88133C2A7" name="skaug c4.trx" dlsize="1560218" size="10068132" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5D31473E4F6F9E77D687EB49A0DFAD49B3280A88" downloadHash="2806FF35B7A60E62F05348DF2F8AF38FC8BE3507" name="skaug c4.trx" dlsize="1523861" size="10035744" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1150,7 +1150,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6AF6DB32BC320D8D4BD12A472B1C3C43C98A0B17" downloadHash="04B31B2DC2AFDDC8CF24D2B3775B0AF1ECA1F16F" name="alaron q22 inns n taverns 2.trx" dlsize="192733" size="236592" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A97A17081C12EA480A060555435D764154840EDE" downloadHash="227E1FB90E4826D5A0C8B626DC113B0353AF2068" name="alaron q22 inns n taverns 2.trx" dlsize="311110" size="356331" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1570,7 +1570,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="146D68FBAB0000D6006F9AAA1A557507D85F5BB7" downloadHash="F3434A1DCE99A6DAC8181C5547EC9E4D827C7C34" name="alaron s23w rillifane run int.trx" dlsize="323171" size="417131" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="427D2290977F07A896EA2B754AA8548002E54F6A" downloadHash="44D79E2DF7567ADCE81F0448E540025297DA1DE7" name="alaron s23w rillifane run int.trx" dlsize="334884" size="428021" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1585,7 +1585,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C7473AE50067578FA7A9BA95265BAA652C8CEE97" downloadHash="E3AD487FB5DB3F212B7E66520B9CAA43DC2DD3DE" name="alaron s23w rillifanes run.trx" dlsize="1725457" size="11395652" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4F0CA4733FAD7E64414F59476C2E843FBFEDC509" downloadHash="992941FDE6AFA449C0AD23506279E9DBB0C48015" name="alaron s23w rillifanes run.trx" dlsize="1739066" size="11395652" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1595,12 +1595,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="77AC1535D4F0411E8FBF991D70B9F7FBAB29D569" downloadHash="4786361E47EDA250BF8521325050111A4E4BD61E" name="skaug port east.trx" dlsize="2497834" size="16890516" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1C9F32D472A8E2D23D66E8F7800D4A859628AC28" downloadHash="BBAB12A5CB99D91ACE0D29C31B32049B44512B7F" name="skaug port east.trx" dlsize="2500985" size="16897000" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="EAE8AE43B79332302318E7D10B6C618E9A2A2AB3" downloadHash="F5CFAF51ED67B9DE5CBCB91659BA1DAC94ED2F95" name="skaug port west.trx" dlsize="2324128" size="16730881" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A5D0277CAB71DB3B01E2C0FD713CD3BDFDC97B8E" downloadHash="9A0ABE5D170772EB29207129FEAC687B9CC770FE" name="skaug port west.trx" dlsize="2327632" size="16726539" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1620,7 +1620,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="177BC9EB0371D9D591995203B6ABD98501BDD60F" downloadHash="A5BBE6A51DFBEE911AB5064D5DBFFED91D36D31A" name="alaron q22 callidyrr pot n paper.trx" dlsize="138543" size="226649" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="04F00446F4CD405E73F085B073F51E606E736F1D" downloadHash="6BDCC84597AD7F3503ADA36A3FB1916575B3EA19" name="alaron q22 callidyrr pot n paper.trx" dlsize="139239" size="227518" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1630,7 +1630,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="934E0443F08AD380FFC63C26F593FD3905355723" downloadHash="FD2FD1FDE986EDB1505FD41FDE0DE9BF0CD0A3A5" name="alaron q22 callidyrr housing.trx" dlsize="145284" size="324366" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="94F833E3CA1B3CD82AFE17BD04189BC17399616E" downloadHash="525ACF300F5D406FC40DD70A7CDF258B57A4AEA3" name="alaron q22 callidyrr housing.trx" dlsize="275943" size="545304" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1641,6 +1641,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="6DD97B4BB002957352B329BF0D42B4110FCA057F" downloadHash="074BBB601E89FC33600B7DF550E3BE16D75E792E" name="grp_sm_dbl_bed_wm1.UEN" dlsize="433" size="1223" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="11804D8DC0127C31BF67DEF7E6EA6FA0591C7E04" downloadHash="0957057603DEA2DF46D1E01E2B5E913050C4EC79" name="skaug b3  to skaug port.trx" dlsize="1847031" size="10179750" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
