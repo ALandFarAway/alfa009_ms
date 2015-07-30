@@ -260,7 +260,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C06FC2929B3E47B9E08EF9CC8C62876FDBC2AB3A" downloadHash="8FE92C50540284B611D067B9CAE8C69233431F2B" name="skaug temple.trx" dlsize="285468" size="290685" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2E30DA85C57BEDCC7DAD166624B9D27997BB1993" downloadHash="3927654E54F13EF59E046E8FCD7074EC9488D3AE" name="skaug temple.trx" dlsize="309802" size="314971" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1255,7 +1255,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9D1A0E6E3F6DB7B1072930E31551E14C366A11D2" downloadHash="8AF720C0596860FBE0A888A984CA5DC2839B5E3A" name="generic hell plane.trx" dlsize="1760340" size="17006513" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="75D13D411A817D44E8A4A4C446ADA26F794C789A" downloadHash="2DDA93D73DAA64075C70874EFCE432E6663BD37E" name="generic hell plane.trx" dlsize="2044547" size="17331147" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1595,12 +1595,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1C9F32D472A8E2D23D66E8F7800D4A859628AC28" downloadHash="BBAB12A5CB99D91ACE0D29C31B32049B44512B7F" name="skaug port east.trx" dlsize="2500985" size="16897000" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="04E94852B93B7451AFF1E30DA948E8BB377498F1" downloadHash="56A24C38F74D5AB06CDEF8717554137B0C11C2C5" name="skaug port east.trx" dlsize="2521835" size="16914615" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A5D0277CAB71DB3B01E2C0FD713CD3BDFDC97B8E" downloadHash="9A0ABE5D170772EB29207129FEAC687B9CC770FE" name="skaug port west.trx" dlsize="2327632" size="16726539" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="29761D7DC629AEFDB8A3EDA15001AD6EFC11CBF1" downloadHash="DA1578C8271D4EBEFBC9ADB73B133E70826AFF1C" name="skaug port west.trx" dlsize="2325495" size="16726535" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1610,7 +1610,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9D6B51EA5FC33BDE8E56AB3037BE8F74792C2E24" downloadHash="E1291B0959F71703A42321748BA79EB5ED4826E5" name="skaug residences.trx" dlsize="428115" size="431626" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="CAAA3A03BDE60FF0CD9F740C0E1D52F6FD8D590B" downloadHash="53CC6EE8B0E6A61A2358738141A44EE5A93657E5" name="skaug residences.trx" dlsize="427840" size="431318" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1646,6 +1646,21 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="11804D8DC0127C31BF67DEF7E6EA6FA0591C7E04" downloadHash="0957057603DEA2DF46D1E01E2B5E913050C4EC79" name="skaug b3  to skaug port.trx" dlsize="1847031" size="10179750" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="DB7992180D80DA73D6C8F113892571C9B61918F9" downloadHash="31012B50022CBE6874D06867CE7D1E6FD1C0A928" name="skaug d6 hill fort.trx" dlsize="1374217" size="10990659" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="8C77A83480F07A56A80B292EA276D3FE48494B4F" downloadHash="39F105AFA61F2988AA950987C5F77AC39F1CFC6D" name="skaug d6 hill fort int.trx" dlsize="141465" size="141912" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="B0F33269F91BC0577AE8F44916905B36AB88CF5D" downloadHash="433DD285DEE6ABC10AA3CFBA4ED5CC98F55F4D94" name="skaug slaver  int.trx" dlsize="36254" size="36587" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
