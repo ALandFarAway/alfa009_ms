@@ -56,4 +56,4 @@ void main(string sChatType, int nVariable){
 		 case 6: sS4 = "Kobold lover!"; break;
 		 case 7: sS4 = "weak shambling mound!"; break;
 		 case 8: sS4 = "pile of horse snott!"; break;
-		                  }	
+ }	

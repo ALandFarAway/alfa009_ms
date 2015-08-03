@@ -25,7 +25,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E0B02BC9F4F79B684DC0F5DA1826EA3CFE52DAE9" downloadHash="AE640A9EBDED1CD6D37FA41843784D27B4D7EF02" name="gwynneth n34 llyrath forest n.trx" dlsize="4519547" size="20857953" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E5C3FDF010D8D7C60ABEA65C630C42F1E8095F02" downloadHash="F3A4E105545AFFF72315611AA98687A1D7AAF096" name="gwynneth n34 llyrath forest n.trx" dlsize="4541936" size="20887912" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -250,7 +250,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="25BEF3DD83CC9F5F48DDF14C63B62E51E11B3A64" downloadHash="689DA606AF0340017AFC7304F5FF660E446778BE" name="alaron q22 callidyrr int 2.trx" dlsize="322795" size="729947" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="07E49EF3A34614A3CF005C3BBD7894C2718A12AC" downloadHash="3071301124847F42AFEE1BF6246F201D20F9B6C5" name="alaron q22 callidyrr int 2.trx" dlsize="314674" size="720595" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -550,7 +550,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FA2284B593C5D4494E7DAA27C8B36DD4D6FD606A" downloadHash="6A927FE306F9089A29626C2E8423A7C25EEA6D93" name="alaron q22 c callidyrr west.trx" dlsize="2891275" size="17330152" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="656FB90675D3A89D9BCEE1073165120CCEC16259" downloadHash="7708E96D8DAD2FD72F4885452B28B94F09E17B13" name="alaron q22 c callidyrr west.trx" dlsize="2873646" size="17317063" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1395,7 +1395,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="ACCD1A22F58E555F9933AF6A8D71E2BAC9A5B713" downloadHash="14A2AE87336FFDFD0A1113C1123CFCC7C4519242" name="gwynneth l34 corwell town.trx" dlsize="5179115" size="27173404" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F5453EFA3D907E4DBB49CF9F13025B5BEA3402D2" downloadHash="5441BFA637CD3226CC52F6E097910FA4DA035D8F" name="gwynneth l34 corwell town.trx" dlsize="5175188" size="27175625" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1605,7 +1605,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6F32E040A37A05886BA3749AE9DF9D413ACB89EC" downloadHash="C7E220F7839D94D4CDE16BE8EF88AE2203A48882" name="gwynneth i37 wyngate cantrev.trx" dlsize="2314313" size="14749522" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1E2C88CB445577B7220BB0DA2B5B20ED05F504A7" downloadHash="C404EA0D2F331FCED38ECE5576B472F627F100E5" name="gwynneth i37 wyngate cantrev.trx" dlsize="2316843" size="14752287" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1661,6 +1661,26 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="B0F33269F91BC0577AE8F44916905B36AB88CF5D" downloadHash="433DD285DEE6ABC10AA3CFBA4ED5CC98F55F4D94" name="skaug slaver  int.trx" dlsize="36254" size="36587" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="BD817D031F49ABA545C87F18DAF8A27588AB8F88" downloadHash="EB7A1C9C48C8D5E6062FE937C8B79294B6F10CD1" name="wyngt_corwell_ferry.trx" dlsize="152515" size="6488239" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="3043AEE2BE9F2BB79E61F7EAE9D06F611DCCAD2E" downloadHash="46F35BAA4AC9054770BBE020157488E04272CDFC" name="skaug a4 smugglers cove.trx" dlsize="1010349" size="1028055" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="917421E209335659266F398C723FDFA6C8E062D2" downloadHash="D9445EB3571C2581FFADB6CFA6EA16097E4268A3" name="ck_bg_ship_ext.trx" dlsize="141514" size="6486057" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="2D5DCF93D2387AB7EAA5DC640E7D881A7B88B446" downloadHash="27B9901A43B6893132A1EE6F4C91DBB9ED1BAEF5" name="skaug b2 cave barrow.trx" dlsize="352794" size="577097" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
