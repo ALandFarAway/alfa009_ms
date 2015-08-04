@@ -1685,4 +1685,9 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="66E1C3D2E6971533F12CB27B4865B1E28B94A5C0" downloadHash="2D1D5B5DFA29258E8217D8A4B7C2D23583FB565D" name="gwynneth n35 llyrath forest s.trx" dlsize="2388880" size="14856602" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
 </content>
