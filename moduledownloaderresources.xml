@@ -1630,7 +1630,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="94F833E3CA1B3CD82AFE17BD04189BC17399616E" downloadHash="525ACF300F5D406FC40DD70A7CDF258B57A4AEA3" name="alaron q22 callidyrr housing.trx" dlsize="275943" size="545304" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BE0C1C00F543ABAD46B4EAAFF73726D0860D3667" downloadHash="06B4683760C2D4F60B73865F5D20B03C14C2C6AF" name="alaron q22 callidyrr housing.trx" dlsize="275001" size="544776" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1686,6 +1686,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="66E1C3D2E6971533F12CB27B4865B1E28B94A5C0" downloadHash="2D1D5B5DFA29258E8217D8A4B7C2D23583FB565D" name="gwynneth n35 llyrath forest s.trx" dlsize="2388880" size="14856602" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="00AAEADF2CFEC168741738DFF64669EC888A32C6" downloadHash="9F2B12B178033A8456367C7D11826BA675CE4165" name="template_ferry.trx" dlsize="158888" size="6492546" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
