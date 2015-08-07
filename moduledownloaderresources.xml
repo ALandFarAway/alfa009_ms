@@ -1395,7 +1395,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F5453EFA3D907E4DBB49CF9F13025B5BEA3402D2" downloadHash="5441BFA637CD3226CC52F6E097910FA4DA035D8F" name="gwynneth l34 corwell town.trx" dlsize="5175188" size="27175625" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B508BBE78CC7C96D677859D0937C4E88FF59C90D" downloadHash="773A00064CDC11946631EDA25DE83EAD303F3D02" name="gwynneth l34 corwell town.trx" dlsize="5175263" size="27176732" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1630,7 +1630,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BE0C1C00F543ABAD46B4EAAFF73726D0860D3667" downloadHash="06B4683760C2D4F60B73865F5D20B03C14C2C6AF" name="alaron q22 callidyrr housing.trx" dlsize="275001" size="544776" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7073EE94206B1BD9D1DCFF5E98CA1AE0A4D0D709" downloadHash="6E6192D6FC3F8A65743D05DDF19ED3163789F57D" name="alaron q22 callidyrr housing.trx" dlsize="291883" size="562866" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
