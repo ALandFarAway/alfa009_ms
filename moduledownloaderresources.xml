@@ -435,7 +435,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="30F6124E99C69708B0C3312739516DEE71C7F6D5" downloadHash="36F06CB030F273E44561A0ADE2A0D193A295128A" name="alaron q22 c callidyrr cstl int.trx" dlsize="358167" size="673852" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="707C23A48071B757DFDA1547AE4D96368116FEDD" downloadHash="5B8225597D1C7DFFF436D59B590B5C6B9876DF77" name="alaron q22 c callidyrr cstl int.trx" dlsize="360514" size="676090" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -560,7 +560,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9D2907CFCE094A5D3A8C47EE521FB8F548546C47" downloadHash="F58FBF3C0B13913B610D4EF41E9B08518E894B6A" name="alaron q22 c callidyrr cstl ext.trx" dlsize="2408974" size="12739351" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E4849728ABDF0550C2965559684FE352BC0EABE4" downloadHash="08956E265A48253B1669945C9DD509D1FD968059" name="alaron q22 c callidyrr cstl ext.trx" dlsize="2434019" size="12762896" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1605,7 +1605,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1E2C88CB445577B7220BB0DA2B5B20ED05F504A7" downloadHash="C404EA0D2F331FCED38ECE5576B472F627F100E5" name="gwynneth i37 wyngate cantrev.trx" dlsize="2316843" size="14752287" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0292BDE6563DFEFCBE47D327D4F24AE183CBC32E" downloadHash="7997B5905A311F0603DA9B7C3A527BC82414B9BF" name="gwynneth i37 wyngate cantrev.trx" dlsize="2369547" size="14762852" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1660,7 +1660,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B0F33269F91BC0577AE8F44916905B36AB88CF5D" downloadHash="433DD285DEE6ABC10AA3CFBA4ED5CC98F55F4D94" name="skaug slaver  int.trx" dlsize="36254" size="36587" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DC8A077CEA05B8C26BF978D560452FE1BCB71FBD" downloadHash="21FA233062CFF61DF0BEB6873792DACAB1EE53F3" name="skaug slaver  int.trx" dlsize="65922" size="66650" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
