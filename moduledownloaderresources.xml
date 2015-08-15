@@ -1150,7 +1150,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A97A17081C12EA480A060555435D764154840EDE" downloadHash="227E1FB90E4826D5A0C8B626DC113B0353AF2068" name="alaron q22 inns n taverns 2.trx" dlsize="311110" size="356331" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6602DFA58559963FDE5E15DBE103BE7DE04587C0" downloadHash="F1520450C7AC50831375C342F1A56124B4D06892" name="alaron q22 inns n taverns 2.trx" dlsize="311947" size="357121" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1691,6 +1691,16 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="00AAEADF2CFEC168741738DFF64669EC888A32C6" downloadHash="9F2B12B178033A8456367C7D11826BA675CE4165" name="template_ferry.trx" dlsize="158888" size="6492546" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="2F7F2CB3382D6D83D64A39D05A9538B2D4A6778A" downloadHash="97C907D2177ED67BCEEC17A7958A3214AF183729" name="gwynneth p33 kingsbay silver sal.trx" dlsize="199039" size="242879" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="6D54165B181B4C02BC614D1D5B8A3B487859C980" downloadHash="05BE5D7851778EFD15DC84B15E8A18D2B789612D" name="wd dock_south ward 4h.trx" dlsize="1703531" size="12829426" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
