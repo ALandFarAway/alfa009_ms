@@ -525,7 +525,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A67186B759472F1CD82AB03B24CE50D62456597E" downloadHash="C8B1B55A4BF7B8C08293320D6B3074BBA77612D5" name="gwynneth k34 cantrev dynnatt.trx" dlsize="5057506" size="23685080" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F0972FF9B76A91A0BF8E78F13D82D9915E88976D" downloadHash="F9787DDF86C924E398AD85BE4F089FF71688853E" name="gwynneth k34 cantrev dynnatt.trx" dlsize="5077553" size="23679470" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -950,7 +950,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A452A76580A8D3B823E90968D9B935CB3FAC0623" downloadHash="9769E97C9B143A3F995C9D39A9AFCC2B3299CAD6" name="gwynneth l30 myrloch vale.trx" dlsize="7925651" size="41593216" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="05B73807F847B0A69345A293D4D5EF167BCF7D5D" downloadHash="BF3A0ED306D072D8E0FCE640562BBEB22FCDF874" name="gwynneth l30 myrloch vale.trx" dlsize="7900955" size="41586118" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1135,7 +1135,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="45AB6BF44C2E3980AAC8E25453B023589612BE45" downloadHash="9ACCCB5AE716B607FC46571A2CEE9F68407FBE69" name="norheim il. dragon caves level 4.trx" dlsize="299043" size="1932595" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E89F0E48776CEA3E85567E71F368FFDF947EF187" downloadHash="321046AC1F0B9BEF491E9BDBBA3A54A1002BF79D" name="norheim il. dragon caves level 4.trx" dlsize="256322" size="1891797" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1700,7 +1700,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6D54165B181B4C02BC614D1D5B8A3B487859C980" downloadHash="05BE5D7851778EFD15DC84B15E8A18D2B789612D" name="wd dock_south ward 4h.trx" dlsize="1703531" size="12829426" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9C1BCC1A9714014AF771CBE9A7FFF7E1DFD7F55A" downloadHash="2A168B83ED4D5EEEF0170947D89A96A007618160" name="wd dock_south ward 4h.trx" dlsize="1699897" size="12823916" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
