@@ -1705,4 +1705,19 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="7360164AFE90072D4336CF0254EFE634ABD368A2" downloadHash="F9AF7F642369BAA884EE3E38E0AF3A6514371D74" name="wd 4h dock_south ward.trx" dlsize="1889436" size="13272431" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="68099558DCB89B8B6A88A621CE53D3DE1F5D087A" downloadHash="1500E14FB60A97A99DF96C3A12954859121BE7F7" name="wd 4h dock_south ward int.trx" dlsize="215629" size="217953" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="8505A7E7BA57449493C83CAF632CE54D3719679C" downloadHash="743393777EE3534A7056D9A6FC4A14C09F1C1442" name="wd 4h dock_south ward inns.trx" dlsize="622818" size="1166415" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
 </content>
