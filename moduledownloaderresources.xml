@@ -220,7 +220,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1F0CC3AA88D6F37402640DCA62D9F3003A123E46" downloadHash="96E61904CB592C7FC0A94D71627048DB78BA3F18" name="alaron q22 c callidyrr east.trx" dlsize="3563223" size="19112094" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="AEF8F92F32E9411FE2CD1B3BA0E169DFCF84D2BF" downloadHash="3C75AC292908EE47E46C6A71B4F701C6C618ED83" name="alaron q22 c callidyrr east.trx" dlsize="3564551" size="19110440" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -480,7 +480,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6572163C697AAFE7DD5EBDFD942403B52FB05DAF" downloadHash="723D95F9CFC6FDBD51992C857250963027B5F881" name="skaug b5.trx" dlsize="2488243" size="12893342" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8C21F00E842DB077ADDFE3CD18438EA1D22967B7" downloadHash="D97A75BC5FD9CD3F41C90B22960EEBBD913DCC9D" name="skaug b5.trx" dlsize="2484199" size="12893342" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -705,7 +705,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9B6E9552877220F50762AE1B14B55067FA9C0275" downloadHash="2E7CD9562C8BCA10443DE8B7226891BB21623DFA" name="skaug d4.trx" dlsize="1834842" size="10538277" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E7FE263F674526C1B27970BC06D445B567216EBB" downloadHash="FF1B2F97AC160A7FA1150EDCD98CF22C5A438177" name="skaug d4.trx" dlsize="1827296" size="10526157" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -815,7 +815,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5D31473E4F6F9E77D687EB49A0DFAD49B3280A88" downloadHash="2806FF35B7A60E62F05348DF2F8AF38FC8BE3507" name="skaug c4.trx" dlsize="1523861" size="10035744" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="71C2E9E7C4A1157268C7D42A188BF53DA6A2C84C" downloadHash="073105C2C3F81FB6CE8779E2A16C06DBFFF17321" name="skaug c4.trx" dlsize="1530009" size="10036586" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1180,7 +1180,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E53DFB1E063FFA3736EF2281DBBEFBB1A113F36A" downloadHash="B54B9BA5BC01184DFAA643B2085D9E89E37BBE0F" name="skaug d3.trx" dlsize="1430627" size="10359496" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A2E9FF8276635630A887E6E35571C518085967F3" downloadHash="A7538A525814DBF349640E79C89ABD3317BD4599" name="skaug d3.trx" dlsize="1431250" size="10355117" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1205,7 +1205,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C1BF2FB81F85A626CE78C948549721EA4BB2FB14" downloadHash="E821EF7EAF6F3CDFE9F6BDD990F366DD1200A8E5" name="alaron q22 callidyrr interiors.trx" dlsize="503615" size="595331" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D4CE9E19832A5EE0E86B9B8055E065ED878381D1" downloadHash="F0219078E9E645F815B3A1E4EA633813497E7D1C" name="alaron q22 callidyrr interiors.trx" dlsize="522528" size="614608" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1650,7 +1650,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DB7992180D80DA73D6C8F113892571C9B61918F9" downloadHash="31012B50022CBE6874D06867CE7D1E6FD1C0A928" name="skaug d6 hill fort.trx" dlsize="1374217" size="10990659" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="82071BE1D38DA5A2BD6676EF3B6BB4B875DD31D6" downloadHash="F9924EF2B1041A5F28FF8041C51B7F5342D2E3B8" name="skaug d6 hill fort.trx" dlsize="1354461" size="10962375" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1705,17 +1705,42 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7360164AFE90072D4336CF0254EFE634ABD368A2" downloadHash="F9AF7F642369BAA884EE3E38E0AF3A6514371D74" name="wd 4h dock_south ward.trx" dlsize="1889436" size="13272431" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D28F63DB10D033325BBEA9B67AEF53356C8A035F" downloadHash="AF52123B7184A93C7FD4D6C8B535F6B374AAC7A2" name="wd 4h dock_south ward.trx" dlsize="1892214" size="13275804" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="68099558DCB89B8B6A88A621CE53D3DE1F5D087A" downloadHash="1500E14FB60A97A99DF96C3A12954859121BE7F7" name="wd 4h dock_south ward int.trx" dlsize="215629" size="217953" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="80E259AF90EF0C67DAA5C79F5EF44C38A38A0E8C" downloadHash="4DA838D0276DBC2318650A06554894C2A66BDED8" name="wd 4h dock_south ward int.trx" dlsize="237131" size="281666" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="8505A7E7BA57449493C83CAF632CE54D3719679C" downloadHash="743393777EE3534A7056D9A6FC4A14C09F1C1442" name="wd 4h dock_south ward inns.trx" dlsize="622818" size="1166415" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="E3CCCE847D500D4B0CA0C63FFC19F0A858064EC8" downloadHash="45D135F32A77319A93B1E74176B5609EBB691535" name="skaug d4 jagged cave.trx" dlsize="171566" size="171885" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="38F04C8658BFF284A3E62F2BEF2956877BF3E081" downloadHash="CB5F3D2818868F7335759BE13E96DE71A4ADE3F7" name="skaug b2 shipwreck.trx" dlsize="1938103" size="12043584" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="ACE3E34820BF465BCF814B610260FDF28B3891F9" downloadHash="248B23E1F8EFCCFF55CE10C3ED85B9365545FB1A" name="skaug c4 forgotten temple.trx" dlsize="271181" size="3303422" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="835C02D91CE3154615E647BF333635D4DABB61C3" downloadHash="13794DD13986113D875A8449F833CBAA3D7F70F8" name="skaug port east slaver  int.trx" dlsize="319792" size="323555" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="3260B1C3BE8FAFE111D709126750BB80CC4816AE" downloadHash="3AEC74A9C1B60197146617DA65803CD883BC067B" name="skaug b6 lighthouse.trx" dlsize="1294257" size="10862029" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
