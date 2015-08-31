@@ -1595,7 +1595,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="04E94852B93B7451AFF1E30DA948E8BB377498F1" downloadHash="56A24C38F74D5AB06CDEF8717554137B0C11C2C5" name="skaug port east.trx" dlsize="2521835" size="16914615" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="438E45D15B6893B97FA1036662D3A3F3D507D7C5" downloadHash="B0F13115FC1E3405C652C42F1CCB22161D19939E" name="skaug port east.trx" dlsize="2678122" size="17067669" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1735,12 +1735,17 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="835C02D91CE3154615E647BF333635D4DABB61C3" downloadHash="13794DD13986113D875A8449F833CBAA3D7F70F8" name="skaug port east slaver  int.trx" dlsize="319792" size="323555" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="830DA8A1905872F681EFE63386EAD223F5AB20D3" downloadHash="6274F243D7849CD0DB04AF7443E0FC4260E27A27" name="skaug port east slaver  int.trx" dlsize="307467" size="311439" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="3260B1C3BE8FAFE111D709126750BB80CC4816AE" downloadHash="3AEC74A9C1B60197146617DA65803CD883BC067B" name="skaug b6 lighthouse.trx" dlsize="1294257" size="10862029" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="2E30DA85C57BEDCC7DAD166624B9D27997BB1993" downloadHash="3927654E54F13EF59E046E8FCD7074EC9488D3AE" name="skaug temples.trx" dlsize="309802" size="314971" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
