@@ -1730,7 +1730,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="ACE3E34820BF465BCF814B610260FDF28B3891F9" downloadHash="248B23E1F8EFCCFF55CE10C3ED85B9365545FB1A" name="skaug c4 forgotten temple.trx" dlsize="271181" size="3303422" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F2375B1F9DE862EF6B035EF67B345A058619E6CA" downloadHash="43328C1AA337BB9B851AAEC0B401A9935048729E" name="skaug c4 forgotten temple.trx" dlsize="270455" size="3301789" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
