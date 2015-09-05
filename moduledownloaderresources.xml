@@ -700,7 +700,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6F8D628FFCAD35D3318E403B4614DDBB25A8DF6D" downloadHash="3515E80F8F31B95ABCACD3DFB69BCFFDB2B37602" name="alaron q22_callidyrr temples int.trx" dlsize="288148" size="334600" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0B1BBE2BCAE61A2F2A2B2B6AAF42915E4FAFB1C8" downloadHash="DA9B7582E6E8CD1615734CDBFEE4988DC04A7906" name="alaron q22_callidyrr temples int.trx" dlsize="294377" size="340511" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1735,7 +1735,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="830DA8A1905872F681EFE63386EAD223F5AB20D3" downloadHash="6274F243D7849CD0DB04AF7443E0FC4260E27A27" name="skaug port east slaver  int.trx" dlsize="307467" size="311439" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F8E665D114BAF32482A09A7FA0C797754F29D6E4" downloadHash="00BDE28A4D5BF42172257BCECD26BB21FA4D6006" name="skaug port east slaver  int.trx" dlsize="409081" size="413423" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
