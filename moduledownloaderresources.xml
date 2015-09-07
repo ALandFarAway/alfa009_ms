@@ -1595,7 +1595,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="438E45D15B6893B97FA1036662D3A3F3D507D7C5" downloadHash="B0F13115FC1E3405C652C42F1CCB22161D19939E" name="skaug port east.trx" dlsize="2678122" size="17067669" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="EFEB3DE4FF2E50BD968E009FB31C6D69118300B9" downloadHash="800A46CDF02CE04FFFBDAED67E09E760B08BC40B" name="skaug port east.trx" dlsize="2665471" size="17055773" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1735,7 +1735,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F8E665D114BAF32482A09A7FA0C797754F29D6E4" downloadHash="00BDE28A4D5BF42172257BCECD26BB21FA4D6006" name="skaug port east slaver  int.trx" dlsize="409081" size="413423" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="11DDD34DDBC7191B17BE7697ED89AEEE78CF81B3" downloadHash="6EAA415365050AB6200ED77F960C2098A06CC4BC" name="skaug port east slaver  int.trx" dlsize="467901" size="1191747" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1746,6 +1746,16 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="2E30DA85C57BEDCC7DAD166624B9D27997BB1993" downloadHash="3927654E54F13EF59E046E8FCD7074EC9488D3AE" name="skaug temples.trx" dlsize="309802" size="314971" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="9E00B17A9DEFA4A9F9C73F4062CBE52DDDAB3578" downloadHash="9F75FDD473E535B669B9D2E42259F2B5A2C2D85F" name="Drachenshore Cave Map.trx" dlsize="227011" size="232983" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="0D4FCA61F7C6D5E9365CF71712FB420147970AAB" downloadHash="7ECCBFC6BA7A553B3017739E625B170EA21BD02C" name="nelanther isle of drachenshore.trx" dlsize="1923796" size="15224621" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
