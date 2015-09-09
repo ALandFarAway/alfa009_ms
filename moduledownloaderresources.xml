@@ -475,7 +475,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D3E0D7A48EE54CA94322072C7C47D9813CADB586" downloadHash="AFB2A538330973EC6373F65E57534380349B0CAE" name="skaug inns &amp; taverns.trx" dlsize="1040975" size="1053493" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5C021DCEA5BD2D83320B9E40C9A3D0E027256845" downloadHash="DAE180EB020EA2A10DC0D056D8CB4D297A9F89B8" name="skaug inns &amp; taverns.trx" dlsize="1047396" size="1059936" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1205,7 +1205,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D4CE9E19832A5EE0E86B9B8055E065ED878381D1" downloadHash="F0219078E9E645F815B3A1E4EA633813497E7D1C" name="alaron q22 callidyrr interiors.trx" dlsize="522528" size="614608" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B4523D74D279087E6286870F9CF754DA8B7A55B0" downloadHash="3CD992C1767C7E91BEDCD909A8C7549D460A0182" name="alaron q22 callidyrr interiors.trx" dlsize="587746" size="680895" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1750,7 +1750,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9E00B17A9DEFA4A9F9C73F4062CBE52DDDAB3578" downloadHash="9F75FDD473E535B669B9D2E42259F2B5A2C2D85F" name="Drachenshore Cave Map.trx" dlsize="227011" size="232983" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="220D1154176806801587584F2194341F5878B2B3" downloadHash="E5363042851282909C3A29F24DA291DAC3EFAB3E" name="Drachenshore Cave Map.trx" dlsize="482304" size="492731" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
