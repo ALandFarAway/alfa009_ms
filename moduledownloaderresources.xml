@@ -1710,12 +1710,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="80E259AF90EF0C67DAA5C79F5EF44C38A38A0E8C" downloadHash="4DA838D0276DBC2318650A06554894C2A66BDED8" name="wd 4h dock_south ward int.trx" dlsize="237131" size="281666" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="688D272683BD78F3A6DF6D58D210C84854D56A47" downloadHash="B1F09B02184C611C06914E4053AC2D9335FF4BB3" name="wd 4h dock_south ward int.trx" dlsize="236372" size="281571" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8505A7E7BA57449493C83CAF632CE54D3719679C" downloadHash="743393777EE3534A7056D9A6FC4A14C09F1C1442" name="wd 4h dock_south ward inns.trx" dlsize="622818" size="1166415" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="094D0B2406A0269C50E70F3117E41E320DF82772" downloadHash="814A5A2DAE5F5E8AE70C74DD34E3769F2077AAA7" name="wd 4h dock_south ward inns.trx" dlsize="617267" size="1161141" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1750,7 +1750,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="220D1154176806801587584F2194341F5878B2B3" downloadHash="E5363042851282909C3A29F24DA291DAC3EFAB3E" name="Drachenshore Cave Map.trx" dlsize="482304" size="492731" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B794B0582DB5201C216525794D402F1CC6821F07" downloadHash="5450544F9A3FDD33DC0F97D0DA4C467C77AE7872" name="Drachenshore Cave Map.trx" dlsize="723472" size="738268" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
