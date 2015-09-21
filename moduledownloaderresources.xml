@@ -1705,17 +1705,17 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D28F63DB10D033325BBEA9B67AEF53356C8A035F" downloadHash="AF52123B7184A93C7FD4D6C8B535F6B374AAC7A2" name="wd 4h dock_south ward.trx" dlsize="1892214" size="13275804" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2321D37E2B0EA3727360FAB4C2C53F5AD79B5556" downloadHash="1118D2011DDD3A82F4E46DC5EBEC7080C7382994" name="wd 4h dock_south ward.trx" dlsize="1885902" size="13268919" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="688D272683BD78F3A6DF6D58D210C84854D56A47" downloadHash="B1F09B02184C611C06914E4053AC2D9335FF4BB3" name="wd 4h dock_south ward int.trx" dlsize="236372" size="281571" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8633966A9211724ED3C3FC80BE655BF014126F4C" downloadHash="B4211FFADBB91FD1B1BD44A6B9E4E33697ECCDE2" name="wd 4h dock_south ward int.trx" dlsize="406854" size="453409" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="094D0B2406A0269C50E70F3117E41E320DF82772" downloadHash="814A5A2DAE5F5E8AE70C74DD34E3769F2077AAA7" name="wd 4h dock_south ward inns.trx" dlsize="617267" size="1161141" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3150126DD819749544FA3666CA703A44D0FF332D" downloadHash="3E4516D0FDF1EE1B9FBF6234179DA359724AB755" name="wd 4h dock_south ward inns.trx" dlsize="629966" size="1172933" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
