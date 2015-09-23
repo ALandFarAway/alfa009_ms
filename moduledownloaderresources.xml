@@ -1705,12 +1705,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2321D37E2B0EA3727360FAB4C2C53F5AD79B5556" downloadHash="1118D2011DDD3A82F4E46DC5EBEC7080C7382994" name="wd 4h dock_south ward.trx" dlsize="1885902" size="13268919" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6D79C173C0B588B471171B8ADDDB539FB2519EB5" downloadHash="B8A460899E693960A21EBBDEE12370A635A8ACB4" name="wd 4h dock_south ward.trx" dlsize="1889687" size="13316522" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8633966A9211724ED3C3FC80BE655BF014126F4C" downloadHash="B4211FFADBB91FD1B1BD44A6B9E4E33697ECCDE2" name="wd 4h dock_south ward int.trx" dlsize="406854" size="453409" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="803A7AF29A8302FD2816A8D1E4170CB80E768F9A" downloadHash="7CA4468A33C28DFD410A9A33D66530C544CED05D" name="wd 4h dock_south ward int.trx" dlsize="413854" size="460323" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
