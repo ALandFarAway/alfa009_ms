@@ -950,7 +950,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="05B73807F847B0A69345A293D4D5EF167BCF7D5D" downloadHash="BF3A0ED306D072D8E0FCE640562BBEB22FCDF874" name="gwynneth l30 myrloch vale.trx" dlsize="7900955" size="41586118" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2053A18470D1FFA08018E03DEC3FFE7490704FD2" downloadHash="EA2E5D5E369B7CB6DDD22FF5731C9C586D4F76C2" name="gwynneth l30 myrloch vale.trx" dlsize="7983870" size="41650487" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1710,12 +1710,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="803A7AF29A8302FD2816A8D1E4170CB80E768F9A" downloadHash="7CA4468A33C28DFD410A9A33D66530C544CED05D" name="wd 4h dock_south ward int.trx" dlsize="413854" size="460323" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="AEBDF2C6BACE7C82D6E2C3B3B4290884B6E30893" downloadHash="BE2C17F03F419295100F66BB8859A618CBD7C846" name="wd 4h dock_south ward int.trx" dlsize="421724" size="468234" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3150126DD819749544FA3666CA703A44D0FF332D" downloadHash="3E4516D0FDF1EE1B9FBF6234179DA359724AB755" name="wd 4h dock_south ward inns.trx" dlsize="629966" size="1172933" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3951FF28BE91BADA1AF36A9E6FE0927095E0F53E" downloadHash="1B1B5BEF71A5BCE21366B3A4366BE58E92BD8C86" name="wd 4h dock_south ward inns.trx" dlsize="628995" size="1171178" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>

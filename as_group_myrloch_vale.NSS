@@ -59,7 +59,7 @@ void main() {
 	int nRoll = d100();
 	int i;
 
-	if (nRoll <= 50) ACR_SpawnGroup("temperate_clear");
+	if (nRoll <= 50) ACR_SpawnGroup("009_myrloch_vale");
 	else
 	// d2 pixies, d6 + 3 Jermlaine, or d2 brownies
 	{

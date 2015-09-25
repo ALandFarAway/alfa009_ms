@@ -58,8 +58,8 @@ void main() {
 // Created by Riotnrrd for ALFA 4/2012
 	int nRoll = d100();
 	int i;
-
-	if (nRoll <= 50) ACR_SpawnGroup("temperate_clear");
+    // "temperate_clear
+	if (nRoll <= 50) ACR_SpawnGroup("009_myrloch_vale");
 	else
 	// d2 pixies, d6 + 3 Jermlaine, or d2 brownies
 	{
