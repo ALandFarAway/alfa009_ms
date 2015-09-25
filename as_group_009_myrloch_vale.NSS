@@ -59,13 +59,13 @@ void main() {
 	int nRoll = d100();
 	int i;
     // "temperate_clear
-	if (nRoll <= 50) ACR_SpawnGroup("009_myrloch_vale");
+	if (nRoll <= 20) ACR_SpawnGroup("temperate_clear");
 	else
 	// d2 pixies, d6 + 3 Jermlaine, or d2 brownies
 	{
-		int nType = d3();
+		int nType = d10();
 		if (nType == 1) {
-			int nPixies = d2();
+			int nPixies = d10();
 			for (i = 0; i < nPixies; i++) ACR_SpawnObject("abr_cr_fy_pixie", OBJECT_TYPE_CREATURE);
 		}
 		else if (nType == 2) {
