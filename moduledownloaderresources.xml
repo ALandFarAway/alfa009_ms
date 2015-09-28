@@ -230,7 +230,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FB05199670E2CF476397A76F3ABECE103517D791" downloadHash="B7E911F607C87634412C7B0E597DAFC31253F0B0" name="oman i25 old stone wood.trx" dlsize="10050369" size="29653941" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0C268B698EAD95243C8C93EC3EFD1FAC580156F0" downloadHash="5B76456B0F5249A134E5D6BBFBCF6C71359A6679" name="oman i25 old stone wood.trx" dlsize="10066491" size="29656189" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -290,7 +290,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F18703850E1C5BEA641D707C7EB569B3358425A8" downloadHash="0030F3722C22415215C081387052DBD45C0C76ED" name="gwynneth l34 corwell crypts.trx" dlsize="179382" size="182635" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BB70E90D837D5333AADA37A7706985E36E643198" downloadHash="8FAC921378AFF29C374A2E80D91156DB5E151A09" name="gwynneth l34 corwell crypts.trx" dlsize="179371" size="182635" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1715,7 +1715,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3951FF28BE91BADA1AF36A9E6FE0927095E0F53E" downloadHash="1B1B5BEF71A5BCE21366B3A4366BE58E92BD8C86" name="wd 4h dock_south ward inns.trx" dlsize="628995" size="1171178" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="20AD8DE48C4AAF595149F08187227DD82E74574E" downloadHash="DB77837B5C11EAB1CE1B8BB010869635F0DDDA87" name="wd 4h dock_south ward inns.trx" dlsize="628296" size="1171411" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
