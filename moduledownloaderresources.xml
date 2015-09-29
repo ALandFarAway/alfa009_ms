@@ -320,7 +320,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7263B7F1D36E7DC8C58548BACAB9294C6E7F2BEF" downloadHash="6012196263730B2EAF445C9106166B86E4915977" name="gwynneth m31 dultann int.trx" dlsize="162273" size="163235" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DEFA6392FBB30969BCE8C68F061FE95725D4B2BA" downloadHash="EC4E59D47FD9014143BAEC76184A2DC8C6AC7B30" name="gwynneth m31 dultann int.trx" dlsize="154443" size="155230" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -855,7 +855,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FDF5AAA1EA84CB49CCCF658AABCFAFCC61036ECC" downloadHash="DA76B0E2BAFB62C6557EA13475C252F948907B4A" name="gwynneth quest areas.trx" dlsize="191536" size="460879" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="72187665BA2A7D44A4730066982897FC68C232B6" downloadHash="08D9823BA78E19B136014886A9266F5D94A20769" name="gwynneth quest areas.trx" dlsize="191328" size="460879" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1395,7 +1395,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B508BBE78CC7C96D677859D0937C4E88FF59C90D" downloadHash="773A00064CDC11946631EDA25DE83EAD303F3D02" name="gwynneth l34 corwell town.trx" dlsize="5175263" size="27176732" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E451764D31A0383B2D1B5587DE5E73006DF67FFA" downloadHash="BC5E7058B3F433DB99F40D58CA7FC11EAB934A10" name="gwynneth l34 corwell town.trx" dlsize="5182918" size="27181656" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
