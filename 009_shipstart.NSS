@@ -118,8 +118,8 @@ object GetShip(object oStartWP, object oEndWP, object oPC)
 	SetLocalObject(OBJECT_SELF, ObjectToString(oStartWP) + "_" + ObjectToString(oEndWP) + "_" + IntToString(count), oArea);
 	SetLocalObject(oArea, "EXIT_WP", oStartWP);
 	_AddDock(oArea);
-	DelayCommand(2.0f * 60.0f, StartShipTrip(oArea));
-	DelayCommand(15.0f * 60.0f, EndShipTrip(oArea, oStartWP, oEndWP));
+	DelayCommand(1.0f * 25.0f, StartShipTrip(oArea));
+	DelayCommand(7.0f * 10.0f, EndShipTrip(oArea, oStartWP, oEndWP));
 	return oArea;
 }
 
