@@ -440,7 +440,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="95F8DEF02244D3A83A5ED25D8FD6AA014CFA4D41" downloadHash="C2B9FEFF60FCFDBF9FE4FBE0090AFC3AF3EF789B" name="gwynneth m31 dultann village.trx" dlsize="3709095" size="19596367" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C3D0CE69440F751B711BC505854D69F60B5DC511" downloadHash="4A7557510E7BE04236662AA8DFD0EAC972046DE3" name="gwynneth m31 dultann village.trx" dlsize="3647432" size="19548908" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -855,7 +855,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="72187665BA2A7D44A4730066982897FC68C232B6" downloadHash="08D9823BA78E19B136014886A9266F5D94A20769" name="gwynneth quest areas.trx" dlsize="191328" size="460879" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2C8CC62ED2CC8D5399C4AEBB2B5CC572A5B5C39D" downloadHash="B8C3EDCC61673873F91824B5FE04D9F0A8A0BBD3" name="gwynneth quest areas.trx" dlsize="192132" size="461667" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -950,7 +950,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2053A18470D1FFA08018E03DEC3FFE7490704FD2" downloadHash="EA2E5D5E369B7CB6DDD22FF5731C9C586D4F76C2" name="gwynneth l30 myrloch vale.trx" dlsize="7983870" size="41650487" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7B37D2D2F87BBDD7AE32558C873FD27A239F501C" downloadHash="92B0302FE0D1C3D71D739D0B948F8C14EB722ECE" name="gwynneth l30 myrloch vale.trx" dlsize="8028667" size="41678585" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
