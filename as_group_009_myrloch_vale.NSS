@@ -61,11 +61,11 @@ void main() {
     // "temperate_clear
 	if (nRoll <= 20) ACR_SpawnGroup("temperate_clear");
 	else
-	// d2 pixies, d6 + 3 Jermlaine, or d2 brownies
+	// d4 pixies, d6 + 3 Jermlaine, or d2 brownies
 	{
-		int nType = d10();
+		int nType = d4();
 		if (nType == 1) {
-			int nPixies = d10();
+			int nPixies = d4();
 			for (i = 0; i < nPixies; i++) ACR_SpawnObject("abr_cr_fy_pixie", OBJECT_TYPE_CREATURE);
 		}
 		else if (nType == 2) {
