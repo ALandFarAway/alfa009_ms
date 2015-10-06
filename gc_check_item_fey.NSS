@@ -15,6 +15,8 @@ int StartingConditional()
 	if(GetIsObjectValid(GetItemPossessedBy(GetPCSpeaker(),"abr_it_pixie_wings"))) return TRUE;
 	if(GetIsObjectValid(GetItemPossessedBy(GetPCSpeaker(),"abr_it_brownie_cap"))) return TRUE;
 	if(GetIsObjectValid(GetItemPossessedBy(GetPCSpeaker(),"abr_it_sprite_skin"))) return TRUE;
+	if(GetIsObjectValid(GetItemPossessedBy(GetPCSpeaker(),"abr_it_fey_trophy"))) return TRUE;
+  
   
    // return GetIsObjectValid(GetItemPossessedBy(GetPCSpeaker(),sItem));
     

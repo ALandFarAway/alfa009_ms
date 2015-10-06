@@ -57,6 +57,9 @@ void main(string sItemTag)
 	
 	nTotalItem = GetNumItems( oPC,"abr_it_sprite_skin" );
     DestroyItems( oPC,"abr_it_sprite_skin",nTotalItem,2,1 );
+	
+	nTotalItem = GetNumItems( oPC,"abr_it_fey_trophy" );
+    DestroyItems( oPC,"abr_it_fey_trophy",nTotalItem,2,1 );
     
 	
 	GiveGoldToCreature(oPC,Ggold);
