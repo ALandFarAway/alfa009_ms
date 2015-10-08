@@ -80,6 +80,9 @@ void main( string sItemTag ) {
 	// Wolfsbane: 2gp, 1xp, CR 1
 	nGP += ConsumeReward( oPC, "tg_herb2", 1, 1.0f, 1.0f );
 	
+	//Mushrooms: 1gp, 1xp, CR .5	
+	nGP += ConsumeReward( oPC, "tg_mushrooms", 1, 1.0f, 1.0f );
+	
 
 	// Reward GP.
 	GiveGoldToCreature( oPC, nGP );
