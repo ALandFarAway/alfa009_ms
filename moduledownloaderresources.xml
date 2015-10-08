@@ -720,7 +720,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="332E5C24184DAF45EFE7190236585882F1D5E29E" downloadHash="B9704DD2B946C2E8A563C952A017DCB1B9C556E5" name="moray isle e31 orcskull mnts.trx" dlsize="3508389" size="20748267" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9F1919EA6D0A1CCBBB8E1A3F9F3D07022E9AD5A9" downloadHash="189872B4E77E6585396469BD01AF01E43A6216D7" name="moray isle e31 orcskull mnts.trx" dlsize="3600854" size="20818282" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1705,7 +1705,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7C2E9814C04279AAD9BC125F652478B027750095" downloadHash="28DC66D279A9BDCB55EF58E1E62FD4DC6ED772EF" name="wd 4h dock_south ward.trx" dlsize="1819627" size="13244529" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B0846270D3A291597787ECC823D80ADC3FA2CB05" downloadHash="A549AEE44ED822D3D35443B61B30D112C0CA0510" name="wd 4h dock_south ward.trx" dlsize="1806820" size="13199968" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>

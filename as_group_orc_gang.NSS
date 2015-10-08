@@ -57,5 +57,5 @@ void main() {
 	int nOrcs = d3() + 1;
 	int i;
 	
-	for (i = 0; i < nOrcs; i++) ACR_SpawnObject("abr_cr_hu_orc", OBJECT_TYPE_CREATURE);
+	for (i = 0; i < nOrcs; i++) ACR_SpawnObject("abr_cr_hu_orc_ftr_4", OBJECT_TYPE_CREATURE);
 }
