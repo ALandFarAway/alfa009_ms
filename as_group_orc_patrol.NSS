@@ -56,9 +56,11 @@ void main();
 void main() {
 	int nOrcs = d4() + 4;
 	int nBarbs = d2();
+	int nShams = d2();
 	int i;
 	
-	for (i = 0; i < nOrcs; i++) ACR_SpawnObject("abr_cr_hu_orc", OBJECT_TYPE_CREATURE);
-	for (i = 0; i < nBarbs; i++) ACR_SpawnObject("abr_cr_hu_orc_brb_2", OBJECT_TYPE_CREATURE);
-	ACR_SpawnObject("abr_cr_hu_orc_ftr_4", OBJECT_TYPE_CREATURE);
+	for (i = 0; i < nOrcs; i++) ACR_SpawnObject("abr_cr_hu_orc_ftr_4", OBJECT_TYPE_CREATURE);
+	for (i = 0; i < nBarbs; i++) ACR_SpawnObject("abr_cr_hu_orcberserker", OBJECT_TYPE_CREATURE);
+    for (i = 0; i < nShams; i++) ACR_SpawnObject("abr_cr_hu_orcshaman", OBJECT_TYPE_CREATURE);	
+	ACR_SpawnObject("abr_cr_hu_orcbattlepriest", OBJECT_TYPE_CREATURE);
 }

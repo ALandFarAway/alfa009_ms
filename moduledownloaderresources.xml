@@ -290,7 +290,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BB70E90D837D5333AADA37A7706985E36E643198" downloadHash="8FAC921378AFF29C374A2E80D91156DB5E151A09" name="gwynneth l34 corwell crypts.trx" dlsize="179371" size="182635" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="37E030147C29CE2F7092F96E8B13613C113804DF" downloadHash="F0E0264BF710578D5D78E39AD42DF847477E6C09" name="gwynneth l34 corwell crypts.trx" dlsize="178660" size="181960" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -720,7 +720,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9F1919EA6D0A1CCBBB8E1A3F9F3D07022E9AD5A9" downloadHash="189872B4E77E6585396469BD01AF01E43A6216D7" name="moray isle e31 orcskull mnts.trx" dlsize="3600854" size="20818282" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="319DFBC023ED1EF5610B7172D523194FF51355E6" downloadHash="A139E05ECF2B43A3A26A4CF73096DA3A1ADA34A0" name="moray isle e31 orcskull mnts.trx" dlsize="3876264" size="20973961" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -740,7 +740,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="95694BCF1E30E6034F108D3B7E3B14AB3A241B1A" downloadHash="3A0632D267A0156AFD0293C016A702AF5EF46A5C" name="queen robyn at sea.trx" dlsize="226529" size="7844513" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="75C9FDDFBD84925F1D3FFDA9C89FFF69847ADA23" downloadHash="FCFC8F8D8D41C24462E66F137AA9CFE22FCC2CBB" name="queen robyn at sea.trx" dlsize="231452" size="7852033" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1756,6 +1756,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="0D4FCA61F7C6D5E9365CF71712FB420147970AAB" downloadHash="7ECCBFC6BA7A553B3017739E625B170EA21BD02C" name="nelanther isle of drachenshore.trx" dlsize="1923796" size="15224621" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="589168417305E5FA34CCD1DFC294A4E54801A84F" downloadHash="48B1891D9429633B1BACA82DB012C66851C8658E" name="moray isle e31 orcskull caves.trx" dlsize="138842" size="228470" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
