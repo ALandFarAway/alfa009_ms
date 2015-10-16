@@ -720,7 +720,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9FC93872B2E4DE1FC6EE1789AB6A4982682D077E" downloadHash="90C704B3697D0CB279588CB532E7384E4C441E23" name="moray isle e31 orcskull mnts.trx" dlsize="3901827" size="21004860" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F2317622CF383736BF55A36C1A811B7D29F7B858" downloadHash="81F9815CEDFA880459E1400FA274085EA7824AAF" name="moray isle e31 orcskull mnts.trx" dlsize="3908056" size="21005442" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1760,7 +1760,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6D149DB4A951CDBC5F20DD1AC94AC410571C8827" downloadHash="1918F6D1798FD25A6E46733841881FEDFF654539" name="moray isle e31 orcskull caves.trx" dlsize="376629" size="603299" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D82E4225B7C1D22955B88B5EFBDC0C9768389E59" downloadHash="1158AE3B1EE523F12DDC0620AC496714B611E34F" name="moray isle e31 orcskull caves.trx" dlsize="382306" size="608844" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
