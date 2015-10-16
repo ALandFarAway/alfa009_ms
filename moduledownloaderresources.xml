@@ -720,7 +720,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="935D8C1A83859FFA70890EBD51B17B21B213404F" downloadHash="CB668869BE4A6A79AADD48C7242F1CFAAA86D511" name="moray isle e31 orcskull mnts.trx" dlsize="3902596" size="21003627" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9FC93872B2E4DE1FC6EE1789AB6A4982682D077E" downloadHash="90C704B3697D0CB279588CB532E7384E4C441E23" name="moray isle e31 orcskull mnts.trx" dlsize="3901827" size="21004860" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -855,7 +855,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2C8CC62ED2CC8D5399C4AEBB2B5CC572A5B5C39D" downloadHash="B8C3EDCC61673873F91824B5FE04D9F0A8A0BBD3" name="gwynneth quest areas.trx" dlsize="192132" size="461667" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7ADAAF6DDC10E1DA2F89CCA895BE4C9155F42E74" downloadHash="537CAEC6F2ACDFA99EB03DEC6572C960D975069C" name="gwynneth quest areas.trx" dlsize="192099" size="461659" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1760,7 +1760,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7AC2B77C7ACB0FF1FE25E1380881185050FE2866" downloadHash="55BCB21974946AC15FCB99003963FA6DF9E13F07" name="moray isle e31 orcskull caves.trx" dlsize="151644" size="241204" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6D149DB4A951CDBC5F20DD1AC94AC410571C8827" downloadHash="1918F6D1798FD25A6E46733841881FEDFF654539" name="moray isle e31 orcskull caves.trx" dlsize="376629" size="603299" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
