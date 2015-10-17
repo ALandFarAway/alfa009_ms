@@ -525,7 +525,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F0972FF9B76A91A0BF8E78F13D82D9915E88976D" downloadHash="F9787DDF86C924E398AD85BE4F089FF71688853E" name="gwynneth k34 cantrev dynnatt.trx" dlsize="5077553" size="23679470" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3B4BE5D6B1CB8218F27296C988D5863CA52164A3" downloadHash="BD65F297CE3EBA94ABCFCF04615803AA2FF47A7C" name="gwynneth k34 cantrev dynnatt.trx" dlsize="5057128" size="23672864" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
