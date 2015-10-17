@@ -855,7 +855,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7ADAAF6DDC10E1DA2F89CCA895BE4C9155F42E74" downloadHash="537CAEC6F2ACDFA99EB03DEC6572C960D975069C" name="gwynneth quest areas.trx" dlsize="192099" size="461659" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E0A0105FD0563F0BB36EB8D2FE3E7D37586E4699" downloadHash="F19AE113080B6B11A63493B2A37B7C2AF193D130" name="gwynneth quest areas.trx" dlsize="187888" size="321628" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1395,7 +1395,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E451764D31A0383B2D1B5587DE5E73006DF67FFA" downloadHash="BC5E7058B3F433DB99F40D58CA7FC11EAB934A10" name="gwynneth l34 corwell town.trx" dlsize="5182918" size="27181656" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="806519C83BE8F57D3E951814536D09BB27516807" downloadHash="94B26F0FC306FA1F0141B49DC0B6F032A82D1023" name="gwynneth l34 corwell town.trx" dlsize="5192913" size="27185155" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1705,7 +1705,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B0846270D3A291597787ECC823D80ADC3FA2CB05" downloadHash="A549AEE44ED822D3D35443B61B30D112C0CA0510" name="wd 4h dock_south ward.trx" dlsize="1806820" size="13199968" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D7C55AB3F5910DD0F17923DF9CE6EA29FB92CFC6" downloadHash="3FF4CAEFD2E7D11B78AE39441C108C3067589E63" name="wd 4h dock_south ward.trx" dlsize="1808900" size="13199966" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1715,7 +1715,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="69EA461CFBD74CD42F89A4DD6337E3CC4DA37336" downloadHash="546C553DA503F0AAD96116296E3409343549B135" name="wd 4h dock_south ward inns.trx" dlsize="680739" size="1269281" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7333FB6FFF15006684ED24F8A18336FEA262169D" downloadHash="CE91F5F3BA458EF100D5C88D4979476EF0FFF0A1" name="wd 4h dock_south ward inns.trx" dlsize="721917" size="1446118" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1760,7 +1760,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D82E4225B7C1D22955B88B5EFBDC0C9768389E59" downloadHash="1158AE3B1EE523F12DDC0620AC496714B611E34F" name="moray isle e31 orcskull caves.trx" dlsize="382306" size="608844" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C1AFA643CDAD921CAEA450AC6E9878D3D2C91E2D" downloadHash="58DF75184EE34A6BA68DE0BCC38CF0161A1FA5B2" name="moray isle e31 orcskull caves.trx" dlsize="382304" size="608844" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
