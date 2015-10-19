@@ -320,7 +320,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DEFA6392FBB30969BCE8C68F061FE95725D4B2BA" downloadHash="EC4E59D47FD9014143BAEC76184A2DC8C6AC7B30" name="gwynneth m31 dultann int.trx" dlsize="154443" size="155230" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="006F7D093D6982D2E70BD2CBB4DF5FCCA4D8F391" downloadHash="A7E948BC124C60F4114959E13E421706166AEF43" name="gwynneth m31 dultann int.trx" dlsize="169862" size="170858" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -780,7 +780,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8FEF83D3FFA2135A8F909CA7F730AD4493B58F96" downloadHash="555C68AE810231A822ED3A9051F01984659794FC" name="gwynneth m31 high home-dwarven.trx" dlsize="9505964" size="43386835" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="096B2554CA0491DA60E9A7BC2B5F6E40CD2DDDFE" downloadHash="27B33DF986B8B6733024E8FDFA560625B600F82C" name="gwynneth m31 high home-dwarven.trx" dlsize="9511119" size="43379202" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -950,7 +950,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7B37D2D2F87BBDD7AE32558C873FD27A239F501C" downloadHash="92B0302FE0D1C3D71D739D0B948F8C14EB722ECE" name="gwynneth l30 myrloch vale.trx" dlsize="8028667" size="41678585" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2D0C5ADEE7A1D2BEF0DEF676DF656890B900C948" downloadHash="85C6BA1B8DEB5C3D21A56A48E988102CE9AAFF1B" name="gwynneth l30 myrloch vale.trx" dlsize="8000681" size="41581512" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1040,7 +1040,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8AD3C405C5EB2BDBA957035834171D5586C9A6FC" downloadHash="93B851C17D26532C7713780599B1A2D8EC955873" name="gwynneth p33 kingsbay town ext.trx" dlsize="5561777" size="26926431" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="60CD9A62EAC42AB296E6BDAADEC8CB25C17BCF2F" downloadHash="00604958827E1D5398D4D0B6AD19918724783EF7" name="gwynneth p33 kingsbay town ext.trx" dlsize="5630866" size="26968673" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1455,7 +1455,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="02D89A9EF6CBB774042EDE16E59FDB5B50154DA9" downloadHash="6DDB16C25B6EB4C6D64D2C0A6E764851F4FA7389" name="gwynneth p34 cantrev horstall.trx" dlsize="1908265" size="12881236" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6F4ED583465E906DCE14AA905111458A3EDFEB02" downloadHash="CE79027555C6A8BFF57960516E2D86DE47B62785" name="gwynneth p34 cantrev horstall.trx" dlsize="1933272" size="12906989" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
