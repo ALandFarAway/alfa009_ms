@@ -69,6 +69,9 @@ void main( string sItemTag ) {
 	// Fire Beetle Gland: 3gp, 1.5xp, CR 2
 	nGP += ConsumeReward( oPC, "it_plot_beetle_fire", 3, 1.5f, 2.0f );
 	
+	// Fire Beetle Belly: 2gp, 1.5xp, CR 2
+	nGP += ConsumeReward( oPC, "tg_firebeetlebelly", 2, 1.5f, 2.0f );
+	
 	// Redcap Tooth: 100gp, 50xp, CR 10
 	nGP += ConsumeReward( oPC, "010_it_misc_rtooth", 100, 50.0f, 10.0f );
 	
