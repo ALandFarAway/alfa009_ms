@@ -1395,7 +1395,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CBE07EA77C9B21261866F5A6F9F59F4BA9C74012" downloadHash="ED1EC70EC324636316295633A295A25EAE31C371" name="gwynneth l34 corwell town.trx" dlsize="5201541" size="27226237" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="31CEA50294E492618490CF15C47C414A9040474A" downloadHash="164A1D010FE7E45FA2A1B8E4FB02774109360E31" name="gwynneth l34 corwell town.trx" dlsize="5195095" size="27231921" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
