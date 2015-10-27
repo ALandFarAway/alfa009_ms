@@ -25,7 +25,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="77B21957D41E77C36A589AAA21C58BA7E5783C40" downloadHash="92EF57B39FD29B65CDD4BD2ABBE585391EBACD6E" name="gwynneth n34 llyrath forest n.trx" dlsize="4575549" size="20899643" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2FFF817FEC5048280E3C175E5D9435EB1FF5A760" downloadHash="2BD6B1FE38B9F1A2BAF5C004855219C5AC3035EC" name="gwynneth n34 llyrath forest n.trx" dlsize="4568140" size="20886370" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1415,7 +1415,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="500A26426FE14E246C5E876AFBF476BB870BD969" downloadHash="4B65B47D3C44B9138C111C125A40DFA409BF3A9B" name="gwynneth n34 kings road.trx" dlsize="3155481" size="15836284" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A186FAE156FDC4173BF948FD99D7131543F165C6" downloadHash="0EC6C020ADDFC1415D0B3FA2E1A52A9E90C13014" name="gwynneth n34 kings road.trx" dlsize="3169280" size="15846591" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1685,7 +1685,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="66E1C3D2E6971533F12CB27B4865B1E28B94A5C0" downloadHash="2D1D5B5DFA29258E8217D8A4B7C2D23583FB565D" name="gwynneth n35 llyrath forest s.trx" dlsize="2388880" size="14856602" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="130B76729EC58CDB4E643C2DCFD7B75FDDA2D23F" downloadHash="9C12961ABC58875BF2D58E83A706604FB724A85B" name="gwynneth n35 llyrath forest s.trx" dlsize="2494037" size="15166152" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1761,6 +1761,21 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="C1AFA643CDAD921CAEA450AC6E9878D3D2C91E2D" downloadHash="58DF75184EE34A6BA68DE0BCC38CF0161A1FA5B2" name="moray isle e31 orcskull caves.trx" dlsize="382304" size="608844" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="F60CE38185649CC8B042515ECD1DFB428A710E0A" downloadHash="173542D993398F40343566F86EA12C9F88D44870" name="gwynneth o35 llyrath forest se.trx" dlsize="2326188" size="14541290" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="3D1962DDEA3C619427BBFECEFB8501CB14ADAEBC" downloadHash="665FF6723E1AD44A32E79FF457A815BB2CA47EBD" name="gwynneth n35 llyrath forest int.trx" dlsize="59434" size="59533" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="3B78B2AA964C441F15F68DB1414953B358AE28F0" downloadHash="BD660A15C3DE2BA4DD94C0C46696C442D2347969" name="gwynneth m34 kings road.trx" dlsize="4037579" size="17202072" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
