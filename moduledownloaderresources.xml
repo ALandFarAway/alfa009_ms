@@ -25,7 +25,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2FFF817FEC5048280E3C175E5D9435EB1FF5A760" downloadHash="2BD6B1FE38B9F1A2BAF5C004855219C5AC3035EC" name="gwynneth n34 llyrath forest n.trx" dlsize="4568140" size="20886370" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0BB005043346B44683F696AC9808DF3D30CABBB8" downloadHash="4705E35BFA933B208A80C1A8C8F3E2787918443F" name="gwynneth n34 llyrath forest n.trx" dlsize="4548600" size="20868147" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
