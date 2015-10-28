@@ -1,12 +1,25 @@
+////////////////////////////////////////////////////////////////////////////////
+//
+//  System Name : ACR Configuration File
+//     Filename : acf_cre_onperception
+//    $Revision:: 280        $ current version of the file
+//        $Date:: 2007-03-20#$ date the file was created or modified
+//       Author : Cipher
+//
+//    Var Prefix:
+//  Dependencies:
+//
+//  Description
+//  This script calls the ACR's OnPerception event handler for creatures
+//  and any custom code a server may need. It is not updated in ACR updates.
+//
+//  Revision History
+////////////////////////////////////////////////////////////////////////////////
 
-
-
-//Put this in the on heartbeat of the NPC to have them repeat the lines////
 ////////////////////////////////////////////////////////////////////////////////
 // Includes ////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////
 #include "acr_creature_i"
-#include "ginc_actions"
 
 ////////////////////////////////////////////////////////////////////////////////
 // Constants ///////////////////////////////////////////////////////////////////
@@ -28,56 +41,23 @@
 // Function Definitions ////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////
 
+
 void main()
 {
-	string str;
-	int i;
-	
-	 ACR_CreatureOnHeartBeat();
+    ACR_CreatureOnPerception();
 
-	i = GetLocalInt(OBJECT_SELF,"i");
-	
-//	i++;
-	
-//	SetLocalInt(OBJECT_SELF,"i",i);
-	
-	if (i < 4)
-		return;
-	
-	SetLocalInt(OBJECT_SELF,"i",0);
-	
-		switch (i) {
-		case 0:
-			str = "Come wet your whistle at the Spouting Fish.";
-			break;
-		case 1:
-			str = "Roast Fowl, Fresh Bread and Sausgages to fill you up.";
-			break;
-		case 2:
-			str = "The Spouting Fish is the best place to rest your weary feet and get a Drink.";
-			break;
-		case 3:
-			str = "Get your  Ale, Wine and Zzar at the Spouting Fish Today.";
-			break;
-	
-	}
-	
-	ActionSpeakString(str);
-}		
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+// Custom code goes here.
+//Script to cause an NPC to speak a string on
+// perception of a PC. String text stored in string variable on
+// NPC = sjc_merchantshout
+// Teric neDhalir 22/5/08
+string sShout = GetLocalString(OBJECT_SELF, "spoutfishhawker");
+object oPC = GetLastPerceived();
+
+if (!GetIsPC(oPC)) return;
+
+if (!GetLastPerceptionSeen()) return;
+ActionSpeakString(sShout);
+
+
+}
