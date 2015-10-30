@@ -500,7 +500,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="832D45B76DA65AA24CE73C380A79CDCD4E8B8B36" downloadHash="119F8D585B4E034A9A2C752DC3480F3AC2FFF4F9" name="queen robyn at sea int.trx" dlsize="81684" size="81987" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="89CBDF645146BB07079E3E6ACB5C6F914A326A2F" downloadHash="D9A051AE31730F94DF5FC188210226AC74906B13" name="queen robyn at sea int.trx" dlsize="87040" size="87298" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1770,7 +1770,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3D1962DDEA3C619427BBFECEFB8501CB14ADAEBC" downloadHash="665FF6723E1AD44A32E79FF457A815BB2CA47EBD" name="gwynneth n35 llyrath forest int.trx" dlsize="59434" size="59533" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1A3BA817FED15863EB0661201E1FCE6147A68403" downloadHash="AAE32C53982AE1D54F8E92495A87B7D7634A423F" name="gwynneth n35 llyrath forest int.trx" dlsize="56931" size="57063" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
