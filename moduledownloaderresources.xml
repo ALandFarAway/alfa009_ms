@@ -975,7 +975,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="53E54C24F1733804635F07E46659322F46451D9C" downloadHash="F3392842080C9C446F4D4EF01EE25F497851A993" name="waterdeep harbor.trx" dlsize="675427" size="7259302" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="786BCA4219674B68B4815D9276AD4BF1F7CC1A52" downloadHash="5E79E1CFF5CE4B472721E2027801C549AA357225" name="waterdeep harbor.trx" dlsize="689683" size="7271302" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1705,7 +1705,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D7C55AB3F5910DD0F17923DF9CE6EA29FB92CFC6" downloadHash="3FF4CAEFD2E7D11B78AE39441C108C3067589E63" name="wd 4h dock_south ward.trx" dlsize="1808900" size="13199966" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="485A4DA4F24AAF1172EDE2BADD414E37EA09D33F" downloadHash="0D7907B14C3EEE9216955FDB9D0DD3C193FEA423" name="wd 4h dock_south ward.trx" dlsize="1829745" size="13215245" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1776,6 +1776,16 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="3B78B2AA964C441F15F68DB1414953B358AE28F0" downloadHash="BD660A15C3DE2BA4DD94C0C46696C442D2347969" name="gwynneth m34 kings road.trx" dlsize="4037579" size="17202072" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="AAB3395C97B7F5EE7B40C56267FC1E90A22CC5ED" downloadHash="82F2A08120904E7531B94C7E8982F019E868CB3C" name="wd 4g dock ward.trx" dlsize="1940897" size="14382136" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="D54F68E85FD3022D79A1BAFA67974012CD8D2F0D" downloadHash="F261121F2C668054BA307FFFE8667C87D49AA937" name="wd 3x dock ward.trx" dlsize="906427" size="11991745" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
