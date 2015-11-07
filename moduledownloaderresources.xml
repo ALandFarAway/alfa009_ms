@@ -1145,7 +1145,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="AF10BCEFB1EB82F85A453C76F3FE3A3A0529E646" downloadHash="07C772108A5D80D1E3E581E886F1F6A52FCD5F07" name="alaron p21 farheight mountains.trx" dlsize="5744691" size="24281708" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="39AE510A52663132F7D25DB576C097149586E029" downloadHash="800A6B7798D9656997A393D17C18EF30B85C9296" name="alaron p21 farheight mountains.trx" dlsize="5710681" size="24245323" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1715,7 +1715,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7333FB6FFF15006684ED24F8A18336FEA262169D" downloadHash="CE91F5F3BA458EF100D5C88D4979476EF0FFF0A1" name="wd 4h dock_south ward inns.trx" dlsize="721917" size="1446118" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="EE3AB81CF4777A6CDEB1801FBD73C54E57478F89" downloadHash="AFF359E61ACF0F297ACA46FA41FC936FEBB12AAC" name="wd 4h dock_south ward inns.trx" dlsize="719332" size="1443742" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1780,12 +1780,27 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="AAB3395C97B7F5EE7B40C56267FC1E90A22CC5ED" downloadHash="82F2A08120904E7531B94C7E8982F019E868CB3C" name="wd 4g dock ward.trx" dlsize="1940897" size="14382136" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="04B21480DD9EBF8357B8F9759AD9F057EF8849B7" downloadHash="CCC62829BDB6FD2E823A586CC6AE081A04E9FDFD" name="wd 4g dock ward.trx" dlsize="1999401" size="14416903" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="D54F68E85FD3022D79A1BAFA67974012CD8D2F0D" downloadHash="F261121F2C668054BA307FFFE8667C87D49AA937" name="wd 3x dock ward.trx" dlsize="906427" size="11991745" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="789F266D6505B3EFBA1B8D6262873EE342404C8A" downloadHash="02591525E1F4917734AD735BDDFF22E011B1D7AB" name="wd 4g dock ward int.trx" dlsize="21829" size="21949" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="9104512CB9423FBFAA0CDE454E59D74F0FDD0E41" downloadHash="AA7907F50C927EB52961E1BC6FEC1F77253C9FDD" name="skaug crypts.trx" dlsize="544331" size="557501" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="D427E8D6C5E000571CEEBE62DA399CF7950B6206" downloadHash="B640EE7A95D697E73B8D42C6FB3CF1B229F4E779" name="wd 4g taverns_inns int.trx" dlsize="345379" size="348929" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
