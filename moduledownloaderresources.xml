@@ -1600,7 +1600,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="29761D7DC629AEFDB8A3EDA15001AD6EFC11CBF1" downloadHash="DA1578C8271D4EBEFBC9ADB73B133E70826AFF1C" name="skaug port west.trx" dlsize="2325495" size="16726535" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="004F8A2292A1A4678F81C234AA6F2013EADE9631" downloadHash="D4F482054E555D708884AC9A882ED50F0F5B3822" name="skaug port west.trx" dlsize="2320498" size="16725664" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
