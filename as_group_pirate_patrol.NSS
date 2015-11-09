@@ -54,8 +54,8 @@ void main();
 
 // Created by Riotnrrd for ALFA 4/2012
 void main() {
-// Pirate Patrol: 1d3+2 pirate warriors, 1 2nd level pirate fighter
-	int nPirates = d3() + 2;
+// Pirate Patrol: 1d4+2 pirate warriors, 1 2nd level pirate fighter
+	int nPirates = d4() + 2;
 	int i;
 	
 	for (i = 0; i < nPirates; i++) ACR_SpawnObject("abr_cr_hu_pirate_warrior", OBJECT_TYPE_CREATURE);
