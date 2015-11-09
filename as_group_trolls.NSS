@@ -53,6 +53,8 @@ void main() {
 	if(Random(4) == 4) {
 		 ACR_SpawnObject("abr_cr_gt_troll_cave", OBJECT_TYPE_CREATURE);
 	} else {
-		 ACR_SpawnObject("abr_cr_gt_troll", OBJECT_TYPE_CREATURE);
-	}
+		 ACR_SpawnObject("abr_cr_gt_troll02", OBJECT_TYPE_CREATURE);
+		 
+
+	 }
 }

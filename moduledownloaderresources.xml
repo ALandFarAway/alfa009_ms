@@ -1820,7 +1820,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FCC31E9F9EDC0A1FBEF0EAA7E7E7CE2D72B9D23C" downloadHash="86D4C3B4EBA8F4A7C399111723BE968B27825B08" name="skaug port bone caves.trx" dlsize="241266" size="242794" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F5EC50406083BE764E116925F4A6CD2C75AF6CBC" downloadHash="7348236342798DA102BA73A21359F900CF1F35D1" name="skaug port bone caves.trx" dlsize="241250" size="242794" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1841,6 +1841,31 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="99C6DF33AC66C556EB4F76AE728583341F5E92AD" downloadHash="91C89BAB4349AB96CF6770673C8DC759DEC4FEC6" name="skaug deserted island cave.trx" dlsize="165830" size="166860" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="1683FFBF7BD31D662404699EFAFA7D7AB17F6F4D" downloadHash="FBDF4F7A60A0DF6210725FFAA94EB36F145F8566" name="skaug port public buildings.trx" dlsize="605882" size="611787" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="2E30DA85C57BEDCC7DAD166624B9D27997BB1993" downloadHash="3927654E54F13EF59E046E8FCD7074EC9488D3AE" name="skaug port temples.trx" dlsize="309802" size="314971" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="DD80EAC20BC78258F7A514D3E57A82FD23692D3D" downloadHash="8E251E6A2E0F9CFA5E22F74ADC093E762962CFAE" name="skaug port slithery bones.trx" dlsize="1416940" size="12034191" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="555B9A4E92EDEE0EE32E7CE161EC6C8FCD950341" downloadHash="F35988178C394A11FDE73F6294511B1A95586C15" name="skaug port shops.trx" dlsize="472700" size="475345" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="CAAA3A03BDE60FF0CD9F740C0E1D52F6FD8D590B" downloadHash="53CC6EE8B0E6A61A2358738141A44EE5A93657E5" name="skaug port residences.trx" dlsize="427840" size="431318" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
