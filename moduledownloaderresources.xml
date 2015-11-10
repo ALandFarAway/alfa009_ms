@@ -870,7 +870,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="42B4405AC1B67389D4B759D4EDFC731607DC1F82" downloadHash="30E3EEFA076BB22B534B14A4D377948D959E3FF5" name="moray isle d28 trollclaw mts.trx" dlsize="5583948" size="24291229" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C70B5844FB311418419F8F3729590D3AAEC39DB7" downloadHash="8D1E86689D159CAD643DB38BA8AC4870E2B49B91" name="moray isle d28 trollclaw mts.trx" dlsize="5615546" size="24311511" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1770,7 +1770,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0BE605DA1A59BCF399CF8243490B0699F24A3FB3" downloadHash="8B36951B5BC8987F7660B3E4D602AE79D8FC7F28" name="gwynneth n35 llyrath forest int.trx" dlsize="57686" size="57846" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7AC9B81206F50C7401865271208A432D832C28CE" downloadHash="5D48E7D5E3AF5067A52D4992C5157CF163A40701" name="gwynneth n35 llyrath forest int.trx" dlsize="56902" size="57076" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
