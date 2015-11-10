@@ -1,6 +1,6 @@
 // Put this script OnUsed.
 
-
+#include  "acr_quest_i"
 void main()
 {
     object oSelf = OBJECT_SELF;
@@ -16,5 +16,7 @@ void main()
     DestroyObject(GetObjectByTag("009_quest_orphan_mark"));
 
      // Update the party's journals.
+    
+
     AddJournalQuestEntry("gc_orphans_missing", 28, oPC);
 }
