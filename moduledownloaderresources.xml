@@ -590,7 +590,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="465AF5F79AA41E49A6DBF882A7245A0DC53E59CF" downloadHash="AADBEFD33D8395210076DF63CE35BA55DBFC515A" name="underdark area f skullport.trx" dlsize="371320" size="1192589" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="967B7E8F64BD455891A728A9D81662B792229879" downloadHash="2E653AEDE159E22099953395E19139148B0CDBC0" name="underdark area f skullport.trx" dlsize="369833" size="1191064" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1475,7 +1475,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0E650B91445B64F285CCF876030430A653A5DAF7" downloadHash="B1F626E4A38B9316F13F0F47E237DF803F48508F" name="Skullport Skull Isle.trx" dlsize="723081" size="7784824" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D499214E07FDD3C1B2E81CCCD3844F04275B60DF" downloadHash="EE5348BD5F5A53CE80536EDB0081F3F023D5D043" name="Skullport Skull Isle.trx" dlsize="691506" size="7749087" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1710,7 +1710,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="79BA43A59D746ADDAC12E8787F951A26D4BE8F81" downloadHash="EA7A2826CFCF48F2C933C523097A9EAC83AE9789" name="wd 4h dock_south ward int.trx" dlsize="450994" size="497452" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3F88020A53655A53D389CD72C02A56EAFE05029D" downloadHash="193AC4CD70B73ADDB90648812996C68DF12820DF" name="wd 4h dock_south ward int.trx" dlsize="448775" size="495572" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
