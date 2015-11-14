@@ -265,7 +265,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D6BC56A9C1DB32C1DD46A6DC94BB2635A1FF06EB" downloadHash="92298C843BA8DCB227AC70278B4598F4EF572A25" name="underdark area a.trx" dlsize="379643" size="2509977" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9E11140AE52CF9CE86DD4FE2E23E8E149529645B" downloadHash="CC291CAB1CACFC0E25AD2035F12D465FE5CFE638" name="underdark area a.trx" dlsize="379382" size="2509977" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -535,7 +535,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E50FF9DFCF5C56FB6AB4F46888361E68ED96D6C4" downloadHash="11C11830A00825EFD9143D483896D7B5541F489F" name="gwynneth k28 caves.trx" dlsize="2698732" size="2793922" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="22CBDBEA8B9DD033EF754396BFABF67F40DBE3CC" downloadHash="0519E9A07CA6CC0DFCAA8D9CD99443A7ADB5BECC" name="gwynneth k28 caves.trx" dlsize="2697262" size="2792956" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -590,7 +590,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="967B7E8F64BD455891A728A9D81662B792229879" downloadHash="2E653AEDE159E22099953395E19139148B0CDBC0" name="underdark area f skullport.trx" dlsize="369833" size="1191064" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BFAB29C02C4F311D9BF37C9A956050B4C54E40FD" downloadHash="B719E2ED1DC5EDB3E268FAFAB0BDA789006F16BE" name="underdark area f skullport.trx" dlsize="370570" size="1190795" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -725,7 +725,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6B005914AAEB4B5BF5E6BC2F79DC6FDD523A3A52" downloadHash="9B1AF95452D6AA29C312B74A427F5AF76375722C" name="underdark kuotoa cavern.trx" dlsize="901231" size="6792566" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="500ED573D4977EB6418A02FC72E330C21728158B" downloadHash="92631C00909BA18BA2DA15C480EA918E42487A0F" name="underdark kuotoa cavern.trx" dlsize="891440" size="6792996" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -780,7 +780,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="096B2554CA0491DA60E9A7BC2B5F6E40CD2DDDFE" downloadHash="27B33DF986B8B6733024E8FDFA560625B600F82C" name="gwynneth m31 high home-dwarven.trx" dlsize="9511119" size="43379202" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C36B0C54CC89D5088B52272C144CDDABDCA18311" downloadHash="F33ADF481D896482F8BA724D7B8BF29A2E7BE816" name="gwynneth m31 high home-dwarven.trx" dlsize="9494752" size="43369737" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1420,7 +1420,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7B5575EE4786E5885CD74E42D0817B1C41DC896D" downloadHash="132F4607A1EF47AD9919C573EB04D85A0ED808D4" name="underdark area b.trx" dlsize="112719" size="114279" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="149C3BFDA4F24F2CDD780ED836A63EC0B3170598" downloadHash="B1F5ADE6F543A5A57DCA97AF11E62730FC2D9FBC" name="underdark area b.trx" dlsize="118031" size="297830" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1475,7 +1475,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D499214E07FDD3C1B2E81CCCD3844F04275B60DF" downloadHash="EE5348BD5F5A53CE80536EDB0081F3F023D5D043" name="Skullport Skull Isle.trx" dlsize="691506" size="7749087" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0C98C3FF2CD55AE5BE4E232EA4379E5331C4F983" downloadHash="2E497F94443FB9828F64DE8A04B5756E72A80F65" name="Skullport Skull Isle.trx" dlsize="682128" size="7742070" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1710,7 +1710,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3F88020A53655A53D389CD72C02A56EAFE05029D" downloadHash="193AC4CD70B73ADDB90648812996C68DF12820DF" name="wd 4h dock_south ward int.trx" dlsize="448775" size="495572" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FD966D99631627E51A1502FF6CB48DF8C5BA9E2B" downloadHash="3AAB9F21C054AF84972E390B4484FCFEAB6792E1" name="wd 4h dock_south ward int.trx" dlsize="448767" size="495572" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
