@@ -24,4 +24,9 @@ void main()
     // Unlock "dr_n35_shore_cottage_enter".
     oTarget = GetObjectByTag("dr_n35_shore_cottage_enter");
     SetLocked(oTarget, FALSE);
+
+	if (GetLocalInt(oPC,"NW_JOURNAL_ENTRgc_orphans_missing") >30)
+  // lock "dr_n35_shore_cottage_enter".
+    oTarget = GetObjectByTag("dr_n35_shore_cottage_enter");
+    SetLocked(oTarget, TRUE);
 }
