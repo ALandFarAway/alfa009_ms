@@ -18,5 +18,5 @@ void main()
      // Update the party's journals.
     
 
-    AddJournalQuestEntry("gc_orphans_missing", 28, oPC);
+     ACR_AddPersistentJournalQuestEntry("gc_orphans_missing", 28, oPC);
 }
