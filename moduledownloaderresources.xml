@@ -880,7 +880,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="688FE94A7F817B7F98D001E58FEE257501FE1717" downloadHash="1A4FDA350AAE47C96D2E844D569256A45782E0B8" name="gwynneth m34 cantrev koart hall.trx" dlsize="75118" size="75307" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B6FE097CA4CBF950380D5DD7828FB59A80F035D0" downloadHash="7D4C79B7E63CFE715019D0269BCEE420313412E4" name="gwynneth m34 cantrev koart hall.trx" dlsize="75042" size="75195" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1215,7 +1215,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D245872C7E01C67D8EB948B48C0CD4809099C103" downloadHash="4B4DA13757150417DF860EB0EC40F1BBC026B885" name="gwynneth m34 cantrev koart under.trx" dlsize="233764" size="595095" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2CB1944B12C86B288613DA4C76717940E54E43A2" downloadHash="783B8C1DA7F4CDE2DDC6927D551A2878C848721E" name="gwynneth m34 cantrev koart under.trx" dlsize="233761" size="595095" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1345,7 +1345,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B523ED26C90CFCC8998F8A8E56CB849910840824" downloadHash="7FED9918EF09A1945B21904011F3296C761D8FCE" name="gwynneth m34 cantrev koart vill.trx" dlsize="3635094" size="19984283" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F512E25CA6CE675504647B0FB712C2ED362DAB57" downloadHash="844CC2EE02D8E2D4270B4698D3ACF28ECD592535" name="gwynneth m34 cantrev koart vill.trx" dlsize="3635103" size="19984284" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
