@@ -880,7 +880,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="648B8ECCC729D4852C4F1A01FCBB34C2EB5632BF" downloadHash="7457F50761B6F7E347657BA2D5177A8A946692E7" name="gwynneth m34 cantrev koart hall.trx" dlsize="63939" size="64105" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5970B4FC36993590CCFA56A39373CB54CB4000C3" downloadHash="7457F50761B6F7E347657BA2D5177A8A946692E7" name="gwynneth m34 cantrev koart hall.trx" dlsize="63939" size="73567" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1215,7 +1215,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="87AE3C01676A5F945C2837DB4461AD98EDD50324" downloadHash="D53C7FA12624A0D176497BEA8EBDA8A2ECC7DB3A" name="gwynneth m34 cantrev koart under.trx" dlsize="233330" size="594403" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A07C7ABB911386318785A562767D65F904FE2F17" downloadHash="D53C7FA12624A0D176497BEA8EBDA8A2ECC7DB3A" name="gwynneth m34 cantrev koart under.trx" dlsize="233330" size="595086" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1345,7 +1345,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="AB9BEF2FA8724BF2817F5EE86DA1F0999FC0D747" downloadHash="3F1CC7ACAA33B546827093B502941AD5358CBC5B" name="gwynneth m34 cantrev koart vill.trx" dlsize="3443463" size="19788976" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5610889F19D7C944F7D6D5953DB816EC5579D961" downloadHash="3F1CC7ACAA33B546827093B502941AD5358CBC5B" name="gwynneth m34 cantrev koart vill.trx" dlsize="3443463" size="19984251" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1600,7 +1600,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="004F8A2292A1A4678F81C234AA6F2013EADE9631" downloadHash="D4F482054E555D708884AC9A882ED50F0F5B3822" name="skaug port west.trx" dlsize="2320498" size="16725664" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2FB9B1D0FC699A61D73A21FCF4C2041F2CC0998A" downloadHash="D4F482054E555D708884AC9A882ED50F0F5B3822" name="skaug port west.trx" dlsize="2320498" size="16732171" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
