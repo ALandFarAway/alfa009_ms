@@ -21,21 +21,18 @@ void main()
     if ( !GetIsPC(oPC)  ||  GetIsDMPossessed(oPC) )
         return;
 
-    // Abort if the PC is not at least at stage 23 of journal quest "gc_orphans_missing".
-    if ( GetLocalInt(oPC, "NW_JOURNAL_ENTRYgc_orphans_missing") < 23 )
+    // If the PC is at least at stage 23 of journal quest "gc_orphans_missing".
+    if ( GetLocalInt(oPC, "NW_JOURNAL_ENTRYgc_orphans_missing") >= 23 )
     {
-        SendMessageToPC(oPC, "*the tracks lead up to the door of the cottage*");
-        return;
+        // Unlock "dr_n35_shore_cottage_enter".
+        oTarget = GetObjectByTag("dr_n35_shore_cottage_enter");
+        SetLocked(oTarget, FALSE);
     }
-
-    // Unlock "dr_n35_shore_cottage_enter".
-    oTarget = GetObjectByTag("dr_n35_shore_cottage_enter");
-    SetLocked(oTarget, FALSE);
-
-    // If the PC is exactly at stage 5 of journal quest "gc_rowlina_orphans".
-    if ( GetLocalInt(oPC, "NW_JOURNAL_ENTRYgc_rowlina_orphans") == 5 )
-   
-   
+    // Else, if the PC is exactly at stage 5 of journal quest "gc_rowlina_orphans".
+    else if ( GetLocalInt(oPC, "NW_JOURNAL_ENTRYgc_rowlina_orphans") == 5 )
+    {
         // Lock "dr_n35_shore_cottage_enter".
+        oTarget = GetObjectByTag("dr_n35_shore_cottage_enter");
         SetLocked(oTarget, TRUE);
+}
 }

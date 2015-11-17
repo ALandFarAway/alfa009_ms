@@ -29,9 +29,9 @@ void main()
         SetLocked(oTarget, FALSE);
     }
     // Else, if the PC is exactly at stage 5 of journal quest "gc_rowlina_orphans".
-    else if ( GetLocalInt(oPC, "NW_JOURNAL_ENTRYgc_rowlina_orphans") == 5 )
-    {
+   // else if ( GetLocalInt(oPC, "NW_JOURNAL_ENTRYgc_rowlina_orphans") == 5 )
+   // {
         // Lock "dr_n35_shore_cottage_enter".
-        oTarget = GetObjectByTag("dr_n35_shore_cottage_enter");
-        SetLocked(oTarget, TRUE);
+       // oTarget = GetObjectByTag("dr_n35_shore_cottage_enter");
+       // SetLocked(oTarget, TRUE);
 }
