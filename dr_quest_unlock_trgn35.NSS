@@ -25,7 +25,7 @@ void main()
     oTarget = GetObjectByTag("dr_n35_shore_cottage_enter");
     SetLocked(oTarget, FALSE);
 
-	if (GetLocalInt(oPC,"NW_JOURNAL_ENTRgc_rowlina_orphans") >4)
+	if (GetLocalInt(oPC,"NW_JOURNAL_ENTRgc_rowlina_orphans") <5)
   // lock "dr_n35_shore_cottage_enter".
     oTarget = GetObjectByTag("dr_n35_shore_cottage_enter");
     SetLocked(oTarget, TRUE);
