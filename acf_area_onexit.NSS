@@ -50,5 +50,6 @@ void main();
 void main() {
     ACR_AreaOnExit();
 
+    DeleteLocalInt(GetExitingObject(), "ACR_WILD_MAGIC_ZONE");
     // Custom code goes below this line.
 }

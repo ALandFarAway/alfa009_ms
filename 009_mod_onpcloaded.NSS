@@ -1,10 +1,10 @@
 ////////////////////////////////////////////////////////////////////////////////
 //
 //  System Name : ALFA Configuration File
-//     Filename : 010_mod_onpcloaded.nss
+//     Filename : acf_mod_onpcloaded.nss
 //    $Revision:: 198        $ current version of the file
-//        $Date:: 2009-09-24#$ date the file was created or modified
-//       Author : AcadiusLost
+//        $Date:: 2006-12-23#$ date the file was created or modified
+//       Author : Cipher
 //
 //  Local Variable Prefix = None
 //
@@ -15,7 +15,7 @@
 //  the server's customized code they may have added.
 //
 //  Revision History
-//  2009/9/24  AcadiusLost  Inception
+//  2006/12/22/  Cipher  Inception
 ////////////////////////////////////////////////////////////////////////////////
 
 ////////////////////////////////////////////////////////////////////////////////
@@ -23,6 +23,7 @@
 ////////////////////////////////////////////////////////////////////////////////
 
 #include "acr_mod_events_i"
+#include "010_drugs_i"
 
 ////////////////////////////////////////////////////////////////////////////////
 // Constants ///////////////////////////////////////////////////////////////////
@@ -40,7 +41,6 @@
 // Function Prototypes /////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////
 
-// Private function; handles assignment of an omega wand to each incoming DM.
 void _GrantOmegaWand(object oDM);
 
 ////////////////////////////////////////////////////////////////////////////////
@@ -49,18 +49,18 @@ void _GrantOmegaWand(object oDM);
 
 void main() {
     ACR_ModuleOnPCLoaded();
+    
+	//Hook BG Drugs System
+	ACR_ApplyDrugAddictionEffects(GetEnteringObject());
 
-    // Custom code goes below this line.
+	//Give DM Omega Wand
 	object oEntrant = GetEnteringObject();
 	if (GetIsDM(oEntrant)) {
 		DelayCommand(5.0, _GrantOmegaWand(oEntrant));
-	}
+	}	
 }
 
-
-
-
-
+// Omega Wand Function
 void _GrantOmegaWand(object oDM) {
 
 	if (!GetIsObjectValid(oDM)) {

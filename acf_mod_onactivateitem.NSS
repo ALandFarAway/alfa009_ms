@@ -23,6 +23,7 @@
 ////////////////////////////////////////////////////////////////////////////////
 
 #include "acr_mod_events_i"
+#include "ginc_param_const"
 
 ////////////////////////////////////////////////////////////////////////////////
 // Constants ///////////////////////////////////////////////////////////////////
@@ -44,8 +45,21 @@
 // Function Definitions ////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////
 
+
+
 void main() {
     ACR_ModuleOnActivateItem();
 
     // Custom code goes below this line.
+	
+    object oItem = GetItemActivated();
+    object oTarget = GetItemActivatedTarget();
+    string sItem = GetTag(oItem);
+    string sName = GetName(oItem);
+    location lLoc = GetItemActivatedTargetLocation();
+    string sRef = GetResRef(oItem);
+    object oOwner = GetItemPossessor(oItem);
+    object oPC = oOwner;
+	
+
 }

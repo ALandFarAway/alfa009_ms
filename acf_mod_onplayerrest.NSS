@@ -22,6 +22,8 @@
 ////////////////////////////////////////////////////////////////////////////////
 
 #include "acr_mod_events_i"
+#include "009_locations_speed_i"
+#include "010_drugs_i"
 
 ////////////////////////////////////////////////////////////////////////////////
 // Constants ///////////////////////////////////////////////////////////////////
@@ -43,8 +45,20 @@
 // Function Definitions ////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////
 
-void main() {
-    ACR_ModuleOnPlayerRest();
+void main()
+{
+	effect e;
+	object player = GetLastPCRested();
+	string str;
+	
+	/* remove fatigue/exhaustion */
+	SetLocalInt(player, "loc_flevel", 0);
 
-    // Custom code goes below this line.
+	ACR_ModuleOnPlayerRest();
+		
+	// Custom code goes below this line.
+	
+	/* 5 minutes after, apply narcotic withdrawl */
+	AssignCommand(player, DelayCommand(TurnsToSeconds(5), ACR_ApplyDrugAddictionEffects(player)));
+	
 }
