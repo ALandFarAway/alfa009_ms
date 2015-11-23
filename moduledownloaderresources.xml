@@ -1215,7 +1215,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DE532AF5966514CC574BBE410B9CA310E326C7F8" downloadHash="880FB5B8A95AA732DB728689430E37494DC9ED8F" name="gwynneth m34 cantrev koart under.trx" dlsize="409330" size="594103" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4A8FD14AE6768BC45962A5D4069B04EADFC3405C" downloadHash="F6C00DDC6A03B0B20F8136473F339867A206BC67" name="gwynneth m34 cantrev koart under.trx" dlsize="446134" size="630165" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
