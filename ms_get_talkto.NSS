@@ -6,7 +6,6 @@
 #include "ginc_var_ops"
 #include "acr_db_persist_i"
 
-//#include "nwnx_sql"
 
 int StartingConditional()
 
@@ -14,7 +13,7 @@ int StartingConditional()
 	object oPC = GetPCSpeaker();
 	object oOwner = OBJECT_SELF;	
 	string sValuePC = ACR_GetPersistentString(oPC, GetName(oOwner) + "Talkto");
-	if(sValuePC == "Talkto")
+	if(sValuePC == "Known")
 			return TRUE;
 		else 
 		 	return FALSE;
