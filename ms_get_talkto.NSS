@@ -1,7 +1,8 @@
 // gc_global_int
 
- 
-//  Wynna: 9-11-2008  creation
+//  Set this variable on the Conditionals of the Welcome back line 
+//  this line needs to be above the  1st meeting line in the convo tree
+//  Arri creation 11/2015
 
 #include "ginc_var_ops"
 #include "acr_db_persist_i"
