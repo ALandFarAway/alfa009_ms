@@ -10,7 +10,7 @@ void main()
 {
     // Get the creature who triggered this event.
     object oPC = GetLastUsedBy();
-
+    object oSelf = OBJECT_SELF;
     // Only fire once per PC.
     if (ACR_GetPersistentInt(OBJECT_SELF, "DO_ONCE__" + ObjectToString(oPC)) )
         return;
@@ -18,4 +18,5 @@ void main()
 
     // Give 1 gold to the PC.
     GiveGoldToCreature(oPC, 1);
+	DestroyObject(oSelf);
 }

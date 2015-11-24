@@ -1140,7 +1140,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9B836006BA730245E43EF314433951E838A38DEA" downloadHash="76D5F759DC22222ABD18EC5DA276C63737398170" name="009 dm prep area.trx" dlsize="285897" size="293916" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2A8A4D51F77A22B3405ED7C7EFA1DBBC8530E135" downloadHash="24859338BE9E33D4253C9FD6FEF4D5600003E341" name="009 dm prep area.trx" dlsize="289542" size="297540" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1215,7 +1215,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="70AC5FB71B1F81BF3BD091CBB02407985A61ECB9" downloadHash="B8729B0DE7C4DF1BFA8348D233F627FB8D28FECE" name="gwynneth m34 cantrev koart under.trx" dlsize="594581" size="1230699" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BC30B3B0958EE37136AC207E9D9D2D1DFAFBCC7A" downloadHash="6E3FE5B319CDAC7405A6C733C4AA56B4C97FBE15" name="gwynneth m34 cantrev koart under.trx" dlsize="574039" size="1210813" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
