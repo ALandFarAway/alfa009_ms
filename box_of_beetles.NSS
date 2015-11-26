@@ -10,28 +10,31 @@
 //#include "nw_i0_generic"
 #include "acr_spawn_i"
 
+
 void main()
 {
+    object oTarget;
     object oSpawn;
-    object oSelf = OBJECT_SELF;
 
     // Get the creature who triggered this event.
     object oPC = GetLastOpenedBy();
 
+    // Only fire once.
+    if ( GetLocalInt(OBJECT_SELF, "DO_ONCE") )
+        return;
+    SetLocalInt(OBJECT_SELF, "DO_ONCE", TRUE);
+
     // Spawn some critters.
 
-    oSpawn = CreateObject(OBJECT_TYPE_CREATURE, "abr_cr_vm_beetle", GetLocation(oSelf));
+    oTarget = GetWaypointByTag("WP_boxed_beetle1");
+    oSpawn = CreateObject(OBJECT_TYPE_CREATURE, "abr_cr_vm_beetle", GetLocation(oTarget));
     AssignCommand(oSpawn, DetermineCombatRound(oPC));
 
-    oSpawn = CreateObject(OBJECT_TYPE_CREATURE, "abr_cr_vm_beetle", GetLocation(oSelf));
+    oTarget = GetWaypointByTag("WP_boxed_beetle2");
+    oSpawn = CreateObject(OBJECT_TYPE_CREATURE, "abr_cr_vm_beetle", GetLocation(oTarget));
     AssignCommand(oSpawn, DetermineCombatRound(oPC));
-
-    oSpawn = CreateObject(OBJECT_TYPE_CREATURE, "abr_cr_vm_beetle", GetLocation(oSelf));
+	
+    oTarget = GetWaypointByTag("WP_boxed_beetle3");
+    oSpawn = CreateObject(OBJECT_TYPE_CREATURE, "abr_cr_vm_beetle", GetLocation(oTarget));
     AssignCommand(oSpawn, DetermineCombatRound(oPC));
-
-   // oSpawn = CreateObject(OBJECT_TYPE_CREATURE, "abr_cr_vm_beetle", GetLocation(oSelf));
-   // AssignCommand(oSpawn, DetermineCombatRound(oPC));
-
-    // Have us say something.
-    SpeakString("*As you open the lid of the crate a number of hungry bugs come pouring out*");
 }
