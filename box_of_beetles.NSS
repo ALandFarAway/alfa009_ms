@@ -27,14 +27,17 @@ void main()
     // Spawn some critters.
 
     oTarget = GetWaypointByTag("WP_boxed_beetle1");
-    oSpawn = CreateObject(OBJECT_TYPE_CREATURE, "abr_cr_vm_beetle", GetLocation(oTarget));
+    oSpawn = CreateObject(OBJECT_TYPE_CREATURE, "abr_cr_vm_beetle_doombug", GetLocation(oTarget));
     AssignCommand(oSpawn, DetermineCombatRound(oPC));
 
     oTarget = GetWaypointByTag("WP_boxed_beetle2");
-    oSpawn = CreateObject(OBJECT_TYPE_CREATURE, "abr_cr_vm_beetle", GetLocation(oTarget));
+    oSpawn = CreateObject(OBJECT_TYPE_CREATURE, "abr_cr_vm_beetle_doombug", GetLocation(oTarget));
     AssignCommand(oSpawn, DetermineCombatRound(oPC));
 	
     oTarget = GetWaypointByTag("WP_boxed_beetle3");
-    oSpawn = CreateObject(OBJECT_TYPE_CREATURE, "abr_cr_vm_beetle", GetLocation(oTarget));
+    oSpawn = CreateObject(OBJECT_TYPE_CREATURE, "abr_cr_vm_beetle_doombug", GetLocation(oTarget));
     AssignCommand(oSpawn, DetermineCombatRound(oPC));
+	
+	// Have us say something.
+    SpeakString("*beetles come crawling out of the box when you open it and they seem hungry");
 }
