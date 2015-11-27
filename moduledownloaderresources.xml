@@ -530,7 +530,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="EC35903C02FCFE116D4893126D1FC8B9825A4E75" downloadHash="A29D4713482BEAEADD11F6E7CD8EE02EC33362FB" name="gwynneth m35 llyrath forest.trx" dlsize="1681426" size="13937725" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="72BE75E12FC06EABEB230720E41495DD6F3A2B19" downloadHash="E9134521020504A85107465B4401E404917AF1B0" name="gwynneth m35 llyrath forest.trx" dlsize="1690331" size="13939030" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
