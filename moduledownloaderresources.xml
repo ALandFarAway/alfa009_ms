@@ -70,7 +70,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="76B4DD947F1F903F62C0E58D1311AD7A8E1B6117" downloadHash="B164CE69FE5CB44DAE2B1D7361652DC5818CCC7D" name="gwynneth p35 horstall liths int.trx" dlsize="499581" size="508615" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6EC52625EB7E44EB2681B1A594580148A5593A59" downloadHash="B575E07D52BB5BF2AFDD825F2C48944B661028B2" name="gwynneth p35 horstall liths int.trx" dlsize="501841" size="510938" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
