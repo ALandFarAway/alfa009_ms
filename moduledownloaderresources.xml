@@ -70,7 +70,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6EC52625EB7E44EB2681B1A594580148A5593A59" downloadHash="B575E07D52BB5BF2AFDD825F2C48944B661028B2" name="gwynneth p35 horstall liths int.trx" dlsize="501841" size="510938" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D8E4DE81908D1EB15433E0FC3B35C6D56CABFA4D" downloadHash="F52285C7E5114D8201E1C5275B98455AE95BDDE5" name="gwynneth p35 horstall liths int.trx" dlsize="502496" size="511402" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1090,7 +1090,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1D45128FD3E34AE7DA5AC45ECB4FBCA274B3DB96" downloadHash="77A6F2C47C307630FBEF00EBC7456038253CA80D" name="gwynneth o34  llyrath forest e.trx" dlsize="2599053" size="14705353" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FDFD9947C5C5DBEF3C6A3848689D901AC0E3863F" downloadHash="9076B3A912851A9E50CEF9793C0323068CD2AC1C" name="gwynneth o34  llyrath forest e.trx" dlsize="2577819" size="14689919" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
