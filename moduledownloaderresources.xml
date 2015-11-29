@@ -70,7 +70,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D8E4DE81908D1EB15433E0FC3B35C6D56CABFA4D" downloadHash="F52285C7E5114D8201E1C5275B98455AE95BDDE5" name="gwynneth p35 horstall liths int.trx" dlsize="502496" size="511402" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D777E2EBBB77294609C66613FFDF1E3274A5AA4D" downloadHash="79B2C8D85139F57E824BB6BCFC7E740E14DDE7C7" name="gwynneth p35 horstall liths int.trx" dlsize="518237" size="526127" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -545,7 +545,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="21EFC19D9E896D4E43FF7E7FBCB5F0530695A69C" downloadHash="36EDC360FCBF901B119A5A50AAF257FD2F5CD2B6" name="gwynneth p35 llyrath forest edge.trx" dlsize="1655043" size="11215248" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="732F9473640B31AD991C7681F614103B18DE152D" downloadHash="822184BACD2CF0DF097A0A3EDCDADE16BBE8C0C4" name="gwynneth p35 llyrath forest edge.trx" dlsize="1654924" size="11214238" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1395,7 +1395,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="31CEA50294E492618490CF15C47C414A9040474A" downloadHash="164A1D010FE7E45FA2A1B8E4FB02774109360E31" name="gwynneth l34 corwell town.trx" dlsize="5195095" size="27231921" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4D578B62B154D39F9DB448AF5E931CEDE3D4CE07" downloadHash="31B6BD99BAC79EE13CE3ABE193D4A7BE26F47CEF" name="gwynneth l34 corwell town.trx" dlsize="5200779" size="27235313" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
