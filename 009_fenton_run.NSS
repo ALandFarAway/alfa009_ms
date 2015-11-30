@@ -16,7 +16,7 @@ void main()
 
     // Have us perform a sequence of actions.
     ActionMoveToObject(GetNearestObjectByTag("dr_n35_shore_cottage_exit"));
-    ActionWait(5.0);
+    ActionWait(10.0);
 
     // Destroy an object (not fully effective until this script ends).
     DestroyObject(oSelf);
