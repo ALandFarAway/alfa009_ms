@@ -1100,7 +1100,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="79276D0078712AB5AC676086C1F5ED53E271C797" downloadHash="8192954204496633EC619AFBEDB1DD69EEB97DAD" name="gwynneth m33 fens of the fallen.trx" dlsize="3359337" size="22590587" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2AD1D22D6F87E5BCAFB6386BCF12AB3A56373521" downloadHash="9FFA4D1AE3297F3648A5A31BCEEA18B60B0D4E74" name="gwynneth m33 fens of the fallen.trx" dlsize="3704656" size="22681848" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
