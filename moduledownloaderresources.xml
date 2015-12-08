@@ -530,7 +530,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="312DDBAC9CF09DC9C2CFF7BB8761D60DE9E10E5E" downloadHash="7B12352809FD4515788FA9C55C50C204758BD191" name="gwynneth m35 llyrath forest.trx" dlsize="2014896" size="14994863" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FB99F6D1416F042A05D1B6E2D14FDB5E24DA53F1" downloadHash="9FDE9A9E618A3D317C5DEBD1547ACF9A9645F671" name="gwynneth m35 llyrath forest.trx" dlsize="2014954" size="14994864" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1870,7 +1870,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C27FF117A25F54FAA9D967277D5A6E59744403E8" downloadHash="8358A5BC001B26EBA053738E3F3E2848603DCBD6" name="gwynneth l35 llyrath forest.trx" dlsize="1412727" size="12946442" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="EBCD1AACE4D91660ABA0742A0847155547899D52" downloadHash="F70AD42791401F1CCB0CE94E66E21AA2F993F0C5" name="gwynneth l35 llyrath forest.trx" dlsize="2943098" size="15982731" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
