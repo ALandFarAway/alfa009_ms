@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////////////////////////
 //
 //  System Name : ACR Spawn System
-//     Filename : as_group_example.nss
+//     Filename : as_group_shadows_med
 //      Version : 1.0
 //         Date : 2006-9-17
 //       Author : Ronan

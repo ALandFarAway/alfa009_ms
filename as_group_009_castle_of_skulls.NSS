@@ -7,7 +7,7 @@
 // Baneguard Squad
 // Barghest Pack or Greater Barghest Pack
 // Bodak Pair
-// Bebilith
+// Barbed Fiend
 // Curst, 1 (5th or 7th level)
 // Dread Warrior Company
 // Flesh Golem Pair
@@ -40,7 +40,7 @@ void main() {
 		else ACR_SpawnGroup("barghest_gr_pack");
 	}
 	else if (nRoll <= 32) ACR_SpawnGroup("bodaks");
-	else if (nRoll <= 40) ACR_SpawnObject("abr_cr_ou_bebilith", OBJECT_TYPE_CREATURE);
+	else if (nRoll <= 40) ACR_SpawnObject("abr_cr_ou_devil_hamatula", OBJECT_TYPE_CREATURE);
 	else if (nRoll <= 48) {
 		int nType = d2();
 		if (nType == 1) ACR_SpawnObject("abr_cr_un_curst_ftr5", OBJECT_TYPE_CREATURE);
@@ -54,8 +54,8 @@ void main() {
 	else if (nRoll <= 88) {
 		int nType = d2();
 		if (nType == 1) ACR_SpawnObject("abr_cr_un_vampire_sor5", OBJECT_TYPE_CREATURE);
-		else ACR_SpawnObject("abr_cr_un_vampire_sor7", OBJECT_TYPE_CREATURE);
+		else ACR_SpawnObject("010_cr_undead_shadow_spellsore", OBJECT_TYPE_CREATURE);
 	}
-	else if (nRoll <= 96) ACR_SpawnGroup("vampire_spawn_pack");
+	else if (nRoll <= 96) ACR_SpawnGroup("as_group_shadows_med");
 	else ACR_SpawnGroup("wight_gang");
 }

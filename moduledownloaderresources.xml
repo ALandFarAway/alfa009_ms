@@ -1875,4 +1875,69 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="98BCFA0FAAC98EC1662F43A388847E671C9D67C2" downloadHash="17D2EB4454AB342629979559C26AFA43618EB476" name="gwynneth m34nw corwell thief gld.trx" dlsize="239075" size="417818" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="15EDA687BA02E35D04215106FD5D3023DF8A8895" downloadHash="4BD9BD99CB831363363817918123AC16B489B2C6" name="gwynneth m34nw corwell shops int.trx" dlsize="425364" size="472047" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="8F916413718609BCA02AD81BD4EFC9E5C9E01765" downloadHash="5B1EE6D600D770F09C00A615969BC6D8A8DB5E3E" name="gwynneth m34nw corwell grove.trx" dlsize="1410347" size="9033151" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="B88C7ACDE132B9EE3F9BC775C7EA0B9607457FA0" downloadHash="68520D9D9874C6B0645B8F3DB50EF489BD969879" name="gwynneth m34nw corwell grove int.trx" dlsize="32158" size="32059" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="98CA0CCCC4F407899FEF2B1664D676EABFECD70C" downloadHash="38B36370618928B91BB815C47BBADDDDC36AB223" name="gwynneth m34n kings road.trx" dlsize="4023062" size="17185535" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="B531BDE74955DCF31A20B217EB026F52C8BB00AC" downloadHash="B7D5F4E1D3C9DC96CB0E2FA817C92BE2E2931C18" name="gwynneth l35 castle of skulls.trx" dlsize="891157" size="913246" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="37E030147C29CE2F7092F96E8B13613C113804DF" downloadHash="F0E0264BF710578D5D78E39AD42DF847477E6C09" name="gwynneth m34nw corwell crypts.trx" dlsize="178660" size="181960" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="2B81FBD40D71ADEFEF9096D0DEEF303DEC1FDACA" downloadHash="3823A5487CC99B08D4B94417B63E87A7F221DDFB" name="gwynneth m34nw corwell inns.trx" dlsize="424707" size="427822" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="8BE3EB5EF70DE3F4BB314C2995E7C5D23B101AC0" downloadHash="F08435C5CB1A2CCD62A97E9E8C308C1C7C4E7C5E" name="gwynneth m34nw corwell interiors.trx" dlsize="256953" size="259816" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="0F29E3429B660D420E554E3C5AEC51B82B76BD7D" downloadHash="6A106B11BB19320CCB1C042618580435581A5F22" name="gwynneth m34nw corwell chapel.trx" dlsize="67581" size="67623" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="4D578B62B154D39F9DB448AF5E931CEDE3D4CE07" downloadHash="31B6BD99BAC79EE13CE3ABE193D4A7BE26F47CEF" name="gwynneth m34nw corwell town.trx" dlsize="5200779" size="27235313" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="AA678E0463ADEADFDB08B2A2AB09B885E14670E1" downloadHash="9A0FC8D9CB6A28EEC9FF3A6C501EE50AA4733FB1" name="gwynneth l34 cantrev dynnatt.trx" dlsize="5055530" size="23675377" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="915B8DD609B93458F951511D192CE21CE95B1E75" downloadHash="745FA724A698612C87D3ADAEDDC558885BB328AA" name="gwynneth k34 pontswain.trx" dlsize="6742381" size="28183032" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
 </content>
