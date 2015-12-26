@@ -530,7 +530,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FB99F6D1416F042A05D1B6E2D14FDB5E24DA53F1" downloadHash="9FDE9A9E618A3D317C5DEBD1547ACF9A9645F671" name="gwynneth m35 llyrath forest.trx" dlsize="2014954" size="14994864" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E58ED45308715C665B858D03440824E758D25D67" downloadHash="DDC39464DD1964624C2CF1DF0912E15201B599F3" name="gwynneth m35 llyrath forest.trx" dlsize="2024574" size="14999011" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1936,6 +1936,36 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="915B8DD609B93458F951511D192CE21CE95B1E75" downloadHash="745FA724A698612C87D3ADAEDDC558885BB328AA" name="gwynneth k34 pontswain.trx" dlsize="6742381" size="28183032" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="C1F2AE4B61BAA51FFE0FF33B4AE53974731BEDEC" downloadHash="A5F9E63BDFD434FE207866208773CF6D59A6A869" name="gwynneth m34ne koart under.trx" dlsize="587859" size="1225028" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="03AC43405DE05D564C09CC27414D2D1006EF2F60" downloadHash="AAC3062F32AF0412C40D5ED9BDE44677DCE71DCE" name="gwynneth m34ne koart vill.trx" dlsize="3757209" size="19972969" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="B662B9DC00E4DEEE39790E84E46CE221ACA1C86F" downloadHash="1B09CEEDA3FF7E582AE2354125F8111C9BC4CB8A" name="gwynneth m35 mysterykeep int.trx" dlsize="510335" size="522032" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="D02168656D3546B3BB09E81AED203792272150B5" downloadHash="EDABB958A42ECBEA9FB45D9E275309B5FC8BBD38" name="gwynneth m34ne koart hall.trx" dlsize="76784" size="77107" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="71401B1D42BFC24B77B85C74CFB3B6674D32C185" downloadHash="74D3E92C2C28F601824D824269302A1624010EE5" name="gwynneth m35 mystery keep.trx" dlsize="1131305" size="9892176" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="D2438667F4CF49B8A33CE74937AAD43C9F59DA68" downloadHash="66D0D0DCF406982E2035FDC28B8A997FD31EFA9B" name="z_fx_bats.DDS" dlsize="3182" size="32896" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
