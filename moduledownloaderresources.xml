@@ -130,7 +130,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4B4D5CC2630F2E0933B6EA40FC6AF2776A61DD60" downloadHash="0B15C6265C57A62DD25DC10E2AC46DC5A2026E76" name="undersea kressilacc int.trx" dlsize="197091" size="199605" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="62E9DBC407944CFC2AB5D6C31EF2EF37259E9D4E" downloadHash="96042063984F0F76E7B7E074D90F5CCAAAFFB16F" name="undersea kressilacc int.trx" dlsize="208092" size="3516797" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -610,7 +610,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C348CC238FCA814FA9696E5DD581845E0B8A59C9" downloadHash="09D702812E03C2D10EB9CD13C7AD34C036F1939C" name="gwynneth p34 horstall int.trx" dlsize="190092" size="280063" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BC453D60ADE95265CE07690EA53491F5B7A20888" downloadHash="BE5EB989ED39D73B515F26273D217BF5F5EA8889" name="gwynneth p34 horstall int.trx" dlsize="214537" size="304641" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -990,7 +990,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="12BB2AB9B2AF7BE064C1BC69C08B948F63611E52" downloadHash="23EE6C2F9CB8044B13AE78BB5AA5425C6FDE45BC" name="undersea kressilacc temple.trx" dlsize="178948" size="179889" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="647511308DDCBB4CFD3B18409462DBC400C764F8" downloadHash="AE5F5A87D25DFDE7AC849F343DA26A85AA105287" name="undersea kressilacc temple.trx" dlsize="206549" size="5026949" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1950,7 +1950,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B662B9DC00E4DEEE39790E84E46CE221ACA1C86F" downloadHash="1B09CEEDA3FF7E582AE2354125F8111C9BC4CB8A" name="gwynneth m35 mysterykeep int.trx" dlsize="510335" size="522032" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B3FECD9E632E5072514ED513B6BE8246B5C94791" downloadHash="4CA3A853032656844E18871C8B2C5713C68162FE" name="gwynneth m35 mysterykeep int.trx" dlsize="489667" size="502276" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1960,12 +1960,22 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="71401B1D42BFC24B77B85C74CFB3B6674D32C185" downloadHash="74D3E92C2C28F601824D824269302A1624010EE5" name="gwynneth m35 mystery keep.trx" dlsize="1131305" size="9892176" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FB200B05C833D8BF3680511735EBE38924831FE7" downloadHash="870F1C74E9EF89A5137A486E7A4F1DD8B52CC979" name="gwynneth m35 mystery keep.trx" dlsize="1132017" size="9894434" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="D2438667F4CF49B8A33CE74937AAD43C9F59DA68" downloadHash="66D0D0DCF406982E2035FDC28B8A997FD31EFA9B" name="z_fx_bats.DDS" dlsize="3182" size="32896" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="00EF3D30E9D0AE133F58DCEA6CC053C3D4B0CB68" downloadHash="DF4F6A66824307C79051CE276E2A602BE95F6C63" name="skaug undersea cave.trx" dlsize="485784" size="7983342" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="D7D925E7D222E53DD720D0EC757DBCBEDC7AFCBF" downloadHash="A7AE95E87FE268192FBDF73A66686CC7FF1F6840" name="under the sea n24.trx" dlsize="1670794" size="14681181" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
