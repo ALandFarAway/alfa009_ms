@@ -250,7 +250,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="07E49EF3A34614A3CF005C3BBD7894C2718A12AC" downloadHash="3071301124847F42AFEE1BF6246F201D20F9B6C5" name="alaron q22 callidyrr int 2.trx" dlsize="314674" size="720595" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A1639B1E08008EB567B50E74DBB476F52435E8F1" downloadHash="00A2BA7D7FE52D564222CF45D68242AE74238A19" name="alaron q22 callidyrr int 2.trx" dlsize="315993" size="722446" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -860,7 +860,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="899E265724BE3D55E5DCFF98F61963171637CD9A" downloadHash="E66E0124EE9B5E24E5C6D0D5AA3C99BFD4D211DA" name="alaron q22 callidyrr inns.trx" dlsize="89990" size="675316" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F8539C81F608D373F5906F88EF0A6F0592FF6700" downloadHash="07CAE12B1BED76B8D606B48163AC5808E7FABA27" name="alaron q22 callidyrr inns.trx" dlsize="88742" size="675316" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1976,6 +1976,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="D7D925E7D222E53DD720D0EC757DBCBEDC7AFCBF" downloadHash="A7AE95E87FE268192FBDF73A66686CC7FF1F6840" name="under the sea n24.trx" dlsize="1670794" size="14681181" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="B283959013D3952531AB87872A1340F661F0ECFC" downloadHash="9AAC35E6CDE086B240F9EFD0DA08DE966179BE5F" name="skaug port west  pirate estate.trx" dlsize="123220" size="124024" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
