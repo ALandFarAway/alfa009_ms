@@ -11,6 +11,7 @@
 
 void main()
 {
+	if (GetLocalInt(GetModule(),"Stop Ambient Life"))
     // If running the lowest AI, abort for performance reasons.
     if ( GetAILevel() == AI_LEVEL_VERY_LOW )
         return;
@@ -29,5 +30,5 @@ void main()
 
     // Have us perform a sequence of actions.
     ClearAllActions();
-    ActionPlayAnimation(ANIMATION_LOOPING_SIT_CROSS, 1.0, 999999.0);
+    PlayCustomAnimation(OBJECT_SELF, "sitgrounddown", -1);
 }

@@ -23,7 +23,7 @@ void main()
 		PlayCustomAnimation(OBJECT_SELF,"dance03", 1);
 	else if (nRandom==3)
 		PlayCustomAnimation(OBJECT_SELF,"dance01", 1);	
-	else
+	else if (nRandom==4)
 		PlayCustomAnimation(OBJECT_SELF,"dance02", 1);
 //	int nRandom=Random(5);
 //	if (nRandom==0)
