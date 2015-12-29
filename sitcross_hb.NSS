@@ -12,7 +12,9 @@ void main()
 	}
 
 	int nRandom=Random(1);
-	if (nRandom==0)
-		PlayCustomAnimation(OBJECT_SELF,"sitgroundidle", 1);
+	if (nRandom==1)
+
+	PlayCustomAnimation(OBJECT_SELF,"sitgroundidle", 1);
+	//	AssignCommand(oNPC, ActionPlayAnimation(sitgroundidle));
 	
 }
