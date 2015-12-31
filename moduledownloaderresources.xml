@@ -75,7 +75,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="538FE7B062A361154CA19F7F09DAB1788DAA16BB" downloadHash="9DC1686D038B4756973C4CF07F0EFC7BFB03AD1D" name="alaron q20 farheights cave2.trx" dlsize="651817" size="660789" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B0CD643203618D01D639E71F76FCA599A9559C53" downloadHash="0568387C395A2C882BFA77C039C5C88B38D35275" name="alaron q20 farheights cave2.trx" dlsize="634904" size="643256" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -135,7 +135,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="04164406D23B62108AA8DC866DD11BDB9FA36895" downloadHash="C953C59C51C0FCA6B94229492099DCDF1EBADD2F" name="norheim i16 hammerstaad town ext.trx" dlsize="3658338" size="17819945" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1479E92CB78C2FF2E45550C1AB16ADF252C46B64" downloadHash="3A66F1EE02EAF292BC74DE2F79ABB35C37478D02" name="norheim i16 hammerstaad town ext.trx" dlsize="3647170" size="17812893" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -250,7 +250,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="835C2B4FA9F05CD15132974D5160406C08F93D9E" downloadHash="556C60DF4EC3AA86B6BE2761917E733559F169B2" name="alaron q22 callidyrr int 2.trx" dlsize="321083" size="726556" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4BA2D58531B78D1630B6BC1FA437DEA59462ECF5" downloadHash="AC9A4064861E25495ABD331D44A2A1159E493F6D" name="alaron q22 callidyrr int 2.trx" dlsize="321311" size="726863" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -370,7 +370,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1A20A7FE5C6F09159B0CEC4F1C645C0FC16F7817" downloadHash="A4143C4C4218DBB3BA415514917CEF91D132E707" name="skaug on board .trx" dlsize="192870" size="194782" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="AE4463DE20BC851152A4217CB1A0C2497884C68A" downloadHash="B50C3A077238A004D752A1A056FF38CCCF9396F0" name="skaug on board .trx" dlsize="192888" size="194782" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -495,7 +495,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9761EBEAC87205EC886E0B6F3DD0F42E5A049015" downloadHash="0D51BA474DDCBD3CCD27B071D64C8CAB6C7DE8A0" name="oman k25 iron keep interiors.trx" dlsize="271292" size="362322" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8AB3EC383724E81DD74AEA6B8E9F7ED82B622ABC" downloadHash="9EAB826BD8E6EF45736F4222A499AE6FDE434842" name="oman k25 iron keep interiors.trx" dlsize="271301" size="362217" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -825,7 +825,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="505DD7B75426298D960166EBB15C22697784F0D5" downloadHash="14A530C79A8FEE2B0F1EB90068B549521F967A7B" name="snowdown s34 salty air tavern.trx" dlsize="158001" size="158750" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="AA610C393221E2E0E551A673E8D23A909F3BAEDC" downloadHash="654C9AA1D19A4BF6BB008FBC75C99692EE2362C9" name="snowdown s34 salty air tavern.trx" dlsize="158008" size="158748" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1145,7 +1145,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="39AE510A52663132F7D25DB576C097149586E029" downloadHash="800A6B7798D9656997A393D17C18EF30B85C9296" name="alaron p21 farheight mountains.trx" dlsize="5710681" size="24245323" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="514DD59FAE1BC8985C6CC9E322303B521D34A264" downloadHash="C48912E2B8ED0231713AF965B2292AE57955CB01" name="alaron p21 farheight mountains.trx" dlsize="5707381" size="24252293" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1305,7 +1305,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CFD113E2075B3F257034BC41E7ABB5DF838700BD" downloadHash="CEAF5727D42103142E0602C7A9CE3698F23B2BB0" name="norheim m15 graystaad village.trx" dlsize="2373656" size="14697930" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="49C5687206D0357AA9AE358B586639E103F9D275" downloadHash="036EE3BC0525AF781DFA2F58A25FD03A40C99D76" name="norheim m15 graystaad village.trx" dlsize="2354234" size="14678436" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1850,7 +1850,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2E30DA85C57BEDCC7DAD166624B9D27997BB1993" downloadHash="3927654E54F13EF59E046E8FCD7074EC9488D3AE" name="skaug port temples.trx" dlsize="309802" size="314971" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B55C811EDEBDEFA42CE1C1451D70B2BD19474CA9" downloadHash="E417E8C30025D9C0237BC705CA82D2230CEB7CBA" name="skaug port temples.trx" dlsize="319510" size="819761" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
