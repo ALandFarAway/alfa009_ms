@@ -300,7 +300,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="125B4ADE1F700483EDFCE5205D96F5F2E5683C42" downloadHash="69C673D1BD1B5D54FD15EFE42B9C83A50275789A" name="alaron q22 c callidyrr docks n.trx" dlsize="3078594" size="19982058" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E8919996D7F1D0B33A67F8DCC3632485637BFBD4" downloadHash="D6581315F2F13CF497AB2441A7B88E10A35B4DD1" name="alaron q22 c callidyrr docks n.trx" dlsize="3080374" size="19979176" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -700,7 +700,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0B1BBE2BCAE61A2F2A2B2B6AAF42915E4FAFB1C8" downloadHash="DA9B7582E6E8CD1615734CDBFEE4988DC04A7906" name="alaron q22_callidyrr temples int.trx" dlsize="294377" size="340511" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A53D2A39CC455F2A30A7758B5CD8C877DFC010CB" downloadHash="94DC9E215F743BC96CA9F9E0760ADF943F410928" name="alaron q22_callidyrr temples int.trx" dlsize="363202" size="1085922" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1040,7 +1040,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="60CD9A62EAC42AB296E6BDAADEC8CB25C17BCF2F" downloadHash="00604958827E1D5398D4D0B6AD19918724783EF7" name="gwynneth p33 kingsbay town ext.trx" dlsize="5630866" size="26968673" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D04A38220D6A0EB58EDA2B898A3F2690C11E532A" downloadHash="D729942F657C88595AA394EDE2DBF65DDBECD45B" name="gwynneth p33 kingsbay town ext.trx" dlsize="5698794" size="27036700" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1070,7 +1070,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4C40032F9A781303E25F95FDC50332E4030E85C6" downloadHash="76CD744BE72F246F22EC4A0D3B855624515EB11B" name="gwynneth p33 kingsbay interiors.trx" dlsize="85557" size="86673" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="578DAB40CB987C37C07FA68904C0EC26E82CF24C" downloadHash="F6ECE2B241714FA390BC37C164B7F1FF02649570" name="gwynneth p33 kingsbay interiors.trx" dlsize="98878" size="142623" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1545,7 +1545,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="685E3897774381F5A21E400B0E73C4CEBE324C8A" downloadHash="0B55CE4F82B06912BCDA61A6BEB4842E7DC8791E" name="gwynneth o33 macsheehan ruins.trx" dlsize="3100818" size="16211993" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="871565D2188DE4B94333A76AD7EF58259201F2FC" downloadHash="274B0BC0D8E51557B40D27AE3EC42018DF3928DB" name="gwynneth o33 macsheehan ruins.trx" dlsize="3018261" size="16095304" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
