@@ -1070,7 +1070,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="578DAB40CB987C37C07FA68904C0EC26E82CF24C" downloadHash="F6ECE2B241714FA390BC37C164B7F1FF02649570" name="gwynneth p33 kingsbay interiors.trx" dlsize="98878" size="142623" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1D2E7983C94D9F010AF34949045587FA2C18E27B" downloadHash="2C94D487A97E87A40304D9D047F7AD3126395EF9" name="gwynneth p33 kingsbay interiors.trx" dlsize="101625" size="145322" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1555,7 +1555,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4BC737B9114430B287AEA53714DC32A34AA7D8B5" downloadHash="813DEBB91E1D59742346051F56CC9BB083CF18D6" name="gwynneth o33 kelemvor tmpl int.trx" dlsize="175748" size="219524" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DE882A6C584FEE58C25D711FE1C700BDCC1BB84C" downloadHash="96ED96C17DD2F84C72DF7F3714567B0CFAA12236" name="gwynneth o33 kelemvor tmpl int.trx" dlsize="175579" size="219524" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
