@@ -25,7 +25,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0BB005043346B44683F696AC9808DF3D30CABBB8" downloadHash="4705E35BFA933B208A80C1A8C8F3E2787918443F" name="gwynneth n34 llyrath forest n.trx" dlsize="4548600" size="20868147" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2566704409072599A43A532D2106681B5B41BE7D" downloadHash="6230817306CEE4812A6EAB7C2082487BDB43C374" name="gwynneth n34 llyrath forest n.trx" dlsize="4527741" size="20869802" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -160,7 +160,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C50517E96197DD1997DADEA450B78E5D1C5C4777" downloadHash="FD1325304198A755920185892042E51328196DA9" name="gwynneth lowhill vill.trx" dlsize="3693817" size="19304524" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="17F6218A129F6193B3A33C70ADA9096F8A3C042D" downloadHash="5A7292BFF37DB5FCB192CA74D264B10AA5F75E5A" name="gwynneth lowhill vill.trx" dlsize="3700697" size="19304532" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -755,7 +755,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="04C17F4BEA6DFAAC31698348CFE77802F33417E3" downloadHash="10503BE0C2961DCAF03DBB4EC591C5A55D71FAD2" name="gwynneth lowhill interiors.trx" dlsize="436702" size="576023" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="84F3695169C976A78D306B60B3D18627F53A2061" downloadHash="3E887FFF9948D08382B17281D642B34C5DEF69D3" name="gwynneth lowhill interiors.trx" dlsize="437474" size="576262" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -780,7 +780,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C36B0C54CC89D5088B52272C144CDDABDCA18311" downloadHash="F33ADF481D896482F8BA724D7B8BF29A2E7BE816" name="gwynneth m31 high home-dwarven.trx" dlsize="9494752" size="43369737" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3CF4EB53B297E3D31B484D693FA961173E19373D" downloadHash="7E11A40C9664CFA6188B2DF399E541DBD893BC7A" name="gwynneth m31 high home-dwarven.trx" dlsize="9391106" size="42956586" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1040,7 +1040,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D04A38220D6A0EB58EDA2B898A3F2690C11E532A" downloadHash="D729942F657C88595AA394EDE2DBF65DDBECD45B" name="gwynneth p33 kingsbay town ext.trx" dlsize="5698794" size="27036700" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="44A21CDB56B903C63D8047DAB9A881D41D0AE02E" downloadHash="BE8C742CEDEDA96FCE053F00F5D171CBEB978F11" name="gwynneth p33 kingsbay town ext.trx" dlsize="5570721" size="26902092" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1070,7 +1070,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1D2E7983C94D9F010AF34949045587FA2C18E27B" downloadHash="2C94D487A97E87A40304D9D047F7AD3126395EF9" name="gwynneth p33 kingsbay interiors.trx" dlsize="101625" size="145322" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A8DA9143766D34A6CD6B02744D78AB0CEF47742E" downloadHash="CC75A386B459A1B36297BEC9346B3894C522DA44" name="gwynneth p33 kingsbay interiors.trx" dlsize="278436" size="323188" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1090,7 +1090,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FDFD9947C5C5DBEF3C6A3848689D901AC0E3863F" downloadHash="9076B3A912851A9E50CEF9793C0323068CD2AC1C" name="gwynneth o34  llyrath forest e.trx" dlsize="2577819" size="14689919" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8D52CA237B021E7C71D1DCE849003AF40E9ED2B1" downloadHash="0924B545F130173DB383CA2B3844D92DC901E544" name="gwynneth o34  llyrath forest e.trx" dlsize="2583989" size="14692431" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1205,7 +1205,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B4523D74D279087E6286870F9CF754DA8B7A55B0" downloadHash="3CD992C1767C7E91BEDCD909A8C7549D460A0182" name="alaron q22 callidyrr interiors.trx" dlsize="587746" size="680895" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1ACCA9BA101AE37988F0A82E86999EC774DE6D0A" downloadHash="3EFAD0C78500774E2063FE4F184594C905C20ED3" name="alaron q22 callidyrr interiors.trx" dlsize="587129" size="680524" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1310,7 +1310,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E8EBFFA4C77AE79BB0AA266D6771659EBA73CE7F" downloadHash="EF4FE44BA29B86D5A2A05BE2B262FA5F0AB5D90F" name="gwynneth o33 kings road.trx" dlsize="1475898" size="9386750" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="877EDD253629C7E0E40D56C2461E5BB642520B81" downloadHash="CF866EF0831063936061B7B1BAD695783FCF9AE1" name="gwynneth o33 kings road.trx" dlsize="1706130" size="10136848" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1380,7 +1380,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BCFF6677D7BF094AC5538C2C2E9889B000A8DB8A" downloadHash="813C7BB77E1AADFE64D5F81592D08D9D440A8855" name="generic gnome airship in flight.trx" dlsize="229804" size="7839849" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="848B99D2B805E70241ECECE9F1BD7007422169BC" downloadHash="25EC49BAAFDF75FE50B4F1C5BC950EA4B1A7B6DA" name="generic gnome airship in flight.trx" dlsize="228867" size="7839848" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1695,7 +1695,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2F7F2CB3382D6D83D64A39D05A9538B2D4A6778A" downloadHash="97C907D2177ED67BCEEC17A7958A3214AF183729" name="gwynneth p33 kingsbay silver sal.trx" dlsize="199039" size="242879" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A83B572F34D885D93D85B06090C308B7693C0C93" downloadHash="44EAFF7FBCFFE8A208AE7932DFCC98EF363E5ED5" name="gwynneth p33 kingsbay silver sal.trx" dlsize="192101" size="235656" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1790,7 +1790,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="789F266D6505B3EFBA1B8D6262873EE342404C8A" downloadHash="02591525E1F4917734AD735BDDFF22E011B1D7AB" name="wd 4g dock ward int.trx" dlsize="21829" size="21949" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3BA5686A7651B8F9E5020D9D04EE7408EB9A2C43" downloadHash="F4D1E46016B7F4287F0C01DFEC534B874B6202F4" name="wd 4g dock ward int.trx" dlsize="21803" size="21952" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1991,6 +1991,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="790FDBA0396477DF7C4D842C5AE53C08007D19C9" downloadHash="1DA4E6375D68A09F444757AD034A6EA0897F011E" name="norheim j15 deepbrother temple.trx" dlsize="31700" size="31774" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="DBA81D15F7C5D32290A9C82EB7F4EE3362EB5619" downloadHash="61B963C5E203A5E1AD78221B07B110BF51FCD998" name="gwynneth o33 llyrath forest s.trx" dlsize="2319181" size="14205936" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
