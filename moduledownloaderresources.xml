@@ -1040,7 +1040,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="44A21CDB56B903C63D8047DAB9A881D41D0AE02E" downloadHash="BE8C742CEDEDA96FCE053F00F5D171CBEB978F11" name="gwynneth p33 kingsbay town ext.trx" dlsize="5570721" size="26902092" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4DDCFD61C5C9B291BF9E88C47687F706E8F76C75" downloadHash="CFBEB84C0D809AA349F0E3B1162BCB4585A89599" name="gwynneth p33 kingsbay town ext.trx" dlsize="5576576" size="26899279" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1545,17 +1545,17 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3F5F63BBA238A76F58E9A123B1780045516AE5E9" downloadHash="BECF6547F7AA36413E5FA819C01485EA146072EB" name="gwynneth o33 macsheehan ruins.trx" dlsize="3112093" size="16180208" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3EE85569D77A6B10E7E01DC4883CA8698AA4725E" downloadHash="BECF6547F7AA36413E5FA819C01485EA146072EB" name="gwynneth o33 macsheehan ruins.trx" dlsize="3112093" size="16066630" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E0FD8C944FB984A8BF4065A9176492D279467066" downloadHash="7E7E2CB740B23334819C292E56B2E3968BC2F91C" name="gwynneth o33 macsheehan  int.trx" dlsize="650065" size="3094537" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FB33E4383BE475E8C7EB3351224767AAF159BB20" downloadHash="7E7E2CB740B23334819C292E56B2E3968BC2F91C" name="gwynneth o33 macsheehan  int.trx" dlsize="650065" size="3623444" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7C06B1BD9C31CAF0292376F3C8BC60AC4EAEA767" downloadHash="1073808FA2B17AEFDCBE6331AB25D090ED76499D" name="gwynneth o33 kelemvor tmpl int.trx" dlsize="175753" size="219523" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="EC96F7265D566CDD6038164351CE17865EB997F7" downloadHash="1073808FA2B17AEFDCBE6331AB25D090ED76499D" name="gwynneth o33 kelemvor tmpl int.trx" dlsize="175753" size="289969" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1995,7 +1995,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4F2FE6E400B1A1CA881D5D6EE974843A39E55212" downloadHash="23991FF6897E2E9D7AA81F73CD1378B2C7B6DFA0" name="gwynneth o33 llyrath forest s.trx" dlsize="2677469" size="15126047" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7739365729270186BC1CFF6EC715D8A41B17F013" downloadHash="A8670C959D00DFCA76141642A6B2AB49D7AD4754" name="gwynneth o33 llyrath forest s.trx" dlsize="2579872" size="15031562" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="3ACFBF0C0C5EC41C54E7FF298A38498D7DE381AE" downloadHash="9BFB2BDF17969A6D1EB977035C90D4C9BA6D93EC" name="gywnneth o33 llyrath forest int.trx" dlsize="640141" size="656159" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
