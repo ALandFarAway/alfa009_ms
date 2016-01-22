@@ -1555,7 +1555,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="24DBA7C5C0708FB723C92DFFF28E2C799003A8D0" downloadHash="1C0F013AB527CB5673DAD287FFD5FF4E75571C6A" name="gwynneth o33 kelemvor tmpl int.trx" dlsize="244153" size="291216" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="61751C33A2FCADD66600AE40CCD0E226118832AD" downloadHash="5102901A84547E06A529CCB658FF0279BE9DCA15" name="gwynneth o33 kelemvor tmpl int.trx" dlsize="278715" size="324993" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
