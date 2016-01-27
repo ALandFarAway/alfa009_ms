@@ -1,11 +1,11 @@
 /* Use a placeable ladder or other object
  * Does not play animations of opening doors
  * Works for both standard and secret doors. For standard, the tag
- * of the waypoint destination must be set to loc_<tag of door>.
+ * of the waypoint destination must be set to dst_<tag of door>.
  * For secret, the waypoint should be set to loc_<tag of detect trigger>.
  *
  * This goes in the OnUsed event handler of the actual
- * placeable door object.
+ * placeable door object.  use a WP tagged dst_<tagofplaceable>
  */
 
 #include "tw_secret"

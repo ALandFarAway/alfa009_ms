@@ -31,7 +31,7 @@
 
 const string AreaStartCount = "AREA_START_COUNT";
 const string WaypointPrefix = "AREA_PATROL_";
-const string AoEPrefix = "AREA_PATROL_AOE_";
+const string AoEPrefix = "KINGSBAY_PATROL_AOE_";
 const string SpawnpointPrefix = "AREA_PATROL_SPAWN_";
 const string QuestName = "AREA_QUEST_NAME";
 
@@ -75,13 +75,13 @@ void CreateQuestStep(object QuestWP, int count)
 				CR = 5;
 				break;
 			case 1:
-				spawnedCritter = "abr_cr_vm_spider_huge";
-				spawnedCritterName = " monstrous spider";
+				spawnedCritter = "abr_cr_vm_spider_hugehun";
+				spawnedCritterName = "Big Nasty spider";
 				CR = 5;
 				break;
 			case 2:
-				spawnedCritter = "abr_cr_gt_ogre_warr";
-				spawnedCritterName = "n ogre";
+				spawnedCritter = "009_hu_bandit_patrol";
+				spawnedCritterName = "Dangerous Human";
 				CR = 5;
 				break;
 		}
@@ -126,7 +126,7 @@ void CreateQuestStep(object QuestWP, int count)
 				CR = 3;
 				break;
 			case 4:
-				spawnedCritter = "abr_cr_an_direwolf";
+				spawnedCritter = "010_cr_wolfdire";
 				spawnedCritterName = " dire wolf";
 				CR = 3;
 				break;
