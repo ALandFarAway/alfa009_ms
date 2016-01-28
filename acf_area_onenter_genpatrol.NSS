@@ -220,7 +220,7 @@ void main()
     ACR_AreaOnEnter();
 	
 	// Custom code goes below this line.
-	if(ACR_RetrieveQuestState(QuestName, GetEnteringObject()) >= 1 &&
+	if(ACR_RetrieveQuestState(GetLocalString(OBJECT_SELF, QuestName), GetEnteringObject()) >= 1 &&
 		!GetIsObjectValid(GetObjectByTag(AoEPrefix + "1")))
 	{
 		int count = GetLocalInt(OBJECT_SELF, AreaStartCount);
