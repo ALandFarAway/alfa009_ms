@@ -550,7 +550,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2B5F13065E55EDBB2E292A540329A5E885F83714" downloadHash="869F9E22B9209398DE94A857B111602523B82110" name="alaron q22 c callidyrr west.trx" dlsize="2860911" size="17307793" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F548D8C9053FCD470DE10DC3513C6A8508519959" downloadHash="3A971ACDC6E3209E5E6D1DBDDFAD58CB7BE486F9" name="alaron q22 c callidyrr west.trx" dlsize="2878954" size="17324217" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1090,7 +1090,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="90BB7C2B8B78674D326FE3608BAD318AF8DAB801" downloadHash="66062E030C42D5C244D723E1BDEEC539A1ADA3D2" name="gwynneth o34  llyrath forest e.trx" dlsize="2607397" size="14708359" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E7DC0FDE863BF14B110894A9C666E368A0149B6B" downloadHash="476814437DC86E618F34C09A7F50A1BF63BB970E" name="gwynneth o34  llyrath forest e.trx" dlsize="2599480" size="14707884" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1310,7 +1310,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6A58B3C10C7B6A5320506F96A5CF280D1F92001F" downloadHash="D200D88F18795C15B9591145F7F70F636AB270A0" name="gwynneth o33 kings road.trx" dlsize="1719355" size="10150514" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7D88FC7F07D73F143492C901EAC840BDC37E2791" downloadHash="FC94224B33636AC026808B9C4FB9422C5DC733A5" name="gwynneth o33 kings road.trx" dlsize="1713993" size="10138896" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
