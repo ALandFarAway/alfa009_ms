@@ -1040,7 +1040,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4DDCFD61C5C9B291BF9E88C47687F706E8F76C75" downloadHash="CFBEB84C0D809AA349F0E3B1162BCB4585A89599" name="gwynneth p33 kingsbay town ext.trx" dlsize="5576576" size="26899279" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="714FD656B73727D62D8995CCDB42B269A2169800" downloadHash="0CAE07869765F6F0D7A1F9EA953AB2B91247003C" name="gwynneth p33 kingsbay town ext.trx" dlsize="5589378" size="26887747" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>

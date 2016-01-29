@@ -31,7 +31,7 @@
 
 const string AreaStartCount = "AREA_START_COUNT";
 const string WaypointPrefix = "AREA_PATROL_";
-const string AoEPrefix = "KINGSBAYMOONWELL_PATROL_AOE__";
+const string AoEPrefix = "KINGSBAYMOONWELL_PATROL_AOE_";
 const string SpawnpointPrefix = "AREA_PATROL_SPAWN_";
 const string QuestName = "AREA_QUEST_NAME";
 
