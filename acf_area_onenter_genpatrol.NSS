@@ -76,12 +76,12 @@ void CreateQuestStep(object QuestWP, int count)
 				break;
 			case 1:
 				spawnedCritter = "abr_cr_vm_spider_hugehun";
-				spawnedCritterName = "Big Nasty spider";
+				spawnedCritterName = " Big Nasty spider";
 				CR = 5;
 				break;
 			case 2:
 				spawnedCritter = "009_hu_bandit_patrol";
-				spawnedCritterName = "Dangerous Human";
+				spawnedCritterName = " Dangerous Human";
 				CR = 5;
 				break;
 		}
