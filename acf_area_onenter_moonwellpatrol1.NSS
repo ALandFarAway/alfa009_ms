@@ -220,10 +220,10 @@ void main()
     ACR_AreaOnEnter();
 	
 	// Custom code goes below this line.
-	if(ACR_RetrieveQuestState(GetLocalString(OBJECT_SELF, QuestName), GetEnteringObject()) >= 1 &&
-		!GetIsObjectValid(GetObjectByTag(AoEPrefix + "1")))
+	int count = GetLocalInt(OBJECT_SELF, AreaStartCount);
+	if(ACR_RetrieveQuestState(GetLocalString(OBJECT_SELF, QuestName), GetEnteringObject()) >= count &&
+		!GetIsObjectValid(GetObjectByTag(AoEPrefix + IntToString(count))))
 	{
-		int count = GetLocalInt(OBJECT_SELF, AreaStartCount);
 		object QuestWP = GetWaypointByTag(WaypointPrefix + IntToString(count));
 		while(GetIsObjectValid(QuestWP))
 		{
