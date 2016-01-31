@@ -112,17 +112,17 @@ void CreateQuestStep(object QuestWP, int count)
 				break;
 			case 1:
 				spawnedCritter = "tg_hgbombbet";
-				spawnedCritterName = "huge beetle";
+				spawnedCritterName = " huge beetle";
 				CR = 6;
 				break;
 			case 2:
 				spawnedCritter = "abr_cr_mh_greenhag";
-				spawnedCritterName = "Old green woman";
+				spawnedCritterName = " Old green woman";
 				CR = 4;
 				break;
 			case 3:
 				spawnedCritter = "abr_cr_vm_spider_huge";
-				spawnedCritterName = "Huge Spider";
+				spawnedCritterName = " Huge Spider";
 				CR = 5;
 				break;
 			case 4:
@@ -153,42 +153,42 @@ void CreateQuestStep(object QuestWP, int count)
 		{
 			case 0:
 				spawnedCritter = "010_cr_badgerdire";
-				spawnedCritterName = "dire badger";
+				spawnedCritterName = " dire badger";
 				CR = 4;
 				break;
 			case 1:
 				spawnedCritter = "abr_cr_fy_pixie";
-				spawnedCritterName = "Pixie";
+				spawnedCritterName = " Pixie";
 				CR = 3;
 				break;
 			case 2:
 				spawnedCritter = "010_cr_wolverinedire";
-				spawnedCritterName = "dire wolverine";
+				spawnedCritterName = " dire wolverine";
 				CR = 4;
 				break;
 			case 3:
 				spawnedCritter = "abr_cr_an_wild_mountainlion";
-				spawnedCritterName = "Big Cat";
+				spawnedCritterName = " Big Cat";
 				CR = 3;
 				break;
 			case 4:
 				spawnedCritter = "010_cr_boardire";
-				spawnedCritterName = "dire boar";
+				spawnedCritterName = " dire boar";
 				CR = 4;
 				break;
 			case 5:
 				spawnedCritter = "010_cr_wolfdire";
-				spawnedCritterName = "Large Wolf";
+				spawnedCritterName = " Large Wolf";
 				CR = 3;
 				break;
 			case 6:
 				spawnedCritter = "tg_cr_medspid";
-				spawnedCritterName = "big spider";
+				spawnedCritterName = " big spider";
 				CR = 3;
 				break;
 			case 7:
 				spawnedCritter = "010_cr_magbeast_ankheg";
-				spawnedCritterName = "010_cr_magbeast_ankheg";
+				spawnedCritterName = " Upright Bug";
 				CR = 3;
 				break;
 		}
