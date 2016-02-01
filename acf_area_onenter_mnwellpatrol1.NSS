@@ -1,10 +1,10 @@
 ////////////////////////////////////////////////////////////////////////////////
 //
 //  System Name : ACR Configuration File
-//     Filename : acf_area_onenter.nss
+//     Filename : acf_area_onenter_mnwellpatrol1.nss
 //      Version : 0.1
 //         Date : 7/25/06
-//       Author : Ronan
+//       Author : Zelknof
 //
 //  Local Variable Prefix =
 //
@@ -14,6 +14,8 @@
 //  Description
 //  This script calls the ACR's OnAreaEnter code, and any custom code a server
 //  may need. It is not updated in ACR updates.
+//  If you want to make more than a single patrol copy this script and the matching 
+//  onexit script and make the changes as out outlined below
 //
 //  Revision History
 ////////////////////////////////////////////////////////////////////////////////
@@ -29,11 +31,11 @@
 // Constants ///////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////
 
-const string AreaStartCount = "AREA_START_COUNT";
-const string WaypointPrefix = "AREA_PATROL_MW_";
-const string AoEPrefix = "MOONWELL1_PATROL_AOE_";
-const string SpawnpointPrefix = "AREA_PATROL_SPAWN_";
-const string QuestName = "AREA_QUEST_NAME";
+const string AreaStartCount = "AREA_START_COUNT";  // this will be the quest state as you enter the area. Add as a variable to your start area 
+const string WaypointPrefix = "AREA_PATROL_MW1_"; //Add a distinct discriptive here for EACH patrol 
+const string AoEPrefix = "MOONWELL1_PATROL_AOE_";//change this on both the onenter and onexit script to the name of your patrol, they must match
+const string SpawnpointPrefix = "AREA_PATROL_SPAWN_MW1_";//Add a distinct Discriptive here for each spawn point( MW1)
+const string QuestName = "AREA_QUEST_NAME";// Add as a variable to your patrol area [AREA_QUEST_NAME = <tag_of_quest>]
 
 ////////////////////////////////////////////////////////////////////////////////
 // Structures //////////////////////////////////////////////////////////////////
