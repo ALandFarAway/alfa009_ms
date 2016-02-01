@@ -30,7 +30,7 @@
 ////////////////////////////////////////////////////////////////////////////////
 
 const string AreaStartCount = "AREA_START_COUNT";
-const string WaypointPrefix = "AREA_PATROL_";
+const string WaypointPrefix = "AREA_PATROL_MW_";
 const string AoEPrefix = "MOONWELL1_PATROL_AOE_";
 const string SpawnpointPrefix = "AREA_PATROL_SPAWN_";
 const string QuestName = "AREA_QUEST_NAME";
