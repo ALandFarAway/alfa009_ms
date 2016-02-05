@@ -1545,12 +1545,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="49CD97251AEE3542C893E91D5EABFFC4A6122769" downloadHash="27F16E79060434F5F19035E50047074318827599" name="gwynneth o33 macsheehan ruins.trx" dlsize="3101613" size="16225042" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7F96A322FB551702291E348787AD084454EABCE7" downloadHash="A88327DBB4361FF7B443B32CFF6FDAC7B00114AD" name="gwynneth o33 macsheehan ruins.trx" dlsize="3114049" size="16220315" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="631F0A4091854877F5F389EC419B025D77600D82" downloadHash="01D35809AD3F561B4254769DCD3D62C590FAE504" name="gwynneth o33 macsheehan  int.trx" dlsize="656648" size="4094751" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F2E8B1FD36293B4E32FBEC833B42A4EF593AF656" downloadHash="BFE0DDA0C0B93909BF16EEC34EE9170D11CB25A9" name="gwynneth o33 macsheehan  int.trx" dlsize="639489" size="4081577" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
