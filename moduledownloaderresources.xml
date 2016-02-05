@@ -1550,7 +1550,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DB8768E39FE6EC9FEBB74ED0BD5D1056F1B106A9" downloadHash="E139A14B22FCAA87CD45A953063A8264A2D43425" name="gwynneth o33 macsheehan  int.trx" dlsize="630385" size="4119808" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="01D257974FD54992FC6DFF126A6DA19B9E1EE520" downloadHash="319153B0EF1F3E37851E69FFCF69D0A8B4647A0E" name="gwynneth o33 macsheehan  int.trx" dlsize="651183" size="4094757" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1995,7 +1995,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="69E6C9ECEF5778BDAF73A853E1496FB4BCAB6298" downloadHash="F7400A9BC92B6DCF4092FC55B40F137D12AB1111" name="gwynneth o33 llyrath forest s.trx" dlsize="2608914" size="15027798" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4CF14FF38FE509BAB942EF1F552EA0F1D02F2031" downloadHash="DE41D9C1E4D958F2F895B6A17765CC55F30B9379" name="gwynneth o33 llyrath forest s.trx" dlsize="2610435" size="15046395" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2005,7 +2005,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="013DF4DEC7808334CCAC2C123EB7B2962A614B53" downloadHash="57A0A3AF7955AB05C158B027B91E70E476DD80CA" name="gwynneth o33 llyrath forest int.trx" dlsize="909720" size="974366" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BB347036C8D75F2F10F483757A064846239DED50" downloadHash="2F94C54E4E9B32E5C56EC96FECDFF4B8A24977DA" name="gwynneth o33 llyrath forest int.trx" dlsize="1186544" size="1335517" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="E48AF680BC0500EAB4292551EFA74B256F4D713C" downloadHash="43BE5EF966D18C60175A401192C43B98B26213D6" name="gwynneth o32 myrrdale ext.trx" dlsize="4588407" size="16716116" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
