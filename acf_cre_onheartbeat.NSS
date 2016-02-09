@@ -20,6 +20,7 @@
 // Includes ////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////
 #include "acr_creature_i"
+#include "twalker_i"
 
 ////////////////////////////////////////////////////////////////////////////////
 // Constants ///////////////////////////////////////////////////////////////////
@@ -43,7 +44,37 @@
 
 void main()
 {
-    ACR_CreatureOnHeartBeat();
+	object o = OBJECT_SELF;
+	
+	/* ignore hb if lagging */
+	if (GetLocalInt(o, "ACR_NPC") == 2 && GetGlobalInt("ACR_GAMEOBJUPDATE_TIME") > 500)
+		return;
 
-    // Custom code goes here.
+	ACR_CreatureOnHeartBeat();
+	
+	if (GetLocalInt(o, "tw_travel"))
+	{
+		// Temporarily disable twalk at HEEGZ's request (reverted)
+		// DestroyObject(o);
+		// return;
+		
+		if (GetLocalInt(o, "tw_follow")) {
+		
+			handle_follow(o);
+			return;
+		}
+		
+		if (!GetLocalInt(o, "tw_travel_started"))
+		{
+			start_walk();
+			SetLocalInt(o, "tw_travel_started",1);
+		}
+		check_status(o);
+		DelayCommand(3.0,check_status(o));
+	}
+
+	if (GetLocalInt(o, "Fleeing")) {
+		ClearAllActions(TRUE);
+		ActionMoveAwayFromObject(GetLastAttacker(), TRUE, 200.0);
+	}
 }

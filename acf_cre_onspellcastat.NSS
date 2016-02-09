@@ -49,4 +49,9 @@ void main()
 
     // Custom code goes here.
 	
+	if(GetLocalInt(OBJECT_SELF, "Fleeing") == 1) 
+		{ClearAllActions(TRUE);
+		 ActionMoveAwayFromObject(GetLastSpellCaster(), TRUE, 200.0);
+		 
+		}
 }
