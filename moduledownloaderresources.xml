@@ -550,7 +550,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F548D8C9053FCD470DE10DC3513C6A8508519959" downloadHash="3A971ACDC6E3209E5E6D1DBDDFAD58CB7BE486F9" name="alaron q22 c callidyrr west.trx" dlsize="2878954" size="17324217" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FB24DB1167AE89D80E967E6EAAD9FF1AE398FC48" downloadHash="CE74A0189243016C2CAF67847154274F517BC5CB" name="alaron q22 c callidyrr west.trx" dlsize="2870220" size="17316396" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1435,7 +1435,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C594C8F25D2218AC7F1CAE9BF12B5650513F9903" downloadHash="C8D8D7BAE0EE384D0EF7C95017093406DD489624" name="alaron p22 dernal north.trx" dlsize="3103420" size="16391268" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="50340CF327B9CE735EE627CC174F31A36EE8814D" downloadHash="614257A9C6B5388617ABEA82B4859D0E4E86727A" name="alaron p22 dernal north.trx" dlsize="3102897" size="16397010" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1995,7 +1995,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4CF14FF38FE509BAB942EF1F552EA0F1D02F2031" downloadHash="DE41D9C1E4D958F2F895B6A17765CC55F30B9379" name="gwynneth o33 llyrath forest s.trx" dlsize="2610435" size="15046395" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DDE30283388D43298116F647A9467D3E35C265CD" downloadHash="C0A7289A4368517BE4A0F61BD5D55F53E958B59B" name="gwynneth o33 llyrath forest s.trx" dlsize="2626803" size="15057716" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2005,12 +2005,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="92C5D1ADC372548A6263A70F80A50B72ECED989E" downloadHash="62C2C2607E1DD75451823B78F4D01C7CE8F461DC" name="gwynneth o33 llyrath forest int.trx" dlsize="1184859" size="1332931" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="81FF77AE2492C945A7DE4E65E32A2CB569373F99" downloadHash="8F320933E5F9479C323137700ADC984B1D534711" name="gwynneth o33 llyrath forest int.trx" dlsize="1097779" size="1248846" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2642EB54FCD8C56AB4271E949DA2D6C6C4F47954" downloadHash="F680580E9FF49D8CBA99B90F45E7B42B99BC04E2" name="gwynneth o32 myrrdale ext.trx" dlsize="4814725" size="17152947" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="28EBE3FDC3AC45B4EDEDA12B67A2EEA3BF01B204" downloadHash="EF3493476387B1054999BCF1C220AB751867E804" name="gwynneth o32 myrrdale ext.trx" dlsize="4820134" size="17157639" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2021,6 +2021,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="30FA50006C1A0BD1D240DEADE7391F63BF5AB090" downloadHash="3B2F7B9D6537A2F8D04C398E235E2E5D6D93BF82" name="gwynneth o32 myrrdale int.trx" dlsize="410628" size="416615" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="A5660FF8A9A41D4169302341F536BEBE77E91F26" downloadHash="D47D9913D2DABBB8633071630D9AC7A982F50532" name="alaron q22w farheight road.trx" dlsize="2984575" size="19995870" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
