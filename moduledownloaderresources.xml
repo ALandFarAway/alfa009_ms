@@ -70,7 +70,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="352E9D5FCA30EAE61E9B515D81557EEAD533E82B" downloadHash="A9BCFF670162CBC2C3904F82058864091AA65410" name="gwynneth p35 horstall liths int.trx" dlsize="536032" size="543993" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F4830F327DFB02D91DEBBEF5C3FCA19B60EF74AA" downloadHash="E7D209E295FD0026F24B83E322404DE91B56B06B" name="gwynneth p35 horstall liths int.trx" dlsize="528969" size="536773" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -220,7 +220,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="15FEB3859D7C221C5694667EFE018A2A5F5F0571" downloadHash="D89988AD5FFFAA2A2F49E4180B68E81EEBA6A76D" name="alaron q22 c callidyrr east.trx" dlsize="3566189" size="19109268" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="885A2BC6EC3A755B51DA5CA0A7EB42FCA3FB1B2E" downloadHash="154BBDCEA02FF5269858BD46550B590E05CB54C2" name="alaron q22 c callidyrr east.trx" dlsize="3560827" size="19107188" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -960,7 +960,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5D050439AF64B5F76C684B6B47F25EBBDE4767A7" downloadHash="E9B9D0D08F7DA51E11DAC19F6BD9E4974B40BD26" name="alaron q22 high kings road.trx" dlsize="2034546" size="11715910" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F55210230F14A379E77A985F38E7A85E005EEF51" downloadHash="AED519A78F37A48ED6A3A25B794A4B8C33E29D7D" name="alaron q22 high kings road.trx" dlsize="2030824" size="11719558" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2025,7 +2025,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="48BF5DEEDA8E392EDB58EE81CAD8F4AA5519A6F9" downloadHash="1BC64F5AA2751D97FD6EE5120CC8E487F422641D" name="alaron q22w farheight road.trx" dlsize="3210003" size="20112252" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="CA0E7E716C071B714CFC16E6D13B5A8C99CE1A69" downloadHash="AA5BA49A7E77C6F2130162DB9C37C9CF8E3F45BB" name="alaron q22w farheight road.trx" dlsize="3244005" size="20159107" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2036,6 +2036,31 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="E27BA6F2076553097375E663655FBBCBA33C9E6A" downloadHash="22612D363737D3BB8D1BB26D444ABFF065DB1B8E" name="alaron p22 farhieght northwest.trx" dlsize="3103687" size="16390214" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="581B4DFC8498EE98E0DE969E1CAACCF3643A9E3D" downloadHash="BE57AC82D2F553C7B978AA992F46CB0A7ECC0CDE" name="travel transports ships at sea.trx" dlsize="1295121" size="14751850" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="00AAEADF2CFEC168741738DFF64669EC888A32C6" downloadHash="9F2B12B178033A8456367C7D11826BA675CE4165" name="travel template_ferry.trx" dlsize="158888" size="6492546" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="848B99D2B805E70241ECECE9F1BD7007422169BC" downloadHash="25EC49BAAFDF75FE50B4F1C5BC950EA4B1A7B6DA" name="travel gnome airship in flight.trx" dlsize="228867" size="7839848" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="0AA87F8E8F7E50BD58311F544E538CC064F7F2F9" downloadHash="34AFD06C4ED630F7DD2C5B02649F64FC2FA35401" name="alaron p22 farheight northwest.trx" dlsize="3118034" size="16390215" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="BF04D86E48480411933D1E0D1BC30A913A09E478" downloadHash="1201F9DE588FEF216EFD5985F153F2B9D87F3C04" name="alaron q22w farheight road int1.trx" dlsize="298139" size="479931" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
