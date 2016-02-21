@@ -235,7 +235,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="84208518183DC1294A280EBEE990EE71993A6FCC" downloadHash="F9E173A217837772EDDDDACEF1B04FA524837061" name="gwynneth j34 firth isles.trx" dlsize="1718533" size="16313480" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6B28C18BAEED81E621450514F9DA5758246D8B7F" downloadHash="4727428C5068FDE41F1D574ACEE975EEFF833E01" name="gwynneth j34 firth isles.trx" dlsize="1640554" size="16249270" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -270,7 +270,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C3A914BCB894907D7658B923E3CCA5E4AC60251F" downloadHash="D2346254F378D7EB33803E3AE9DF934A8631BA3D" name="gwynneth j34 firth caves int.trx" dlsize="250237" size="792639" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C1BCDABA2E497DCC7904ADF1B605D618D2B12EC1" downloadHash="AD358D4EE623ACC897C0736B2BF4B3C5BD380DE2" name="gwynneth j34 firth caves int.trx" dlsize="312362" size="856530" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1155,7 +1155,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="094B79D1357AB5B0111105D58426EF4893F2084E" downloadHash="BE3E69F35159C9546D017B1675A0E833139FBFE9" name="alaron p23 dernal swamptown.trx" dlsize="5280649" size="25620405" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2A4BF1B8E122DFA8D849D253FC94D2B3CF2AE92F" downloadHash="9F1B40A6275D81684C6CC1973B93EFF8653F13CA" name="alaron p23 dernal swamptown.trx" dlsize="5356176" size="25682181" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1320,7 +1320,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3A6CD6452F38960CE0E751EB2392488F761833D6" downloadHash="00F96A52304C7C823409B41ADBC14C691C0C0CFB" name="alaron q21 cantrev white rock.trx" dlsize="2665935" size="16101070" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DD60EE9FD61835C7697DAB8ACDA8A5683D3C3348" downloadHash="6054CDD037B1D6F3F1111540CABD28D3A7458B20" name="alaron q21 cantrev white rock.trx" dlsize="2672169" size="16104965" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1545,12 +1545,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7F96A322FB551702291E348787AD084454EABCE7" downloadHash="A88327DBB4361FF7B443B32CFF6FDAC7B00114AD" name="gwynneth o33 macsheehan ruins.trx" dlsize="3114049" size="16220315" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="56074E94BFB93641E415004F2984C8087F81B700" downloadHash="70DF96FDE74E15DFA0118E3CE49FA2CCD73E5841" name="gwynneth o33 macsheehan ruins.trx" dlsize="3104350" size="16221726" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F2E8B1FD36293B4E32FBEC833B42A4EF593AF656" downloadHash="BFE0DDA0C0B93909BF16EEC34EE9170D11CB25A9" name="gwynneth o33 macsheehan  int.trx" dlsize="639489" size="4081577" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="635C315F9A65FEABEE33B592B513407FB654ABCD" downloadHash="7DA5DDDE8CE8C600F7E93AE1BDD8AF25F5C7428E" name="gwynneth o33 macsheehan  int.trx" dlsize="637946" size="4073451" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1695,7 +1695,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A83B572F34D885D93D85B06090C308B7693C0C93" downloadHash="44EAFF7FBCFFE8A208AE7932DFCC98EF363E5ED5" name="gwynneth p33 kingsbay silver sal.trx" dlsize="192101" size="235656" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2FDE1D5E766E05EE2744E6DD14A8DA7D49A83134" downloadHash="18597F03705269183C1095FCBB158CDFEA8D4325" name="gwynneth p33 kingsbay silver sal.trx" dlsize="192024" size="235656" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2060,7 +2060,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="422BF967597E13FDA577F1CBB542B7B800570FD1" downloadHash="8180E0CBEDE3E3307A76ED291A47DEE092E42FC4" name="alaron q22w farheight road int1.trx" dlsize="325335" size="507442" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DE822E42B20C8B2C3CDFF3C1F30AB6CCF430D713" downloadHash="C4835C006FD038C1022E793AD11AA72F42BCF681" name="alaron q22w farheight road int1.trx" dlsize="324140" size="505777" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
