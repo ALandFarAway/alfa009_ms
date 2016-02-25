@@ -625,7 +625,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6F84081BC65B4C0B3FB3BDD62322D35021E1F57A" downloadHash="9E7ACA24A17E8D475C2578EE0E9806AAC162C5E9" name="alaron p23 dernal forest camp.trx" dlsize="5165095" size="25056463" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="321CA93804E58BB5CB31C2DB3EA5F5F6066F2B0F" downloadHash="E37C82ADE39E2672655A16DF33D7FF729468E20B" name="alaron p23 dernal forest camp.trx" dlsize="5146311" size="25041455" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1780,7 +1780,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="04B21480DD9EBF8357B8F9759AD9F057EF8849B7" downloadHash="CCC62829BDB6FD2E823A586CC6AE081A04E9FDFD" name="wd 4g dock ward.trx" dlsize="1999401" size="14416903" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="09FF1522F6966D44756F45AC3AFCCE62FBEA4B1A" downloadHash="3D23DEE9EA6E283A6ED8EB9B50AD9BE01137E27B" name="wd 4g dock ward.trx" dlsize="2020603" size="14431656" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1790,7 +1790,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3BA5686A7651B8F9E5020D9D04EE7408EB9A2C43" downloadHash="F4D1E46016B7F4287F0C01DFEC534B874B6202F4" name="wd 4g dock ward int.trx" dlsize="21803" size="21952" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8B3C53645CC7E558BD513AB0C4A421B9A6B5F727" downloadHash="C221852B51A0613A91FC36C8540D075EDFE4CE12" name="wd 4g dock ward int.trx" dlsize="21813" size="21940" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1800,7 +1800,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D427E8D6C5E000571CEEBE62DA399CF7950B6206" downloadHash="B640EE7A95D697E73B8D42C6FB3CF1B229F4E779" name="wd 4g taverns_inns int.trx" dlsize="345379" size="348929" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C71FABEAF4463CA712D0301A152A332EE18B53AD" downloadHash="2EFC57E11D32C9D0F8EB15D732FA38099657020C" name="wd 4g taverns_inns int.trx" dlsize="352739" size="399285" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
