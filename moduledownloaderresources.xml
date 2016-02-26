@@ -1570,7 +1570,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BEAD7BB2D9C8C0DB25C5000554302E59C8149B3B" downloadHash="F197B01706A3F7B07AD5FA4C45C0CECCED2AA3ED" name="alaron s23w rillifane run int.trx" dlsize="333513" size="426360" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="31B78F6081063A9165F7F234B533C96670CF6509" downloadHash="919E4D9C956A4CAE1026A135E4851E84F58A4076" name="alaron s23w rillifane run int.trx" dlsize="380246" size="473855" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1585,7 +1585,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="015259417DCA68E8A8DC8E9C8AA599E12A3F6E10" downloadHash="6672E00783A8180FF90066C9446B0841FB63373A" name="alaron s23w rillifanes run.trx" dlsize="1732843" size="11395652" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9856E07414E1D9F95E868D8FD6B962B27FD6DF80" downloadHash="7B3D9CA5F49BF6135CD7689302186C3115B6E60A" name="alaron s23w rillifanes run.trx" dlsize="1721320" size="11398998" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1705,7 +1705,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="485A4DA4F24AAF1172EDE2BADD414E37EA09D33F" downloadHash="0D7907B14C3EEE9216955FDB9D0DD3C193FEA423" name="wd 4h dock_south ward.trx" dlsize="1829745" size="13215245" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F535C19B3FEB1057D32FD13E40446E25594D6729" downloadHash="565E8724085BC765C9097223940221730AEE8715" name="wd 4h dock_south ward.trx" dlsize="1839124" size="13219252" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
