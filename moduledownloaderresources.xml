@@ -70,7 +70,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F4830F327DFB02D91DEBBEF5C3FCA19B60EF74AA" downloadHash="E7D209E295FD0026F24B83E322404DE91B56B06B" name="gwynneth p35 horstall liths int.trx" dlsize="528969" size="536773" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="EE827330DB22BE15244103E106D127517E7E458F" downloadHash="9171995F01E4E4425B08157CE32D32EC6F3F5934" name="gwynneth p35 horstall liths int.trx" dlsize="528952" size="536769" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1570,7 +1570,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="06E4C45110D184FCF8BE768603B0EB22451DA2DD" downloadHash="E99646039CC8ED13A5AC63693DD6BB3539A489A6" name="alaron s23w rillifane run int.trx" dlsize="391119" size="484638" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A970E7AA07D2254FAD1ABBA29FB545DA486CEA6F" downloadHash="84C9DAF918957C44E23DA5DDA48C8755FCEF38F9" name="alaron s23w rillifane run int.trx" dlsize="486824" size="581495" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1585,7 +1585,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B7F4D60EEF3ED5CD4160778B556C69123FF2A7B5" downloadHash="B7744C956BF830D683B637B7EB035EF655B3A705" name="alaron s23w rillifanes run.trx" dlsize="1721306" size="11398996" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="66E8ED635D6EB229602C3D24A9DD090599FF47C1" downloadHash="801A798DEC8685ADDE55B13B6178AA29685D556F" name="alaron s23w rillifanes run.trx" dlsize="1721306" size="11398996" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1780,7 +1780,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="09FF1522F6966D44756F45AC3AFCCE62FBEA4B1A" downloadHash="3D23DEE9EA6E283A6ED8EB9B50AD9BE01137E27B" name="wd 4g dock ward.trx" dlsize="2020603" size="14431656" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8D5B9115371CA45013A7461C150639818B2B025F" downloadHash="DAFFBA44DB540678B3788638C2772258799D713F" name="wd 4g dock ward.trx" dlsize="2008401" size="14417575" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1790,7 +1790,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8B3C53645CC7E558BD513AB0C4A421B9A6B5F727" downloadHash="C221852B51A0613A91FC36C8540D075EDFE4CE12" name="wd 4g dock ward int.trx" dlsize="21813" size="21940" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="02CAFC957452E71836CE63AD37A831DE9F5C4BBC" downloadHash="EAA40F479DF7845D57EC6B265FD0096DDDF16EA4" name="wd 4g dock ward int.trx" dlsize="21825" size="21933" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1800,7 +1800,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A419082180A6887D968195943385E20411285C03" downloadHash="9524F3BE97A2A91ED0D13CB74A20466D451A8619" name="wd 4g taverns_inns int.trx" dlsize="352771" size="399077" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0ED2F1B019920AF1423FE6E58BD75535A1E104E4" downloadHash="E92BF065D1E8CC6C95170D1E1C48B3334E559738" name="wd 4g taverns_inns int.trx" dlsize="401923" size="449294" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
