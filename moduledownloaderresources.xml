@@ -1310,7 +1310,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1AA8153BBBA5ACE4DE81776D4518E6700DFB4675" downloadHash="6C763A4EAA52C3D39AC33DEA25437EF39165A680" name="gwynneth o33 kings road.trx" dlsize="1705750" size="10136157" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0C1BF3CAE41ABD317E49033BA0346F447BDAC59C" downloadHash="3052F950DC374FF8041376635BE9ED6DFD47BE1F" name="gwynneth o33 kings road.trx" dlsize="1739305" size="10171667" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1780,7 +1780,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8D5B9115371CA45013A7461C150639818B2B025F" downloadHash="DAFFBA44DB540678B3788638C2772258799D713F" name="wd 4g dock ward.trx" dlsize="2008401" size="14417575" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E62988DECA916DF4DE6C17A0F9C9FDDA1E9C800E" downloadHash="D9AFF2C790FDC0E742A2AC77CAD0076CE0207DE3" name="wd 4g dock ward.trx" dlsize="2029840" size="14437968" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1995,7 +1995,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DDE30283388D43298116F647A9467D3E35C265CD" downloadHash="C0A7289A4368517BE4A0F61BD5D55F53E958B59B" name="gwynneth o33 llyrath forest s.trx" dlsize="2626803" size="15057716" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1E18340C18C6273D08B7306AB479C9C7C4D1FBD5" downloadHash="105A682AD7AE3784983ADD549C63D19646A8D2CB" name="gwynneth o33 llyrath forest s.trx" dlsize="2644598" size="15117260" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2005,7 +2005,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="81FF77AE2492C945A7DE4E65E32A2CB569373F99" downloadHash="8F320933E5F9479C323137700ADC984B1D534711" name="gwynneth o33 llyrath forest int.trx" dlsize="1097779" size="1248846" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F019096C6B01BDB6AF103D6E1BBE6897EA6A8FDD" downloadHash="AA69ED7E5C1C6668B3016DAB52049B1E066CA846" name="gwynneth o33 llyrath forest int.trx" dlsize="1097974" size="1248775" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2061,6 +2061,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="DE822E42B20C8B2C3CDFF3C1F30AB6CCF430D713" downloadHash="C4835C006FD038C1022E793AD11AA72F42BCF681" name="alaron q22w farheight road int1.trx" dlsize="324140" size="505777" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="1C2C1DF2B10ADF5A25EB7E84A2FA24F718D326B5" downloadHash="08C1E41FA0DCB9F3E0E38A25164361571A3FBC07" name="wd 4g dock ward int shops.trx" dlsize="128607" size="131536" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
