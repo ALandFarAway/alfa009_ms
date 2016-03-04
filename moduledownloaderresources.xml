@@ -625,7 +625,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B21BF835F66D7FA686BE511743398D3A40782093" downloadHash="E26E8DE6211E51274A11A3F8D5BB5F31F52DA52F" name="alaron p23 dernal forest camp.trx" dlsize="5121770" size="25045957" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C7EBCAF86FAC8505E12BD42E23A4588EFC4866CE" downloadHash="D59D191D3ECF6F02CE40B91355F44A3EE84BA42B" name="alaron p23 dernal forest camp.trx" dlsize="5166513" size="25082533" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
