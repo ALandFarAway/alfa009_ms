@@ -625,7 +625,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="321CA93804E58BB5CB31C2DB3EA5F5F6066F2B0F" downloadHash="E37C82ADE39E2672655A16DF33D7FF729468E20B" name="alaron p23 dernal forest camp.trx" dlsize="5146311" size="25041455" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B21BF835F66D7FA686BE511743398D3A40782093" downloadHash="E26E8DE6211E51274A11A3F8D5BB5F31F52DA52F" name="alaron p23 dernal forest camp.trx" dlsize="5121770" size="25045957" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1155,7 +1155,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2A4BF1B8E122DFA8D849D253FC94D2B3CF2AE92F" downloadHash="9F1B40A6275D81684C6CC1973B93EFF8653F13CA" name="alaron p23 dernal swamptown.trx" dlsize="5356176" size="25682181" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4158ED1D75315B45701359486F60DF3D64F0ACCC" downloadHash="6F9B13A73E4FCFF291CF0913C1046BC3C6FCFBA3" name="alaron p23 dernal swamptown.trx" dlsize="5345207" size="25643531" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2055,7 +2055,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0AA87F8E8F7E50BD58311F544E538CC064F7F2F9" downloadHash="34AFD06C4ED630F7DD2C5B02649F64FC2FA35401" name="alaron p22 farheight northwest.trx" dlsize="3118034" size="16390215" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8C34A1F3EA7C07713CA4516C0203D9F378B40FCB" downloadHash="16ED59126D7E547726CDEAE50E1887FFC87029A4" name="alaron p22 farheight northwest.trx" dlsize="3514289" size="19345699" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2066,6 +2066,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="1C2C1DF2B10ADF5A25EB7E84A2FA24F718D326B5" downloadHash="08C1E41FA0DCB9F3E0E38A25164361571A3FBC07" name="wd 4g dock ward int shops.trx" dlsize="128607" size="131536" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="3C2EA870D215BFA5FD2DCC61DC6A5926349126D0" downloadHash="40A4E4C8AC1EC091072B892CC1FC8D75A8F0C31F" name="alaron q22s high kings road.trx" dlsize="2047469" size="11732722" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
