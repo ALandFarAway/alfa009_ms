@@ -1565,7 +1565,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A6AE803591199BEFB8A66B5D285E2CE83A1E6A63" downloadHash="E6C6EC88A0BC977BB35CC51E8028A8AFDE4CA876" name="alaron s24e torriage coast.trx" dlsize="4120571" size="20402544" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="639F9CE9A32A2530D40AE7F602720019D0A6BDE0" downloadHash="214F2590C3EDB36BC5DC7F21EAE2449A7AC36C33" name="alaron s24e torriage coast.trx" dlsize="4145082" size="20413365" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1575,7 +1575,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1BAED4CFEC227507CF4F2C701D8C7C4AE613C66E" downloadHash="0D44F02FD54A321A30E5035771FB86A6ED79B709" name="alaron s24w torriage wood.trx" dlsize="5526636" size="24111360" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4041A0C4E393BE99AD972B845D4F21D99A56A0D0" downloadHash="A0CBA6C0C074852B2ADCB383E96933055F48DAFE" name="alaron s24w torriage wood.trx" dlsize="5519803" size="24105557" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1585,7 +1585,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="66E8ED635D6EB229602C3D24A9DD090599FF47C1" downloadHash="801A798DEC8685ADDE55B13B6178AA29685D556F" name="alaron s23w rillifanes run.trx" dlsize="1721306" size="11398996" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BB9F4AB22EF0E58922F7FC376FCCD135DA940B83" downloadHash="B7ECC1F1C0FD14D2D004316FC58E690689FADF11" name="alaron s23w rillifanes run.trx" dlsize="1694946" size="11372037" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1695,7 +1695,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2FDE1D5E766E05EE2744E6DD14A8DA7D49A83134" downloadHash="18597F03705269183C1095FCBB158CDFEA8D4325" name="gwynneth p33 kingsbay silver sal.trx" dlsize="192024" size="235656" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D3C478EBCC7D977EAE85411D1C8317E1E6E488CF" downloadHash="74FC1CBBFD5279506B2BB8EF1B468C49A65488FD" name="gwynneth p33 kingsbay silver sal.trx" dlsize="192450" size="236403" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2071,6 +2071,16 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="3C2EA870D215BFA5FD2DCC61DC6A5926349126D0" downloadHash="40A4E4C8AC1EC091072B892CC1FC8D75A8F0C31F" name="alaron q22s high kings road.trx" dlsize="2047469" size="11732722" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="2AEA67F361D0ABB1A5973C05D44290F4B357A169" downloadHash="F27F67B7DF1760C267E3CF359E6C393615196883" name="alaron s23n torriage grove.trx" dlsize="953877" size="7738635" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="728EBC2B9050ACA2DAF0FC3F35FCF95C20C78290" downloadHash="AE8AFEBB52B07E9813331382166D999FDDDF99C7" name="alaron s23n torriage wood.trx" dlsize="4139685" size="21330069" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
