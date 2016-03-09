@@ -160,7 +160,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="17F6218A129F6193B3A33C70ADA9096F8A3C042D" downloadHash="5A7292BFF37DB5FCB192CA74D264B10AA5F75E5A" name="gwynneth lowhill vill.trx" dlsize="3700697" size="19304532" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FDCFEDB93988A5D3B271099FED8A25BA8DB902D6" downloadHash="4A7A56821F65F8FCC17ABDB911220566CDCE47C7" name="gwynneth lowhill vill.trx" dlsize="3752996" size="19363451" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1140,7 +1140,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8D669CC0C359218F345352CCB5546BCADD2F5C67" downloadHash="3243FBF1D4E68C32CD65E10C3DE2A84DBA3730F3" name="009 dm prep area.trx" dlsize="287380" size="295445" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3E5B36E5FEFF2510E67D27D797C5B0F4A44F540A" downloadHash="404997DAE7601B932A7029D2D9C71AB47E999F0B" name="009 dm prep area.trx" dlsize="288384" size="296376" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
