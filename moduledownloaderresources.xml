@@ -160,7 +160,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FDCFEDB93988A5D3B271099FED8A25BA8DB902D6" downloadHash="4A7A56821F65F8FCC17ABDB911220566CDCE47C7" name="gwynneth lowhill vill.trx" dlsize="3752996" size="19363451" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="543BD56C4517917C385E8D3B11CE77178079E3E2" downloadHash="159E0F83F26E15EE962969F549B838649EEF31C8" name="gwynneth lowhill vill.trx" dlsize="3748378" size="19359455" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2075,7 +2075,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2AEA67F361D0ABB1A5973C05D44290F4B357A169" downloadHash="F27F67B7DF1760C267E3CF359E6C393615196883" name="alaron s23n torriage grove.trx" dlsize="953877" size="7738635" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="EDD64762A770C427CE0E04AB08758D96922CFD44" downloadHash="687212E04751D332F7C3BC85E5AAB453057E16D2" name="alaron s23n torriage grove.trx" dlsize="927848" size="7713450" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
