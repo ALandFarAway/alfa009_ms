@@ -1870,7 +1870,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E8FF0DA11CD98FF382F5339AE8A506784291576C" downloadHash="CC831D289F4E3DFCBE069B755F9D7A7E90D7E15F" name="gwynneth l35 llyrath forest.trx" dlsize="2934628" size="15967404" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C06404675D25BD68BBF03AAA9B6DAC187A4A1593" downloadHash="6986D549B37B5EBAD42C2EE4070A32A471F76E2B" name="gwynneth l35 llyrath forest.trx" dlsize="2915907" size="15971166" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2095,7 +2095,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C858204AFBBAB0110C8C6B673B494C694F5FFD9D" downloadHash="8E58D412C7E55041D1660DBBA79ABDC417382057" name="generic_crypt_1a.trx" dlsize="156113" size="1880016" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="EFEAB36FFD8AE5A0C149F5B9046513CD09883F30" downloadHash="44BC7353F9B13D290E1A363216E27E997846E29A" name="generic_crypt_1a.trx" dlsize="157636" size="1880017" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
