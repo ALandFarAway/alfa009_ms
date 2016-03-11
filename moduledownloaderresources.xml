@@ -2085,4 +2085,84 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="74C32792DE69221E2BBAFD30F6867EB8AF94C730" downloadHash="BB424876791971F9B31A6207F5D35E08CFE70E11" name="fishing village.trx" dlsize="4214738" size="19460281" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="36FC98B87E2D5C9AFDEE6DEFCED6C77D48AF5279" downloadHash="0419D278215A4A6F611F3FAB4F47B90AFAE3F3B4" name="volcano.trx" dlsize="1618690" size="14087395" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="C858204AFBBAB0110C8C6B673B494C694F5FFD9D" downloadHash="8E58D412C7E55041D1660DBBA79ABDC417382057" name="generic_crypt_1a.trx" dlsize="156113" size="1880016" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="56005486106083AB84E320E5396A63BC4C1768E8" downloadHash="E9D9E589ABC18993ABECA3C462972E2991681969" name="lost ruins 1.trx" dlsize="275210" size="6628624" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="E2DC7F8DB0CC0CC5C233806975C18D1244CB21A0" downloadHash="B3305D5FA071A078B1EE30208C76B8E410089508" name="mountain pass.trx" dlsize="10269636" size="33904157" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="B815513FAB6A585617ADC251288E48D4CD420809" downloadHash="BB69D874BEA882958479F7B6192AA22509741249" name="volcanic interior.trx" dlsize="145997" size="147262" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="DD58F494CB26B5B66DB730C4509203C267511F6E" downloadHash="A6165B7B8E06EE76FFD1C6621D46ED82520951A8" name="evermeet.trx" dlsize="6379035" size="35641406" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="5C5D1B2DD230D3C58FF267B6440DAE4109CD41A2" downloadHash="CC025BD4B7259F4C7370AA784D635626E06E0336" name="generic_crypt_1.trx" dlsize="178924" size="179362" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="9847C8487058104327F8059DD190E01FD0AB93AD" downloadHash="669F1FEDF1F52ED084D5B1AEFB0061B4AD45D924" name="gwynneth n33 synnoria.trx" dlsize="5808198" size="30362863" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="61D822051FF62EB407AA5D49041C10C281C3315F" downloadHash="74A267860707A21B5B7FF510FE2BE7FAE3288CD3" name="kal-ahn'dur.trx" dlsize="1049999" size="2503022" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="CA51BBCE2092A8847B247EAE2EBD8506F94333FC" downloadHash="40869A872AD654811B76E9BCD0BBABFCB114BE2D" name="nv_underground2.trx" dlsize="336397" size="339351" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="6ABF1280E451A663E2E61C8566DFF054041D2831" downloadHash="602FECEA60EE07D8DA8DE1E129765DBB662D5225" name="ck_waterfallcave.trx" dlsize="222840" size="450221" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="A86DC86D9E0A04CAD2AB10F3196BE3DB6BBA5729" downloadHash="BF995B13B699968F4A715BE523F628C0249A0569" name="nv_underground1.trx" dlsize="161228" size="1020121" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="DF38B9C48FED5219AB336A2BE389FDA689786E0F" downloadHash="69DD89D59CCA12DB614F1E4EB6C99D0D56C8DCEF" name="lost ruins2.trx" dlsize="266373" size="9283950" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="24A72E1CE3C13E7AF2543D0390564082791DD16C" downloadHash="8975F5789AE056A486402F397DE1FDB1C014F60B" name="fx_moefx_waterfall10.SEF" dlsize="329" size="2315" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="40AB891D0153D2389B4F9A4920B9098481F4AA3B" downloadHash="A99207CD05F73828178F2AE74CC70E2675DC5C36" name="fx_moefx_waterfall_bottom.SEF" dlsize="325" size="2329" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
 </content>
