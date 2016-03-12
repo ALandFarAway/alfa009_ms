@@ -2095,12 +2095,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="EFEAB36FFD8AE5A0C149F5B9046513CD09883F30" downloadHash="44BC7353F9B13D290E1A363216E27E997846E29A" name="generic_crypt_1a.trx" dlsize="157636" size="1880017" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="54F1DF870A58585DC2DD0107510991806EF1751B" downloadHash="150B781906169E95200021C2330CAB8C08258EA6" name="generic_crypt_1a.trx" dlsize="160033" size="1880017" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="56005486106083AB84E320E5396A63BC4C1768E8" downloadHash="E9D9E589ABC18993ABECA3C462972E2991681969" name="lost ruins 1.trx" dlsize="275210" size="6628624" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="84CF9CF849AA6D6DA306DCE3DCCF1BA9EAF11383" downloadHash="B7D5F1B2A7340F59870663930FBDCFA111274ADC" name="lost ruins 1.trx" dlsize="290751" size="6629378" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2150,7 +2150,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DF38B9C48FED5219AB336A2BE389FDA689786E0F" downloadHash="69DD89D59CCA12DB614F1E4EB6C99D0D56C8DCEF" name="lost ruins2.trx" dlsize="266373" size="9283950" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1C075143754A9FADA5630D5ABE12A65C0059F91B" downloadHash="C56DC9C252688A16615E553C3402713A761B4A48" name="lost ruins2.trx" dlsize="279167" size="9283951" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
