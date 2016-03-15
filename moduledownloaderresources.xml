@@ -2130,7 +2130,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="61D822051FF62EB407AA5D49041C10C281C3315F" downloadHash="74A267860707A21B5B7FF510FE2BE7FAE3288CD3" name="kal-ahn'dur.trx" dlsize="1049999" size="2503022" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="52EFA274780AE711A0610F1D9F8D0BDF353B78D8" downloadHash="4112994566D8F8ABA54E934B96D19438DAA94954" name="kal-ahn'dur.trx" dlsize="1065736" size="2467007" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2161,6 +2161,36 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="40AB891D0153D2389B4F9A4920B9098481F4AA3B" downloadHash="A99207CD05F73828178F2AE74CC70E2675DC5C36" name="fx_moefx_waterfall_bottom.SEF" dlsize="325" size="2329" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="D2B27B2341655EE7AF858B31A239639D1B39C66E" downloadHash="78AA1A00F2285923E82FC67A0692C5AC2F5849A1" name="gwynneth k29 high home post.trx" dlsize="507927" size="514290" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="B8E2F9663B88B88AAAA08D43EC43BE9F81E43529" downloadHash="4976DEA3AC23BEFD9F8A0CD287326053407479AE" name="gwynneth k29 high home-dwarven.trx" dlsize="9398083" size="42970942" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="6ABF1280E451A663E2E61C8566DFF054041D2831" downloadHash="602FECEA60EE07D8DA8DE1E129765DBB662D5225" name="gwynnetth n33 ck_waterfallcave.trx" dlsize="222840" size="450221" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="71890B3A39BE58149F1C04C923A970E1C29795E4" downloadHash="8E5B18BE95CBFAAB489100BC42C4473C33F4B155" name="gwynneth k29 high home lower.trx" dlsize="201944" size="203241" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="494D1D2151B52EA1F236B06EDEFFBFA02EA13422" downloadHash="2B760728885A75BC6083D2DD6F593F6A04DB27BC" name="gwynneth k29 high home upperlvl2.trx" dlsize="279478" size="328870" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="1DF83AFF856B93B461F5C089B4A01156BF46F680" downloadHash="4903ECCCCBF2B96EFCE143B69E2D361C26456969" name="gwynneth k29 high home lvl1.trx" dlsize="648658" size="679766" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
