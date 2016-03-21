@@ -660,7 +660,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5A053C1E8C2E6DE73E7B7E4CCA3F8DCFA02FE06F" downloadHash="0151DFE086011BD8AE404439FA5EDD439F01899E" name="alaron o24 aithelar.trx" dlsize="3678726" size="17233037" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E341D83F0DC99FAF53C89E1EC64A56F6B607161F" downloadHash="19E073C30F55DF0E133DC35589A3A92AB0D1D03F" name="alaron o24 aithelar.trx" dlsize="3676818" size="17217129" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1540,7 +1540,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1B2EF7651EE8C5C25D928DE06229D75A3BC7CF1D" downloadHash="B7A230B17D5AD8F1BAE948EB817E14ACEDD2993B" name="gwynneth o34 macsheehan road.trx" dlsize="2984697" size="14636775" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A603DBCE56163A404B04D6AF098EC68B4AB9836E" downloadHash="2CAA7763CD432DC80DBC9E40D67E9E717F778BF3" name="gwynneth o34 macsheehan road.trx" dlsize="3054700" size="14704728" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2170,7 +2170,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="AAF95069813326E74D0B76D6801280BF91143587" downloadHash="2119DAA142226ABE9CC65ECFF041B9BBED11B69B" name="gwynneth k29 high home-dwarven.trx" dlsize="9784943" size="42004201" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="11B7995997C66ED3C5D5667681A98F94A29391D1" downloadHash="455F5BBA45764692EA269ADD480ED5931DB91F9B" name="gwynneth k29 high home-dwarven.trx" dlsize="9776789" size="41997078" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2195,7 +2195,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8B3BB741E091C42813420DA1203649A2B60BD89E" downloadHash="6949873F0C01E921AAD7D7770F06799939A92C71" name="gwynneth L29 Mountain range.trx" dlsize="3297225" size="19269486" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="420A7171ACE9A7C191F46A5C8832267CCE32CBCA" downloadHash="0A93E5E03134156DF205D93D548EA14FAB60C62F" name="gwynneth L29 Mountain range.trx" dlsize="3329539" size="19297939" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
