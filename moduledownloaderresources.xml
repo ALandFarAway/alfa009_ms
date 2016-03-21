@@ -1040,7 +1040,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="714FD656B73727D62D8995CCDB42B269A2169800" downloadHash="0CAE07869765F6F0D7A1F9EA953AB2B91247003C" name="gwynneth p33 kingsbay town ext.trx" dlsize="5589378" size="26887747" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="48E710C22828F21089BA29BC3AD19DC902733D69" downloadHash="3D14B915F2E4EBE020291E5B85B0D80A8479449F" name="gwynneth p33 kingsbay town ext.trx" dlsize="5570950" size="26901322" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1070,7 +1070,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D2709A5474D91B970A5E4E4059750588D69B9B9F" downloadHash="18D385DAB464727DEF4AD045B0204E394E6CF096" name="gwynneth p33 kingsbay interiors.trx" dlsize="278228" size="322781" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="06B3CB9B86369AF8E87D46AC8167A9781A3DAC46" downloadHash="EE6019A398117EB4431C0A672208A17D24705CDD" name="gwynneth p33 kingsbay interiors.trx" dlsize="278346" size="322816" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1090,7 +1090,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E7DC0FDE863BF14B110894A9C666E368A0149B6B" downloadHash="476814437DC86E618F34C09A7F50A1BF63BB970E" name="gwynneth o34  llyrath forest e.trx" dlsize="2599480" size="14707884" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="66C3DAAFD6FDFAF402D97FD222C6FD905C94D121" downloadHash="FC7E17D5D2CEEBB7DEEE41029D5C1DF021959160" name="gwynneth o34  llyrath forest e.trx" dlsize="2661375" size="14766171" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1140,7 +1140,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D348C347892ABAC9BF63B1D97562DD1E9CFA6390" downloadHash="EF1DBB868A54586E4CFF9774FD3AD0F5DAD6248A" name="009 dm prep area.trx" dlsize="288405" size="296377" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8D669CC0C359218F345352CCB5546BCADD2F5C67" downloadHash="3243FBF1D4E68C32CD65E10C3DE2A84DBA3730F3" name="009 dm prep area.trx" dlsize="287380" size="295445" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1310,7 +1310,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0C1BF3CAE41ABD317E49033BA0346F447BDAC59C" downloadHash="3052F950DC374FF8041376635BE9ED6DFD47BE1F" name="gwynneth o33 kings road.trx" dlsize="1739305" size="10171667" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BDD44586B7862292BB53D78633AEC0C20B2C0CAA" downloadHash="E5BE63CBB991FD53A7F531E00D7C04381D28DB71" name="gwynneth o33 kings road.trx" dlsize="1751901" size="10171631" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1540,7 +1540,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9CE24D3A4D74BE5D3A90CF9EFEC257E45D1FCF6F" downloadHash="5FA21FD2CF5CFD618F79B079B95BA5EBB0C0FF34" name="gwynneth o34 macsheehan road.trx" dlsize="2985456" size="14636755" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1B2EF7651EE8C5C25D928DE06229D75A3BC7CF1D" downloadHash="B7A230B17D5AD8F1BAE948EB817E14ACEDD2993B" name="gwynneth o34 macsheehan road.trx" dlsize="2984697" size="14636775" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1550,7 +1550,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="21A376C1182C4AB0FFC6CC1D01FF439BB4A4B882" downloadHash="825CE84235136606AF18F153331E388BBFA2492F" name="gwynneth o33 macsheehan  int.trx" dlsize="624496" size="4066815" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3D9E0B886F026271F04FA89B9BC2768ECC74002C" downloadHash="64EE9DB69A49EA166EF66B3F904E734359F9C281" name="gwynneth o33 macsheehan  int.trx" dlsize="627220" size="4066816" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2135,7 +2135,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CA51BBCE2092A8847B247EAE2EBD8506F94333FC" downloadHash="40869A872AD654811B76E9BCD0BBABFCB114BE2D" name="nv_underground2.trx" dlsize="336397" size="339351" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9BBF8917DD182EE39D58759581C1DF791EA8485C" downloadHash="86A9E9CA33B0C73616272C33CA0DCCBDC5D6D4FC" name="nv_underground2.trx" dlsize="342050" size="344837" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2145,7 +2145,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A86DC86D9E0A04CAD2AB10F3196BE3DB6BBA5729" downloadHash="BF995B13B699968F4A715BE523F628C0249A0569" name="nv_underground1.trx" dlsize="161228" size="1020121" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BEA5C13DD66F0621D35DCE3795343A21563AEC4E" downloadHash="0CEE8D37960766336E86DDA25E504510311F4119" name="nv_underground1.trx" dlsize="146467" size="1005031" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2170,7 +2170,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CE6BE9F2EC514620F0B488E8ECDAEAB741EAF8BB" downloadHash="9687431F181CC23FB7AD55C266B13D72C6634C3C" name="gwynneth k29 high home-dwarven.trx" dlsize="9741105" size="42006957" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="AAF95069813326E74D0B76D6801280BF91143587" downloadHash="2119DAA142226ABE9CC65ECFF041B9BBED11B69B" name="gwynneth k29 high home-dwarven.trx" dlsize="9784943" size="42004201" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2195,7 +2195,22 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2522DC91A703B2F01AACB5208D25FA32458BE317" downloadHash="F44B6D3BA9D4B38483E616B6889F750C2E55059E" name="gwynneth L29 Mountain range.trx" dlsize="2867365" size="19105411" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8B3BB741E091C42813420DA1203649A2B60BD89E" downloadHash="6949873F0C01E921AAD7D7770F06799939A92C71" name="gwynneth L29 Mountain range.trx" dlsize="3297225" size="19269486" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="DF19A530174D62469574CF5EB1967336A8DEE997" downloadHash="ECCC53D67B0D2FDE964F747BA61512AB3F52164E" name="gwynneth l29 deep mines.trx" dlsize="770228" size="956005" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="6ABF1280E451A663E2E61C8566DFF054041D2831" downloadHash="602FECEA60EE07D8DA8DE1E129765DBB662D5225" name="gwynneth n33 ck_waterfallcave.trx" dlsize="222840" size="450221" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="B8E601FD10B622B31E82D0864757592AC9BCF459" downloadHash="81360DFAE8DCB1F6F67F2B1827F154F9A2890BB0" name="gwynneth l29 dwarven tomb.trx" dlsize="1058903" size="2465689" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
