@@ -2130,7 +2130,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="766758F9682B30655F45E94445EB825B3A7C9571" downloadHash="C7E14CC3B65EB898AF1EAA44D751EE4F45F74C9D" name="kal-ahn'dur.trx" dlsize="1068079" size="2469020" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="61D822051FF62EB407AA5D49041C10C281C3315F" downloadHash="74A267860707A21B5B7FF510FE2BE7FAE3288CD3" name="kal-ahn'dur.trx" dlsize="1049999" size="2503022" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2170,7 +2170,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="11B7995997C66ED3C5D5667681A98F94A29391D1" downloadHash="455F5BBA45764692EA269ADD480ED5931DB91F9B" name="gwynneth k29 high home-dwarven.trx" dlsize="9776789" size="41997078" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0FDAD78283B36C9DB8526231F25E3A186C9B2CAC" downloadHash="9C8B027A9DFFFCCB3BA2829A7551F198BAEE1509" name="gwynneth k29 high home-dwarven.trx" dlsize="9670150" size="41796982" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2195,12 +2195,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="420A7171ACE9A7C191F46A5C8832267CCE32CBCA" downloadHash="0A93E5E03134156DF205D93D548EA14FAB60C62F" name="gwynneth L29 Mountain range.trx" dlsize="3329539" size="19297939" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="189D011B70D67925C391DB0776AD9AF5C802AAC2" downloadHash="DFFD7065F1F4A3F6867CF7D21BE4D07BE58C400F" name="gwynneth L29 Mountain range.trx" dlsize="4931991" size="24104659" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DF19A530174D62469574CF5EB1967336A8DEE997" downloadHash="ECCC53D67B0D2FDE964F747BA61512AB3F52164E" name="gwynneth l29 deep mines.trx" dlsize="770228" size="956005" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="28C9761B6C06B44882CBDA4064CBFFFF086E498F" downloadHash="5DC05135C98AF855A7CB737746219DCC67136F1F" name="gwynneth l29 deep mines.trx" dlsize="786277" size="976303" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2210,7 +2210,22 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B8E601FD10B622B31E82D0864757592AC9BCF459" downloadHash="81360DFAE8DCB1F6F67F2B1827F154F9A2890BB0" name="gwynneth l29 dwarven tomb.trx" dlsize="1058903" size="2465689" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D5ADA603B8DC821EE3626461341093FCF7BC6FDD" downloadHash="E3D659D389CF0A0721C39BFCF6B3F84221F896B3" name="gwynneth l29 dwarven tomb.trx" dlsize="1146990" size="2692171" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="3688FD53B347EBEF68E2AAD32BBE88D5442C7605" downloadHash="4F60A0B8C0B219CD4DDB08EE54A0E890656A8DCA" name="gwynneth l29 strange ruins 2.trx" dlsize="339686" size="342815" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="50D4B8361BEB369B4695F4DEAA6E52E832E612A5" downloadHash="9CC3B82A1C1111C680735C58182F1416D1E3E4A4" name="gwynneth L29 grove.trx" dlsize="465194" size="6434626" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="578335B39DA1AAC4E42EF9A64B19CAFE4831DB39" downloadHash="3C7734C89D5F2363AC8028F06C3A8C3BB62C9598" name="gwynneth l29 strange ruins 1.trx" dlsize="144710" size="1004232" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
