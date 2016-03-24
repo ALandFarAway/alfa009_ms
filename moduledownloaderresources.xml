@@ -585,7 +585,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FCA435E13233D517E21901B45D3CF0BD005798E9" downloadHash="FE84C75C18699FBF79A29D209B67DEA1A38FEC7A" name="gwynneth m28 winterglen forest.trx" dlsize="4973543" size="25592269" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4FE08B152F02CFFD33C993A03DDB3BFCA1FADF22" downloadHash="5DA8DF82F07E15736DF2FF8C4473EBB8ED47D84A" name="gwynneth m28 winterglen forest.trx" dlsize="4990123" size="25545151" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -605,7 +605,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D7FE4EF664C331254F6053B1E04E74DECBA7F314" downloadHash="D8CC30A941354A36D85E384B35E73763D5E64BEA" name="alaron q26 high kings road.trx" dlsize="3223585" size="15836425" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F53F012354AC5F9B59E919DF262F862D389D5F23" downloadHash="86BC44A6B9E0F156574A4577B3443F511BE2EBAA" name="alaron q26 high kings road.trx" dlsize="3827295" size="19327914" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2195,7 +2195,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="189D011B70D67925C391DB0776AD9AF5C802AAC2" downloadHash="DFFD7065F1F4A3F6867CF7D21BE4D07BE58C400F" name="gwynneth L29 Mountain range.trx" dlsize="4931991" size="24104659" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B741AD7AC920A38463AB1D97F709CB0278B5725B" downloadHash="8A316A4A08869FF28969B028CE898DB9EC4FF69B" name="gwynneth L29 Mountain range.trx" dlsize="4935691" size="24108865" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2210,12 +2210,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BF2D5821495C184ECD09D1F3EB381E3E7D7316B2" downloadHash="0E5586F988553C2A190852975959390FEC567F32" name="gwynneth l29 dwarven tomb.trx" dlsize="1141321" size="2686727" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="327AFED8E8B8105AD1A2DFFA43C06097D7C11A39" downloadHash="22BA87C56A65B8343E7349245D37F88603CDFFD2" name="gwynneth l29 dwarven tomb.trx" dlsize="1097495" size="2644520" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3688FD53B347EBEF68E2AAD32BBE88D5442C7605" downloadHash="4F60A0B8C0B219CD4DDB08EE54A0E890656A8DCA" name="gwynneth l29 strange ruins 2.trx" dlsize="339686" size="342815" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5DBF5D7E417FB8942CEF0F181162D8AE7F3B106C" downloadHash="A78DECF7D11DC2C6B0A50956220AE9F374C7FD3D" name="gwynneth l29 strange ruins 2.trx" dlsize="340219" size="343517" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2240,7 +2240,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FFB7639056FBBD899653747584944A6E0CDC4FDA" downloadHash="DD3710F43EADE75D74D6C845B964108D48A3C1B7" name="alaron r26 stirgwick plains.trx" dlsize="1031885" size="17920676" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0A0D7B41971C242D852DD0C74F95B1C1E31CEC0A" downloadHash="F5D8A59D729799F86EBDA7C57F61078D163EE7F8" name="alaron r26 stirgwick plains.trx" dlsize="2499944" size="19718800" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2250,7 +2250,42 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B3A6FB607456CD1EDEFF870930F32787F928AAB0" downloadHash="65DD0B724F669B1ACD30459A995DC52A2C9FCDCA" name="alaron S26 stirgwick coast.trx" dlsize="2777572" size="20607266" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="669D10A8A2CAFEE659E343D5DDDCAB8EDCBB3A9E" downloadHash="4D0977AF6002E48F962F16D38A55507D5BE82583" name="alaron S26 stirgwick coast.trx" dlsize="2848595" size="20574657" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="435D2C8E0BD9A14E2278C98F741D510BAF1D7ECA" downloadHash="D282FCF22FAE900594DEBEABC2B760B848A721E2" name="alaron q24 hkr ruins 1.trx" dlsize="109961" size="111496" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="1DAFF3E99CADAA599440E4B02801B79B96DB3926" downloadHash="ADAB8B4BB755E0CD2AEAFE964951FDB5E8C50695" name="gwynneth l31 myrloch vale.trx" dlsize="7927739" size="41530946" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="50D4B8361BEB369B4695F4DEAA6E52E832E612A5" downloadHash="9CC3B82A1C1111C680735C58182F1416D1E3E4A4" name="gwynneth l29 high home grove.trx" dlsize="465194" size="6434626" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="2712F65D43E1FC05739D3A9999663D0D06DC5205" downloadHash="DB2E00D8FB09DA98ABFEFAEFCBEF56A363476906" name="alaron q24 hkr - horsa.trx" dlsize="3660067" size="21287641" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="13FD8835196291535B002104DDF52BE246030094" downloadHash="486B267832B0251AD22DC6FB542D6EFED5BD1E82" name="greendragonbody.SEF" dlsize="332" size="854" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="1023DB2943ABC1395A0FA2FD21A77E29457F4505" downloadHash="FEA59327C1EA258E1CC1A805BC956D705576272C" name="sjc_flyingswords.SEF" dlsize="426" size="2444" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="595129748EEE1E331CA14485C11E4283AA6067D4" downloadHash="A7ABC0BAF64B2BC8E385DCDF70886B755FE56A16" name="sjc_whitedragonscale.SEF" dlsize="344" size="865" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
