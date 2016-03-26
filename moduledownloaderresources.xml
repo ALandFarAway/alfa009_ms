@@ -1140,7 +1140,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8D669CC0C359218F345352CCB5546BCADD2F5C67" downloadHash="3243FBF1D4E68C32CD65E10C3DE2A84DBA3730F3" name="009 dm prep area.trx" dlsize="287380" size="295445" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="299017116F426D78A34B4AFBCDCA40BBDC6BE07C" downloadHash="F03F9E3E36ACDB82A5CB278A2EB1FBB3CC4C13EE" name="009 dm prep area.trx" dlsize="287413" size="295440" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2190,7 +2190,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1DF83AFF856B93B461F5C089B4A01156BF46F680" downloadHash="4903ECCCCBF2B96EFCE143B69E2D361C26456969" name="gwynneth k29 high home lvl1.trx" dlsize="648658" size="679766" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2C28ED3CAD548C093F3A931C9F02ADA3DA3157DC" downloadHash="DA33B69D99A2701E2AD172FCA8F386FA48BA6DDE" name="gwynneth k29 high home lvl1.trx" dlsize="652691" size="683620" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2210,7 +2210,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="327AFED8E8B8105AD1A2DFFA43C06097D7C11A39" downloadHash="22BA87C56A65B8343E7349245D37F88603CDFFD2" name="gwynneth l29 dwarven tomb.trx" dlsize="1097495" size="2644520" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D21D24FBFA85A3C01707FEDA99B5FE04D27125CE" downloadHash="0BD431A6E3817DAD7DD8E41912A64CE0CF9FFC58" name="gwynneth l29 dwarven tomb.trx" dlsize="1107148" size="2647250" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
