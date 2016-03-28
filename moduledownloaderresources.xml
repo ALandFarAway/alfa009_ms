@@ -1925,7 +1925,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0C672EB7D66C1354B3860965AA79C4397C506C63" downloadHash="175A4B828C6997C2CEADE111FFBF9A50052AAF72" name="gwynneth m34nw corwell town.trx" dlsize="5211660" size="27236555" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A9353D2630278B25AE2B640D0E93E2D8DEC49D93" downloadHash="3F9B076AE9B223CDED880277F6F6FFC1A35025F8" name="gwynneth m34nw corwell town.trx" dlsize="5188998" size="27234799" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2215,7 +2215,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5DBF5D7E417FB8942CEF0F181162D8AE7F3B106C" downloadHash="A78DECF7D11DC2C6B0A50956220AE9F374C7FD3D" name="gwynneth l29 strange ruins 2.trx" dlsize="340219" size="343517" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="78012806EECA25B96DBD6D7F2BA6277B7E92137E" downloadHash="34F44B01DA7E4931FB84738D6D9303FD5A00EACC" name="gwynneth l29 strange ruins 2.trx" dlsize="340288" size="343495" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2255,7 +2255,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FCA4CA67A001F85FC34A05C37F0C9CD8DE848969" downloadHash="00FFE72ADAE9C33C91727063B98FD3845E3F90FC" name="alaron q24 hkr ruins 1.trx" dlsize="110082" size="111553" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4D12D97463138715233214D7C295993098484E58" downloadHash="04F68C8EC9A80A75F9D3371EE4F8EEFF0268703C" name="alaron q24 hkr ruins 1.trx" dlsize="199137" size="203236" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2295,7 +2295,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="340920051817F775BA01B43BD238AEFF68283BD7" downloadHash="6C28B9FB194F3DB2573C49DD7169BA725B907DF9" name="gwynneth m34nw corwell housing.trx" dlsize="86928" size="220018" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="50E15738ABEF497B089398D99F7F916B735A193C" downloadHash="2DB9D22D1B2124AD01B4A9ED4414FCAA86AF8C75" name="gwynneth m34nw corwell housing.trx" dlsize="80225" size="212750" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="84F3FBC6155AE230CF93803A9F535EB123584A96" downloadHash="F17166A48E0A7EE51F66F172028CD2DEBF5DBDC4" name="curse of iron.trx" dlsize="5090" size="5080" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
