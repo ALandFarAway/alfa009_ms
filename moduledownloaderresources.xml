@@ -2100,7 +2100,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="84CF9CF849AA6D6DA306DCE3DCCF1BA9EAF11383" downloadHash="B7D5F1B2A7340F59870663930FBDCFA111274ADC" name="lost ruins 1.trx" dlsize="290751" size="6629378" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4DFD0EC4B0B1159816E1BA1F1FE75574F8D8AACE" downloadHash="932E514AD5FAC9E09DAC546599A5F27312CD367F" name="lost ruins 1.trx" dlsize="277418" size="6628266" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2150,7 +2150,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1C075143754A9FADA5630D5ABE12A65C0059F91B" downloadHash="C56DC9C252688A16615E553C3402713A761B4A48" name="lost ruins2.trx" dlsize="279167" size="9283951" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B64C33B802D49E937D266DEC668CCDAA70008248" downloadHash="2F27EF558C5F1EDC34C1E1A3266E7E674DC2834B" name="lost ruins2.trx" dlsize="274665" size="9283950" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2255,7 +2255,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4D12D97463138715233214D7C295993098484E58" downloadHash="04F68C8EC9A80A75F9D3371EE4F8EEFF0268703C" name="alaron q24 hkr ruins 1.trx" dlsize="199137" size="203236" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="162550D89BB337DE8C1CC1DCEA358C1DEEF7FDCD" downloadHash="9828760383EA223D1A5DFAE598FBC8A8BF6E5630" name="alaron q24 hkr ruins 1.trx" dlsize="199152" size="203236" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
