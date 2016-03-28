@@ -2255,7 +2255,11 @@
       <string>0</string>
     </server-ref>
   </resource>
+<<<<<<< HEAD
   <resource type="DirectoryEntry" hash="162550D89BB337DE8C1CC1DCEA358C1DEEF7FDCD" downloadHash="9828760383EA223D1A5DFAE598FBC8A8BF6E5630" name="alaron q24 hkr ruins 1.trx" dlsize="199152" size="203236" critical="false" exclude="false" urlOverride="">
+=======
+  <resource type="DirectoryEntry" hash="4D12D97463138715233214D7C295993098484E58" downloadHash="04F68C8EC9A80A75F9D3371EE4F8EEFF0268703C" name="alaron q24 hkr ruins 1.trx" dlsize="199137" size="203236" critical="false" exclude="false" urlOverride="">
+>>>>>>> e964f6b... l29 update, corwell housing update
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2300,9 +2304,6 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="84F3FBC6155AE230CF93803A9F535EB123584A96" downloadHash="F17166A48E0A7EE51F66F172028CD2DEBF5DBDC4" name="curse of iron.trx" dlsize="5090" size="5080" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
+  <resource t
   </resource>
 </content>
