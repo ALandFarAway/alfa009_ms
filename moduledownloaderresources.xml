@@ -105,7 +105,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D6302927BC8F8B0624D3525CA8DDE0501B026B29" downloadHash="AA63298BB9556BCD6B99611D95453873AAA85CDA" name="gwynneth l31 myrloch vale.trx" dlsize="8044349" size="41638353" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="988743E13549EB1945FD8D46A5C38D0E7253A2B8" downloadHash="B5A2CE4639224C8987B76F34FBE3103DE0E9FF1A" name="gwynneth l31 myrloch vale.trx" dlsize="8021525" size="41633160" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -895,7 +895,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="134FD31F012316EEAD41EA8EE723D30400176CEF" downloadHash="400668467AB585E9D3326A0591DAD5889AF1575A" name="gwynneth l30 myrloch sheepool.trx" dlsize="4677242" size="30289724" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="09B1DB8AB36EC8DC76991B28D7072074446DEBD6" downloadHash="73D283B7123DE24ADC34C6F76459CBFA0189E356" name="gwynneth l30 myrloch sheepool.trx" dlsize="4713539" size="30330165" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
