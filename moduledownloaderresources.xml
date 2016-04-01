@@ -20,7 +20,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="162550D89BB337DE8C1CC1DCEA358C1DEEF7FDCD" downloadHash="9828760383EA223D1A5DFAE598FBC8A8BF6E5630" name="alaron q24 hkr ruins 1.trx" dlsize="199152" size="203236" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0E0D32AEEDA10620986F9D226A948A01B5367266" downloadHash="93636EC513A21307F7E2545FA81DA37C286359EB" name="alaron q24 hkr ruins 1.trx" dlsize="200070" size="204057" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -105,7 +105,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="65DBD4AEFD5ABB92CACA29CDBC746CCB76815973" downloadHash="48599804F490FE127615EB46B75BC6184C8952AF" name="gwynneth l31 myrloch vale.trx" dlsize="7965664" size="41551100" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D6302927BC8F8B0624D3525CA8DDE0501B026B29" downloadHash="AA63298BB9556BCD6B99611D95453873AAA85CDA" name="gwynneth l31 myrloch vale.trx" dlsize="8044349" size="41638353" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -895,7 +895,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BDB006EC5CE1C8D82F6E03652DAF761F734DA7A0" downloadHash="7AD0F291B0741A8C2985048DC4B9A43BDA2148D2" name="gwynneth l30 myrloch sheepool.trx" dlsize="3774465" size="29107331" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="134FD31F012316EEAD41EA8EE723D30400176CEF" downloadHash="400668467AB585E9D3326A0591DAD5889AF1575A" name="gwynneth l30 myrloch sheepool.trx" dlsize="4677242" size="30289724" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1360,7 +1360,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A31050462AFA1353B2B4364B9E06CC587E159782" downloadHash="B545671B5E1B1C3EAC8B2B627588D27CACEA83B4" name="gwynneth L29 Mountain range.trx" dlsize="4943483" size="24125069" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="856BDDFF16A697F483837D778B2B5F28DEED243A" downloadHash="086A67409EB4E697E2AC9E0794E2AC5EF8C9C832" name="gwynneth L29 Mountain range.trx" dlsize="4943560" size="24111900" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1515,7 +1515,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="EE389B0DB66E6F8657F59D2F8734F8E2AB3303E8" downloadHash="5416D202E03AA0853F1174F6785785EF81746D35" name="gwynneth m34nw corwell town.trx" dlsize="5192759" size="27234820" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4D51572E626534BF408E0DEEC86C29BB0C3F45D8" downloadHash="0ED4504C9D8083FB5CDE3C34B7D6CA58C9B6A0D8" name="gwynneth m34nw corwell town.trx" dlsize="5193928" size="27234796" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1535,7 +1535,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="63B3F7547B809DE2CF4056A58603F1AE45DE3088" downloadHash="20CF2328730FBB891395C2E2CC4CD3F3295281E6" name="gwynneth m34nw corwell housing.trx" dlsize="85250" size="217750" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="77C25141DE705D3B6989A89C0BA02376E28587B3" downloadHash="8FD911A0A0D3AF3702222290763AD04DC9804935" name="gwynneth m34nw corwell housing.trx" dlsize="86078" size="218977" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
