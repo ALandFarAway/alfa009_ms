@@ -20,7 +20,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0E0D32AEEDA10620986F9D226A948A01B5367266" downloadHash="93636EC513A21307F7E2545FA81DA37C286359EB" name="alaron q24 hkr ruins 1.trx" dlsize="200070" size="204057" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9B9509F6EA4BE27AD7CE16504F55DEBA02E2A185" downloadHash="463A4DCF769A048910667167845724AA9633ABB3" name="alaron q24 hkr ruins 1.trx" dlsize="263181" size="268270" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -775,7 +775,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2C28ED3CAD548C093F3A931C9F02ADA3DA3157DC" downloadHash="DA33B69D99A2701E2AD172FCA8F386FA48BA6DDE" name="gwynneth k29 high home lvl1.trx" dlsize="652691" size="683620" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BE1B80596D12C8CE6962367A29D977EAAA0ACB0C" downloadHash="A45C2F2753066CFB3E88A69849C5E17E6FEB74F3" name="gwynneth k29 high home lvl1.trx" dlsize="672688" size="703474" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -830,7 +830,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8BE3EB5EF70DE3F4BB314C2995E7C5D23B101AC0" downloadHash="F08435C5CB1A2CCD62A97E9E8C308C1C7C4E7C5E" name="gwynneth m34nw corwell interiors.trx" dlsize="256953" size="259816" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B2E7E4AFC9B67883D69E24FD477E32F0A830CFC9" downloadHash="F8C78FDDE02B653F7FAC11CC445A6891F32D10FF" name="gwynneth m34nw corwell interiors.trx" dlsize="257076" size="259933" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
