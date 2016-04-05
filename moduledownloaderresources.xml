@@ -20,7 +20,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9B9509F6EA4BE27AD7CE16504F55DEBA02E2A185" downloadHash="463A4DCF769A048910667167845724AA9633ABB3" name="alaron q24 hkr ruins 1.trx" dlsize="263181" size="268270" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="EDF564FD8BA856AF3FF170768C39162B9A348A23" downloadHash="EB74B661CE43FE0B6EC4B6BD187C878819060C83" name="alaron q24 hkr ruins 1.trx" dlsize="267488" size="272356" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -265,7 +265,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6B28C18BAEED81E621450514F9DA5758246D8B7F" downloadHash="4727428C5068FDE41F1D574ACEE975EEFF833E01" name="gwynneth j34 firth isles.trx" dlsize="1640554" size="16249270" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="49EA6A04EAB6E6535DE8FFD9C3256B03298BC97F" downloadHash="3D545597F233B4567D3701A1E9D204F11AE47FD5" name="gwynneth j34 firth isles.trx" dlsize="1717777" size="16315556" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -315,7 +315,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C1BCDABA2E497DCC7904ADF1B605D618D2B12EC1" downloadHash="AD358D4EE623ACC897C0736B2BF4B3C5BD380DE2" name="gwynneth j34 firth caves int.trx" dlsize="312362" size="856530" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D1852B8C4C8FBF3772850502AD048B4DF0418688" downloadHash="4C9D278675612F03E33942F575DA3E6437A43AC3" name="gwynneth j34 firth caves int.trx" dlsize="309840" size="854348" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -775,7 +775,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BE1B80596D12C8CE6962367A29D977EAAA0ACB0C" downloadHash="A45C2F2753066CFB3E88A69849C5E17E6FEB74F3" name="gwynneth k29 high home lvl1.trx" dlsize="672688" size="703474" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3D3ED61131A1571CB12F235F66686F241237DDB7" downloadHash="85EC982C6A84746C83FF024543A26AC6D62CFE01" name="gwynneth k29 high home lvl1.trx" dlsize="672607" size="703011" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -895,7 +895,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="09B1DB8AB36EC8DC76991B28D7072074446DEBD6" downloadHash="73D283B7123DE24ADC34C6F76459CBFA0189E356" name="gwynneth l30 myrloch sheepool.trx" dlsize="4713539" size="30330165" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="740A75C8F1D715CE167FE0A8BC02B842A87BB016" downloadHash="6392924D0BCEFD532482CF0D04E6656C84C8308E" name="gwynneth l30 myrloch sheepool.trx" dlsize="4888703" size="30379309" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1360,7 +1360,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="856BDDFF16A697F483837D778B2B5F28DEED243A" downloadHash="086A67409EB4E697E2AC9E0794E2AC5EF8C9C832" name="gwynneth L29 Mountain range.trx" dlsize="4943560" size="24111900" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="93CBE60A9AA9AD584C9974726F4DAA212B93E646" downloadHash="B49EB0F0463E9E8C812B6C328DC75A0B6BA88CB3" name="gwynneth L29 Mountain range.trx" dlsize="4931878" size="24110910" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
