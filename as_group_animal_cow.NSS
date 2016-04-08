@@ -51,7 +51,7 @@ void main();
 void main() {
 	switch(Random(5)) {
         case 0:
-			spawn_npc("abr_cr_an_dom_cow0");
+			spawn_npc("abr_cr_an_dom_cowred");
             break;
         default:
 			spawn_npc("abr_cr_an_dom_cow");
