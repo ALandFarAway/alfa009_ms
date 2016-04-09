@@ -1765,4 +1765,14 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="6901831CF64A9AD90F65CA00B20D098C71827161" downloadHash="2E81A42BE292A2EBF0E514CD7578DE2A9E69041B" name="evil_ruins_level_1.trx" dlsize="415270" size="596307" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="BD0C5A2AED0DB68297600A2513C6C3EB36B6008D" downloadHash="F2E21AC61E32874D99EE91ED188E914749EE4BC3" name="evil_ruins_level_2.trx" dlsize="156237" size="157926" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
 </content>
