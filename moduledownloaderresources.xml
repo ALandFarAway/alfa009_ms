@@ -120,7 +120,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="06C178A33E392C699584AE77FA5190226917F33E" downloadHash="9D59FE376A9D865155B23BA167BFDED247B676B3" name="gwynneth m28 winterglen vil int.trx" dlsize="15725" size="15714" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2B6F66ED8454A9E984BF7D3AB0D81E10AB092F6A" downloadHash="94B39A28903D97B4C59FD450F6386E51502E4EE7" name="gwynneth m28 winterglen vil int.trx" dlsize="15732" size="15715" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -195,7 +195,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="543BD56C4517917C385E8D3B11CE77178079E3E2" downloadHash="159E0F83F26E15EE962969F549B838649EEF31C8" name="gwynneth lowhill vill.trx" dlsize="3748378" size="19359455" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="969569566256E0569D183E939709B49FE6164F07" downloadHash="D7BF1C45DF62D5261F41AD4E685A2E503C83E649" name="gwynneth lowhill vill.trx" dlsize="3762542" size="19359482" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -310,7 +310,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0FDAD78283B36C9DB8526231F25E3A186C9B2CAC" downloadHash="9C8B027A9DFFFCCB3BA2829A7551F198BAEE1509" name="gwynneth k29 high home-dwarven.trx" dlsize="9670150" size="41796982" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3744477F5CE2B92DF5A1AF1026CA386B3D1B14C3" downloadHash="9B09C3110907CE359201A93FD2445B74741D1AB3" name="gwynneth k29 high home-dwarven.trx" dlsize="9613456" size="41751229" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -330,7 +330,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="494D1D2151B52EA1F236B06EDEFFBFA02EA13422" downloadHash="2B760728885A75BC6083D2DD6F593F6A04DB27BC" name="gwynneth k29 high home upperlvl2.trx" dlsize="279478" size="328870" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="291BAF284EE35B819F729986B3B372B1204D0355" downloadHash="83EF3135460DEEDE09596435816F270B8357A06B" name="gwynneth k29 high home upperlvl2.trx" dlsize="280310" size="374757" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -565,7 +565,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="228239FAA59DC6669B61E4E1B88F82964E0E0EFB" downloadHash="33EBC550E07645C5E4F956C6ABF7899FE10953D7" name="gwynneth m28 winterglen elfville.trx" dlsize="1025979" size="10770797" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8478398F7E70D98012C51EB78533FC0036D0799D" downloadHash="315D9D4895D6312E7DA20E3099750568CCBECCCB" name="gwynneth m28 winterglen elfville.trx" dlsize="1029098" size="10770797" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1245,7 +1245,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="733716673FBA7B793C5EC21BA9D76883E0C8AEC1" downloadHash="DAD956E34C3BBCF5328E280EAE9DB472E6FEED34" name="caftenor p14 town.trx" dlsize="4089544" size="21069583" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0B67BB121A47004441A9B97A786E1E85A5313C1E" downloadHash="FFF5FDF9BF3F4BFDAD093202AB4DF042BA62FB0C" name="caftenor p14 town.trx" dlsize="4029635" size="21006827" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1545,7 +1545,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D2B27B2341655EE7AF858B31A239639D1B39C66E" downloadHash="78AA1A00F2285923E82FC67A0692C5AC2F5849A1" name="gwynneth k29 high home post.trx" dlsize="507927" size="514290" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2AEF8379560868691B8F9F5140CA0A584360277B" downloadHash="2500AE8B2634D8469D77960A0A8E1A92F333C8F7" name="gwynneth k29 high home post.trx" dlsize="509517" size="516226" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1771,6 +1771,36 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="BD0C5A2AED0DB68297600A2513C6C3EB36B6008D" downloadHash="F2E21AC61E32874D99EE91ED188E914749EE4BC3" name="evil_ruins_level_2.trx" dlsize="156237" size="157926" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="3E445AC2BEA5121CE9AA59D4E64B174D6B92B3DA" downloadHash="8CE1DAD38D84546670CD4D67AC6A39613A2A42F7" name="snowdown s34 temple illmater.trx" dlsize="5241" size="5222" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="20662C2191654BB2EC4AD5652D18580C25BDEA20" downloadHash="C8706EA8509AE0EDE7502039E42C09FED1CAA8D1" name="gwynneth m34nw trappers inn.trx" dlsize="151629" size="285300" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="FD32ED8FDF6A4FD9AB8FA3906422EA632BD8F527" downloadHash="0413E217B5BD5A645E8D7948141D456244E1FC50" name="generic mountain pass.trx" dlsize="10123218" size="33750776" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="C6ACF128F623B78BF0D8ED299F165FB26AD51ED2" downloadHash="F951AC064B46CD19F3E9BCBD3F15DDA872D94031" name="009_ sloops in battle.trx" dlsize="390035" size="7940163" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="8F815DBB6A905C9F9B29750123CF7CBF76D6E729" downloadHash="81A71A8C6796ED11D8CAE54C86399657BC186446" name="gwynneth m34 corwell trding cstr.trx" dlsize="88825" size="89435" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="CD75B0551812DFDD67BF0B4994F0A62C5358167B" downloadHash="DA9423CF1C88C74457CBF0410B14F95DD37D3421" name="generic volcanic ruin int.trx" dlsize="146419" size="147871" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
