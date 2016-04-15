@@ -1130,7 +1130,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5AEB83CA359CD9D80E7655520E9D792F841D9C85" downloadHash="B1F2453C29D2FE3791B5867B25FCA49440C87CC6" name="alaron s25 swanmay tearglade .trx" dlsize="5041047" size="23691633" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1C8B85ECDD6A9C32B747B1B533874A699AED0FF3" downloadHash="6DACF190BB682D3BC29CB6DC234175BF9EE0085E" name="alaron s25 swanmay tearglade .trx" dlsize="5022146" size="23659615" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1801,6 +1801,16 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="CD75B0551812DFDD67BF0B4994F0A62C5358167B" downloadHash="DA9423CF1C88C74457CBF0410B14F95DD37D3421" name="generic volcanic ruin int.trx" dlsize="146419" size="147871" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="CED62EA1B9319A960D2F277F06E543E382682183" downloadHash="F01DB1A6CC6052C89EF862C2C9792ECCF4349F98" name="alaron r26 stirgewick plains.trx" dlsize="3441632" size="21404155" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="1A8509143B161A59F129821571748645F6466FB0" downloadHash="5EAB739FE9249145F1D0A7473B64A5E0E7AD38D0" name="alaron s26 stirgewick coast.trx" dlsize="3915575" size="22217928" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>

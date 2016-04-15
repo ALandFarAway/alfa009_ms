@@ -12,7 +12,7 @@
 // ChazM - 4/21/05 modified so NPC's can stay focused
 // ChazM 1/6/06 set local int to notify WalkWayPoints it should kickstart immediately.
 // DBR 5/30/06 Added check to GetIsValidRetaliationTarget() as a fix for force attacking quest-giving NPC's
-
+/*
 
 #include "nw_i0_generic"
 #include "ginc_behavior"
@@ -116,3 +116,4 @@ void main()
         SignalEvent(OBJECT_SELF, EventUserDefined(EVENT_DIALOGUE));
     }
 }
+/*
