@@ -81,7 +81,7 @@ int IsAreaOccupied(object oEnterer=OBJECT_INVALID)
 void _SpawnPuzzleTrigger(object visual, string puzzleTag, int X, int Y, int maxX, int maxY)
 {
 	string trigTag = puzzleTag + IntToString(X) + IntToString(Y);
-	ApplyEffectAtLocation(DURATION_TYPE_PERMANENT, SupernaturalEffect(EffectAreaOfEffect(81, "sel_lightpuz", "****", "****", trigTag)), GetLocation(visual));
+	ApplyEffectAtLocation(DURATION_TYPE_PERMANENT, SupernaturalEffect(EffectAreaOfEffect(81, "light_puzzle1", "****", "****", trigTag)), GetLocation(visual));
 	object oAoE = GetObjectByTag(trigTag);
 	SetLocalInt(oAoE, PUZZLE_LOC_X, X);
 	SetLocalInt(oAoE, PUZZLE_LOC_Y, Y);
