@@ -20,7 +20,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="96D28B5BFEABF34745B0F70C54F5F84D72B9F181" downloadHash="FE1F63AB6CE82F4179E4AE2DB35CA8EF48A58C75" name="alaron q24 hkr ruins 1.trx" dlsize="403280" size="410110" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="125C9EC5F734C71D8E9E4E381792FD895932B4A7" downloadHash="14C78008297B4B2E51E298791154EF2375D505E3" name="alaron q24 hkr ruins 1.trx" dlsize="403260" size="410109" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1165,7 +1165,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="779ADB5DE8D2C9ACD5442F5CFDA533379F3290BD" downloadHash="B436988B9192A57864E52C316BFE9EFE36DE8D13" name="alaron q22 callidyrr housing.trx" dlsize="293390" size="563756" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="CE72D7A3C4474020EC2F97B6B86A474276645733" downloadHash="96C39FAD6CE885579FF301D4C88EB590D76E025A" name="alaron q22 callidyrr housing.trx" dlsize="293993" size="563828" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
