@@ -20,7 +20,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="77A7F0A9B314E2752A841677E6B0F8496BDBB927" downloadHash="19A90028476BF6FDB69AD1CA6E653E225E2D26EF" name="alaron q24 hkr ruins 1.trx" dlsize="403457" size="410600" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="96D28B5BFEABF34745B0F70C54F5F84D72B9F181" downloadHash="FE1F63AB6CE82F4179E4AE2DB35CA8EF48A58C75" name="alaron q24 hkr ruins 1.trx" dlsize="403280" size="410110" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1165,7 +1165,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E480BCCD5A4C105A81348AA6EC2621F1929D57BB" downloadHash="C89D01781CCB00723619A278EA86C157DFDF2AFD" name="alaron q22 callidyrr housing.trx" dlsize="288995" size="560658" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="779ADB5DE8D2C9ACD5442F5CFDA533379F3290BD" downloadHash="B436988B9192A57864E52C316BFE9EFE36DE8D13" name="alaron q22 callidyrr housing.trx" dlsize="293390" size="563756" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1615,7 +1615,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="49970CD65A828DFE39CC09C055AE100FC33CEC79" downloadHash="7851962D781D10257F16F50D2DB9C86C89922F03" name="alaron q24 hkr - horsa.trx" dlsize="3668829" size="21301570" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A96268FAB937E4D6EFFB9A53FF2D967C4A649A8F" downloadHash="D28C194BC6C3D12EE49B515225481FB04D6F8818" name="alaron q24 hkr - horsa.trx" dlsize="3677390" size="21300223" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1811,6 +1811,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="1A8509143B161A59F129821571748645F6466FB0" downloadHash="5EAB739FE9249145F1D0A7473B64A5E0E7AD38D0" name="alaron s26 stirgewick coast.trx" dlsize="3915575" size="22217928" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="E4D83DD05DCC5D1C2DB8787F85AAFEB353082CD0" downloadHash="A123D2FD24FD6F6D057B527F6AC3EC1CA429905C" name="alaron q24 hkr - horsa int.trx" dlsize="114381" size="114934" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
