@@ -83,7 +83,7 @@ void checkLights(string torch)
 	   GetLocalInt(oLamp5, "lit") == 1 &&
 	   GetLocalInt(oLamp6, "lit") == 1)
 	{
-		SendMessageToPC(oPC, "You've won");
+	//	SendMessageToPC(oPC, "You've won");
 	
 		SetUseableFlag(oLamp1, 0);
 		SetUseableFlag(oLamp2, 0);

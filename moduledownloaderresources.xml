@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <content xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <resource type="DirectoryEntry" hash="EDD64762A770C427CE0E04AB08758D96922CFD44" downloadHash="687212E04751D332F7C3BC85E5AAB453057E16D2" name="alaron s23n torriage grove.trx" dlsize="927848" size="7713450" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E40503040E701C55DFE55D630456B6DDBC2B0867" downloadHash="B679D75A01B93ADC3EAA46CF360BE2667CF0DBA2" name="alaron s23n torriage grove.trx" dlsize="927677" size="7713462" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -20,7 +20,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="125C9EC5F734C71D8E9E4E381792FD895932B4A7" downloadHash="14C78008297B4B2E51E298791154EF2375D505E3" name="alaron q24 hkr ruins 1.trx" dlsize="403260" size="410109" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5A30BE8DAAD79732DCEB745C7EC67212E870FDED" downloadHash="823465970FC3FD42F60A751218C1775D7F1B9E8F" name="alaron q24 hkr ruins 1.trx" dlsize="406320" size="412764" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1615,7 +1615,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A96268FAB937E4D6EFFB9A53FF2D967C4A649A8F" downloadHash="D28C194BC6C3D12EE49B515225481FB04D6F8818" name="alaron q24 hkr - horsa.trx" dlsize="3677390" size="21300223" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="000B10E36405B4F5DDFEEF174D2635B1184641EC" downloadHash="FC3200E4D0556516DF7DEFF166DBCE5BBC647260" name="alaron q24 hkr - horsa.trx" dlsize="3657601" size="21293661" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1815,7 +1815,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E4D83DD05DCC5D1C2DB8787F85AAFEB353082CD0" downloadHash="A123D2FD24FD6F6D057B527F6AC3EC1CA429905C" name="alaron q24 hkr - horsa int.trx" dlsize="114381" size="114934" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B532EF3D7B7BB378404AF1EE9A9799ED3382B6B2" downloadHash="F968A3492C05EE4F7E4446299A6B373BCFF5F5E6" name="alaron q24 hkr - horsa int.trx" dlsize="113694" size="114180" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>

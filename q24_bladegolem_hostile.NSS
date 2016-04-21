@@ -6,8 +6,10 @@
 void main()
 
 {
-ACR_TriggerOnEnter();
+//ACR_TriggerOnEnter();
 	object oTarget = GetObjectByTag("009_cr_con_bladegolem");
+	//object oTarget = GetObjectByTag("009_cr_con_bladegolem2");
+	//object oTarget = GetObjectByTag("009_cr_con_bladegolem3");
 	
 	//Make golem attack
 	ChangeToStandardFaction(oTarget, STANDARD_FACTION_HOSTILE);

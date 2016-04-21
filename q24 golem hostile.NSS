@@ -6,7 +6,7 @@
 void main()
 
 {
-ACR_TriggerOnEnter();
+//ACR_TriggerOnEnter();
 	object oTarget = GetObjectByTag("009_cr_q24_golem");
 	
 	//Make golem attack
