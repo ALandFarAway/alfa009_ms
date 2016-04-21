@@ -20,7 +20,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5A30BE8DAAD79732DCEB745C7EC67212E870FDED" downloadHash="823465970FC3FD42F60A751218C1775D7F1B9E8F" name="alaron q24 hkr ruins 1.trx" dlsize="406320" size="412764" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="20690ECA8E02EA1DF58E5538E3B9FB31A753E1D8" downloadHash="CD3D448FA1C960F31EEEDF6016DCD8FA1DB80ED9" name="alaron q24 hkr ruins 1.trx" dlsize="406314" size="412764" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1815,7 +1815,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B532EF3D7B7BB378404AF1EE9A9799ED3382B6B2" downloadHash="F968A3492C05EE4F7E4446299A6B373BCFF5F5E6" name="alaron q24 hkr - horsa int.trx" dlsize="113694" size="114180" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="86EA3B5BFAD469649AED3BDC625577048DE9F102" downloadHash="CCC5549A7D4FB169BFF0B72FE9149D5B9467410F" name="alaron q24 hkr - horsa int.trx" dlsize="113660" size="114172" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
