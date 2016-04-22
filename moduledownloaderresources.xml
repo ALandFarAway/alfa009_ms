@@ -20,7 +20,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="20690ECA8E02EA1DF58E5538E3B9FB31A753E1D8" downloadHash="CD3D448FA1C960F31EEEDF6016DCD8FA1DB80ED9" name="alaron q24 hkr ruins 1.trx" dlsize="406314" size="412764" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="596D3597913B1213DFA919AAFB0DCF1364FEE164" downloadHash="601A1699F36F875D30C65D8B32DCF27FAF00DD78" name="alaron q24 hkr ruins 1.trx" dlsize="405622" size="412185" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>

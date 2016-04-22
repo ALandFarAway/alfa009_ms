@@ -7,13 +7,14 @@
 // Put this script OnEnter.
 
 
-#include "ginc_param_const"
 #include "nw_i0_generic"
-#include "acr_creature_i"
-#include "acr_trigger_i"
+#include "x0_i0_partywide"
+
 
 void main()
 {
+    object oTarget;
+
     // Get the creature who triggered this event.
     object oPC = GetEnteringObject();
 
@@ -26,7 +27,12 @@ void main()
         return;
     SetLocalInt(GetModule(), "DO_ONCE__" + GetTag(OBJECT_SELF), TRUE);
 
+    // Make "009_cr_q24_golem" dislike the PC's party more.
+    oTarget = GetObjectByTag("009_cr_q24_golem");
+    AdjustReputationWithFaction(oPC, oTarget, -100);
+
     // Attack the PC.
+    AdjustReputation(oPC, GetNearestObjectByTag("009_cr_q24_golem"), -100);
     SetIsTemporaryEnemy(oPC, GetNearestObjectByTag("009_cr_q24_golem"));
     AssignCommand(GetNearestObjectByTag("009_cr_q24_golem"), DetermineCombatRound(oPC));
 }
