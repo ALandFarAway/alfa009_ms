@@ -163,7 +163,7 @@ object GetCreatureArrowTarget(object oTarget)
 		{
 			vector vChkPos = GetPosition(oChecking);
 			vector vTargPos = GetPosition(oTarget);
-			if(fabs(vChkPos.x - vTargPos.x) < 7.25f)
+			if(fabs(vChkPos.x - vTargPos.x) < 9.25f)
 			{
 				if(vChkPos.y > 3.50f && vChkPos.y <61.5f && vChkPos.y > fCurrentRetY)
 			//	if(vChkPos.y > 12.0f && vChkPos.y <61.5f && vChkPos.y > fCurrentRetY)
