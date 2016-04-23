@@ -835,7 +835,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A970E7AA07D2254FAD1ABBA29FB545DA486CEA6F" downloadHash="84C9DAF918957C44E23DA5DDA48C8755FCEF38F9" name="alaron s23w rillifane run int.trx" dlsize="486824" size="581495" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="18FD7895C3988D86FE91139F18E022D84E56EA1E" downloadHash="6534C552EC25339FB268C6A1679A9F3390F5F27F" name="alaron s23w rillifane run int.trx" dlsize="474388" size="569436" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1165,7 +1165,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CE72D7A3C4474020EC2F97B6B86A474276645733" downloadHash="96C39FAD6CE885579FF301D4C88EB590D76E025A" name="alaron q22 callidyrr housing.trx" dlsize="293993" size="563828" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="97AFE0DA2BD0417B5CD3490F3FE2F4EEDA375EFA" downloadHash="75DBEED11A54BE9D7D15970333D7DEEF55D24CD4" name="alaron q22 callidyrr housing.trx" dlsize="288035" size="558533" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1375,7 +1375,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FD39542A5D5D0F0DAEC061ABF105D99E536B8468" downloadHash="2F3636733A53D1F7B57B8C0CE3FC587081CDDDF1" name="alaron q22 c callidyrr high dist.trx" dlsize="3048617" size="15784598" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="883C613699BA96A95437921EFEDE879C44558CAD" downloadHash="4ECC58E1AD636F1EE52EE22FF5FE3998CC8251DC" name="alaron q22 c callidyrr high dist.trx" dlsize="3042118" size="15782447" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
