@@ -20,7 +20,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F9C0BC84DF90FDDFDEBD46B1C6A1CD257678E6C2" downloadHash="988AFBD009F57038F3A819953357525DD2B55986" name="alaron q24 hkr ruins 1.trx" dlsize="408524" size="415128" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="17146519164829F859E4DB3AD7AE64897CB0AF43" downloadHash="DE9B1C785EB455D95655B2029D2965B5DFDDDE0C" name="alaron q24 hkr ruins 1.trx" dlsize="402026" size="408862" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -650,7 +650,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="AE041330E2FD71646CC13C104618F51C9C3BC1CC" downloadHash="5DBEE0887079D05DFABB546B2CD42D7084B2353C" name="fumirsstall.trx" dlsize="323858" size="8512953" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="72D8BD1E8E3B1C5DF7279BCB8868761A7C05FB3C" downloadHash="DB5767420EFBDEA8301FB019B5DE94FF84E6A5FC" name="fumirsstall.trx" dlsize="314318" size="8503884" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>

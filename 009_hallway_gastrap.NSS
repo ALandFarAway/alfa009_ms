@@ -60,7 +60,7 @@ void RunTrap(float fDelay)
     // "NW_T1_GasMinoC1"
     effect eTrap        = EffectAreaOfEffect (AOE_PER_FOGACID, "NW_T1_GasStrC1");
     // Gas stays for 6 seconds times this number
-    int nCastDuration   = 20;
+    int nCastDuration   = 40;
     // Float for delaying of the int
     float fCastDur      = IntToFloat(nCastDuration);
     // Re-define entering object and set up string to inform of trap going off
@@ -68,7 +68,7 @@ void RunTrap(float fDelay)
     string sMessage2    = "Green Gas starts to billow from two vents on the floor!";
     // Gas eminates from these 2 waypoints...........
     location lTrap1     = GetLocation (GetWaypointByTag ("gaswaypt1"));
-    location lTrap2     = GetLocation (GetWaypointByTag ("ActionCastSpellAtLocation"));
+    location lTrap2     = GetLocation (GetWaypointByTag ("gaswaypt2"));
     // The 2 doors that lock you in this area
     object oDoor1       = GetObjectByTag ("GasTrap1");
     object oDoor2       = GetObjectByTag ("GasTrap2");
