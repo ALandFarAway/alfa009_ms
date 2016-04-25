@@ -20,7 +20,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="17146519164829F859E4DB3AD7AE64897CB0AF43" downloadHash="DE9B1C785EB455D95655B2029D2965B5DFDDDE0C" name="alaron q24 hkr ruins 1.trx" dlsize="402026" size="408862" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DD2CF2A7F67E5EE9C2476BBFAB654B917F43BB02" downloadHash="AC90F6D79F3D1B21A9BDA369EC24A7C3AB781F71" name="alaron q24 hkr ruins 1.trx" dlsize="412511" size="418836" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -335,7 +335,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A8EA3EF7DA1EFC29BF9B6BB2D1BD62C3CA925F6B" downloadHash="AC8C4D86FA959FBCE09C209D50BCDDCE13970947" name="gwynneth m34n kings road.trx" dlsize="3986943" size="17148063" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="299394C1B147F3522C278650999D7DBD551FBB55" downloadHash="0A6B3BC3E9FC83382B0321DF4E2B9A1E3B6468C4" name="gwynneth m34n kings road.trx" dlsize="4042871" size="17215337" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -835,7 +835,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B70270C7127BB7CE03DBFA3D2FDFF58D03929FDC" downloadHash="513AC7B904D876D50C80ADAE168BA2AF590FF965" name="alaron s23w rillifane run int.trx" dlsize="477671" size="572225" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7A6D1914F9BB084A2B864EFBF26618FC30CE9C26" downloadHash="2DDEBFD2713DDDE36B9E468A01321CEBC881F462" name="alaron s23w rillifane run int.trx" dlsize="475310" size="570489" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1185,7 +1185,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BB9F4AB22EF0E58922F7FC376FCCD135DA940B83" downloadHash="B7ECC1F1C0FD14D2D004316FC58E690689FADF11" name="alaron s23w rillifanes run.trx" dlsize="1694946" size="11372037" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0EEE0DC8A39BB64C8F987ECE9857B784B0E09100" downloadHash="762859D212DBBA0E9C968D976D51603B57634C92" name="alaron s23w rillifanes run.trx" dlsize="1721201" size="11392074" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
