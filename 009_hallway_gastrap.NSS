@@ -17,6 +17,9 @@
 // "Placeable" faction, which is hostile towards them. Then set the trigger for this trap to
 // faction "Placeable".
 //
+
+#include "acr_trigger_i"
+
 void RunTrap(float fDelay = 0.0);
 void main()
     {
@@ -74,30 +77,31 @@ void RunTrap(float fDelay)
     object oDoor2       = GetObjectByTag ("GasTrap2");
     // Defines invisible object tagged "DoorLocker" to code for use to
     // close the doors
-    object oDoorLocker  = GetObjectByTag("DoorLocker");
+   // object oDoorLocker  = GetObjectByTag("DoorLocker");
     // This sets off gas at the 2 waypoints
     DelayCommand(fDelay, ApplyEffectAtLocation ( DURATION_TYPE_TEMPORARY, eTrap,
         lTrap1, RoundsToSeconds ( nCastDuration)));
     DelayCommand(fDelay, ApplyEffectAtLocation ( DURATION_TYPE_TEMPORARY, eTrap,
         lTrap2, RoundsToSeconds( nCastDuration)));
-    SetLocalInt(oDoorLocker, "Triggered", 1);
-    // Tells the invisible object to close doors
-    DelayCommand(fDelay, AssignCommand(oDoorLocker, ActionCloseDoor(oDoor1)));
-    DelayCommand(fDelay, AssignCommand(oDoorLocker, ActionCloseDoor(oDoor2)));
+   	AssignCommand(oDoor1, ActionCloseDoor(oDoor1));
+		SetLocked(oDoor1, TRUE);	
+		AssignCommand(oDoor2, ActionCloseDoor(oDoor2));
+		SetLocked(oDoor2, TRUE);
     // Has invisible object tell PCs about the gas vents opening
     DelayCommand(fDelay, AssignCommand(oPC, SpeakString(sMessage2, TALKVOLUME_TALK)));
     // Locks both the now Closed doors trapping the hapless PC's in with the Gas MUHAHAHA
     DelayCommand(fDelay, SetLocked(oDoor1, TRUE));
     DelayCommand(fDelay, SetLocked(oDoor2, TRUE));
     // If there was a casting delay then use the delay comm with both delays
-    if (GetLocalInt(oDoorLocker, "NoDelay") != 1)
-    {   // Ok this will delay 150secs long enough for casting delay and fdelay
+
+ // if (GetLocalInt(oDoorLocker, "NoDelay") != 1)
+    //{   // Ok this will delay 150secs long enough for casting delay and fdelay
         // Then the int will be set to 0 and the trap will reset.
-        DelayCommand((fDelay + fCastDur), SetLocalInt(oDoorLocker, "Triggered", 0));
-    }
+       // DelayCommand((fDelay + fCastDur), SetLocalInt(oDoorLocker, "Triggered", 0));
+ // }
     // If there was not a delay just use the length of the gas as the delay
-    else
-    {
-        DelayCommand(fCastDur, SetLocalInt(oDoorLocker, "Triggered", 0));
-    }
+ // else
+ //{
+   //   DelayCommand(fCastDur, SetLocalInt(oDoorLocker, "Triggered", 0));
+  // }
 }

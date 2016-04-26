@@ -1805,7 +1805,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CED62EA1B9319A960D2F277F06E543E382682183" downloadHash="F01DB1A6CC6052C89EF862C2C9792ECCF4349F98" name="alaron r26 stirgewick plains.trx" dlsize="3441632" size="21404155" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C110BE5CF42D6A568F4A740A3A447E37000AD07C" downloadHash="086E6CC6EF08867BCAF420AC253CA9B74015C649" name="alaron r26 stirgewick plains.trx" dlsize="3452572" size="21414863" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1821,6 +1821,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="54A73A939A7101FB9844A8CAD822F7792BB899F9" downloadHash="BFE8F15E475C57470EF740A3015D5FE5A2143CE5" name="alaron q24 hkr ruins 2.trx" dlsize="356983" size="362222" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="E5F99E39DFF8CD866E5EBD5362EC13EA423162EA" downloadHash="BECF65792BF90435B865DBDF78287755293772CC" name="alaron r26 stirgewick ruins1.trx" dlsize="24073" size="24171" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>

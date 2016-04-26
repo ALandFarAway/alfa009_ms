@@ -30,6 +30,6 @@ void main()
     DestroyObject(oSelf, 3.0);
 
     // Spawn "resref here".
-    DelayCommand(5.0, AssignCommand(CreateObject(OBJECT_TYPE_CREATURE, "abr_cr_un_skeleton_icy", GetLocation(oPC)),
+    DelayCommand(1.0, AssignCommand(CreateObject(OBJECT_TYPE_CREATURE, "abr_cr_un_skeleton_icy", GetLocation(oPC)),
                                     DetermineCombatRound(oPC)));
 }

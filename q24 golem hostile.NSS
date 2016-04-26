@@ -34,7 +34,7 @@
 
 #include "nw_i0_generic"
 
-	
+#include "acr_trigger_i"	
 
 void main(string sTargetTag = "009_cr_q24_golem", string sShout = "Intruders Die!")
 

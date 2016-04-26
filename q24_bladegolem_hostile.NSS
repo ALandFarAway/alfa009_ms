@@ -6,7 +6,6 @@
 
 #include "ginc_param_const"
 #include "nw_i0_generic"
-#include "acr_creature_i"
 #include "acr_trigger_i"
 
 
