@@ -1,18 +1,7 @@
-// ga_bb_go_hostile
 
-// By Brendan Bellina, Feb 2009
 
 /*
 
-	Based on x0_c2_go_hostile, which makes a creature hostile and killable
-
-	Useful for hostiles that you want to have temporarily friendly --
-
-	put them in a non-hostile faction, then use this to make them attack.
-
-	Also unsets the plot flag and immortal flag.
-
-	
 
 	Parameters:
 
@@ -35,9 +24,10 @@
 #include "nw_i0_generic"
 
 #include "acr_trigger_i"	
+ 
 
-void main(string sTargetTag = "009_cr_q24_golem", string sShout = "Intruders Die!")
-
+void main(string TargetTag = "009_cr_q24_golem")
+//void main(string sTargetTag = "009_cr_q24_golem", string sShout = "Intruders Die!")
 {
 
     // Get the creature who triggered this event.
@@ -54,11 +44,11 @@ void main(string sTargetTag = "009_cr_q24_golem", string sShout = "Intruders Die
 
 //	object oPC =(GetPCSpeaker()==OBJECT_INVALID?OBJECT_SELF:GetPCSpeaker());
 
-  object oTarget = GetTarget(sTargetTag, TARGET_OWNER);
+  object oTarget = GetTarget(TargetTag, TARGET_OWNER);
 
-	if (sShout == "") { sShout = GetLocalString(oTarget, "AttackShout"); }
+//	if (sShout == "") { sShout = GetLocalString(oTarget, "AttackShout"); }
 
-	if (sShout != "") { AssignCommand(oTarget, ActionSpeakString(sShout)); }
+//if (sShout != "") { AssignCommand(oTarget, ActionSpeakString(sShout)); }
 
 	SetImmortal(oTarget, FALSE);
 
@@ -70,7 +60,7 @@ void main(string sTargetTag = "009_cr_q24_golem", string sShout = "Intruders Die
 
 	DelayCommand(0.5, DetermineCombatRound(oPC));
 
-	DelayCommand(0.7, AssignCommand(oTarget, ActionSpeakString("NW_ATTACK_MY_TARGET", TALKVOLUME_SILENT_TALK)));
+	//DelayCommand(0.7, AssignCommand(oTarget,("NW_ATTACK_MY_TARGET")));
 
 }
 

@@ -340,7 +340,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E8919996D7F1D0B33A67F8DCC3632485637BFBD4" downloadHash="D6581315F2F13CF497AB2441A7B88E10A35B4DD1" name="alaron q22 c callidyrr docks n.trx" dlsize="3080374" size="19979176" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0E7971138E28B88A07FFD8544604AB4E560B6191" downloadHash="3B763DB801809A84C5746AC8759BA5276BC0DD2B" name="alaron q22 c callidyrr docks n.trx" dlsize="3062348" size="19963186" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1805,7 +1805,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C110BE5CF42D6A568F4A740A3A447E37000AD07C" downloadHash="086E6CC6EF08867BCAF420AC253CA9B74015C649" name="alaron r26 stirgewick plains.trx" dlsize="3452572" size="21414863" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A031B081EF10A7CEF53093D18E9EE94C1A8E09B7" downloadHash="B7B00E3CF5708D1503256F39091EA868620F22F9" name="alaron r26 stirgewick plains.trx" dlsize="3463042" size="21414063" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1825,7 +1825,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E5F99E39DFF8CD866E5EBD5362EC13EA423162EA" downloadHash="BECF65792BF90435B865DBDF78287755293772CC" name="alaron r26 stirgewick ruins1.trx" dlsize="24073" size="24171" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="333293CCC25A5F9275E87E0F538BA316E76A6474" downloadHash="19B10DA5BEA92B11A9A1F04834105F5D90D64CE9" name="alaron r26 stirgewick ruins1.trx" dlsize="127976" size="398099" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
