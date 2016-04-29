@@ -17,7 +17,7 @@
 // "Placeable" faction, which is hostile towards them. Then set the trigger for this trap to
 // faction "Placeable".
 //
-
+#include "acr_hazards_i"
 #include "acr_trigger_i"
 
 void RunTrap(float fDelay = 0.0);

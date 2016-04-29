@@ -1770,7 +1770,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BD0C5A2AED0DB68297600A2513C6C3EB36B6008D" downloadHash="F2E21AC61E32874D99EE91ED188E914749EE4BC3" name="evil_ruins_level_2.trx" dlsize="156237" size="157926" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4D6873480242429AC1493A005DD701A0D913676A" downloadHash="EDAF118C2CCD83F61A543E724D4FD6510D0E58EE" name="evil_ruins_level_2.trx" dlsize="156240" size="157928" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1820,12 +1820,17 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="54A73A939A7101FB9844A8CAD822F7792BB899F9" downloadHash="BFE8F15E475C57470EF740A3015D5FE5A2143CE5" name="alaron q24 hkr ruins 2.trx" dlsize="356983" size="362222" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0DD3774D2DFE77E208B1D37A6780C4AA3E91AC39" downloadHash="661FA5B7AE0276C0ED7C03BE239FEC2EE740A303" name="alaron q24 hkr ruins 2.trx" dlsize="369945" size="375480" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="333293CCC25A5F9275E87E0F538BA316E76A6474" downloadHash="19B10DA5BEA92B11A9A1F04834105F5D90D64CE9" name="alaron r26 stirgewick ruins1.trx" dlsize="127976" size="398099" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="456A0F4710772BB93301FE8DA3FF145EB3789E12" downloadHash="091459F8CC881DE216516A1B3C7AAE2A3DF5BC8D" name="alaron r26 stirgewick ruins1.trx" dlsize="129889" size="400116" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="754146691EA68EC35760153B934AAFAE96C01103" downloadHash="07D47D85E8A86EF91447CCA8E492D46C30D006A7" name="alaron r26 stirgewick ruins1-2.trx" dlsize="406885" size="413965" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>

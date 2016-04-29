@@ -25,11 +25,10 @@ void main()
 
     // Destroy an object (not fully effective until this script ends).
 
-    eVFX = EffectVisualEffect(VFX_FNF_SMOKE_PUFF);
-    ApplyEffectToObject(DURATION_TYPE_INSTANT, eVFX, oSelf);
-    DestroyObject(oSelf, 3.0);
-
     // Spawn "resref here".
     DelayCommand(1.0, AssignCommand(CreateObject(OBJECT_TYPE_CREATURE, "abr_cr_un_skeleton_icy", GetLocation(oPC)),
                                     DetermineCombatRound(oPC)));
+	 eVFX = EffectVisualEffect(VFX_FNF_SMOKE_PUFF);
+    ApplyEffectToObject(DURATION_TYPE_INSTANT, eVFX, oSelf);								
+    DestroyObject(oSelf, 3.0);
 }

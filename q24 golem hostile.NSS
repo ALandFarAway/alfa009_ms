@@ -56,7 +56,7 @@ void main(string TargetTag = "009_cr_q24_golem")
 
 	ChangeToStandardFaction(oTarget, STANDARD_FACTION_HOSTILE);
 
-	AdjustReputation(oPC, oTarget, -100);
+	//AdjustReputation(oPC, oTarget, -100);
 
 	DelayCommand(0.5, DetermineCombatRound(oPC));
 

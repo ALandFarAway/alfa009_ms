@@ -4,7 +4,7 @@
 //     Filename : acf_area_onenter.nss
 //      Version : 0.1
 //         Date : 7/25/06
-//       Author : Ronan
+//       Author : Zelknof
 //
 //  Local Variable Prefix =
 //
@@ -163,9 +163,10 @@ object GetCreatureArrowTarget(object oTarget)
 		{
 			vector vChkPos = GetPosition(oChecking);
 			vector vTargPos = GetPosition(oTarget);
-			if(fabs(vChkPos.x - vTargPos.x) > 9.25f)
+			if(fabs(vChkPos.x - vTargPos.x) < 9.25f)
+		//	if(fabs(vChkPos.x - vTargPos.x) < 1.25f)
 			{
-				if(vChkPos.y > 3.50f && vChkPos.y <61.5f && vChkPos.y > fCurrentRetY)
+				if(vChkPos.y > 4.0f && vChkPos.y <126.5f && vChkPos.y > fCurrentRetY)
 			//	if(vChkPos.y > 12.0f && vChkPos.y <61.5f && vChkPos.y > fCurrentRetY)
 				{
 					oRetVal = oChecking;
