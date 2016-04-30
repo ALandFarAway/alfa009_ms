@@ -1825,12 +1825,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="456A0F4710772BB93301FE8DA3FF145EB3789E12" downloadHash="091459F8CC881DE216516A1B3C7AAE2A3DF5BC8D" name="alaron r26 stirgewick ruins1.trx" dlsize="129889" size="400116" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="CAF5629FB1C569C91C71D67AAC524BBB74676F9A" downloadHash="77E506DAD444C6C674F628B9E61BEF420879F01D" name="alaron r26 stirgewick ruins1.trx" dlsize="140289" size="410428" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="754146691EA68EC35760153B934AAFAE96C01103" downloadHash="07D47D85E8A86EF91447CCA8E492D46C30D006A7" name="alaron r26 stirgewick ruins1-2.trx" dlsize="406885" size="413965" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0F913EF6C8822BAA9E519269C96457CDEA57529D" downloadHash="B802D6007895A901CABB2AD516249A1B748A8801" name="alaron r26 stirgewick ruins1-2.trx" dlsize="408700" size="415341" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
