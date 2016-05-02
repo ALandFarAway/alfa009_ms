@@ -1830,7 +1830,17 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="344A266C15DC0B00D22586F22705DB2120EDABB6" downloadHash="2A34F937C940EC979458258FCAF4BA717AF56DDA" name="alaron r26 stirgewick ruins1-2.trx" dlsize="433690" size="440338" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="54A163E05D895712CD71ABEC37D3366D938D1A4E" downloadHash="7665C347A0D23B2FF0FD0826636BFA4947D159DF" name="alaron r26 stirgewick ruins1-2.trx" dlsize="428753" size="435375" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="578335B39DA1AAC4E42EF9A64B19CAFE4831DB39" downloadHash="3C7734C89D5F2363AC8028F06C3A8C3BB62C9598" name="gwynneth l29 strange ruins 1-1.trx" dlsize="144710" size="1004232" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="698A751C1E0DCF7D1CDD301B318B6060352581D6" downloadHash="57AC7B2F0833D4B926B4240A852FF11651035503" name="alaron r26 stirgewick ruins1-1.trx" dlsize="134393" size="403635" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
