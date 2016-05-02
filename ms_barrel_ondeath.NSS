@@ -47,7 +47,7 @@
 	Now you can place the items.  Add fire, and stand back and watch the fun!
 */
 
-//const string sDebris = "plc_mr_pilewd";  // Change tag to set new debris placeable
+const string sDebris = "plc_mr_pilewd";  // Change tag to set new debris placeable
 const float fBarrelTimeDelay = 0.5;	   // Changing this changes the base time delay
 
 void main()
@@ -68,8 +68,8 @@ void main()
 	// Default to 1 Damage Die if none set
 	nDice = nDice >= 1 ? nDice : 1;
 
-	effect eElecDam   = EffectDamage(d10(nDice), DAMAGE_TYPE_ELECTRICAL);
-//	effect ePierceDam = EffectDamage(d6(nDice), DAMAGE_TYPE_PIERCING);
+	effect eFireDam   = EffectDamage(d6(nDice), DAMAGE_TYPE_FIRE);
+	effect ePierceDam = EffectDamage(d6(nDice), DAMAGE_TYPE_PIERCING);
 
 	// Set Knockdown duration based on blast size
 	float fDuration = IntToFloat(nDice) * 3.0;;
@@ -89,41 +89,41 @@ void main()
 		default: fRadius = RADIUS_SIZE_LARGE;		break; 
     }
 	
-	//effect eExplosion2 = EffectNWN2SpecialEffectFile( "sp_fire_hit.sef", oBarrel);
+	effect eExplosion2 = EffectNWN2SpecialEffectFile( "sp_fire_hit.sef", oBarrel);
 	
 	// If more than 4d6, BIG explosion and debris drops
     if (nDice >= 4)
 	{
 	    
-        //eExplosion2 = EffectNWN2SpecialEffectFile( "sp_fireball_hit_aoe.sef", oBarrel);
-       // object oNewDebris = CreateObject(OBJECT_TYPE_PLACEABLE, sDebris, lBlastPoint, FALSE); 
-       // SetPlotFlag(oNewDebris, TRUE);
+        eExplosion2 = EffectNWN2SpecialEffectFile( "sp_fireball_hit_aoe.sef", oBarrel);
+        object oNewDebris = CreateObject(OBJECT_TYPE_PLACEABLE, sDebris, lBlastPoint, FALSE); 
+        SetPlotFlag(oNewDebris, TRUE);
 		
 		// This is for Markshire's cleaning script
 		// Leaving it in will not effect the object
 		// unless you use the same variable for 
 		// something else.
-	   // SetLocalInt(oNewDebris, "CLEANUP", 1);
+	    SetLocalInt(oNewDebris, "CLEANUP", 1);
       
 		//Debug("Effect Object= " + ObjectToString(oBarrel));
 	}
 	
 	// Fire the blast
-//	ApplyEffectAtLocation(DURATION_TYPE_INSTANT, eExplosion2, lBlastPoint);
+	ApplyEffectAtLocation(DURATION_TYPE_INSTANT, eExplosion2, lBlastPoint);
 
 	// Look at all the Creatures, Placeables and Doors in the area and damage them  
-	object oVictim = GetFirstObjectInShape(SHAPE_SPHERE, fRadius, lBlastPoint, TRUE, OBJECT_TYPE_CREATURE); 
+	object oVictim = GetFirstObjectInShape(SHAPE_SPHERE, fRadius, lBlastPoint, TRUE, OBJECT_TYPE_CREATURE | OBJECT_TYPE_PLACEABLE | OBJECT_TYPE_DOOR); 
 	
 	while (GetIsObjectValid(oVictim)) 
     { 
 		// Set up delays and damage types
-	fBangDelay = fBarrelTimeDelay + (GetDistanceBetween(oBarrel, oVictim)/10.0);
+		fBangDelay = fBarrelTimeDelay + (GetDistanceBetween(oBarrel, oVictim)/10.0);
 		
 		// If it's an environment object, leave it alone, otherwise BANG with Delay
-	if (GetPlotFlag(oVictim) == FALSE)	
+		if (GetPlotFlag(oVictim) == FALSE)	
         {
-		DelayCommand(fBangDelay, ApplyEffectToObject(DURATION_TYPE_INSTANT, eElecDam , oVictim)); 
-		//	DelayCommand(fBangDelay, ApplyEffectToObject(DURATION_TYPE_INSTANT, ePierceDam , oVictim));
+			DelayCommand(fBangDelay, ApplyEffectToObject(DURATION_TYPE_INSTANT, eFireDam , oVictim)); 
+			DelayCommand(fBangDelay, ApplyEffectToObject(DURATION_TYPE_INSTANT, ePierceDam , oVictim));
 			
 			// If the Victim is a Creature knock em down
 			// Blast has to be bigger then 2 to work 
@@ -135,12 +135,12 @@ void main()
 			// Again if 4d6 or more, BIG bang		  
 			if (nDice >= 4)
 			{		  
-				ApplyEffectToObject(DURATION_TYPE_TEMPORARY, EffectNWN2SpecialEffectFile("fx_elec_lg"), oVictim, 3.0); 
+				ApplyEffectToObject(DURATION_TYPE_TEMPORARY, EffectNWN2SpecialEffectFile("fx_fire_lg"), oVictim, 3.0); 
 			}  
 			// Again, if 2d6 or less small bang
 			else
 			{
-				ApplyEffectToObject(DURATION_TYPE_TEMPORARY, EffectNWN2SpecialEffectFile("sfx_elec"), oVictim, 3.0); 	  
+				ApplyEffectToObject(DURATION_TYPE_TEMPORARY, EffectNWN2SpecialEffectFile("sfx_fire"), oVictim, 3.0); 	  
 			}	 
 		}  
 		// Get next victim!
