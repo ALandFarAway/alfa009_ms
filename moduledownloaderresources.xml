@@ -1830,7 +1830,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8006F25F00D140682AA0385F1AFA91FA5C7C8697" downloadHash="AC26F122CF7ECA5FE652E31742957358DEB05DB8" name="alaron r26 stirgewick ruins1-2.trx" dlsize="426812" size="433570" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0C650DAD849F3A03BEF3CEF935DF855F3A818013" downloadHash="FB68E51F894E173152995C0BFBB6579F88190CE7" name="alaron r26 stirgewick ruins1-2.trx" dlsize="434167" size="440782" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
