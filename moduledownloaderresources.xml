@@ -790,7 +790,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A53D2A39CC455F2A30A7758B5CD8C877DFC010CB" downloadHash="94DC9E215F743BC96CA9F9E0760ADF943F410928" name="alaron q22_callidyrr temples int.trx" dlsize="363202" size="1085922" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B69A4E5E6FAC90A3331A8AC73B7CD1001F8B82A0" downloadHash="0C3C9A8AE23BBC73EC3E2B1F9B901EE54798E3FF" name="alaron q22_callidyrr temples int.trx" dlsize="383489" size="1105238" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1775,7 +1775,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3E445AC2BEA5121CE9AA59D4E64B174D6B92B3DA" downloadHash="8CE1DAD38D84546670CD4D67AC6A39613A2A42F7" name="snowdown s34 temple illmater.trx" dlsize="5241" size="5222" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3272BE7C6819472B164D40D51D30E0091862A97E" downloadHash="8B3B839BF72C991B0C4E362D10553482438C6D14" name="snowdown s34 temple illmater.trx" dlsize="16244" size="16307" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1830,7 +1830,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0C650DAD849F3A03BEF3CEF935DF855F3A818013" downloadHash="FB68E51F894E173152995C0BFBB6579F88190CE7" name="alaron r26 stirgewick ruins1-2.trx" dlsize="434167" size="440782" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5B7AB666DDB5E294DA77F9B02CE3B97065E99756" downloadHash="1593F0C09697B5818080DD3525191652F446A0DF" name="alaron r26 stirgewick ruins1-2.trx" dlsize="435602" size="442314" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
