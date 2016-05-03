@@ -295,7 +295,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="44F7CCAF9B8FF7EFDFE5157AB0603347DA75671D" downloadHash="4D25A19C0B5E35EA80ADD5FE93AAC49C33DCD430" name="alaron q22 callidyrr int 2.trx" dlsize="324798" size="730125" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C2CFEAFCE89BA54D777C3D172EE7235D1AE97F33" downloadHash="DA50E1D12557345D8B421D650A434471E66C1AA3" name="alaron q22 callidyrr int 2.trx" dlsize="324352" size="730114" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1830,7 +1830,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5B7AB666DDB5E294DA77F9B02CE3B97065E99756" downloadHash="1593F0C09697B5818080DD3525191652F446A0DF" name="alaron r26 stirgewick ruins1-2.trx" dlsize="435602" size="442314" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="660B3DCBCE9F5A2CFE350633799A15ADCD90E35E" downloadHash="3187AA0B38354A1D2DC80B9CEDCC7A661091EE87" name="alaron r26 stirgewick ruins1-2.trx" dlsize="435591" size="442314" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1841,6 +1841,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="2196564602CA847A9F54FEAFB4F568AD1F8820AD" downloadHash="3A79953A1F2C85D2150EAB709643F30DB5BED751" name="alaron r26 stirgewick ruins1-1.trx" dlsize="134388" size="403635" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="5B6743849A5017EE6514B370F337790290AE7268" downloadHash="616766EFA20A68DDA0CB27B02648A63D133C3A57" name="snowdown s34 temple ilmater.trx" dlsize="16227" size="16285" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
