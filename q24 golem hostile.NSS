@@ -63,7 +63,7 @@ void main(string sTargetTag = "009_cr_q24_golem", string sShout = "Death awaits"
 }
 
 
-*/
+/
 	#include "x0_i0_partywide"
 #include "nw_i0_generic"
 
@@ -90,4 +90,27 @@ void main()
     // Make "009_cr_q24_golem" dislike the PC's party more.
     oTarget = GetObjectByTag("009_cr_q24_golem");
     AdjustReputationWithFaction(oPC, oTarget, -100);
+}
+
+*/
+#include "nw_i0_generic"
+
+void main()
+{
+ object oTarget;
+
+    // Get the creature who triggered this event.
+    object oPC = GetEnteringObject();
+
+    // Only fire for (real) PCs.
+    if ( !GetIsPC(oPC)  ||  GetIsDMPossessed(oPC) )
+        return;
+
+    SetPlotFlag(OBJECT_SELF, FALSE);
+    SetImmortal(OBJECT_SELF, FALSE);
+    ChangeToStandardFaction(OBJECT_SELF, STANDARD_FACTION_HOSTILE);
+    AdjustReputation(GetPCSpeaker(), OBJECT_SELF, -100);
+    DelayCommand(0.5, DetermineCombatRound(GetPCSpeaker()));
+    DelayCommand(0.7,
+                 SpeakString ("NW_ATTACK_MY_TARGET", TALKVOLUME_SILENT_TALK));
 }
