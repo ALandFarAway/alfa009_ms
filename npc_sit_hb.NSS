@@ -9,6 +9,8 @@
 #include "ginc_misc"
 #include "ginc_math"
 #include "ginc_wp"
+#include "acr_creature_i"
+
 
 const string CURR_ANIM = "CurrAnim";
 const int ANIM_IDLE = 0;
