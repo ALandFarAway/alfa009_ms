@@ -20,7 +20,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="93C5E171FC9FDADF3647D2B7F63A18C19FABA309" downloadHash="2B3AED459A7573F406A256BDE752FF7949745BF3" name="alaron q24 hkr ruins 1.trx" dlsize="455968" size="594320" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B977A19B058F6946B65B251884C222F27DB001D2" downloadHash="9D206F38F5415FFF18D6DAF89232B95FE476AE78" name="alaron q24 hkr ruins 1.trx" dlsize="483139" size="622058" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -625,7 +625,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D6CF5DDEFB891D54EBD3FFBB87209348023F9043" downloadHash="74BFF26DA3D1C437C503D3403F855EF738B0C855" name="skaug port catacombs.trx" dlsize="892019" size="912753" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="79744C6598A561EAA62860E7BFB73FA9AE28B2BC" downloadHash="23CBF8C3D461796B5DBBBF28CD1CF280EF6E6A3D" name="skaug port catacombs.trx" dlsize="898952" size="918684" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -665,7 +665,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BFAB29C02C4F311D9BF37C9A956050B4C54E40FD" downloadHash="B719E2ED1DC5EDB3E268FAFAB0BDA789006F16BE" name="underdark area f skullport.trx" dlsize="370570" size="1190795" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="971DA5CED6A32DB016D7C1D48F929687CCD2FE6C" downloadHash="E4C50FA437CF24FA2E1E0829A07FC1AB106F36D8" name="underdark area f skullport.trx" dlsize="374580" size="1191780" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1830,7 +1830,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BD57C47DE394A2089E31DE70138EEA995DE9F07B" downloadHash="768F239B5557E3A7B91467BB5BB33E35E6BB7C89" name="alaron r26 stirgewick ruins1-2.trx" dlsize="426188" size="432999" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8366EA8247E13CA75CEFC570C415E443C18EE7D0" downloadHash="C8E965488F7342FF1579D4700EE8EB2D4B7A4C6C" name="alaron r26 stirgewick ruins1-2.trx" dlsize="462385" size="469607" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1840,12 +1840,27 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2196564602CA847A9F54FEAFB4F568AD1F8820AD" downloadHash="3A79953A1F2C85D2150EAB709643F30DB5BED751" name="alaron r26 stirgewick ruins1-1.trx" dlsize="134388" size="403635" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B2126D1E011EC80D45377EAFDD8688C72196BFAF" downloadHash="88B55048E27020C93A8F75091228037DBA28D2E0" name="alaron r26 stirgewick ruins1-1.trx" dlsize="137554" size="405706" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="5B6743849A5017EE6514B370F337790290AE7268" downloadHash="616766EFA20A68DDA0CB27B02648A63D133C3A57" name="snowdown s34 temple ilmater.trx" dlsize="16227" size="16285" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="FCF4132FD4DE5F54C983839C95E137117062FAB5" downloadHash="EA82B5FA024F70B3F17961A168830BE780ADB9CC" name="ruathym c3 sea caves.trx" dlsize="189332" size="1771907" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="03C7D7E137BCB69A1C655EA2C724C42C0C0CA785" downloadHash="497368CE030736FD1D4534B3B37F49215626CD8B" name="nelanther drachenshore  cave.trx" dlsize="714880" size="729069" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="7408BF715C78DD13AC93A47ACB9CC053306232C6" downloadHash="523FAFC62FC71299FCC43F4383A09B01F1067E2E" name="ruathym  b3_c3.trx" dlsize="969302" size="13450771" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
