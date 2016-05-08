@@ -42,8 +42,8 @@ void ClimbOnUsed() {
 	Climb(
 		GetLastUsedBy(),
 		GetLocalInt(OBJECT_SELF,"RONAN_CLIMB_DC"),
-		GetObjectByTag(GetLocalString(OBJECT_SELF,"RONAN_CLIMB_DEST")),
+		GetNearestObjectByTag(GetLocalString(OBJECT_SELF,"RONAN_CLIMB_DEST")),
 		GetLocalFloat(OBJECT_SELF,"RONAN_CLIMB_HEIGHT"),
-		GetObjectByTag(GetLocalString(OBJECT_SELF,"RONAN_CLIMB_FALL_DEST"))
+	    GetNearestObjectByTag(GetLocalString(OBJECT_SELF,"RONAN_CLIMB_FALL_DEST"))
 	);
 }

@@ -1,5 +1,5 @@
 // 'plc_explode'
-// place in the ondamaged 
+// place in the ondamaged,on melee attacked or on spell cast  
 
 void main()
 {

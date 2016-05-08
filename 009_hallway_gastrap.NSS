@@ -26,7 +26,7 @@ void main()
     object oPC          = GetEnteringObject();
     object oDoorLocker  = GetObjectByTag("DoorLocker");
     object oKeyCheck;
-    string sMessage1    = "The Skull Key you have glows bright green and humms softly";
+    string sMessage1    = "The Key you have glows bright green and humms softly";
     float fDelay        = 30.0; // Ammount in seconds to wait before setting off
                                 // trap for PC or Monster with key
     // This will keep the trap from being set off again while it is set off and while
@@ -34,7 +34,7 @@ void main()
     if ((GetLocalInt(oDoorLocker, "Triggered") != 1) || // This is an "OR" this || that
         GetLocalInt(oDoorLocker, "HasKey") != 1)        // If either side is true it will
     {                                                   // run the "if" line
-        oKeyCheck = GetItemPossessedBy(oPC, "GasTrapKey");
+        oKeyCheck = GetItemPossessedBy(oPC, "009_it_plot_r26_ruin1-2");
         if (oKeyCheck != OBJECT_INVALID)  // PC or Monster has key
         {
             SetLocalInt(oDoorLocker, "HasKey", 1);
@@ -63,7 +63,7 @@ void RunTrap(float fDelay)
     // "NW_T1_GasMinoC1"
     effect eTrap        = EffectAreaOfEffect (AOE_PER_FOGACID, "NW_T1_GasStrC1");
     // Gas stays for 6 seconds times this number
-    int nCastDuration   = 40;
+    int nCastDuration   = 20;
     // Float for delaying of the int
     float fCastDur      = IntToFloat(nCastDuration);
     // Re-define entering object and set up string to inform of trap going off

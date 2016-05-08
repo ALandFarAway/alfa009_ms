@@ -1,44 +1,91 @@
-void main()
-{
-effect eDam;
-object oPitvictim = GetEnteringObject(); //That's the PC who might fall
-location lLoc = GetLocation(oPitvictim); //The initial place of the falling PC
-object oWay = GetNearestObjectByTag("DST_RUGPIT"); //That's where he is going to land
-effect eRock = EffectVisualEffect(137);
-effect eDust = EffectVisualEffect(VFX_IMP_DUST_EXPLOSION);
-
-if(GetIsPC(oPitvictim) == TRUE) {
-
-
-AssignCommand (oPitvictim, PlaySound("as_na_rockfalsm4"));
-ApplyEffectAtLocation( DURATION_TYPE_INSTANT, eRock, lLoc, 4.0 );
-int rSave = ReflexSave(oPitvictim, 22, SAVING_THROW_TYPE_TRAP, OBJECT_SELF);
-
-if (rSave==0)
-
+    //Written by kevL on the bioware scripting forums
+	// Playce a waypoint w/tag "DST_DST_RUGPIT in the area where the PC would fall into
+    //place another waypoint w/ tag "DST_RUGPIT_START" where the PC should warp to if either save is successful, 
+    
+	#include "nw_i0_spells"
+     
+    void play(object oPC, string sAnimation);
+    void finish(object oPC);
+    void saved(object oPC, string sWarning);
+     
+    //
+    void main()
     {
-    AssignCommand(oPitvictim, ActionJumpToLocation(GetLocation(oWay)));
-    FloatingTextStringOnCreature("The rug was an illusion and you've fallen into a pit!", oPitvictim, FALSE);
-    PlayVoiceChat(13 + d3(), oPitvictim);
-    eDam = EffectDamage(d6(2), DAMAGE_TYPE_BLUDGEONING); //The damage roll
-    DelayCommand(1.0, ApplyEffectToObject(DURATION_TYPE_INSTANT, eDam, oPitvictim));
-
-    ApplyEffectToObject(DURATION_TYPE_INSTANT, EffectVisualEffect(VFX_FNF_SCREEN_SHAKE), oPitvictim);
-    AssignCommand(oPitvictim, ActionPlayAnimation(ANIMATION_LOOPING_DEAD_BACK, 1.0, 10.0));
-//      AssignCommand(oPitvictim, SetCommandable(0));
-//      DelayCommand(10.0, SetCommandable(1, oPitvictim));
-    FloatingTextStringOnCreature("ouch...", oPitvictim, FALSE);
-    ApplyEffectToObject(DURATION_TYPE_INSTANT,eDust,oPitvictim);
-    AssignCommand (oPitvictim, PlaySound("as_na_rockfalsm4"));
-    DelayCommand(1.0, ApplyEffectToObject(DURATION_TYPE_INSTANT, EffectVisualEffect(VFX_FNF_SCREEN_SHAKE), oPitvictim));
-    DelayCommand(1.5, ApplyEffectToObject(DURATION_TYPE_INSTANT,eDust,oPitvictim));
-    DelayCommand(2.0, AssignCommand (oPitvictim, PlaySound("as_na_rockfalsm1")));
+        object oPC = GetEnteringObject();
+     
+        if (GetIsPC(oPC))
+        {
+            // Show spell-resistance icon if PC's immunity is triggered:
+            if (!MySavingThrow(SAVING_THROW_WILL, oPC, 22, SAVING_THROW_TYPE_MIND_SPELLS))
+            {
+                // Do not show resistance icon:
+                if (!ReflexSave(oPC, 22, SAVING_THROW_TYPE_TRAP))
+                {
+                    // Note that several of these AssignCommands() are required to maintain an unhindered sequence.
+                    AssignCommand(oPC, ClearAllActions());
+     
+                    object oWp = GetNearestObjectByTag("DST_RUGPIT");
+                    AssignCommand(oPC, JumpToObject(oWp));
+     
+                    AssignCommand(oPC, SpeakString("The rug is an illusion and you've fallen into a pit!"));
+                    AssignCommand(oPC, DelayCommand(2.9, SpeakString("ouch...")));
+     
+                    AssignCommand(oPC, PlaySound("thud")); // should change this to a "thud"
+     
+                    effect eBludgeon = EffectDamage(d6(2), DAMAGE_TYPE_BLUDGEONING);
+                    ApplyEffectToObject(DURATION_TYPE_INSTANT, eBludgeon, oPC);
+     
+                    effect eDust = EffectNWN2SpecialEffectFile("fx_wooden_explosion");
+                    ApplyEffectToObject(DURATION_TYPE_INSTANT, eDust, oPC);
+     
+                    AssignCommand(oPC, play(oPC, "pronedamageB"));
+     
+                    int iVoice = Random(3);
+                    switch (iVoice)
+                    {
+                        case 0: iVoice = VOICE_CHAT_PAIN1; break;
+                        case 1: iVoice = VOICE_CHAT_PAIN2; break;
+                        case 2: iVoice = VOICE_CHAT_PAIN3;
+                    }
+                    AssignCommand(oPC, DelayCommand(0.23, PlayVoiceChat(iVoice, oPC)));
+                    // The voice-chat won't play if its delay is too short; likely a conflict with PlaySound() above.
+     
+                    DelayCommand(7.6, finish(oPC));
+                    AssignCommand(oPC, SetCommandable(FALSE, oPC));
+                }
+                else // saved vs Reflex!
+                {
+                    saved(oPC, "The rug conceals a pit.");
+                }
+            }
+            else // saved vs Mind Spells!
+            {
+                saved(oPC, "The rug is an illusion.");
+            }
+        }
     }
-
-else
+     
+    //
+    void play(object oPC, string sAnimation)
     {
-    FloatingTextStringOnCreature("You've managed to avoid falling into a pit!", oPitvictim, FALSE);
-   DelayCommand(2.0, PlayVoiceChat(VOICE_CHAT_CUSS, oPitvictim));
+        PlayCustomAnimation(oPC, sAnimation, TRUE);
     }
+     
+    //
+    void finish(object oPC)
+    {
+        SetCommandable(TRUE, oPC);
+        PlayCustomAnimation(oPC, "%", TRUE); // idle
     }
-}
+     
+    //
+    void saved(object oPC, string sWarning)
+    {
+        AssignCommand(oPC, ClearAllActions());
+     
+        AssignCommand(oPC, SpeakString(sWarning));
+        AssignCommand(oPC, PlayVoiceChat(VOICE_CHAT_CUSS, oPC));
+     
+        object oWp = GetNearestObjectByTag("DST_RUGPIT_START");
+        AssignCommand(oPC, JumpToObject(oWp));
+    }
