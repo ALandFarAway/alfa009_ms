@@ -7,7 +7,7 @@ void main()
 	object oSelf = OBJECT_SELF;
 	object oPC = GetLastUsedBy();
 	int GetPCHealth = GetCurrentHitPoints(oPC);
-	int GetDeductedHealth = GetPCHealth/20;
+	int GetDeductedHealth = GetPCHealth/25;
 	
 	if(GetLocalInt(oSelf, "TorchDoorTrapped") != 1)
 	{

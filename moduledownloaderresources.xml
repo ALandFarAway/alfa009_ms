@@ -20,7 +20,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B977A19B058F6946B65B251884C222F27DB001D2" downloadHash="9D206F38F5415FFF18D6DAF89232B95FE476AE78" name="alaron q24 hkr ruins 1.trx" dlsize="483139" size="622058" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1A9E41846F02242DAD3B6D3075DFC6E1D261A2EA" downloadHash="15A4D7DB2F24CAEB48A6AC4E7961FA6E0FCD601E" name="alaron q24 hkr ruins 1.trx" dlsize="482590" size="621340" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -790,7 +790,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B69A4E5E6FAC90A3331A8AC73B7CD1001F8B82A0" downloadHash="0C3C9A8AE23BBC73EC3E2B1F9B901EE54798E3FF" name="alaron q22_callidyrr temples int.trx" dlsize="383489" size="1105238" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="990A668E9C6E4D93789257DB48C091B2000BEAF4" downloadHash="C6D20DFD705429EDD32413D2B72AA1A79AF8EB2C" name="alaron q22_callidyrr temples int.trx" dlsize="382326" size="1105238" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1165,7 +1165,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8CECC1EDD7ACECB9CB66ABD9C4D080CF2E607BE6" downloadHash="B93FC056484FC9F8503E2A0E70E877BA278B54B0" name="alaron q22 callidyrr housing.trx" dlsize="293020" size="563852" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D72B008DB8E5A102982DABB8CA35134F3DBCC732" downloadHash="3C37F21FD884C8ABD448C7E1B9283EB3D48E9257" name="alaron q22 callidyrr housing.trx" dlsize="295188" size="565045" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1225,7 +1225,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="08862B1054C05311A055F410334022308972CEA5" downloadHash="8104258AFA50052D363B6FB615835E96242FF554" name="gwynneth p33 kingsbay interiors.trx" dlsize="279505" size="324251" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4073E95B73BFDC292A48C301F0D9F0C654B82B9C" downloadHash="7ACEF0FC6AA6BCE87D8DDE60F35048F5E6FD0ACC" name="gwynneth p33 kingsbay interiors.trx" dlsize="278210" size="322867" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1830,7 +1830,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="60999A02F295E6D4119F2872C1F3E2F326840824" downloadHash="0EBEB2CF24FAC3D4871C0674B673416635DFD4E0" name="alaron r26 stirgewick ruins1-2.trx" dlsize="455048" size="461410" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="371B1119478838B35318DD7CB6F9F8E926CA0754" downloadHash="3CD23846846B147BA5AABDFE8181AE6B001047B5" name="alaron r26 stirgewick ruins1-2.trx" dlsize="456743" size="463417" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1861,6 +1861,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="7408BF715C78DD13AC93A47ACB9CC053306232C6" downloadHash="523FAFC62FC71299FCC43F4383A09B01F1067E2E" name="ruathym  b3_c3.trx" dlsize="969302" size="13450771" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="6BCAD39D96A0D926C573B2D492B7F97B9808FB8D" downloadHash="2BD1F486476E9EA62EA684229B3378CB09EF92FF" name="alaron p21 farheight ruin1.trx" dlsize="538550" size="547391" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>

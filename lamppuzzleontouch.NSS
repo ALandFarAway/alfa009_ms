@@ -1,5 +1,5 @@
 object oPC = GetLastUsedBy();
-string sTorchPuzzleDoor = "xco_first_to_xco_second";
+string sTorchPuzzleDoor = "dr_r26_ruins1_lamppuzzle";
 object oTorchPuzzleDoor = GetObjectByTag(sTorchPuzzleDoor);
 string sTorchPuzzleLocalInt = "TorchDoorTrapped";
 
