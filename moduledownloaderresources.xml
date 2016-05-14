@@ -1870,4 +1870,9 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="72D8BD1E8E3B1C5DF7279BCB8868761A7C05FB3C" downloadHash="DB5767420EFBDEA8301FB019B5DE94FF84E6A5FC" name="009 testing grounds.trx" dlsize="314318" size="8503884" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
 </content>
