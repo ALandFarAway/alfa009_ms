@@ -20,7 +20,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="820020154F30311DB905B1BF86590088F04FEEEB" downloadHash="910153E887E0ABE0EDDA1AEE92345F3D511E24CF" name="alaron q24 hkr ruins 1.trx" dlsize="488382" size="627256" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8E7A86A13E000435F41475E74860D1986A224064" downloadHash="5056ACC4E6E1B6C57C1D7478F56580A1060C9453" name="alaron q24 hkr ruins 1.trx" dlsize="487175" size="626215" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -545,7 +545,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C49ED990DFD3177E3094A76A96175F544D47BBE6" downloadHash="FED6883AAC0D52C6A358F817F85B174ACF91BE3D" name="underdark karsoluthiyl.trx" dlsize="417615" size="12116023" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3C84FD7615F866B371A3A863BBB06FAE3EAB171E" downloadHash="62E59B45873F7CB96E4C5063495530F19EE043BC" name="underdark karsoluthiyl.trx" dlsize="416553" size="12116567" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -870,7 +870,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="41585937DDA42D4658D3CFA6AFCFB5B4F1A2D1C6" downloadHash="48BB842445B1796CB598A3D9F17AE2DB1AA82B8F" name="underdark karsoluthiyl interior.trx" dlsize="272743" size="291097" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C884976998CBC0E5DBE3D56D774B4F16D8D7EB0F" downloadHash="1C9997BD213D88725B27F63ACF781A8F2CD38E87" name="underdark karsoluthiyl interior.trx" dlsize="272771" size="291107" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1225,7 +1225,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4073E95B73BFDC292A48C301F0D9F0C654B82B9C" downloadHash="7ACEF0FC6AA6BCE87D8DDE60F35048F5E6FD0ACC" name="gwynneth p33 kingsbay interiors.trx" dlsize="278210" size="322867" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DA9C1B31F9F6BED8CA014BEF5306E4F46A12C689" downloadHash="957097D2DC1D98E9866A3842239E32F3486F193C" name="gwynneth p33 kingsbay interiors.trx" dlsize="275783" size="320417" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1280,7 +1280,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D151E4DE430005262200F09016F9C8F49276592A" downloadHash="80E159B41DCABA55A1CCA0DB62C9EA8C03E3D7A3" name="ruathym c3 a1 ext.trx" dlsize="1593048" size="14985003" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D60F8C1B0B45FD27412686457A0EF6A16D9C91EF" downloadHash="B1EE75195DFD5A7AF56D8A1CB0DC44C6D4AEB535" name="ruathym c3 a1 ext.trx" dlsize="1649017" size="15045643" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1535,7 +1535,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CD676386DE7805602AF1474F6E606EBD9E9A4807" downloadHash="7598BA5590E4DF2E9CA2E3789A1DE8BD7477D4F7" name="gwynneth m34nw corwell housing.trx" dlsize="87119" size="219809" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="403C48D81C767422089030A875C5733CFC184CC6" downloadHash="E43FEDDA2F42DE1F6B98689ACEE13842FCE4D939" name="gwynneth m34nw corwell housing.trx" dlsize="84210" size="216658" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1850,7 +1850,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FCF4132FD4DE5F54C983839C95E137117062FAB5" downloadHash="EA82B5FA024F70B3F17961A168830BE780ADB9CC" name="ruathym c3 sea caves.trx" dlsize="189332" size="1771907" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="ABB56E39080A79475B7DF57F5BE0C8D731D30E5F" downloadHash="6D6A383CABE6D81C49AA7059407963872C2D1E51" name="ruathym c3 sea caves.trx" dlsize="186625" size="1770761" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1871,6 +1871,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="72D8BD1E8E3B1C5DF7279BCB8868761A7C05FB3C" downloadHash="DB5767420EFBDEA8301FB019B5DE94FF84E6A5FC" name="009 testing grounds.trx" dlsize="314318" size="8503884" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="719AC07CEFE4D0CB6E0595714F04259C2CC78ABC" downloadHash="F0BA036D2F083D9583032B70C25B365487E1C47F" name="underdark drow outpost.trx" dlsize="2333283" size="18835838" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
