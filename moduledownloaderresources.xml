@@ -545,7 +545,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C001ECCA6A0CE1EB468BCCD599EAED07BB552EED" downloadHash="43F7286D2FAAB6542BC71CD2683F98C22A968407" name="underdark karsoluthiyl.trx" dlsize="421845" size="12116978" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="22A106898F4E31BAC83BAAF4502BF18B9B40DD37" downloadHash="67B56777F4307ECA54DDA6C3E7F29F7724AF3211" name="underdark karsoluthiyl.trx" dlsize="409576" size="12115358" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
