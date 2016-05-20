@@ -545,7 +545,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3C84FD7615F866B371A3A863BBB06FAE3EAB171E" downloadHash="62E59B45873F7CB96E4C5063495530F19EE043BC" name="underdark karsoluthiyl.trx" dlsize="416553" size="12116567" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C001ECCA6A0CE1EB468BCCD599EAED07BB552EED" downloadHash="43F7286D2FAAB6542BC71CD2683F98C22A968407" name="underdark karsoluthiyl.trx" dlsize="421845" size="12116978" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -970,7 +970,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2343B490118ACD1CEDBD30768B4D186F28F25432" downloadHash="603CB873651505B030B2E3670C7BFD5352FF5784" name="underdark area a north.trx" dlsize="474246" size="485680" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="509E7B29F61FBE769FB4A55E76F799E75519AD87" downloadHash="C6BACF71759822C04C92708CE5F46A9184C87551" name="underdark area a north.trx" dlsize="475526" size="486452" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1830,7 +1830,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="50AA4BEC88201FC6D2C9CE68E41DE44326996C64" downloadHash="097FC55DB882EFB2C84985E5420B43F39C2CCFB4" name="alaron r26 stirgewick ruins1-2.trx" dlsize="453125" size="459994" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="287C59BF9B10392A0DE885BCE02768381208F1CE" downloadHash="92E777986E22CE4777FD927A1B5F06AB906621C2" name="alaron r26 stirgewick ruins1-2.trx" dlsize="453376" size="460030" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1875,7 +1875,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="719AC07CEFE4D0CB6E0595714F04259C2CC78ABC" downloadHash="F0BA036D2F083D9583032B70C25B365487E1C47F" name="underdark drow outpost.trx" dlsize="2333283" size="18835838" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="CBB8EACFA6D6D2C743F5AA7725B3161F6FDD5412" downloadHash="B4F7EDFA6630B2DC586944869FFB1145E4766F5E" name="underdark drow outpost.trx" dlsize="2535750" size="19006070" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="14F6A88B55FDCB723C4E54ACB1B2DD8D1B04F174" downloadHash="153595320149EC03A9B58CBB0BA62B999D1D67B5" name="underdark karsoluthiylportal int.trx" dlsize="271492" size="289838" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
