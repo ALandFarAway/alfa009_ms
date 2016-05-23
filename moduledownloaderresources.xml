@@ -20,7 +20,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8E7A86A13E000435F41475E74860D1986A224064" downloadHash="5056ACC4E6E1B6C57C1D7478F56580A1060C9453" name="alaron q24 hkr ruins 1.trx" dlsize="487175" size="626215" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3AEB11D3233ABF8EBF064434F74CFB7D1EC8816E" downloadHash="8D64BB0B5341042B417BE4C1D781CBA2296823C4" name="alaron q24 hkr ruins 1.trx" dlsize="517075" size="656009" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1805,7 +1805,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A031B081EF10A7CEF53093D18E9EE94C1A8E09B7" downloadHash="B7B00E3CF5708D1503256F39091EA868620F22F9" name="alaron r26 stirgewick plains.trx" dlsize="3463042" size="21414063" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D6D96A15C89CD370CA0E55AE072ED5C2CAA75F8B" downloadHash="C2A00DD53B2DED989419F040EBF58AEE5F05020E" name="alaron r26 stirgewick plains.trx" dlsize="3447884" size="21396604" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1830,7 +1830,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="287C59BF9B10392A0DE885BCE02768381208F1CE" downloadHash="92E777986E22CE4777FD927A1B5F06AB906621C2" name="alaron r26 stirgewick ruins1-2.trx" dlsize="453376" size="460030" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6BCC3555A398F79F720537398CE2658F2CDAD208" downloadHash="799FCE0F954768D1B3E9DCC16D834D26CA2AA428" name="alaron r26 stirgewick ruins1-2.trx" dlsize="464515" size="470956" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1865,7 +1865,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6BCAD39D96A0D926C573B2D492B7F97B9808FB8D" downloadHash="2BD1F486476E9EA62EA684229B3378CB09EF92FF" name="alaron p21 farheight ruin1.trx" dlsize="538550" size="547391" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="912DCDAB3DB7DD2890B9494ABB01151AD6EB8746" downloadHash="B987504A2C7FA4226B45FF4610543CA36709391F" name="alaron p21 farheight ruin1.trx" dlsize="506989" size="516552" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
