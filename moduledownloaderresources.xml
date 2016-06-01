@@ -20,7 +20,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="22AF4EB3C24906B8900007F80349963C227B97B2" downloadHash="278C49484D98444412A6E2A44FAA8C8DA9468F4F" name="alaron q24 hkr ruins 1.trx" dlsize="523448" size="663271" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="53926087187540FAD060E38179BF055BE8679061" downloadHash="DDF54112EDBFE030851EF80FE1564969D7F05556" name="alaron q24 hkr ruins 1.trx" dlsize="519835" size="659442" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -540,7 +540,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6ABF1280E451A663E2E61C8566DFF054041D2831" downloadHash="602FECEA60EE07D8DA8DE1E129765DBB662D5225" name="gwynneth n33 ck_waterfallcave.trx" dlsize="222840" size="450221" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1562E76CC36ADB1AE85F51EDDA36A95F7AE84D95" downloadHash="8EC632600594A7B053673D3FFF7CC7F8DB01318C" name="gwynneth n33 ck_waterfallcave.trx" dlsize="212371" size="440086" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -695,7 +695,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BC453D60ADE95265CE07690EA53491F5B7A20888" downloadHash="BE5EB989ED39D73B515F26273D217BF5F5EA8889" name="gwynneth p34 horstall int.trx" dlsize="214537" size="304641" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C9EE1FE15A7BDBA7542CA5447DF5E0D91538FBFB" downloadHash="B6A1577C4B305EEEF288CD3308BB2771A923D335" name="gwynneth p34 horstall int.trx" dlsize="216883" size="306738" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -795,7 +795,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C06404675D25BD68BBF03AAA9B6DAC187A4A1593" downloadHash="6986D549B37B5EBAD42C2EE4070A32A471F76E2B" name="gwynneth l35 llyrath forest.trx" dlsize="2915907" size="15971166" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2D4CDFBC2E3FFB0653F710C3753BEF496BE5C971" downloadHash="7EDD61647891824BC496DA67E112217EC0A9E19E" name="gwynneth l35 llyrath forest.trx" dlsize="2924787" size="15971283" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -945,7 +945,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9847C8487058104327F8059DD190E01FD0AB93AD" downloadHash="669F1FEDF1F52ED084D5B1AEFB0061B4AD45D924" name="gwynneth n33 synnoria.trx" dlsize="5808198" size="30362863" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D90DECA85EBA4256FE6EB3136A2543B266AB94AB" downloadHash="7688CEAC751E61F790BE400BFA05ABC8B6EADEEF" name="gwynneth n33 synnoria.trx" dlsize="5788719" size="30353224" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1145,7 +1145,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3D223D8524EE2726B1AF281B461BA27A6002C1AA" downloadHash="09D7935E87B33F9D188E7A3D107C9AFC6EF33FD0" name="alaron q20 farheight mountains.trx" dlsize="2199639" size="13619403" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B154D9F3DB1FA4CA50093FF25E20FDBE73FB7C6F" downloadHash="B02C3885D2396E6243E321A6C95FF601D2A5C475" name="alaron q20 farheight mountains.trx" dlsize="2311423" size="13692019" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1500,7 +1500,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DD60EE9FD61835C7697DAB8ACDA8A5683D3C3348" downloadHash="6054CDD037B1D6F3F1111540CABD28D3A7458B20" name="alaron q21 cantrev white rock.trx" dlsize="2672169" size="16104965" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="35FFA07D5DEA1535BC56AFF63E34A6407AFE00DC" downloadHash="B53FA441AE4BD648F0F8444374AC5DCE12A19468" name="alaron q21 cantrev white rock.trx" dlsize="2933982" size="16261923" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1585,7 +1585,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="845A437E94E8BE41CFEAFAC6270DF6183A6C27DD" downloadHash="55DB296C398ED11550195900F8067C34B1B976F0" name="alaron q20 farheight mts caves.trx" dlsize="278033" size="2502133" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6105CBADC3866247418ACA31198420BE1E450146" downloadHash="F911B13C8AC4835478BE6CED56219F5FFF42C1F2" name="alaron q20 farheight mts caves.trx" dlsize="414104" size="2686359" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1865,7 +1865,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="455FD5D3DD640D53163E48FFFA465BD746EA0FE7" downloadHash="3C7D234759D7FE133B9132B1E3280CB73E3D76AC" name="alaron p21 farheight ruin1.trx" dlsize="506062" size="515545" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D73BA42394F77E17460C7549B6C9A4C6A951B9CC" downloadHash="B3105CC5ABD38A3F9BA4C924959E071E2F22D95B" name="alaron p21 farheight ruin1.trx" dlsize="506070" size="515546" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1881,6 +1881,71 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="14F6A88B55FDCB723C4E54ACB1B2DD8D1B04F174" downloadHash="153595320149EC03A9B58CBB0BA62B999D1D67B5" name="underdark karsoluthiylportal int.trx" dlsize="271492" size="289838" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="D706A7C78A5E3A4E7900AF0CD748373F29A6841C" downloadHash="792BFA52997D6D21CDBF63B026479A1E4DC49827" name="alaron q20 farheight cave.trx" dlsize="634853" size="643262" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="B64C33B802D49E937D266DEC668CCDAA70008248" downloadHash="2F27EF558C5F1EDC34C1E1A3266E7E674DC2834B" name="gwynneth l35 lost ruins 2.trx" dlsize="274665" size="9283950" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="A66A68A79EE38544C4ABA3B68C927BCC094E7022" downloadHash="60840A3754AB03460A66F33DD7EFDF7EA33EDEFB" name="alaron  aithelar to torriage.trx" dlsize="2778614" size="12531740" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="6901831CF64A9AD90F65CA00B20D098C71827161" downloadHash="2E81A42BE292A2EBF0E514CD7578DE2A9E69041B" name="o24 aithelar tomb level_1.trx" dlsize="415270" size="596307" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="4D6873480242429AC1493A005DD701A0D913676A" downloadHash="EDAF118C2CCD83F61A543E724D4FD6510D0E58EE" name="o24 aithelar tomb level_2.trx" dlsize="156240" size="157928" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="7AFDBCAD59EBC57646F1E1D824BE4ECA013E1126" downloadHash="91EB2E88F6A926EAF4535A34CADFD6F54ED087F5" name="alaron q20 cave lvl2 waterlogged.trx" dlsize="582187" size="11618072" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="EE9EFDBD38DAC3011806709B8CC611547D4D5A37" downloadHash="CE603D9413B457DD6A0C5B8C0746774310AEBF19" name="alaron p22 farheight rd nw.trx" dlsize="3523087" size="19345701" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="AF77B30D88C852D15C437EFE7CF8CEE1DE94F0BD" downloadHash="DA2763E412C9475D7C8C5FE5DB540011E4D94ECD" name="alaron q21 whiterock mine1.trx" dlsize="308388" size="310266" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="54F1DF870A58585DC2DD0107510991806EF1751B" downloadHash="150B781906169E95200021C2330CAB8C08258EA6" name="gwynneth l35 lost ruins 3.trx" dlsize="160033" size="1880017" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="B0CD643203618D01D639E71F76FCA599A9559C53" downloadHash="0568387C395A2C882BFA77C039C5C88B38D35275" name="generic caves.trx" dlsize="634904" size="643256" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="3DD2B68DE0E26EC603B7B5F3F35D98F62058ACBD" downloadHash="B493068282EF43BE8B31DFE8E8EE83390CCAB735" name="alaron q21whiterock int.trx" dlsize="300752" size="393655" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="98D80CE841FD9AF03C5DF59AE4920C516B50A856" downloadHash="5844AA5305E07AFFD39D828E2C3A6812C2A72B07" name="gwynneth l35 lost ruins 1.trx" dlsize="289230" size="6638212" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="E835DF5259D918461C2330A060D8B5243E524099" downloadHash="64A6C5DA5AC0F6D7DA32F4684C480E69B30768FF" name="alaron q21 whiterock caves.trx" dlsize="770979" size="6568370" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
