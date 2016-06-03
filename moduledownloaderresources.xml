@@ -1970,4 +1970,19 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="4F06A0447B8BBE9818840703EF29EA3A9F2AC7B4" downloadHash="5067BD42085A62027DAF55ACE46707C267ADF31B" name="cave complex 3.trx" dlsize="349603" size="354403" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="1DBE9405656D6382CA4B25E345A6C6496440EDFE" downloadHash="ABB8E4D7AF545360A267C967E9BF7263AC21ECDF" name="cave complex 2.trx" dlsize="174326" size="176388" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="A8B311291FB76F4367B962BF86A05276747A0C32" downloadHash="E90631FC9460C8BF0DE161483B7307F458945C9D" name="cave complex 1.trx" dlsize="373911" size="379432" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
 </content>
