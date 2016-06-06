@@ -785,7 +785,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7FDDB83566C1AD447FDB568BFE31A69CEC8311EE" downloadHash="D1A5677816C62E5784D4A8684F137C527B0BE4B5" name="underdark karsoluthiyl baths.trx" dlsize="166331" size="751069" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D033190C5257485D4B050319E92A10497BE46239" downloadHash="28724881C5507452EBCA92023D09CAE431D8D9B8" name="underdark karsoluthiyl baths.trx" dlsize="168557" size="753864" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1880,7 +1880,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="14F6A88B55FDCB723C4E54ACB1B2DD8D1B04F174" downloadHash="153595320149EC03A9B58CBB0BA62B999D1D67B5" name="underdark karsoluthiylportal int.trx" dlsize="271492" size="289838" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E54381B62D42E07E32BCB5B125DFE560AD275479" downloadHash="6204BA905685AE47F3AC0D3A9D4FFE684CBA1693" name="underdark karsoluthiylportal int.trx" dlsize="286332" size="301286" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1981,6 +1981,16 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="A8B311291FB76F4367B962BF86A05276747A0C32" downloadHash="E90631FC9460C8BF0DE161483B7307F458945C9D" name="cave complex 1.trx" dlsize="373911" size="379432" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="2CDE5D8C77DAF14F60C5AC0D4C442B87A79EA7D3" downloadHash="46C5C04A7532F4DC6DBDA4FF0FB21614118E5BD9" name="underdark karsoluthiyl crossrd.trx" dlsize="413863" size="12115358" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="180BEA6599F714458B1B08A5E555A1C4689A7736" downloadHash="8D886C1A11B3C97D76D53CD0BEF48CB153DA0EF8" name="underdark karsoluthiyl city.trx" dlsize="3248765" size="19765075" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
