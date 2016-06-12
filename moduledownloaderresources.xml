@@ -785,7 +785,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7FDDB83566C1AD447FDB568BFE31A69CEC8311EE" downloadHash="D1A5677816C62E5784D4A8684F137C527B0BE4B5" name="underdark karsoluthiyl baths.trx" dlsize="166331" size="751069" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3BF3D5C1ADDACF125A27DDA2E5F944B9EB35FFB9" downloadHash="5E4EBF27A8EFED4EAF770D731651B27AC6F64A9F" name="underdark karsoluthiyl baths.trx" dlsize="169130" size="708495" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1295,7 +1295,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D095A815F68E98DC220D67428E46E3A17781FB3D" downloadHash="39E73CBB444F46557EE386F9F7EABBE2643F84B1" name="alaron p21 farheight mountains.trx" dlsize="5716506" size="24245896" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C209DADBCF1BA19E714A4F5407D2027EEE651CB4" downloadHash="3BE20A3A37C452961F3D73ED168CEA1B857EEBEF" name="alaron p21 farheight mountains.trx" dlsize="5712577" size="24245790" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1880,7 +1880,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="14F6A88B55FDCB723C4E54ACB1B2DD8D1B04F174" downloadHash="153595320149EC03A9B58CBB0BA62B999D1D67B5" name="underdark karsoluthiylportal int.trx" dlsize="271492" size="289838" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D738AE1C7EDFC5FC29B44BB8B9409F6F05D10463" downloadHash="38846F9A43E74C01800161080F08C40648AD2817" name="underdark karsoluthiylportal int.trx" dlsize="298238" size="312734" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1990,7 +1990,27 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="180BEA6599F714458B1B08A5E555A1C4689A7736" downloadHash="8D886C1A11B3C97D76D53CD0BEF48CB153DA0EF8" name="underdark karsoluthiyl city.trx" dlsize="3248765" size="19765075" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2959F0F08B267F5BFD3B8553D6E6FA2C82758EF5" downloadHash="E5ED885EC481D7F7B54E2391086BF551CCFCD930" name="underdark karsoluthiyl city.trx" dlsize="3138925" size="19761028" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="7E44475BCB46A6079B6B43ECD6936EFFAB691704" downloadHash="73D1AEF9B31EA2EA7457FC941C8928E9773FFF16" name="alaron p21 farheight canyonpass.trx" dlsize="2246172" size="12268952" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="7A7E7EA7732277AC4D23B7AB8C5735C5D1311007" downloadHash="C25CA2574AA29D9D488A52662C19246524338EE8" name="underdark karsoluthiyl city int.trx" dlsize="340254" size="346341" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="1A9F896E25AF35E7151669ECD49FAD403167B5AE" downloadHash="0DEDBDC557F598575F8EC2BA7AE20DA9F7B530D1" name="alaron p21 farheight canyon int.trx" dlsize="370655" size="378463" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="181DD3D9A781F58EDAE0CB1FFFC9C1C80D23B5F7" downloadHash="FD7DE699D70EE6545D01DD39A7D90EF5D25000BA" name="alaron p21 cantrev blackstone rd.trx" dlsize="2982669" size="14271650" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
