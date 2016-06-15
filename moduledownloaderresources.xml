@@ -405,7 +405,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="07E96674D4EDCB4338E9559B7B54B644B7F97765" downloadHash="53FA54E5AB30A115647D2A6ED1F7C7FED484F4FD" name="alaron callidyrr twisted sail.trx" dlsize="136339" size="137061" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3360497E713ACAF3278BF6AC9AD28F48F9BAD94A" downloadHash="72ABECF0993341796BD8151A1BD73EF8C41247CB" name="alaron callidyrr twisted sail.trx" dlsize="135846" size="136555" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1295,7 +1295,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C209DADBCF1BA19E714A4F5407D2027EEE651CB4" downloadHash="3BE20A3A37C452961F3D73ED168CEA1B857EEBEF" name="alaron p21 farheight mountains.trx" dlsize="5712577" size="24245790" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="77A17DD40789CF38C904DB5361ACD81B6976A012" downloadHash="9C251AF91A59AF0562C80CC2115A468FA3EAD6F1" name="alaron p21 farheight mountains.trx" dlsize="5719233" size="24243626" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1865,7 +1865,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D73BA42394F77E17460C7549B6C9A4C6A951B9CC" downloadHash="B3105CC5ABD38A3F9BA4C924959E071E2F22D95B" name="alaron p21 farheight ruin1.trx" dlsize="506070" size="515546" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="024F1BC1CA36B0BA82D1C805379A83B9A65CAC38" downloadHash="578872DE9062FDE84386FAAA8C5C649C345A668F" name="alaron p21 farheight ruin1.trx" dlsize="637759" size="869018" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1980,7 +1980,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A8B311291FB76F4367B962BF86A05276747A0C32" downloadHash="E90631FC9460C8BF0DE161483B7307F458945C9D" name="cave complex 1.trx" dlsize="373911" size="379432" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0B1FD506A58A9ED2E1492F275F458F118D25B745" downloadHash="2921AC200CAAE1941844EE2C9B7CF49DA928F221" name="cave complex 1.trx" dlsize="390641" size="396356" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1995,7 +1995,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="29F90583907E449EA31DAFF8BC1925CFF7EE4903" downloadHash="8477C9329D4F4E3E54A101B321609EF8200D6B79" name="alaron p21 farheight canyonpass.trx" dlsize="2493813" size="12780313" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F607F165CC7F1491D518C347B8EE2734A2601030" downloadHash="B1F30E767C447DEC31D8532FA246911149D3A393" name="alaron p21 farheight canyonpass.trx" dlsize="2472953" size="12763525" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2005,12 +2005,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E7803E320F90EE2A45FFFB95EC358C1BE595D73C" downloadHash="C4C992D0F2F8DDDCE22FBB32523E1D77DFDD8823" name="alaron p21 farheight canyon int.trx" dlsize="441468" size="536870" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6658D9E5257A1F46877820932355336D852F6AE2" downloadHash="8F2587D913CDFBE427838922262286ABED9F4652" name="alaron p21 farheight canyon int.trx" dlsize="480422" size="576608" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DC382CE09A91B262D3B7833F21DD9808E2EF4712" downloadHash="CAD37B88E990FACF0E2FE9D622E2A8465BDBAB91" name="alaron p21 cantrev blackstone rd.trx" dlsize="2988308" size="14277956" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="73E523F2069628FE7588B9D688B4DB6F7F82D22B" downloadHash="51975911B5CCCBD1BE8CE481810BC44F6561100C" name="alaron p21 cantrev blackstone rd.trx" dlsize="2949939" size="14237837" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
