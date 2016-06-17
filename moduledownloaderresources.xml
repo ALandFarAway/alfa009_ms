@@ -135,7 +135,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="23155E350D8FCAAF5D9E03F0B78B73E2F816D321" downloadHash="D24BB5297C1F84C597680F51C88D9F07F99B4E29" name="generic labrynth.trx" dlsize="3517877" size="18258598" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E2768838B1ED25A1C740D243A08EFF6EAD8E419E" downloadHash="3F59A32C2823B3B8860E051FC5924E551E250FDD" name="generic labrynth.trx" dlsize="3507953" size="18254442" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1865,7 +1865,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="024F1BC1CA36B0BA82D1C805379A83B9A65CAC38" downloadHash="578872DE9062FDE84386FAAA8C5C649C345A668F" name="alaron p21 farheight ruin1.trx" dlsize="637759" size="869018" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D3CC1D16513DE92F0CAB74CF78B43985FC98ECB2" downloadHash="2E2A5DB6DFADDBFD03B8DD21EA8B2AD7B7509EF7" name="alaron p21 farheight ruin1.trx" dlsize="616775" size="848230" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2016,6 +2016,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="D7D925E7D222E53DD720D0EC757DBCBEDC7AFCBF" downloadHash="A7AE95E87FE268192FBDF73A66686CC7FF1F6840" name="undersea n24.trx" dlsize="1670794" size="14681181" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="1C0701D70CFDAD90BC054667B980C8ED1266993D" downloadHash="083235BB6CE80B35586B689D9231DF993D03CBF2" name="alaron p21 farheight ruins 2.trx" dlsize="532408" size="549900" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
