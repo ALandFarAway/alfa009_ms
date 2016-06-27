@@ -295,7 +295,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C2CFEAFCE89BA54D777C3D172EE7235D1AE97F33" downloadHash="DA50E1D12557345D8B421D650A434471E66C1AA3" name="alaron q22 callidyrr int 2.trx" dlsize="324352" size="730114" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0C01FB7A18367962718E332516820E48108824EF" downloadHash="F671073D411F9A4C76B205C58E6AD3EC0E70FD30" name="alaron q22 callidyrr int 2.trx" dlsize="373879" size="778587" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -615,7 +615,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FB24DB1167AE89D80E967E6EAAD9FF1AE398FC48" downloadHash="CE74A0189243016C2CAF67847154274F517BC5CB" name="alaron q22 c callidyrr west.trx" dlsize="2870220" size="17316396" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="611FE0293B5302E5D10DD55FB7926CDBE0480AE5" downloadHash="1CFE632794F5F0535E332105DF5EF2C26EA3FD21" name="alaron q22 c callidyrr west.trx" dlsize="2909873" size="17358017" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1165,7 +1165,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D72B008DB8E5A102982DABB8CA35134F3DBCC732" downloadHash="3C37F21FD884C8ABD448C7E1B9283EB3D48E9257" name="alaron q22 callidyrr housing.trx" dlsize="295188" size="565045" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F97664630BCA185681B7B712CF5510EEFAE33EFC" downloadHash="BAAB4C805D561C47B27E96E361C304C2F44B2FC6" name="alaron q22 callidyrr housing.trx" dlsize="298530" size="569460" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1375,7 +1375,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FD39542A5D5D0F0DAEC061ABF105D99E536B8468" downloadHash="2F3636733A53D1F7B57B8C0CE3FC587081CDDDF1" name="alaron q22 c callidyrr high dist.trx" dlsize="3048617" size="15784598" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="EBEDFEE3BFA88428A6FC6387E1AA059E96D9AB11" downloadHash="794A4DF1A6A43B14DA680FAD235CD54FDB5AB2BC" name="alaron q22 c callidyrr high dist.trx" dlsize="3049111" size="15784598" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1865,7 +1865,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D3CC1D16513DE92F0CAB74CF78B43985FC98ECB2" downloadHash="2E2A5DB6DFADDBFD03B8DD21EA8B2AD7B7509EF7" name="alaron p21 farheight ruin1.trx" dlsize="616775" size="848230" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E262F4667E50D4D9E3174669980BC8040EBCC932" downloadHash="1756A22384ADB0C4BD3E9A1F3D17019A035F5218" name="alaron p21 farheight ruin1.trx" dlsize="597586" size="828820" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2020,7 +2020,52 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1C0701D70CFDAD90BC054667B980C8ED1266993D" downloadHash="083235BB6CE80B35586B689D9231DF993D03CBF2" name="alaron p21 farheight ruins 2.trx" dlsize="532408" size="549900" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="84377DB641374819B47766899A6A806B4BC468F1" downloadHash="E1914D0ADE236A6F658EAF1F8FD79AE76A65E07B" name="alaron p21 farheight ruins 2.trx" dlsize="559451" size="576879" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="B8DC0B281870B6A2A2ACF176637DFA98FBB622A8" downloadHash="1A72D19A4C732ECB852470521F290556837293BE" name="snowdown r34 westphal city.trx" dlsize="1941827" size="14117066" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="58091D4E38618D5EFC4C2EB9BC7EC66DAF9E6FD9" downloadHash="07DC83830DCDFF047B6FF6FF9DB9CA7AD09F15E6" name="snowdown r34 old tomb l1.trx" dlsize="317031" size="318090" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="9CBD621E14BDA0005057B46C376585517A2D3CFC" downloadHash="89942E0743C59B4F28D5B6D13E5EF25F9DA92FCB" name="snowdown r34 westphal inn tavern.trx" dlsize="241199" size="242876" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="232423ACD3C9522E1E58EDE76D6A04FB3A638018" downloadHash="1CD77B8D11EF538BF98942E1945E17F7143322BE" name="snowdown r34 westphal int 2.trx" dlsize="276234" size="952928" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="AA610C393221E2E0E551A673E8D23A909F3BAEDC" downloadHash="654C9AA1D19A4BF6BB008FBC75C99692EE2362C9" name="snowdown r34 salty air tavern.trx" dlsize="158008" size="158748" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="0D850B4F7587E6D8BF7E58A3CA87260DD0E4ECCB" downloadHash="120F6B47060C897DFA8F8FFC5CFBA41F694D2876" name="snowdown r34 hazels wares.trx" dlsize="22086" size="22079" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="C7E258EECC42EAC42F92C484DF51FA1A19A60F77" downloadHash="3DE6429CF57402BF39216A95922AFE3BBF8041AA" name="snowdown r34 westphal int 1.trx" dlsize="341015" size="344185" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="23E721BCFBB1B62680C1281EABF543480B1F9BBB" downloadHash="EF254EA709372D1CB25631AA541CF7B8B908A172" name="snowdown s33 the ride n.trx" dlsize="2918880" size="21822604" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="5B6743849A5017EE6514B370F337790290AE7268" downloadHash="616766EFA20A68DDA0CB27B02648A63D133C3A57" name="snowdown r34 temple ilmater.trx" dlsize="16227" size="16285" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
