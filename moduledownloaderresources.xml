@@ -5,7 +5,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0C98C3FF2CD55AE5BE4E232EA4379E5331C4F983" downloadHash="2E497F94443FB9828F64DE8A04B5756E72A80F65" name="Skullport Skull Isle.trx" dlsize="682128" size="7742070" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7B1FFC39DC12DBA60FC3DC616535245A705484D5" downloadHash="EFA0C776C37F0BD12D5045072248558A5461472D" name="Skullport Skull Isle.trx" dlsize="672241" size="7730340" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -285,7 +285,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B88C7ACDE132B9EE3F9BC775C7EA0B9607457FA0" downloadHash="68520D9D9874C6B0645B8F3DB50EF489BD969879" name="gwynneth m34nw corwell grove int.trx" dlsize="32158" size="32059" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1A321F2DF2C1675012CEE8641AF0B28ECB8AEF1D" downloadHash="3118FA86BE61387F8AC78C6AAEAC700BC86D2E90" name="gwynneth m34nw corwell grove int.trx" dlsize="32220" size="32123" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -580,7 +580,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BBAE63F2AB07950FF52BDFC59C882AD60D99B7E1" downloadHash="A539EE81CDC0CC5393B80CBFFB956D65C9CF507E" name="gwynneth m31 darkhorn castle int.trx" dlsize="365424" size="371515" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9A9CDD57B8C5B35846A3819E9A8C750FCE74B5EC" downloadHash="5E41B6FF4917F098F3D5633713C5D0707B7BBF03" name="gwynneth m31 darkhorn castle int.trx" dlsize="365706" size="371827" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -765,7 +765,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="AFFC56127BDAD8E56948B0D544ACE53AD5476E83" downloadHash="43241A59D709CB9AD79EFCA248E167EF0DADC85B" name="skaug port corsairs qtrs.trx" dlsize="95904" size="96473" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="79D04DEB4D208CD486C46D55D7D76665AD0C8A81" downloadHash="7BAD0116F56A8C482C47356B92F9463CA7313FBF" name="skaug port corsairs qtrs.trx" dlsize="97171" size="97675" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -900,7 +900,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DD80EAC20BC78258F7A514D3E57A82FD23692D3D" downloadHash="8E251E6A2E0F9CFA5E22F74ADC093E762962CFAE" name="skaug port slithery bones.trx" dlsize="1416940" size="12034191" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="04AD5AA076E12B10B44459281F2FFD401F1F34CE" downloadHash="81F59A957686B263DB0AEA0919BFB156485336C9" name="skaug port slithery bones.trx" dlsize="1409828" size="12024766" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1295,7 +1295,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="77A17DD40789CF38C904DB5361ACD81B6976A012" downloadHash="9C251AF91A59AF0562C80CC2115A468FA3EAD6F1" name="alaron p21 farheight mountains.trx" dlsize="5719233" size="24243626" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C7CE0DEE46AEFD4545673AF31AF1313D4C68CBA3" downloadHash="E6A6094568BBB7C49F179186DF0539113273822B" name="alaron p21 farheight mountains.trx" dlsize="5746750" size="24267908" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1660,7 +1660,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5357B199D3D069BB2EB213F7B28BFFD4DCA12CCB" downloadHash="935E3AED85A55CC5516A4C80EF3F7FEBAD0D4008" name="skaug deserted island.trx" dlsize="1825164" size="14998285" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="48923AB503196073C346E33B2B5C07189F0CCF07" downloadHash="0861A9134650E6D4C45081D7B91E5E0A6BE4AD48" name="skaug deserted island.trx" dlsize="1814382" size="14989557" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1670,7 +1670,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="99C6DF33AC66C556EB4F76AE728583341F5E92AD" downloadHash="91C89BAB4349AB96CF6770673C8DC759DEC4FEC6" name="skaug deserted island cave.trx" dlsize="165830" size="166860" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="30E8AEAD7E6A076109EAC7462F898CBBE56BD8AD" downloadHash="FB3E12F64F313CC980850177E637672575C2339E" name="skaug deserted island cave.trx" dlsize="167879" size="169016" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
