@@ -2020,7 +2020,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="84377DB641374819B47766899A6A806B4BC468F1" downloadHash="E1914D0ADE236A6F658EAF1F8FD79AE76A65E07B" name="alaron p21 farheight ruins 2.trx" dlsize="559451" size="576879" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="58CDC46DFE8990353A0599A3CB99DA94A64021F0" downloadHash="E6CBBB7367FB60EA0D45C22919D22060F53EBE89" name="alaron p21 farheight ruins 2.trx" dlsize="629411" size="645883" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
