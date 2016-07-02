@@ -2070,4 +2070,9 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="497719FA143D53BCABEEF55B221035737AD2F6B4" downloadHash="72B6961D5D0BB8395FEB61C7DCF85D004AA2773D" name="alaron p21 farheight ruin2.trx" dlsize="629007" size="645386" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
 </content>
