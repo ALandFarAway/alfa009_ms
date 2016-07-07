@@ -1870,7 +1870,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="72D8BD1E8E3B1C5DF7279BCB8868761A7C05FB3C" downloadHash="DB5767420EFBDEA8301FB019B5DE94FF84E6A5FC" name="009 testing grounds.trx" dlsize="314318" size="8503884" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4D306CEE6847F9A969054AAB79F52436E48B4B49" downloadHash="BC57C8E9AE95F4AA82F15792B164FEA1B4EB07F7" name="009 testing grounds.trx" dlsize="319958" size="8507633" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2070,7 +2070,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="46F39E65FA7BFCB2917F3DC80DE583B325D3B853" downloadHash="560CB8553AAF873BB8DF83B2372E89CAFF9874D4" name="alaron p21 farheight ruin2.trx" dlsize="650795" size="666469" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C8E1B5C97F62F1842AD487DD3CB41B1A75255E97" downloadHash="587353459712436A9D7059BF4534D648905BDD7E" name="alaron p21 farheight ruin2.trx" dlsize="641309" size="657044" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
