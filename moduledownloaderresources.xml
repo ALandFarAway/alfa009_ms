@@ -715,7 +715,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="987D4E5BDAF19E5418E5092F1BE0341DC5692984" downloadHash="C8204CA96477056E028661CAB4A0C1AE3F9A8D8A" name="wd 4h dock_south ward.trx" dlsize="1827359" size="13209251" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D8AC0FF00CE2F54BAD4E47B111CCFFC3491DD7CB" downloadHash="7C2E34F0044226F86C22110326D855336B2AAFC6" name="wd 4h dock_south ward.trx" dlsize="1839530" size="13221779" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -765,7 +765,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="79D04DEB4D208CD486C46D55D7D76665AD0C8A81" downloadHash="7BAD0116F56A8C482C47356B92F9463CA7313FBF" name="skaug port corsairs qtrs.trx" dlsize="97171" size="97675" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DBC340E6A713E68AEE0D5B4C0BD3A0676AF64D1C" downloadHash="F3E9B98456EB15AC9168B1F6E19DF16E2EEB64C5" name="skaug port corsairs qtrs.trx" dlsize="97170" size="97651" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1145,7 +1145,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BB16C9BFB716E6ED1FC5CC8F9EA1A7D9231290C2" downloadHash="3474C2E1A63918BEAD97D136D8FEAE6B14EB814C" name="alaron q20 farheight mountains.trx" dlsize="2360151" size="13735189" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0E441D217DA2DC42D46535999E954997D16420F5" downloadHash="8C144E3D171CFF96ACDB6E6CCA1E92B5ED80EE55" name="alaron q20 farheight mountains.trx" dlsize="2339423" size="13719295" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1165,7 +1165,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F97664630BCA185681B7B712CF5510EEFAE33EFC" downloadHash="BAAB4C805D561C47B27E96E361C304C2F44B2FC6" name="alaron q22 callidyrr housing.trx" dlsize="298530" size="569460" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E1EE5856C94B438393799D830D48DEC2F9014957" downloadHash="0AFD0CE79288058542637D94D9512E80956D4AD8" name="alaron q22 callidyrr housing.trx" dlsize="294619" size="564954" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1530,7 +1530,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E62988DECA916DF4DE6C17A0F9C9FDDA1E9C800E" downloadHash="D9AFF2C790FDC0E742A2AC77CAD0076CE0207DE3" name="wd 4g dock ward.trx" dlsize="2029840" size="14437968" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="095F00D4C0C2AC10D7358DCD2951534276BC0C54" downloadHash="01588E9143810505349321FE5411BCD3973CACB8" name="wd 4g dock ward.trx" dlsize="2039063" size="14449085" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1585,7 +1585,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B1968234C8AA6D5EBE4860E90BAA0EF94A510637" downloadHash="6B1CE0F7D1700F8DCA8C55725E21B10AE6058F9C" name="alaron q20 farheight mts caves.trx" dlsize="417697" size="2777677" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="91DA3BD66D30AC36EEE4C4BFE9E0ABDCE296C26B" downloadHash="2950E1B868B437E4C06122FCC924743EBD893CEA" name="alaron q20 farheight mts caves.trx" dlsize="432902" size="2791770" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1885,7 +1885,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D706A7C78A5E3A4E7900AF0CD748373F29A6841C" downloadHash="792BFA52997D6D21CDBF63B026479A1E4DC49827" name="alaron q20 farheight cave.trx" dlsize="634853" size="643262" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="531B105986CE2F7418A951D20BA2627DEEF92ECC" downloadHash="5938FCCECC601A03C9380524A06AABAE65F82194" name="alaron q20 farheight cave.trx" dlsize="649706" size="701406" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2070,7 +2070,22 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C8E1B5C97F62F1842AD487DD3CB41B1A75255E97" downloadHash="587353459712436A9D7059BF4534D648905BDD7E" name="alaron p21 farheight ruin2.trx" dlsize="641309" size="657044" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1C1508C39A68D71755F1810C4C6D2ECC14B1930D" downloadHash="986148CEB990E20A4B07D940301C440521E9E441" name="alaron p21 farheight ruin2.trx" dlsize="710417" size="902514" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="2B3F5F5186AB9CF83FD401968AE0ECACEFCB482C" downloadHash="40E07069886A74DCB5885D73B516B0387FD16DBA" name="wd 2l castle ward.trx" dlsize="1525750" size="12450559" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="30085041E2A1C9F11DD5971054BF52129DFF891E" downloadHash="E2786966FE59E829AE938817961D504AA0A2CB3F" name="nelanther deserted island.trx" dlsize="1835096" size="14996656" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="C69EAB0A2F12F18B8E68C6EAD2EE4CAE2903410A" downloadHash="9268DFD9C89CAE7AD6F95A4482304EA237F98A67" name="wd 2l castleward int.trx" dlsize="66437" size="66518" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
