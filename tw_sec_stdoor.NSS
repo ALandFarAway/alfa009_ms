@@ -34,7 +34,7 @@ void main()
             }
         } else {
             // It's a PC, reveal the item
-            AssignCommand(oEntered, PlayVoiceChat(VOICE_CHAT_LOOKHERE));
+           // AssignCommand(oEntered, PlayVoiceChat(VOICE_CHAT_LOOKHERE));
             // RevealSecretItem("tw_sec_tdoor");
 			RevealSecretItem("tw_sec_stdoor");
         }

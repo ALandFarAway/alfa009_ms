@@ -215,7 +215,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="00AAEADF2CFEC168741738DFF64669EC888A32C6" downloadHash="9F2B12B178033A8456367C7D11826BA675CE4165" name="travel template_ferry.trx" dlsize="158888" size="6492546" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="361569470CA0DE83EB04F81FEDEC11DA40A54055" downloadHash="0DE202A8CC47882D84435AA07C99AD309D4BB5B2" name="travel template_ferry.trx" dlsize="153304" size="6488208" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1145,7 +1145,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0E441D217DA2DC42D46535999E954997D16420F5" downloadHash="8C144E3D171CFF96ACDB6E6CCA1E92B5ED80EE55" name="alaron q20 farheight mountains.trx" dlsize="2339423" size="13719295" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0B9390ED597142344F59EFB656742D98AC21D374" downloadHash="2E3CB60D1B3C9E13AC320706A21ED12C0E16D8BF" name="alaron q20 farheight mountains.trx" dlsize="2349756" size="13718722" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1500,7 +1500,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="35FFA07D5DEA1535BC56AFF63E34A6407AFE00DC" downloadHash="B53FA441AE4BD648F0F8444374AC5DCE12A19468" name="alaron q21 cantrev white rock.trx" dlsize="2933982" size="16261923" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="EAD72E84EDE54167F1D41671D4905BDB68B75A80" downloadHash="C087EB5EA1D4056100B7C0584FC88F6FDDB1DAAD" name="alaron q21 cantrev white rock.trx" dlsize="2923116" size="16239026" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1530,7 +1530,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="095F00D4C0C2AC10D7358DCD2951534276BC0C54" downloadHash="01588E9143810505349321FE5411BCD3973CACB8" name="wd 4g dock ward.trx" dlsize="2039063" size="14449085" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BE8EF712C11825575792166091F1410FFBB8BE34" downloadHash="19665E5D9E2395A0E3FD77BE53ABF3C25881ABA6" name="wd 4g dock ward.trx" dlsize="2053152" size="14456659" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1585,7 +1585,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="91DA3BD66D30AC36EEE4C4BFE9E0ABDCE296C26B" downloadHash="2950E1B868B437E4C06122FCC924743EBD893CEA" name="alaron q20 farheight mts caves.trx" dlsize="432902" size="2791770" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2C73028472C3ACAC29D86D43236780573EB0D241" downloadHash="1105550CDC3E8C735F4EFA5ACDBF01A17F66A70E" name="alaron q20 farheight mts caves.trx" dlsize="435201" size="2794055" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1865,7 +1865,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E262F4667E50D4D9E3174669980BC8040EBCC932" downloadHash="1756A22384ADB0C4BD3E9A1F3D17019A035F5218" name="alaron p21 farheight ruin1.trx" dlsize="597586" size="828820" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0EEC4AC2FE6F3A8C33C9C654269E56265FB87DF4" downloadHash="2758532DC626E0DFC242DA121C8B25B475BA5F9A" name="alaron p21 farheight ruin1.trx" dlsize="610199" size="842247" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1975,12 +1975,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1DBE9405656D6382CA4B25E345A6C6496440EDFE" downloadHash="ABB8E4D7AF545360A267C967E9BF7263AC21ECDF" name="cave complex 2.trx" dlsize="174326" size="176388" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="730EC4BEDDE9DB9346345E84B87744E05F16383C" downloadHash="52E9B1ED042986BA1BBD524BEBB049C0231327E7" name="cave complex 2.trx" dlsize="174325" size="176389" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0B1FD506A58A9ED2E1492F275F458F118D25B745" downloadHash="2921AC200CAAE1941844EE2C9B7CF49DA928F221" name="cave complex 1.trx" dlsize="390641" size="396356" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A55A07E6DCE96FD6E391513A5B6F4FF3A216BC60" downloadHash="62247A41B825E5F9BE7245818072BA10EE84D0CD" name="cave complex 1.trx" dlsize="391782" size="397205" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2070,12 +2070,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1C1508C39A68D71755F1810C4C6D2ECC14B1930D" downloadHash="986148CEB990E20A4B07D940301C440521E9E441" name="alaron p21 farheight ruin2.trx" dlsize="710417" size="902514" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="074275824DD624D1D6927BA5BD0560AE4EAC144F" downloadHash="D793B22AC040502A45739D49F0292CBD95301285" name="alaron p21 farheight ruin2.trx" dlsize="695243" size="886508" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2B3F5F5186AB9CF83FD401968AE0ECACEFCB482C" downloadHash="40E07069886A74DCB5885D73B516B0387FD16DBA" name="wd 2l castle ward.trx" dlsize="1525750" size="12450559" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3313FDF4450B160E0945125F991AAF3FCB67A2DF" downloadHash="39775F12C374FE531809FDF7DE3FBE7E88CCB0F4" name="wd 2l castle ward.trx" dlsize="1750478" size="12692015" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2085,7 +2085,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C69EAB0A2F12F18B8E68C6EAD2EE4CAE2903410A" downloadHash="9268DFD9C89CAE7AD6F95A4482304EA237F98A67" name="wd 2l castleward int.trx" dlsize="66437" size="66518" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FDBDE9D050DB66173688DEC96D46E3973186AFB7" downloadHash="7D05C09D5B1E5AE2584A62A40828142AFC632504" name="wd 2l castleward int.trx" dlsize="69407" size="69502" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="678C9FDFFC11B3A8FBB20467DF21DEC727A5B1EC" downloadHash="5181D19B47DF2E019622490741BA7C4AD20F646A" name="alaron q20 farheight caves2.trx" dlsize="175430" size="265257" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
