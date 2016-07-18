@@ -54,16 +54,16 @@ void main()
     {
         SetLocalInt(oDoorLocker, "NoDelay", 1);
         RunTrap();
-    }
+    }   
 }
 void RunTrap(float fDelay)
 {
     //// Trap varables ////
     // Gas effect can be changed with "NW_T1_GasDeadC1", "NW_T1_GasAvgC1" or
-    // "NW_T1_GasMinoC1"
-    effect eTrap        = EffectAreaOfEffect (AOE_PER_FOGACID, "NW_T1_GasStrC1");
+    // "NW_T1_GasMinoC1", "NW_T1_GasStrC1"
+    effect eTrap        = EffectAreaOfEffect (AOE_PER_FOGACID, "NW_T1_GasAvgC1");
     // Gas stays for 6 seconds times this number
-    int nCastDuration   = 20;
+    int nCastDuration   = 3;
     // Float for delaying of the int
     float fCastDur      = IntToFloat(nCastDuration);
     // Re-define entering object and set up string to inform of trap going off
