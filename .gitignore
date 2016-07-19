@@ -4,3 +4,4 @@
 *.ndb
 compile.bat
 compile.bat
+*.orig
