@@ -2095,9 +2095,4 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7FD0385A70D86B50D582E5C008F1B5BC6FBF4223" downloadHash="0464198EEBB77318622A772AC965FA112197E7D0" name="servers.XML" dlsize="264" size="624" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
 </content>
