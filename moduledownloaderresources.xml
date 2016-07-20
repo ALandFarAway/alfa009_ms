@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <content xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <resource type="DirectoryEntry" hash="E40503040E701C55DFE55D630456B6DDBC2B0867" downloadHash="B679D75A01B93ADC3EAA46CF360BE2667CF0DBA2" name="alaron s23n torriage grove.trx" dlsize="927677" size="7713462" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1172926ABD2A610D4379E0AA482143A738266E0A" downloadHash="89535A11A961FEFD43F3631EB5793AC3835DCBF3" name="alaron s23n torriage grove.trx" dlsize="899650" size="7619476" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -100,7 +100,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4E8F86773D4AE14DBDB1EBE1DA96FBF4C1D28E92" downloadHash="0462F684CDD1D45796981303066D462A36B79900" name="alaron q22se high kings road.trx" dlsize="2603355" size="16294646" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E51EF875E87495F4894312EAA58C9F6F43A09FA5" downloadHash="99AF33171DA2F0E0165297685F470A5D59B1321D" name="alaron q22se high kings road.trx" dlsize="2599745" size="16286913" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1165,7 +1165,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E1EE5856C94B438393799D830D48DEC2F9014957" downloadHash="0AFD0CE79288058542637D94D9512E80956D4AD8" name="alaron q22 callidyrr housing.trx" dlsize="294619" size="564954" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="85D0DE5970FF73FABE0B9D8D13AAAE95742C56A1" downloadHash="F34A07CEB18FBD45990626B103EB63EEAB9BBDAA" name="alaron q22 callidyrr housing.trx" dlsize="292047" size="562447" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1555,7 +1555,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E7FE263F674526C1B27970BC06D445B567216EBB" downloadHash="FF1B2F97AC160A7FA1150EDCD98CF22C5A438177" name="skaug d4.trx" dlsize="1827296" size="10526157" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="694C4C528C1EE902604F06A83789AAD58AD062B4" downloadHash="EFDDFF6FD88742B5E3158FD1D95ED87E0AD943DC" name="skaug d4.trx" dlsize="1819162" size="10518032" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2085,7 +2085,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="125FBA6157000370667785F2B076DF7872C454FD" downloadHash="7F99B3AC7DB4B4BA09707C822899FB6D09AA571E" name="wd 2l castleward int.trx" dlsize="83837" size="83901" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="EBCBD7D939D00F8CE90363C036BBA0C575CECE27" downloadHash="30BE74501E77692E98F6BF4C16B566DEA946CFE6" name="wd 2l castleward int.trx" dlsize="165668" size="166017" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2096,6 +2096,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="7FD0385A70D86B50D582E5C008F1B5BC6FBF4223" downloadHash="0464198EEBB77318622A772AC965FA112197E7D0" name="servers.XML" dlsize="264" size="624" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="5F6E2C2C04283ACB77C39F572F052C4F746215D9" downloadHash="59FC3C4C5301EE4EEF2C53AAF2E410E53A35B104" name="lit, magical wall brazier0.UEN" dlsize="453" size="1298" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
