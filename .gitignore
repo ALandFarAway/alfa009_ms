@@ -3,4 +3,8 @@
 *.NDB
 *.ndb
 compile.bat
+<<<<<<< HEAD
 *.orig
+=======
+compile.bat
+>>>>>>> parent of ceeeea5... Herbalist fix , blackstaff tower

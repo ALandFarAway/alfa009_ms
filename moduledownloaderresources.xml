@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <content xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <resource type="DirectoryEntry" hash="1172926ABD2A610D4379E0AA482143A738266E0A" downloadHash="89535A11A961FEFD43F3631EB5793AC3835DCBF3" name="alaron s23n torriage grove.trx" dlsize="899650" size="7619476" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E40503040E701C55DFE55D630456B6DDBC2B0867" downloadHash="B679D75A01B93ADC3EAA46CF360BE2667CF0DBA2" name="alaron s23n torriage grove.trx" dlsize="927677" size="7713462" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7B1FFC39DC12DBA60FC3DC616535245A705484D5" downloadHash="EFA0C776C37F0BD12D5045072248558A5461472D" name="Skullport Skull Isle.trx" dlsize="672241" size="7730340" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5217935B911CAEFCE65E767E6CFAFAA8E7790712" downloadHash="22B8EB0F88D96E636B70DECDBD16F833796F4C87" name="skaug e4.trx" dlsize="1725583" size="11641408" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="552CEB8C885477746D57E7324E6CC3C3F97F4ECC" downloadHash="EC9C667FDA5F0B46887E2494E4358AFA8ABF6798" name="skaug blood drake at sea.trx" dlsize="386830" size="7903218" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="34E8D5FD5B27D2A3B7305D62BE0F2B6B34CA1B7C" downloadHash="55FA8C1F53F26B04BC8445A05B9ECFDAE23B3973" name="generic merchant at sea.trx" dlsize="486787" size="7857113" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -20,7 +20,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CFC2D01600356E8A159279E1FC6754A597AED97E" downloadHash="153448C80BC026EB1E641145A626730CD71E7A3A" name="alaron q24 hkr ruins 1.trx" dlsize="519840" size="659457" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B1FEE75075460CE2319B7AFF0B445C4074A7BA66" downloadHash="DD06D88E36A65D33B5F76A26FC24066761DD9F3E" name="alaron p21 farheight ruin1.trx" dlsize="609510" size="842082" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -50,7 +50,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CD75B0551812DFDD67BF0B4994F0A62C5358167B" downloadHash="DA9423CF1C88C74457CBF0410B14F95DD37D3421" name="generic volcanic ruin.trx" dlsize="146419" size="147871" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B8DC0B281870B6A2A2ACF176637DFA98FBB622A8" downloadHash="1A72D19A4C732ECB852470521F290556837293BE" name="snowdown r34 westphal city.trx" dlsize="1941827" size="14117066" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -60,12 +60,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1C2C1DF2B10ADF5A25EB7E84A2FA24F718D326B5" downloadHash="08C1E41FA0DCB9F3E0E38A25164361571A3FBC07" name="wd 4g dock ward int shops.trx" dlsize="128607" size="131536" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DAA514AF2349860DF2CF582E162769ED5D093537" downloadHash="944118CB73FE21BC8B8D68F1D181C84784508DE4" name="undersea kressilacc.trx" dlsize="1080114" size="8925381" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DAA514AF2349860DF2CF582E162769ED5D093537" downloadHash="944118CB73FE21BC8B8D68F1D181C84784508DE4" name="undersea kressilacc.trx" dlsize="1080114" size="8925381" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C3826AF3D0A9C9B47DFEB32DF2F74E35F00CFEDB" downloadHash="386CFA1E4A9FB194DA3AC19AE74D8D3A6B60D8AC" name="gwynneth n34 house int.trx" dlsize="71045" size="71629" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -75,12 +75,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B81AD42F0FCD87A216A817F1B7F297A98B023DA7" downloadHash="AE57E9A2E0931851336E20DC35CCBFD9BE0AB13C" name="generic caves_waterlogged.trx" dlsize="543667" size="11618159" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BDD44586B7862292BB53D78633AEC0C20B2C0CAA" downloadHash="E5BE63CBB991FD53A7F531E00D7C04381D28DB71" name="gwynneth o33 kings road.trx" dlsize="1751901" size="10171631" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BDD44586B7862292BB53D78633AEC0C20B2C0CAA" downloadHash="E5BE63CBB991FD53A7F531E00D7C04381D28DB71" name="gwynneth o33 kings road.trx" dlsize="1751901" size="10171631" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DFB8303BB36CA2D07DCDDB9E0721F88757F27642" downloadHash="1379FE0FFD4C76D571789C8277523D6DD87001E2" name="gwynneth n33 synnoria.trx" dlsize="5788664" size="30350634" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -90,17 +90,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B0CD643203618D01D639E71F76FCA599A9559C53" downloadHash="0568387C395A2C882BFA77C039C5C88B38D35275" name="alaron q20 farheights cave2.trx" dlsize="634904" size="643256" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="7A644DFE99D2607AAEE8EDEF87C357D44E2C44ED" downloadHash="5788B5342A1DE1D28A272C8339FDF3458757D1A5" name="009_startarea.trx" dlsize="92176" size="94360" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E51EF875E87495F4894312EAA58C9F6F43A09FA5" downloadHash="99AF33171DA2F0E0165297685F470A5D59B1321D" name="alaron q22se high kings road.trx" dlsize="2599745" size="16286913" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4E8F86773D4AE14DBDB1EBE1DA96FBF4C1D28E92" downloadHash="0462F684CDD1D45796981303066D462A36B79900" name="alaron q22se high kings road.trx" dlsize="2603355" size="16294646" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -110,7 +105,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C1F2AE4B61BAA51FFE0FF33B4AE53974731BEDEC" downloadHash="A5F9E63BDFD434FE207866208773CF6D59A6A869" name="gwynneth m34ne koart under.trx" dlsize="587859" size="1225028" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="41A21DAD8FD578AAF8A43DB0CE31C7D077C70D74" downloadHash="26528F854C7A39E5A31C12E31D4201945BB109BB" name="underdark area c west.trx" dlsize="167422" size="171019" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -125,12 +120,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="58091D4E38618D5EFC4C2EB9BC7EC66DAF9E6FD9" downloadHash="07DC83830DCDFF047B6FF6FF9DB9CA7AD09F15E6" name="snowdown s34 old tomb l1.trx" dlsize="317031" size="318090" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="82071BE1D38DA5A2BD6676EF3B6BB4B875DD31D6" downloadHash="F9924EF2B1041A5F28FF8041C51B7F5342D2E3B8" name="skaug d6 hill fort.trx" dlsize="1354461" size="10962375" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="531B105986CE2F7418A951D20BA2627DEEF92ECC" downloadHash="5938FCCECC601A03C9380524A06AABAE65F82194" name="alaron q20 farheight cave.trx" dlsize="649706" size="701406" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -145,7 +135,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0B0F1E1424E7C4B834BA39D4E8B2E3A270BD2C0A" downloadHash="A3FF32B63C817BFACDF2705BE9509E572C254D83" name="skaug blood drake interior.trx" dlsize="252690" size="888698" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4425775A77DC6EE0643A6258C950569AF9CB9A58" downloadHash="EADA6799CB9BDA080DBC17855DE3F13138C7A053" name="ruathym c5 haven interiors.trx" dlsize="347250" size="482969" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -156,11 +146,6 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="1784B3985489A2DCE33AE5A97331DF7228346E31" downloadHash="7516B5FD330033FA5225EE6B30EA47DEAA94AC3D" name="moray isle f28 moray town.trx" dlsize="4806201" size="20029004" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="9CBD621E14BDA0005057B46C376585517A2D3CFC" downloadHash="89942E0743C59B4F28D5B6D13E5EF25F9DA92FCB" name="snowdown s34 westphal inn tavern.trx" dlsize="241199" size="242876" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -205,12 +190,17 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7408BF715C78DD13AC93A47ACB9CC053306232C6" downloadHash="523FAFC62FC71299FCC43F4383A09B01F1067E2E" name="ruathym is. b3_c3.trx" dlsize="969302" size="13450771" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5AFCC1486145DA386FC6A4EA0719B7734A47803B" downloadHash="72C569C02450CCE06DDB1F3AB0DE9062D560E2EB" name="oman k25 iron keep cave.trx" dlsize="113188" size="292363" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="15EDA687BA02E35D04215106FD5D3023DF8A8895" downloadHash="4BD9BD99CB831363363817918123AC16B489B2C6" name="gwynneth m34nw corwell shops int.trx" dlsize="425364" size="472047" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="4D6873480242429AC1493A005DD701A0D913676A" downloadHash="EDAF118C2CCD83F61A543E724D4FD6510D0E58EE" name="alaron o24 aithelar tomb level_2.trx" dlsize="156240" size="157928" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -225,12 +215,22 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="CBB8EACFA6D6D2C743F5AA7725B3161F6FDD5412" downloadHash="B4F7EDFA6630B2DC586944869FFB1145E4766F5E" name="underdark drow outpost.trx" dlsize="2535750" size="19006070" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
   <resource type="DirectoryEntry" hash="2116C919CB016CCAFCA8A407DB72A876965E63C6" downloadHash="C9A1E0A0D67A846337EA42B34C0D7231346566AC" name="gwynneth l33 caer corwell int.trx" dlsize="187185" size="188831" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="30FA50006C1A0BD1D240DEADE7391F63BF5AB090" downloadHash="3B2F7B9D6537A2F8D04C398E235E2E5D6D93BF82" name="gwynneth o32 myrrdale int.trx" dlsize="410628" size="416615" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="486C4A2DD71074C0264BCA4E503A1FD5144CAB84" downloadHash="316C6CE7D91FECAC8ABA8F08A465315D0913EECE" name="alaron q24 hkr - horsa int.trx" dlsize="113673" size="114172" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -250,7 +250,22 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="0E7971138E28B88A07FFD8544604AB4E560B6191" downloadHash="3B763DB801809A84C5746AC8759BA5276BC0DD2B" name="alaron q22 c callidyrr docks n.trx" dlsize="3062348" size="19963186" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
   <resource type="DirectoryEntry" hash="885A2BC6EC3A755B51DA5CA0A7EB42FCA3FB1B2E" downloadHash="154BBDCEA02FF5269858BD46550B590E05CB54C2" name="alaron q22 c callidyrr east.trx" dlsize="3560827" size="19107188" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="58091D4E38618D5EFC4C2EB9BC7EC66DAF9E6FD9" downloadHash="07DC83830DCDFF047B6FF6FF9DB9CA7AD09F15E6" name="snowdown r34 old tomb l1.trx" dlsize="317031" size="318090" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="BDF452BFA3809D2CAE1A0F7B1C26B39F9739545D" downloadHash="E9C71AEA3FEB966ED1732E13C8882870472E51D6" name="ruathym a4 ext.trx" dlsize="531881" size="11265775" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -265,22 +280,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="49EA6A04EAB6E6535DE8FFD9C3256B03298BC97F" downloadHash="3D545597F233B4567D3701A1E9D204F11AE47FD5" name="gwynneth j34 firth isles.trx" dlsize="1717777" size="16315556" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="BDBB1791C692EB6C0C61EAA0E9FD6422BD8AFE1A" downloadHash="45AB332B8C1BD39C9B7FFD5563DBD997648BDA26" name="underdark area a west.trx" dlsize="95535" size="96864" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="B55C811EDEBDEFA42CE1C1451D70B2BD19474CA9" downloadHash="E417E8C30025D9C0237BC705CA82D2230CEB7CBA" name="skaug port temples.trx" dlsize="319510" size="819761" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="62E9DBC407944CFC2AB5D6C31EF2EF37259E9D4E" downloadHash="96042063984F0F76E7B7E074D90F5CCAAAFFB16F" name="undersea kressilacc int.trx" dlsize="208092" size="3516797" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F607F165CC7F1491D518C347B8EE2734A2601030" downloadHash="B1F30E767C447DEC31D8532FA246911149D3A393" name="alaron p21 farheight canyonpass.trx" dlsize="2472953" size="12763525" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -290,17 +295,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D54F68E85FD3022D79A1BAFA67974012CD8D2F0D" downloadHash="F261121F2C668054BA307FFFE8667C87D49AA937" name="wd 3x dock ward.trx" dlsize="906427" size="11991745" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="933D2DEFCFCD8517F24A9D01567006DA217779ED" downloadHash="4B0180D62369A60F61DB358CBABBCB77D26491AC" name="alaron q22 callidyrr int 2.trx" dlsize="367819" size="772943" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="D7D925E7D222E53DD720D0EC757DBCBEDC7AFCBF" downloadHash="A7AE95E87FE268192FBDF73A66686CC7FF1F6840" name="under the sea n24.trx" dlsize="1670794" size="14681181" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -311,6 +306,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="3744477F5CE2B92DF5A1AF1026CA386B3D1B14C3" downloadHash="9B09C3110907CE359201A93FD2445B74741D1AB3" name="gwynneth k29 high home-dwarven.trx" dlsize="9613456" size="41751229" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="A66A68A79EE38544C4ABA3B68C927BCC094E7022" downloadHash="60840A3754AB03460A66F33DD7EFDF7EA33EDEFB" name="alaron  aithelar to torriage.trx" dlsize="2778614" size="12531740" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -340,7 +340,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0E7971138E28B88A07FFD8544604AB4E560B6191" downloadHash="3B763DB801809A84C5746AC8759BA5276BC0DD2B" name="alaron q22 c callidyrr docks n.trx" dlsize="3062348" size="19963186" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A55A07E6DCE96FD6E391513A5B6F4FF3A216BC60" downloadHash="62247A41B825E5F9BE7245818072BA10EE84D0CD" name="cave complex 1.trx" dlsize="391782" size="397205" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="FD32ED8FDF6A4FD9AB8FA3906422EA632BD8F527" downloadHash="0413E217B5BD5A645E8D7948141D456244E1FC50" name="generic mountain pass.trx" dlsize="10123218" size="33750776" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -375,7 +380,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A66A68A79EE38544C4ABA3B68C927BCC094E7022" downloadHash="60840A3754AB03460A66F33DD7EFDF7EA33EDEFB" name="alaron  aithlor to torriage.trx" dlsize="2778614" size="12531740" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BDBB1791C692EB6C0C61EAA0E9FD6422BD8AFE1A" downloadHash="45AB332B8C1BD39C9B7FFD5563DBD997648BDA26" name="underdark area a west.trx" dlsize="95535" size="96864" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -400,12 +405,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="ED44A25E279B7DC8ECC3127DDDD5BD20ADA51920" downloadHash="A1CE047C5203587BC53903C6CB7B340777C78713" name="skaug port east.trx" dlsize="2201813" size="16613850" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="3360497E713ACAF3278BF6AC9AD28F48F9BAD94A" downloadHash="72ABECF0993341796BD8151A1BD73EF8C41247CB" name="alaron callidyrr twisted sail.trx" dlsize="135846" size="136555" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="82071BE1D38DA5A2BD6676EF3B6BB4B875DD31D6" downloadHash="F9924EF2B1041A5F28FF8041C51B7F5342D2E3B8" name="skaug d6 hill fort.trx" dlsize="1354461" size="10962375" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -415,7 +415,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="953788965E3C36198C161F6C46C5EDDE2333936D" downloadHash="7F159E4F32A0401BDA25C20FD8730C9C045784E7" name="generic mine.trx" dlsize="308970" size="310701" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7AFDBCAD59EBC57646F1E1D824BE4ECA013E1126" downloadHash="91EB2E88F6A926EAF4535A34CADFD6F54ED087F5" name="alaron q20 cave lvl2 waterlogged.trx" dlsize="582187" size="11618072" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -425,7 +425,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="AE4463DE20BC851152A4217CB1A0C2497884C68A" downloadHash="B50C3A077238A004D752A1A056FF38CCCF9396F0" name="skaug on board .trx" dlsize="192888" size="194782" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D6D96A15C89CD370CA0E55AE072ED5C2CAA75F8B" downloadHash="C2A00DD53B2DED989419F040EBF58AEE5F05020E" name="alaron r26 stirgewick plains.trx" dlsize="3447884" size="21396604" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -445,6 +445,11 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="555B9A4E92EDEE0EE32E7CE161EC6C8FCD950341" downloadHash="F35988178C394A11FDE73F6294511B1A95586C15" name="skaug port shops.trx" dlsize="472700" size="475345" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
   <resource type="DirectoryEntry" hash="71C2EF8F5C4420A1D53752DE9A68936FEFC29411" downloadHash="DEA0121CAEC5A811F19A756F4784544897AB70A4" name="nelanthar il. hook isle.trx" dlsize="6292054" size="31463112" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -456,6 +461,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="30397F17CADB2D5DBC4CFE5BFEAE37BEBA7CCF93" downloadHash="59862E53F4683F48E9C46BEF8CD62A95399F1C65" name="volcano.trx" dlsize="1600552" size="14088395" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="EE9EFDBD38DAC3011806709B8CC611547D4D5A37" downloadHash="CE603D9413B457DD6A0C5B8C0746774310AEBF19" name="alaron p22 farheight rd nw.trx" dlsize="3523087" size="19345701" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -495,12 +505,22 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="45D120E6452F861E703237AD0AB60D2856C3C506" downloadHash="BE4CB2CF82C1EAC9DAC83CACF9F4D619183BD5F0" name="alaron q21 whiterock mine1.trx" dlsize="308393" size="310267" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="1A8509143B161A59F129821571748645F6466FB0" downloadHash="5EAB739FE9249145F1D0A7473B64A5E0E7AD38D0" name="alaron s26 stirgewick coast.trx" dlsize="3915575" size="22217928" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
   <resource type="DirectoryEntry" hash="16AA65C5A10655901ECD5BE83DD90B37B7414968" downloadHash="88160B5F27EC9642D872C0B6A878A85846F2BF29" name="gwynneth l29 high home grove.trx" dlsize="464781" size="6433025" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="60444DAA31B32DD1A6392B70CDB2DE78FF209606" downloadHash="B6CE8DD1861FD33064E688D60557CEFDCEB0DA67" name="thayan estate mansion.trx" dlsize="401007" size="536154" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="00EF3D30E9D0AE133F58DCEA6CC053C3D4B0CB68" downloadHash="DF4F6A66824307C79051CE276E2A602BE95F6C63" name="skaug undersea cave.trx" dlsize="485784" size="7983342" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -515,17 +535,22 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="AE4463DE20BC851152A4217CB1A0C2497884C68A" downloadHash="B50C3A077238A004D752A1A056FF38CCCF9396F0" name="skaug on board .trx" dlsize="192888" size="194782" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
   <resource type="DirectoryEntry" hash="A0239CCE60713D7588EC016C92B567B8D18ED704" downloadHash="F023FC987095BFBFBFABCA7F49403D1EBC534DB0" name="skaug jail.trx" dlsize="167915" size="169954" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4144FEAE84DEE2240368A4C372E7ABFC2BFF20E3" downloadHash="8B20786A7B2DA79C977CC2B712B5E5F188FC7502" name="waterdeep sewer, drainage.trx" dlsize="915499" size="17274764" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3D62A17AC70DFE965F317AAA7D75F131CD1BE8CE" downloadHash="8169754F5652C1907EE88761952607A158614533" name="underdark karsoluthiyl crossrd.trx" dlsize="414900" size="12115358" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="54F1DF870A58585DC2DD0107510991806EF1751B" downloadHash="150B781906169E95200021C2330CAB8C08258EA6" name="generic_crypt_1a.trx" dlsize="160033" size="1880017" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4144FEAE84DEE2240368A4C372E7ABFC2BFF20E3" downloadHash="8B20786A7B2DA79C977CC2B712B5E5F188FC7502" name="waterdeep sewer, drainage.trx" dlsize="915499" size="17274764" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -545,7 +570,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="22A106898F4E31BAC83BAAF4502BF18B9B40DD37" downloadHash="67B56777F4307ECA54DDA6C3E7F29F7724AF3211" name="underdark karsoluthiyl.trx" dlsize="409576" size="12115358" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D54F68E85FD3022D79A1BAFA67974012CD8D2F0D" downloadHash="F261121F2C668054BA307FFFE8667C87D49AA937" name="wd 3x dock ward.trx" dlsize="906427" size="11991745" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -590,11 +615,6 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4DFD0EC4B0B1159816E1BA1F1FE75574F8D8AACE" downloadHash="932E514AD5FAC9E09DAC546599A5F27312CD367F" name="lost ruins 1.trx" dlsize="277418" size="6628266" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="E58ED45308715C665B858D03440824E758D25D67" downloadHash="DDC39464DD1964624C2CF1DF0912E15201B599F3" name="gwynneth m35 llyrath forest.trx" dlsize="2024574" size="14999011" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -630,7 +650,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FD32ED8FDF6A4FD9AB8FA3906422EA632BD8F527" downloadHash="0413E217B5BD5A645E8D7948141D456244E1FC50" name="mountain pass.trx" dlsize="10123218" size="33750776" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6761B28A7DC172D7DFF9BDA5E4200EBD638DCF2F" downloadHash="3ACD18AF72430B5B4BE166E3B6072832F3A53439" name="alaron q21 whiterock int.trx" dlsize="300535" size="393518" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="F26F8F638D47AB9637CD4ECEC3FDA3E9B603A145" downloadHash="3F96D5EBE87CB48A907825E315CBD1E649CF24BA" name="wd 4h dock_south ward.trx" dlsize="1840015" size="13222600" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -645,12 +670,17 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2F46F0F736B5464B2F4DF9C04D30219F17251FA1" downloadHash="1911F9E38EC050FA877D705A0CA7CAB627536BF9" name="generic cnnt cave_area2.trx" dlsize="1243742" size="1325290" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="21AAEB3AC0F009DEAA1A4317E9050266BC4BFCA1" downloadHash="882F8296AEAF606986695156D87FF9F4A6601FB3" name="skaug a5 coastal cave.trx" dlsize="157078" size="158806" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="72D8BD1E8E3B1C5DF7279BCB8868761A7C05FB3C" downloadHash="DB5767420EFBDEA8301FB019B5DE94FF84E6A5FC" name="fumirsstall.trx" dlsize="314318" size="8503884" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E7FE263F674526C1B27970BC06D445B567216EBB" downloadHash="FF1B2F97AC160A7FA1150EDCD98CF22C5A438177" name="skaug d4.trx" dlsize="1827296" size="10526157" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="232423ACD3C9522E1E58EDE76D6A04FB3A638018" downloadHash="1CD77B8D11EF538BF98942E1945E17F7143322BE" name="snowdown r34 westphal int 2.trx" dlsize="276234" size="952928" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -715,17 +745,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F26F8F638D47AB9637CD4ECEC3FDA3E9B603A145" downloadHash="3F96D5EBE87CB48A907825E315CBD1E649CF24BA" name="wd 4h dock_south ward.trx" dlsize="1840015" size="13222600" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="790FDBA0396477DF7C4D842C5AE53C08007D19C9" downloadHash="1DA4E6375D68A09F444757AD034A6EA0897F011E" name="norheim j15 deepbrother temple.trx" dlsize="31700" size="31774" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="21AAEB3AC0F009DEAA1A4317E9050266BC4BFCA1" downloadHash="882F8296AEAF606986695156D87FF9F4A6601FB3" name="skaug a5 coastal cave.trx" dlsize="157078" size="158806" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -736,11 +756,6 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="78012806EECA25B96DBD6D7F2BA6277B7E92137E" downloadHash="34F44B01DA7E4931FB84738D6D9303FD5A00EACC" name="gwynneth l29 strange ruins 2.trx" dlsize="340288" size="343495" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="04FBF1714B2B4A5C00FB7CF0AFC16DF0FF0792A2" downloadHash="39B3771E9A5B173A3742DF46161948F775C6755E" name="waterdeep sewer, canal.trx" dlsize="1171408" size="12073697" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -775,7 +790,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3D3ED61131A1571CB12F235F66686F241237DDB7" downloadHash="85EC982C6A84746C83FF024543A26AC6D62CFE01" name="gwynneth k29 high home lvl1.trx" dlsize="672607" size="703011" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1C2C1DF2B10ADF5A25EB7E84A2FA24F718D326B5" downloadHash="08C1E41FA0DCB9F3E0E38A25164361571A3FBC07" name="wd 4g dock ward int shops.trx" dlsize="128607" size="131536" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="7A7E7EA7732277AC4D23B7AB8C5735C5D1311007" downloadHash="C25CA2574AA29D9D488A52662C19246524338EE8" name="underdark karsoluthiyl city int.trx" dlsize="340254" size="346341" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -845,6 +865,11 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="AA610C393221E2E0E551A673E8D23A909F3BAEDC" downloadHash="654C9AA1D19A4BF6BB008FBC75C99692EE2362C9" name="snowdown r34 salty air tavern.trx" dlsize="158008" size="158748" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
   <resource type="DirectoryEntry" hash="38EFF4D43A5D0589C7D2CDECDD16244C63CC6004" downloadHash="97CFDEB3505984F6A7EE922B2501173485B588CD" name="alaron q25 high kings road.trx" dlsize="2253745" size="13107529" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -860,7 +885,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="00EF3D30E9D0AE133F58DCEA6CC053C3D4B0CB68" downloadHash="DF4F6A66824307C79051CE276E2A602BE95F6C63" name="skaug undersea cave.trx" dlsize="485784" size="7983342" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="41B7D5F6657F8D4BFC28EFAAB7CD45496D75EB98" downloadHash="C90CA7233C7798C58544413FB5D75253AA81C327" name="gwynneth l29 strange ruins 1.trx" dlsize="146571" size="1004353" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -870,7 +895,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C884976998CBC0E5DBE3D56D774B4F16D8D7EB0F" downloadHash="1C9997BD213D88725B27F63ACF781A8F2CD38E87" name="underdark karsoluthiyl interior.trx" dlsize="272771" size="291107" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A16CC7D797927A624FC65FC30DE388FB96A94F26" downloadHash="D0443B363A39C312626AD69809D27A20F0F9DEAE" name="wd 2l castle ward.trx" dlsize="1760745" size="12699780" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -880,7 +905,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="AECE14D6A55BF739E1958C64385F979E7727CA0A" downloadHash="40BADAD37241D160F50B911FF5C3DC6AA60CB09D" name="skaug d5.trx" dlsize="1561511" size="10975526" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8373048A61657A0E3505F5F854EEAF7B80C6ECD7" downloadHash="672663C08222818ECFB98D6214694B6C6C6C9069" name="alaron p21 farheight ruin2.trx" dlsize="752926" size="943071" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -896,6 +921,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="2527FB4A21EBBFB745472E741A3DA8BBEBD625FF" downloadHash="DEA270DF854F267F22813741C38210E457A1BA4D" name="gwynneth l30 myrloch sheepool.trx" dlsize="4927683" size="30509454" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="A54B7C511694E7E2CAA332020FEEE6C1FF161CC2" downloadHash="B9826BA69E9C7FBA61D4B2FE3322EB9C259326B4" name="moray isle f29 lac dyngall.trx" dlsize="3322423" size="19015954" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -935,7 +965,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5C5D1B2DD230D3C58FF267B6440DAE4109CD41A2" downloadHash="CC025BD4B7259F4C7370AA784D635626E06E0336" name="generic_crypt_1.trx" dlsize="178924" size="179362" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="818DE0F7206B6EF2B7D873C25884E1EFB1331360" downloadHash="8B148AD281146CF4989AC7276914DC9BCE7843F9" name="norheim j15 giantspine mountains.trx" dlsize="5747858" size="24721137" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -945,7 +975,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DFB8303BB36CA2D07DCDDB9E0721F88757F27642" downloadHash="1379FE0FFD4C76D571789C8277523D6DD87001E2" name="gwynneth n33 synnoria.trx" dlsize="5788664" size="30350634" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D02168656D3546B3BB09E81AED203792272150B5" downloadHash="EDABB958A42ECBEA9FB45D9E275309B5FC8BBD38" name="gwynneth m34ne koart hall.trx" dlsize="76784" size="77107" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -960,12 +990,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CED62EA1B9319A960D2F277F06E543E382682183" downloadHash="F01DB1A6CC6052C89EF862C2C9792ECCF4349F98" name="alaron r26 stirgwick plains.trx" dlsize="3441632" size="21404155" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="E5ABFCA59134CF43D03EDB12B7F55A914BE2E89E" downloadHash="6654132366C219D0D59375AA8B7086C6569C7195" name="wind wyrm at sea.trx" dlsize="1229905" size="14607195" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9CBD621E14BDA0005057B46C376585517A2D3CFC" downloadHash="89942E0743C59B4F28D5B6D13E5EF25F9DA92FCB" name="snowdown r34 westphal inn tavern.trx" dlsize="241199" size="242876" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -975,7 +1000,17 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="62E9DBC407944CFC2AB5D6C31EF2EF37259E9D4E" downloadHash="96042063984F0F76E7B7E074D90F5CCAAAFFB16F" name="undersea kressilacc int.trx" dlsize="208092" size="3516797" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
   <resource type="DirectoryEntry" hash="E0A0105FD0563F0BB36EB8D2FE3E7D37586E4699" downloadHash="F19AE113080B6B11A63493B2A37B7C2AF193D130" name="gwynneth quest areas.trx" dlsize="187888" size="321628" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="552CEB8C885477746D57E7324E6CC3C3F97F4ECC" downloadHash="EC9C667FDA5F0B46887E2494E4358AFA8ABF6798" name="skaug blood drake at sea.trx" dlsize="386830" size="7903218" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -990,17 +1025,22 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8F815DBB6A905C9F9B29750123CF7CBF76D6E729" downloadHash="81A71A8C6796ED11D8CAE54C86399657BC186446" name="gwynneth l34 corwell trding cstr.trx" dlsize="88825" size="89435" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="730EC4BEDDE9DB9346345E84B87744E05F16383C" downloadHash="52E9B1ED042986BA1BBD524BEBB049C0231327E7" name="cave complex 2.trx" dlsize="174325" size="176389" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C70B5844FB311418419F8F3729590D3AAEC39DB7" downloadHash="8D1E86689D159CAD643DB38BA8AC4870E2B49B91" name="moray isle d28 trollclaw mts.trx" dlsize="5615546" size="24311511" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="CFC2D01600356E8A159279E1FC6754A597AED97E" downloadHash="153448C80BC026EB1E641145A626730CD71E7A3A" name="alaron q24 hkr ruins 1.trx" dlsize="519840" size="659457" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5AFCC1486145DA386FC6A4EA0719B7734A47803B" downloadHash="72C569C02450CCE06DDB1F3AB0DE9062D560E2EB" name="oman k25 iron keep cave.trx" dlsize="113188" size="292363" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="AECE14D6A55BF739E1958C64385F979E7727CA0A" downloadHash="40BADAD37241D160F50B911FF5C3DC6AA60CB09D" name="skaug d5.trx" dlsize="1561511" size="10975526" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="4041A0C4E393BE99AD972B845D4F21D99A56A0D0" downloadHash="A0CBA6C0C074852B2ADCB383E96933055F48DAFE" name="alaron s24w torriage wood.trx" dlsize="5519803" size="24105557" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1025,7 +1065,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4425775A77DC6EE0643A6258C950569AF9CB9A58" downloadHash="EADA6799CB9BDA080DBC17855DE3F13138C7A053" name="ruathym c5 haven interiors.trx" dlsize="347250" size="482969" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C70B5844FB311418419F8F3729590D3AAEC39DB7" downloadHash="8D1E86689D159CAD643DB38BA8AC4870E2B49B91" name="moray isle d28 trollclaw mts.trx" dlsize="5615546" size="24311511" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1060,12 +1100,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B09CDFAA3F091436DC0E6FB420DBA0829EA7CC37" downloadHash="FFCF632DA244D4A8D0225C8F8CB00001BFEBEBC2" name="skaug captain covaanar quarters.trx" dlsize="120067" size="120577" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="8D137E72CB31AD5B179D45E86E4FF64299CA2EC4" downloadHash="9AB6696FF5EB6880F71155E91841CC6A0166DC8A" name="generic cnnt cave_area4.trx" dlsize="1364743" size="1409821" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C1F2AE4B61BAA51FFE0FF33B4AE53974731BEDEC" downloadHash="A5F9E63BDFD434FE207866208773CF6D59A6A869" name="gwynneth m34ne koart under.trx" dlsize="587859" size="1225028" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1075,7 +1110,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C6ACF128F623B78BF0D8ED299F165FB26AD51ED2" downloadHash="F951AC064B46CD19F3E9BCBD3F15DDA872D94031" name="generic sloops in battle.trx" dlsize="390035" size="7940163" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="04FBF1714B2B4A5C00FB7CF0AFC16DF0FF0792A2" downloadHash="39B3771E9A5B173A3742DF46161948F775C6755E" name="waterdeep sewer, canal.trx" dlsize="1171408" size="12073697" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1085,7 +1120,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9104512CB9423FBFAA0CDE454E59D74F0FDD0E41" downloadHash="AA7907F50C927EB52961E1BC6FEC1F77253C9FDD" name="skaug port crypts.trx" dlsize="544331" size="557501" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="ABB56E39080A79475B7DF57F5BE0C8D731D30E5F" downloadHash="6D6A383CABE6D81C49AA7059407963872C2D1E51" name="ruathym c3 sea caves.trx" dlsize="186625" size="1770761" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="58C73608051ED86E642D3CB5E831C733F9FBA8D0" downloadHash="3AAA21CC988989029FA4BF8E3FDC0148E41E49C7" name="gwynneth n29 cambro wild dwarves.trx" dlsize="2259304" size="11415873" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1100,7 +1140,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4041A0C4E393BE99AD972B845D4F21D99A56A0D0" downloadHash="A0CBA6C0C074852B2ADCB383E96933055F48DAFE" name="alaron s24w torriage wood.trx" dlsize="5519803" size="24105557" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4D306CEE6847F9A969054AAB79F52436E48B4B49" downloadHash="BC57C8E9AE95F4AA82F15792B164FEA1B4EB07F7" name="009 testing grounds.trx" dlsize="319958" size="8507633" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1120,7 +1160,22 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A54B7C511694E7E2CAA332020FEEE6C1FF161CC2" downloadHash="B9826BA69E9C7FBA61D4B2FE3322EB9C259326B4" name="moray isle f29 lac dyngall.trx" dlsize="3322423" size="19015954" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="389A334B40A19E1F9F790E37C96DD32C5D4D48C7" downloadHash="8C151FA5305AF4AF30916CE6B0165BBFF7DE83A3" name="generic ships at sea.trx" dlsize="1236474" size="14687944" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="374DAE9E668987E95E51B5AF7033F14EE00EDAB9" downloadHash="6D7A2F7883D24423CF0C75B71142ED75FBBC54E1" name="alaron q24 hkr ruins 2.trx" dlsize="364323" size="369839" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="72C896C097B57CA2EA2513E7998B4E51D25CDDC9" downloadHash="63E91145C6FAC3FF0DF91B63D427F89BBF4C746D" name="alaron q20 farheight caves2.trx" dlsize="175688" size="265593" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="9104512CB9423FBFAA0CDE454E59D74F0FDD0E41" downloadHash="AA7907F50C927EB52961E1BC6FEC1F77253C9FDD" name="skaug port crypts.trx" dlsize="544331" size="557501" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1155,27 +1210,27 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1FD6425AFBBE5C6D8BC46F0F9B9500102EA3D27B" downloadHash="DC54BC8C33144CA9EBEED7C603F896E7B30728F2" name="underdark area e.trx" dlsize="81946" size="83092" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="A332865C66C4F6C0E6ABAB67F4E1A33B67AA9CB1" downloadHash="FEBD78450EC139E208DABAAB1E777AA1B49F07D5" name="skaug trap store.trx" dlsize="241424" size="242813" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="85D0DE5970FF73FABE0B9D8D13AAAE95742C56A1" downloadHash="F34A07CEB18FBD45990626B103EB63EEAB9BBDAA" name="alaron q22 callidyrr housing.trx" dlsize="292047" size="562447" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E1EE5856C94B438393799D830D48DEC2F9014957" downloadHash="0AFD0CE79288058542637D94D9512E80956D4AD8" name="alaron q22 callidyrr housing.trx" dlsize="294619" size="564954" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="20662C2191654BB2EC4AD5652D18580C25BDEA20" downloadHash="C8706EA8509AE0EDE7502039E42C09FED1CAA8D1" name="gwynneth l34 trapper's inn.trx" dlsize="151629" size="285300" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E5ABFCA59134CF43D03EDB12B7F55A914BE2E89E" downloadHash="6654132366C219D0D59375AA8B7086C6569C7195" name="wind wyrm at sea.trx" dlsize="1229905" size="14607195" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5DADEBE2E22404266093388553028DB0D34566D8" downloadHash="C2AFB9A3AA0DEB0FFDF59259122CBF8B8F38C20D" name="ruathym sea caves.trx" dlsize="190119" size="1772568" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="30085041E2A1C9F11DD5971054BF52129DFF891E" downloadHash="E2786966FE59E829AE938817961D504AA0A2CB3F" name="nelanther deserted island.trx" dlsize="1835096" size="14996656" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="1FD6425AFBBE5C6D8BC46F0F9B9500102EA3D27B" downloadHash="DC54BC8C33144CA9EBEED7C603F896E7B30728F2" name="underdark area e.trx" dlsize="81946" size="83092" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1185,12 +1240,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0EEE0DC8A39BB64C8F987ECE9857B784B0E09100" downloadHash="762859D212DBBA0E9C968D976D51603B57634C92" name="alaron s23w rillifanes run.trx" dlsize="1721201" size="11392074" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2F46F0F736B5464B2F4DF9C04D30219F17251FA1" downloadHash="1911F9E38EC050FA877D705A0CA7CAB627536BF9" name="generic cnnt cave_area2.trx" dlsize="1243742" size="1325290" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C3826AF3D0A9C9B47DFEB32DF2F74E35F00CFEDB" downloadHash="386CFA1E4A9FB194DA3AC19AE74D8D3A6B60D8AC" name="gwynneth n34 house int.trx" dlsize="71045" size="71629" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="49EA6A04EAB6E6535DE8FFD9C3256B03298BC97F" downloadHash="3D545597F233B4567D3701A1E9D204F11AE47FD5" name="gwynneth j34 firth isles.trx" dlsize="1717777" size="16315556" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1201,6 +1256,16 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="B0C6D581333361E002E0B1294530886BE59EEF02" downloadHash="88CB95F579B88346B7FD1723D7D12484FDF12AB0" name="waterdeep transit ship.trx" dlsize="479246" size="7851976" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="8D137E72CB31AD5B179D45E86E4FF64299CA2EC4" downloadHash="9AB6696FF5EB6880F71155E91841CC6A0166DC8A" name="generic cnnt cave_area4.trx" dlsize="1364743" size="1409821" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="20662C2191654BB2EC4AD5652D18580C25BDEA20" downloadHash="C8706EA8509AE0EDE7502039E42C09FED1CAA8D1" name="gwynneth m34nw trappers inn.trx" dlsize="151629" size="285300" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1230,7 +1295,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5217935B911CAEFCE65E767E6CFAFAA8E7790712" downloadHash="22B8EB0F88D96E636B70DECDBD16F833796F4C87" name="skaug e4.trx" dlsize="1725583" size="11641408" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BDCB63826614DF2D2FF897AC31F53FD17D00085E" downloadHash="E96874133E68FE762CD1DFA1D923F27ABADB8861" name="alaron q21 whiterock flood mine.trx" dlsize="836721" size="11835175" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1240,7 +1305,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="58C73608051ED86E642D3CB5E831C733F9FBA8D0" downloadHash="3AAA21CC988989029FA4BF8E3FDC0148E41E49C7" name="gwynneth n29 cambro wild dwarves.trx" dlsize="2259304" size="11415873" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3360497E713ACAF3278BF6AC9AD28F48F9BAD94A" downloadHash="72ABECF0993341796BD8151A1BD73EF8C41247CB" name="alaron callidyrr twisted sail.trx" dlsize="135846" size="136555" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1265,17 +1330,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="41A21DAD8FD578AAF8A43DB0CE31C7D077C70D74" downloadHash="26528F854C7A39E5A31C12E31D4201945BB109BB" name="underdark area c west.trx" dlsize="167422" size="171019" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="D3C478EBCC7D977EAE85411D1C8317E1E6E488CF" downloadHash="74FC1CBBFD5279506B2BB8EF1B468C49A65488FD" name="gwynneth p33 kingsbay silver sal.trx" dlsize="192450" size="236403" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="0D850B4F7587E6D8BF7E58A3CA87260DD0E4ECCB" downloadHash="120F6B47060C897DFA8F8FFC5CFBA41F694D2876" name="snowdown s34 hazels wares.trx" dlsize="22086" size="22079" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1315,7 +1370,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="87FC0887CF45E6B3E31D4EF6A07373825FA178F1" downloadHash="7D988801516953D9A72DA7F3C16611CD8DEF845A" name="alaron S26 stirgwick coast.trx" dlsize="3893595" size="22195524" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0EEE0DC8A39BB64C8F987ECE9857B784B0E09100" downloadHash="762859D212DBBA0E9C968D976D51603B57634C92" name="alaron s23w rillifanes run.trx" dlsize="1721201" size="11392074" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1325,7 +1380,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D014BD11539C28D43E9D58BF14113C8F60FD20CC" downloadHash="BBAEE4164FBA6214E1DCF8E56C15521A49B6F5D7" name="alaron p21 cantrev blackstonerd.trx" dlsize="2282666" size="11004191" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4F06A0447B8BBE9818840703EF29EA3A9F2AC7B4" downloadHash="5067BD42085A62027DAF55ACE46707C267ADF31B" name="cave complex 3.trx" dlsize="349603" size="354403" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1335,22 +1390,17 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3E445AC2BEA5121CE9AA59D4E64B174D6B92B3DA" downloadHash="8CE1DAD38D84546670CD4D67AC6A39613A2A42F7" name="snowdown s34 temple.trx" dlsize="5241" size="5222" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D7D925E7D222E53DD720D0EC757DBCBEDC7AFCBF" downloadHash="A7AE95E87FE268192FBDF73A66686CC7FF1F6840" name="undersea n24.trx" dlsize="1670794" size="14681181" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="389A334B40A19E1F9F790E37C96DD32C5D4D48C7" downloadHash="8C151FA5305AF4AF30916CE6B0165BBFF7DE83A3" name="generic ships at sea.trx" dlsize="1236474" size="14687944" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3D3ED61131A1571CB12F235F66686F241237DDB7" downloadHash="85EC982C6A84746C83FF024543A26AC6D62CFE01" name="gwynneth k29 high home lvl1.trx" dlsize="672607" size="703011" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="818DE0F7206B6EF2B7D873C25884E1EFB1331360" downloadHash="8B148AD281146CF4989AC7276914DC9BCE7843F9" name="norheim j15 giantspine mountains.trx" dlsize="5747858" size="24721137" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="D02168656D3546B3BB09E81AED203792272150B5" downloadHash="EDABB958A42ECBEA9FB45D9E275309B5FC8BBD38" name="gwynneth m34ne koart hall.trx" dlsize="76784" size="77107" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D738AE1C7EDFC5FC29B44BB8B9409F6F05D10463" downloadHash="38846F9A43E74C01800161080F08C40648AD2817" name="underdark karsoluthiylportal int.trx" dlsize="298238" size="312734" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1365,7 +1415,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A2E9FF8276635630A887E6E35571C518085967F3" downloadHash="A7538A525814DBF349640E79C89ABD3317BD4599" name="skaug d3.trx" dlsize="1431250" size="10355117" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6904436AC7EE5CF7F2E54E44DF76883ADB6D9C1D" downloadHash="3946411F7F6146C6C9360649F20C84253E127054" name="alaron r26 stirgewick ruins1-1.trx" dlsize="135687" size="404855" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1380,7 +1430,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="41B7D5F6657F8D4BFC28EFAAB7CD45496D75EB98" downloadHash="C90CA7233C7798C58544413FB5D75253AA81C327" name="gwynneth l29 strange ruins 1.trx" dlsize="146571" size="1004353" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C6ACF128F623B78BF0D8ED299F165FB26AD51ED2" downloadHash="F951AC064B46CD19F3E9BCBD3F15DDA872D94031" name="009_ sloops in battle.trx" dlsize="390035" size="7940163" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1390,7 +1440,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="35CD66D103AA1260CD111B2C9848F1843E96D0D4" downloadHash="363BA83B0D493442D0A87976E64156F854136F2D" name="snowdown s34 westphal city.trx" dlsize="2225612" size="14123319" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="967B20F1C573D48777E0BAB1E3468C268AECD007" downloadHash="D32F0403D66CCD84ABEA3DCC250DC4A5035923CE" name="wd 4g dock ward.trx" dlsize="2044996" size="14453617" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1401,6 +1451,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="37B4B62A07428A9B5027C5FFB8BA16543851620F" downloadHash="99A509BB00D789094B3C4563FDC97C93D04DEE6E" name="wd 4g taverns_inns int.trx" dlsize="402194" size="449205" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="A2E9FF8276635630A887E6E35571C518085967F3" downloadHash="A7538A525814DBF349640E79C89ABD3317BD4599" name="skaug d3.trx" dlsize="1431250" size="10355117" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1420,7 +1475,17 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="232423ACD3C9522E1E58EDE76D6A04FB3A638018" downloadHash="1CD77B8D11EF538BF98942E1945E17F7143322BE" name="snowdown s34 westphal int 2.trx" dlsize="276234" size="952928" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="03C7D7E137BCB69A1C655EA2C724C42C0C0CA785" downloadHash="497368CE030736FD1D4534B3B37F49215626CD8B" name="nelanther drachenshore  cave.trx" dlsize="714880" size="729069" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="0D850B4F7587E6D8BF7E58A3CA87260DD0E4ECCB" downloadHash="120F6B47060C897DFA8F8FFC5CFBA41F694D2876" name="snowdown r34 hazels wares.trx" dlsize="22086" size="22079" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="6658D9E5257A1F46877820932355336D852F6AE2" downloadHash="8F2587D913CDFBE427838922262286ABED9F4652" name="alaron p21 farheight canyon int.trx" dlsize="480422" size="576608" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1430,17 +1495,17 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3E4657EF9A9C3BD50F7978AC9A3F4433FC2CA07C" downloadHash="22EFA5432669F29F3F0D42C3383D0AFB97E1AF29" name="alaron q27grady village.trx" dlsize="902191" size="6775613" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B09CDFAA3F091436DC0E6FB420DBA0829EA7CC37" downloadHash="FFCF632DA244D4A8D0225C8F8CB00001BFEBEBC2" name="skaug captain covaanar quarters.trx" dlsize="120067" size="120577" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="555B9A4E92EDEE0EE32E7CE161EC6C8FCD950341" downloadHash="F35988178C394A11FDE73F6294511B1A95586C15" name="skaug port shops.trx" dlsize="472700" size="475345" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="ED44A25E279B7DC8ECC3127DDDD5BD20ADA51920" downloadHash="A1CE047C5203587BC53903C6CB7B340777C78713" name="skaug port east.trx" dlsize="2201813" size="16613850" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B794B0582DB5201C216525794D402F1CC6821F07" downloadHash="5450544F9A3FDD33DC0F97D0DA4C467C77AE7872" name="Drachenshore Cave Map.trx" dlsize="723472" size="738268" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="178313A1F783D4542E9956CBCCA02C37B9364308" downloadHash="6070A9A5833785524672E234D3E268E14F1D8EF2" name="wind wyrm ship interior.trx" dlsize="129696" size="264968" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1450,12 +1515,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8C34A1F3EA7C07713CA4516C0203D9F378B40FCB" downloadHash="16ED59126D7E547726CDEAE50E1887FFC87029A4" name="alaron p22 farheight northwest.trx" dlsize="3514289" size="19345699" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3E4657EF9A9C3BD50F7978AC9A3F4433FC2CA07C" downloadHash="22EFA5432669F29F3F0D42C3383D0AFB97E1AF29" name="alaron q27grady village.trx" dlsize="902191" size="6775613" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="178313A1F783D4542E9956CBCCA02C37B9364308" downloadHash="6070A9A5833785524672E234D3E268E14F1D8EF2" name="wind wyrm ship interior.trx" dlsize="129696" size="264968" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6901831CF64A9AD90F65CA00B20D098C71827161" downloadHash="2E81A42BE292A2EBF0E514CD7578DE2A9E69041B" name="alaron o24 aithelar tomb level_1.trx" dlsize="415270" size="596307" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1475,22 +1540,32 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="34E8D5FD5B27D2A3B7305D62BE0F2B6B34CA1B7C" downloadHash="55FA8C1F53F26B04BC8445A05B9ECFDAE23B3973" name="generic merchant at sea.trx" dlsize="486787" size="7857113" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8F815DBB6A905C9F9B29750123CF7CBF76D6E729" downloadHash="81A71A8C6796ED11D8CAE54C86399657BC186446" name="gwynneth m34 corwell trding cstr.trx" dlsize="88825" size="89435" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BDF452BFA3809D2CAE1A0F7B1C26B39F9739545D" downloadHash="E9C71AEA3FEB966ED1732E13C8882870472E51D6" name="ruathym a4 ext.trx" dlsize="531881" size="11265775" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2959F0F08B267F5BFD3B8553D6E6FA2C82758EF5" downloadHash="E5ED885EC481D7F7B54E2391086BF551CCFCD930" name="underdark karsoluthiyl city.trx" dlsize="3138925" size="19761028" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="C7E258EECC42EAC42F92C484DF51FA1A19A60F77" downloadHash="3DE6429CF57402BF39216A95922AFE3BBF8041AA" name="snowdown r34 westphal int 1.trx" dlsize="341015" size="344185" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="CD75B0551812DFDD67BF0B4994F0A62C5358167B" downloadHash="DA9423CF1C88C74457CBF0410B14F95DD37D3421" name="generic volcanic ruin int.trx" dlsize="146419" size="147871" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="23E721BCFBB1B62680C1281EABF543480B1F9BBB" downloadHash="EF254EA709372D1CB25631AA541CF7B8B908A172" name="snowdown s33 the ride n.trx" dlsize="2918880" size="21822604" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="149C3BFDA4F24F2CDD780ED836A63EC0B3170598" downloadHash="B1F5ADE6F543A5A57DCA97AF11E62730FC2D9FBC" name="underdark area b.trx" dlsize="118031" size="297830" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="C7E258EECC42EAC42F92C484DF51FA1A19A60F77" downloadHash="3DE6429CF57402BF39216A95922AFE3BBF8041AA" name="snowdown s34 westphal int 1.trx" dlsize="341015" size="344185" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1525,12 +1600,17 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="98D80CE841FD9AF03C5DF59AE4920C516B50A856" downloadHash="5844AA5305E07AFFD39D828E2C3A6812C2A72B07" name="gwynneth l35 lost ruins 1.trx" dlsize="289230" size="6638212" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
   <resource type="DirectoryEntry" hash="9B5BB124B0861FF5CED4C8E8BC3BCD2635B785F0" downloadHash="4FED4EFD317FD3D5B2BADC952BD052DB75DD28AF" name="alaron r25 swanmay .trx" dlsize="2620360" size="14396899" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="967B20F1C573D48777E0BAB1E3468C268AECD007" downloadHash="D32F0403D66CCD84ABEA3DCC250DC4A5035923CE" name="wd 4g dock ward.trx" dlsize="2044996" size="14453617" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="54F1DF870A58585DC2DD0107510991806EF1751B" downloadHash="150B781906169E95200021C2330CAB8C08258EA6" name="gwynneth l35 lost ruins 3.trx" dlsize="160033" size="1880017" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1555,7 +1635,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="694C4C528C1EE902604F06A83789AAD58AD062B4" downloadHash="EFDDFF6FD88742B5E3158FD1D95ED87E0AD943DC" name="skaug d4.trx" dlsize="1819162" size="10518032" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="60444DAA31B32DD1A6392B70CDB2DE78FF209606" downloadHash="B6CE8DD1861FD33064E688D60557CEFDCEB0DA67" name="thayan estate mansion.trx" dlsize="401007" size="536154" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1570,12 +1650,22 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="125FBA6157000370667785F2B076DF7872C454FD" downloadHash="7F99B3AC7DB4B4BA09707C822899FB6D09AA571E" name="wd 2l castleward int.trx" dlsize="83837" size="83901" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
   <resource type="DirectoryEntry" hash="59A76A28C4C5EEE8627B87FC78CB12DE1EC14525" downloadHash="5563656799734D30698AD9D75A6F8C72370EBB61" name="skaug b6 lighthouse.trx" dlsize="1292450" size="10859434" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="0DD8AC10EFC20AD0588CD024AC578E0A2F567FEC" downloadHash="9961FF03927B231E5A9D439D1D0C3681C18D97EF" name="generic shore hideout cave.trx" dlsize="170196" size="890749" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="7408BF715C78DD13AC93A47ACB9CC053306232C6" downloadHash="523FAFC62FC71299FCC43F4383A09B01F1067E2E" name="ruathym  b3_c3.trx" dlsize="969302" size="13450771" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1625,17 +1715,17 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6F4ED583465E906DCE14AA905111458A3EDFEB02" downloadHash="CE79027555C6A8BFF57960516E2D86DE47B62785" name="gwynneth p34 cantrev horstall.trx" dlsize="1933272" size="12906989" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="73E523F2069628FE7588B9D688B4DB6F7F82D22B" downloadHash="51975911B5CCCBD1BE8CE481810BC44F6561100C" name="alaron p21 cantrev blackstone rd.trx" dlsize="2949939" size="14237837" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="AA610C393221E2E0E551A673E8D23A909F3BAEDC" downloadHash="654C9AA1D19A4BF6BB008FBC75C99692EE2362C9" name="snowdown s34 salty air tavern.trx" dlsize="158008" size="158748" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0B0F1E1424E7C4B834BA39D4E8B2E3A270BD2C0A" downloadHash="A3FF32B63C817BFACDF2705BE9509E572C254D83" name="skaug blood drake interior.trx" dlsize="252690" size="888698" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E835DF5259D918461C2330A060D8B5243E524099" downloadHash="64A6C5DA5AC0F6D7DA32F4684C480E69B30768FF" name="alaron q21 cave complex.trx" dlsize="770979" size="6568370" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5B6743849A5017EE6514B370F337790290AE7268" downloadHash="616766EFA20A68DDA0CB27B02648A63D133C3A57" name="snowdown r34 temple ilmater.trx" dlsize="16227" size="16285" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1645,12 +1735,22 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="6BCC3555A398F79F720537398CE2658F2CDAD208" downloadHash="799FCE0F954768D1B3E9DCC16D834D26CA2AA428" name="alaron r26 stirgewick ruins1-2.trx" dlsize="464515" size="470956" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="6F4ED583465E906DCE14AA905111458A3EDFEB02" downloadHash="CE79027555C6A8BFF57960516E2D86DE47B62785" name="gwynneth p34 cantrev horstall.trx" dlsize="1933272" size="12906989" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
   <resource type="DirectoryEntry" hash="30825D658317217477D903D52753CE26DEB5FD98" downloadHash="46C7F39785DAA0B8950EBEDAA50B86A69551F32F" name="skaug a5.trx" dlsize="1428105" size="10373907" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B64C33B802D49E937D266DEC668CCDAA70008248" downloadHash="2F27EF558C5F1EDC34C1E1A3266E7E674DC2834B" name="lost ruins2.trx" dlsize="274665" size="9283950" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7B1FFC39DC12DBA60FC3DC616535245A705484D5" downloadHash="EFA0C776C37F0BD12D5045072248558A5461472D" name="Skullport Skull Isle.trx" dlsize="672241" size="7730340" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1660,7 +1760,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="48923AB503196073C346E33B2B5C07189F0CCF07" downloadHash="0861A9134650E6D4C45081D7B91E5E0A6BE4AD48" name="skaug deserted island.trx" dlsize="1814382" size="14989557" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B64C33B802D49E937D266DEC668CCDAA70008248" downloadHash="2F27EF558C5F1EDC34C1E1A3266E7E674DC2834B" name="gwynneth l35 lost ruins 2.trx" dlsize="274665" size="9283950" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1676,16 +1776,6 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="3490DF8B5A45818991F219B4BB66FB2A7431D4FF" downloadHash="E9272032D69E6F6A9662FE36CA3ADEA7ACF55446" name="gwynneth m31 tunnels of dwvenhm.trx" dlsize="721802" size="809934" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="24A72E1CE3C13E7AF2543D0390564082791DD16C" downloadHash="8975F5789AE056A486402F397DE1FDB1C014F60B" name="fx_moefx_waterfall10.SEF" dlsize="329" size="2315" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="40AB891D0153D2389B4F9A4920B9098481F4AA3B" downloadHash="A99207CD05F73828178F2AE74CC70E2675DC5C36" name="fx_moefx_waterfall_bottom.SEF" dlsize="325" size="2329" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1740,16 +1830,6 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1023DB2943ABC1395A0FA2FD21A77E29457F4505" downloadHash="FEA59327C1EA258E1CC1A805BC956D705576272C" name="sjc_flyingswords.SEF" dlsize="426" size="2444" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="595129748EEE1E331CA14485C11E4283AA6067D4" downloadHash="A7ABC0BAF64B2BC8E385DCDF70886B755FE56A16" name="sjc_whitedragonscale.SEF" dlsize="344" size="865" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="FD97CC37F339CC2AF18C5DB7451EC267EDA78FAD" downloadHash="162F4F66B19A2658D90F9F98287218FA8A7AD6C7" name="total_invisibility.SEF" dlsize="326" size="837" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -1765,339 +1845,4 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6901831CF64A9AD90F65CA00B20D098C71827161" downloadHash="2E81A42BE292A2EBF0E514CD7578DE2A9E69041B" name="evil_ruins_level_1.trx" dlsize="415270" size="596307" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="4D6873480242429AC1493A005DD701A0D913676A" downloadHash="EDAF118C2CCD83F61A543E724D4FD6510D0E58EE" name="evil_ruins_level_2.trx" dlsize="156240" size="157928" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="3272BE7C6819472B164D40D51D30E0091862A97E" downloadHash="8B3B839BF72C991B0C4E362D10553482438C6D14" name="snowdown s34 temple illmater.trx" dlsize="16244" size="16307" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="20662C2191654BB2EC4AD5652D18580C25BDEA20" downloadHash="C8706EA8509AE0EDE7502039E42C09FED1CAA8D1" name="gwynneth m34nw trappers inn.trx" dlsize="151629" size="285300" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="FD32ED8FDF6A4FD9AB8FA3906422EA632BD8F527" downloadHash="0413E217B5BD5A645E8D7948141D456244E1FC50" name="generic mountain pass.trx" dlsize="10123218" size="33750776" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="C6ACF128F623B78BF0D8ED299F165FB26AD51ED2" downloadHash="F951AC064B46CD19F3E9BCBD3F15DDA872D94031" name="009_ sloops in battle.trx" dlsize="390035" size="7940163" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="8F815DBB6A905C9F9B29750123CF7CBF76D6E729" downloadHash="81A71A8C6796ED11D8CAE54C86399657BC186446" name="gwynneth m34 corwell trding cstr.trx" dlsize="88825" size="89435" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="CD75B0551812DFDD67BF0B4994F0A62C5358167B" downloadHash="DA9423CF1C88C74457CBF0410B14F95DD37D3421" name="generic volcanic ruin int.trx" dlsize="146419" size="147871" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="D6D96A15C89CD370CA0E55AE072ED5C2CAA75F8B" downloadHash="C2A00DD53B2DED989419F040EBF58AEE5F05020E" name="alaron r26 stirgewick plains.trx" dlsize="3447884" size="21396604" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="1A8509143B161A59F129821571748645F6466FB0" downloadHash="5EAB739FE9249145F1D0A7473B64A5E0E7AD38D0" name="alaron s26 stirgewick coast.trx" dlsize="3915575" size="22217928" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="486C4A2DD71074C0264BCA4E503A1FD5144CAB84" downloadHash="316C6CE7D91FECAC8ABA8F08A465315D0913EECE" name="alaron q24 hkr - horsa int.trx" dlsize="113673" size="114172" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="374DAE9E668987E95E51B5AF7033F14EE00EDAB9" downloadHash="6D7A2F7883D24423CF0C75B71142ED75FBBC54E1" name="alaron q24 hkr ruins 2.trx" dlsize="364323" size="369839" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="16CA84757EAF44ECB11E2F1FF0BDBE984FDB079E" downloadHash="76DD253488DDC773113A6DAB5B5933DC94FDB91E" name="alaron r26 stirgewick ruins1.trx" dlsize="131725" size="401439" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="6BCC3555A398F79F720537398CE2658F2CDAD208" downloadHash="799FCE0F954768D1B3E9DCC16D834D26CA2AA428" name="alaron r26 stirgewick ruins1-2.trx" dlsize="464515" size="470956" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="578335B39DA1AAC4E42EF9A64B19CAFE4831DB39" downloadHash="3C7734C89D5F2363AC8028F06C3A8C3BB62C9598" name="gwynneth l29 strange ruins 1-1.trx" dlsize="144710" size="1004232" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="6904436AC7EE5CF7F2E54E44DF76883ADB6D9C1D" downloadHash="3946411F7F6146C6C9360649F20C84253E127054" name="alaron r26 stirgewick ruins1-1.trx" dlsize="135687" size="404855" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="5B6743849A5017EE6514B370F337790290AE7268" downloadHash="616766EFA20A68DDA0CB27B02648A63D133C3A57" name="snowdown s34 temple ilmater.trx" dlsize="16227" size="16285" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="ABB56E39080A79475B7DF57F5BE0C8D731D30E5F" downloadHash="6D6A383CABE6D81C49AA7059407963872C2D1E51" name="ruathym c3 sea caves.trx" dlsize="186625" size="1770761" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="03C7D7E137BCB69A1C655EA2C724C42C0C0CA785" downloadHash="497368CE030736FD1D4534B3B37F49215626CD8B" name="nelanther drachenshore  cave.trx" dlsize="714880" size="729069" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="7408BF715C78DD13AC93A47ACB9CC053306232C6" downloadHash="523FAFC62FC71299FCC43F4383A09B01F1067E2E" name="ruathym  b3_c3.trx" dlsize="969302" size="13450771" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="B1FEE75075460CE2319B7AFF0B445C4074A7BA66" downloadHash="DD06D88E36A65D33B5F76A26FC24066761DD9F3E" name="alaron p21 farheight ruin1.trx" dlsize="609510" size="842082" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="4D306CEE6847F9A969054AAB79F52436E48B4B49" downloadHash="BC57C8E9AE95F4AA82F15792B164FEA1B4EB07F7" name="009 testing grounds.trx" dlsize="319958" size="8507633" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="CBB8EACFA6D6D2C743F5AA7725B3161F6FDD5412" downloadHash="B4F7EDFA6630B2DC586944869FFB1145E4766F5E" name="underdark drow outpost.trx" dlsize="2535750" size="19006070" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="D738AE1C7EDFC5FC29B44BB8B9409F6F05D10463" downloadHash="38846F9A43E74C01800161080F08C40648AD2817" name="underdark karsoluthiylportal int.trx" dlsize="298238" size="312734" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="531B105986CE2F7418A951D20BA2627DEEF92ECC" downloadHash="5938FCCECC601A03C9380524A06AABAE65F82194" name="alaron q20 farheight cave.trx" dlsize="649706" size="701406" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="B64C33B802D49E937D266DEC668CCDAA70008248" downloadHash="2F27EF558C5F1EDC34C1E1A3266E7E674DC2834B" name="gwynneth l35 lost ruins 2.trx" dlsize="274665" size="9283950" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="A66A68A79EE38544C4ABA3B68C927BCC094E7022" downloadHash="60840A3754AB03460A66F33DD7EFDF7EA33EDEFB" name="alaron  aithelar to torriage.trx" dlsize="2778614" size="12531740" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="6901831CF64A9AD90F65CA00B20D098C71827161" downloadHash="2E81A42BE292A2EBF0E514CD7578DE2A9E69041B" name="o24 aithelar tomb level_1.trx" dlsize="415270" size="596307" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="4D6873480242429AC1493A005DD701A0D913676A" downloadHash="EDAF118C2CCD83F61A543E724D4FD6510D0E58EE" name="o24 aithelar tomb level_2.trx" dlsize="156240" size="157928" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="7AFDBCAD59EBC57646F1E1D824BE4ECA013E1126" downloadHash="91EB2E88F6A926EAF4535A34CADFD6F54ED087F5" name="alaron q20 cave lvl2 waterlogged.trx" dlsize="582187" size="11618072" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="EE9EFDBD38DAC3011806709B8CC611547D4D5A37" downloadHash="CE603D9413B457DD6A0C5B8C0746774310AEBF19" name="alaron p22 farheight rd nw.trx" dlsize="3523087" size="19345701" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="45D120E6452F861E703237AD0AB60D2856C3C506" downloadHash="BE4CB2CF82C1EAC9DAC83CACF9F4D619183BD5F0" name="alaron q21 whiterock mine1.trx" dlsize="308393" size="310267" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="54F1DF870A58585DC2DD0107510991806EF1751B" downloadHash="150B781906169E95200021C2330CAB8C08258EA6" name="gwynneth l35 lost ruins 3.trx" dlsize="160033" size="1880017" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="B0CD643203618D01D639E71F76FCA599A9559C53" downloadHash="0568387C395A2C882BFA77C039C5C88B38D35275" name="generic caves.trx" dlsize="634904" size="643256" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="3DD2B68DE0E26EC603B7B5F3F35D98F62058ACBD" downloadHash="B493068282EF43BE8B31DFE8E8EE83390CCAB735" name="alaron q21whiterock int.trx" dlsize="300752" size="393655" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="98D80CE841FD9AF03C5DF59AE4920C516B50A856" downloadHash="5844AA5305E07AFFD39D828E2C3A6812C2A72B07" name="gwynneth l35 lost ruins 1.trx" dlsize="289230" size="6638212" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="E835DF5259D918461C2330A060D8B5243E524099" downloadHash="64A6C5DA5AC0F6D7DA32F4684C480E69B30768FF" name="alaron q21 whiterock caves.trx" dlsize="770979" size="6568370" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="6761B28A7DC172D7DFF9BDA5E4200EBD638DCF2F" downloadHash="3ACD18AF72430B5B4BE166E3B6072832F3A53439" name="alaron q21 whiterock int.trx" dlsize="300535" size="393518" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="4D6873480242429AC1493A005DD701A0D913676A" downloadHash="EDAF118C2CCD83F61A543E724D4FD6510D0E58EE" name="alaron o24 aithelar tomb level_2.trx" dlsize="156240" size="157928" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="6901831CF64A9AD90F65CA00B20D098C71827161" downloadHash="2E81A42BE292A2EBF0E514CD7578DE2A9E69041B" name="alaron o24 aithelar tomb level_1.trx" dlsize="415270" size="596307" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="BDCB63826614DF2D2FF897AC31F53FD17D00085E" downloadHash="E96874133E68FE762CD1DFA1D923F27ABADB8861" name="alaron q21 whiterock flood mine.trx" dlsize="836721" size="11835175" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="4F06A0447B8BBE9818840703EF29EA3A9F2AC7B4" downloadHash="5067BD42085A62027DAF55ACE46707C267ADF31B" name="cave complex 3.trx" dlsize="349603" size="354403" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="730EC4BEDDE9DB9346345E84B87744E05F16383C" downloadHash="52E9B1ED042986BA1BBD524BEBB049C0231327E7" name="cave complex 2.trx" dlsize="174325" size="176389" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="A55A07E6DCE96FD6E391513A5B6F4FF3A216BC60" downloadHash="62247A41B825E5F9BE7245818072BA10EE84D0CD" name="cave complex 1.trx" dlsize="391782" size="397205" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="3D62A17AC70DFE965F317AAA7D75F131CD1BE8CE" downloadHash="8169754F5652C1907EE88761952607A158614533" name="underdark karsoluthiyl crossrd.trx" dlsize="414900" size="12115358" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="2959F0F08B267F5BFD3B8553D6E6FA2C82758EF5" downloadHash="E5ED885EC481D7F7B54E2391086BF551CCFCD930" name="underdark karsoluthiyl city.trx" dlsize="3138925" size="19761028" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="F607F165CC7F1491D518C347B8EE2734A2601030" downloadHash="B1F30E767C447DEC31D8532FA246911149D3A393" name="alaron p21 farheight canyonpass.trx" dlsize="2472953" size="12763525" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="7A7E7EA7732277AC4D23B7AB8C5735C5D1311007" downloadHash="C25CA2574AA29D9D488A52662C19246524338EE8" name="underdark karsoluthiyl city int.trx" dlsize="340254" size="346341" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="6658D9E5257A1F46877820932355336D852F6AE2" downloadHash="8F2587D913CDFBE427838922262286ABED9F4652" name="alaron p21 farheight canyon int.trx" dlsize="480422" size="576608" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="73E523F2069628FE7588B9D688B4DB6F7F82D22B" downloadHash="51975911B5CCCBD1BE8CE481810BC44F6561100C" name="alaron p21 cantrev blackstone rd.trx" dlsize="2949939" size="14237837" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="D7D925E7D222E53DD720D0EC757DBCBEDC7AFCBF" downloadHash="A7AE95E87FE268192FBDF73A66686CC7FF1F6840" name="undersea n24.trx" dlsize="1670794" size="14681181" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="58CDC46DFE8990353A0599A3CB99DA94A64021F0" downloadHash="E6CBBB7367FB60EA0D45C22919D22060F53EBE89" name="alaron p21 farheight ruins 2.trx" dlsize="629411" size="645883" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="B8DC0B281870B6A2A2ACF176637DFA98FBB622A8" downloadHash="1A72D19A4C732ECB852470521F290556837293BE" name="snowdown r34 westphal city.trx" dlsize="1941827" size="14117066" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="58091D4E38618D5EFC4C2EB9BC7EC66DAF9E6FD9" downloadHash="07DC83830DCDFF047B6FF6FF9DB9CA7AD09F15E6" name="snowdown r34 old tomb l1.trx" dlsize="317031" size="318090" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="9CBD621E14BDA0005057B46C376585517A2D3CFC" downloadHash="89942E0743C59B4F28D5B6D13E5EF25F9DA92FCB" name="snowdown r34 westphal inn tavern.trx" dlsize="241199" size="242876" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="232423ACD3C9522E1E58EDE76D6A04FB3A638018" downloadHash="1CD77B8D11EF538BF98942E1945E17F7143322BE" name="snowdown r34 westphal int 2.trx" dlsize="276234" size="952928" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="AA610C393221E2E0E551A673E8D23A909F3BAEDC" downloadHash="654C9AA1D19A4BF6BB008FBC75C99692EE2362C9" name="snowdown r34 salty air tavern.trx" dlsize="158008" size="158748" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="0D850B4F7587E6D8BF7E58A3CA87260DD0E4ECCB" downloadHash="120F6B47060C897DFA8F8FFC5CFBA41F694D2876" name="snowdown r34 hazels wares.trx" dlsize="22086" size="22079" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="C7E258EECC42EAC42F92C484DF51FA1A19A60F77" downloadHash="3DE6429CF57402BF39216A95922AFE3BBF8041AA" name="snowdown r34 westphal int 1.trx" dlsize="341015" size="344185" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="23E721BCFBB1B62680C1281EABF543480B1F9BBB" downloadHash="EF254EA709372D1CB25631AA541CF7B8B908A172" name="snowdown s33 the ride n.trx" dlsize="2918880" size="21822604" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="5B6743849A5017EE6514B370F337790290AE7268" downloadHash="616766EFA20A68DDA0CB27B02648A63D133C3A57" name="snowdown r34 temple ilmater.trx" dlsize="16227" size="16285" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="8373048A61657A0E3505F5F854EEAF7B80C6ECD7" downloadHash="672663C08222818ECFB98D6214694B6C6C6C9069" name="alaron p21 farheight ruin2.trx" dlsize="752926" size="943071" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="A16CC7D797927A624FC65FC30DE388FB96A94F26" downloadHash="D0443B363A39C312626AD69809D27A20F0F9DEAE" name="wd 2l castle ward.trx" dlsize="1760745" size="12699780" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="30085041E2A1C9F11DD5971054BF52129DFF891E" downloadHash="E2786966FE59E829AE938817961D504AA0A2CB3F" name="nelanther deserted island.trx" dlsize="1835096" size="14996656" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="EBCBD7D939D00F8CE90363C036BBA0C575CECE27" downloadHash="30BE74501E77692E98F6BF4C16B566DEA946CFE6" name="wd 2l castleward int.trx" dlsize="165668" size="166017" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="72C896C097B57CA2EA2513E7998B4E51D25CDDC9" downloadHash="63E91145C6FAC3FF0DF91B63D427F89BBF4C746D" name="alaron q20 farheight caves2.trx" dlsize="175688" size="265593" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="5F6E2C2C04283ACB77C39F572F052C4F746215D9" downloadHash="59FC3C4C5301EE4EEF2C53AAF2E410E53A35B104" name="lit, magical wall brazier0.UEN" dlsize="453" size="1298" critical="false" exclude="false" urlOverride="">
 </content>
