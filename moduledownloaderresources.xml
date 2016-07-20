@@ -2095,14 +2095,9 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7FD0385A70D86B50D582E5C008F1B5BC6FBF4223" downloadHash="0464198EEBB77318622A772AC965FA112197E7D0" name="servers.XML" dlsize="264" size="624" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="5F6E2C2C04283ACB77C39F572F052C4F746215D9" downloadHash="59FC3C4C5301EE4EEF2C53AAF2E410E53A35B104" name="lit, magical wall brazier0.UEN" dlsize="453" size="1298" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
 </content>
