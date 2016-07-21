@@ -95,7 +95,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4E8F86773D4AE14DBDB1EBE1DA96FBF4C1D28E92" downloadHash="0462F684CDD1D45796981303066D462A36B79900" name="alaron q22se high kings road.trx" dlsize="2603355" size="16294646" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D29E515019E03CB355265DF11B51922229B2B164" downloadHash="0E3006B256C2EC23E55A4F0AB90699AF51528C4C" name="alaron q22se high kings road.trx" dlsize="2595228" size="16278869" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -905,7 +905,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8373048A61657A0E3505F5F854EEAF7B80C6ECD7" downloadHash="672663C08222818ECFB98D6214694B6C6C6C9069" name="alaron p21 farheight ruin2.trx" dlsize="752926" size="943071" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="45C1DDF8DEF9A5C787711681EA99CC46E202DDBF" downloadHash="EB0920EB709AB9984C9BC7B772B3B2A2E971C1D5" name="alaron p21 farheight ruin2.trx" dlsize="753186" size="943100" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1215,7 +1215,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E1EE5856C94B438393799D830D48DEC2F9014957" downloadHash="0AFD0CE79288058542637D94D9512E80956D4AD8" name="alaron q22 callidyrr housing.trx" dlsize="294619" size="564954" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0F55FABC565A7C5BC16B0F0AEA8593FDCB5733B8" downloadHash="90694E4D3A414A5930B93E8383B118994528A5E9" name="alaron q22 callidyrr housing.trx" dlsize="292803" size="563014" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1650,7 +1650,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="125FBA6157000370667785F2B076DF7872C454FD" downloadHash="7F99B3AC7DB4B4BA09707C822899FB6D09AA571E" name="wd 2l castleward int.trx" dlsize="83837" size="83901" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1D02CC498E3C761CA6FFB3063471E2F9C5A3FE66" downloadHash="FFAACBF63B9D4237154CF45BD53F90CD125A105C" name="wd 2l castleward int.trx" dlsize="179455" size="179914" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
