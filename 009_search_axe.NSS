@@ -19,7 +19,7 @@ void main()
         return;
 
     // Spawn "plc_gaxe_secretd".
-    oTarget = GetWaypointByTag("WP_greataxe1");
+    oTarget = GetNearestObjectByTag("WP_greataxe1");
     oSpawn = CreateObject(OBJECT_TYPE_PLACEABLE, "plc_gaxe_secretdr_trg1", GetLocation(oTarget));
 
     // Have us say something.
