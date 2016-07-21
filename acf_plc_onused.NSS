@@ -50,5 +50,13 @@ void main() {
     ACR_PlaceableOnUsed();
   
     // Custom code goes here.
-	
+
+/*
+	This script allows you to speak to an object.
+	Set a conversation, set Usable to True,
+*/
+{
+	object oUser = GetLastUsedBy();
+    ActionStartConversation(oUser);
+}	
 }
