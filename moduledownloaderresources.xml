@@ -295,7 +295,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="361713FE24C3ADFD4B3DEBF618E35273D7EBF016" downloadHash="B7C60D00E7BCDBFF549DD524C4E954D5DE087692" name="alaron q22 callidyrr int 2.trx" dlsize="368869" size="775064" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2FA8A80FF0089983A8161F7CB91CF4E131142997" downloadHash="D9E4904FCC4E38E64940FA87CC03B2D92D7BD8CD" name="alaron q22 callidyrr int 2.trx" dlsize="374078" size="779528" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -905,7 +905,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="45C1DDF8DEF9A5C787711681EA99CC46E202DDBF" downloadHash="EB0920EB709AB9984C9BC7B772B3B2A2E971C1D5" name="alaron p21 farheight ruin2.trx" dlsize="753186" size="943100" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C3E3F613B35995EC8967935F1307A2B9D0366E3B" downloadHash="27059325B7EDAE4F63CFB74EAE3AEED0A1E100F2" name="alaron p21 farheight ruin2.trx" dlsize="753677" size="943111" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>

@@ -20,7 +20,7 @@ void main()
 
     // Spawn "plc_gaxe_secretd".
     oTarget = GetWaypointByTag("WP_greataxe2");
-    oSpawn = CreateObject(OBJECT_TYPE_PLACEABLE, "plc_gaxe_secretdr_trg21", GetLocation(oTarget));
+    oSpawn = CreateObject(OBJECT_TYPE_PLACEABLE, "plc_gaxe_secretdr_trg2", GetLocation(oTarget));
 
     // Have us say something.
     SpeakString("*you discover the axe will turn, which reveals a small alcove with a ladder down");
