@@ -71,10 +71,10 @@ void RunTrap(float fDelay)
     string sMessage2    = "Green Gas starts to billow from two vents on the floor!";
     // Gas eminates from these 2 waypoints...........
     location lTrap1     = GetLocation (GetNearestObjectByTag ("gaswaypt1"));
-    location lTrap2     = GetLocation (GetWaypointByTag ("gaswaypt2"));
+    location lTrap2     = GetLocation (GetNearestObjectByTag ("gaswaypt2"));
     // The 2 doors that lock you in this area
-    object oDoor1       = GetObjectByTag ("GasTrap1");
-    object oDoor2       = GetObjectByTag ("GasTrap2");
+    object oDoor1       = GetNearestObjectByTag ("GasTrap1");
+    object oDoor2       = GetNearestObjectByTag ("GasTrap2");
     // Defines invisible object tagged "DoorLocker" to code for use to
     // close the doors
    // object oDoorLocker  = GetObjectByTag("DoorLocker");
