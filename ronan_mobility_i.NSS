@@ -38,12 +38,13 @@ void Climb(object climber, int dc, object climbTo, float heightFeet, object fall
 	}
 }
 
-void ClimbOnUsed() {
+void ClimbOnUsed() 
+{
 	Climb(
 		GetLastUsedBy(),
 		GetLocalInt(OBJECT_SELF,"RONAN_CLIMB_DC"),
 		GetNearestObjectByTag(GetLocalString(OBJECT_SELF,"RONAN_CLIMB_DEST")),
 		GetLocalFloat(OBJECT_SELF,"RONAN_CLIMB_HEIGHT"),
 	    GetNearestObjectByTag(GetLocalString(OBJECT_SELF,"RONAN_CLIMB_FALL_DEST"))
-	);
+			);
 }
