@@ -70,7 +70,7 @@ void RunTrap(float fDelay)
     object oPC          = GetEnteringObject();
     string sMessage2    = "Green Gas starts to billow from two vents on the floor!";
     // Gas eminates from these 2 waypoints...........
-    location lTrap1     = GetLocation (GetWaypointByTag ("gaswaypt1"));
+    location lTrap1     = GetLocation (GetNearestObjectByTag ("gaswaypt1"));
     location lTrap2     = GetLocation (GetWaypointByTag ("gaswaypt2"));
     // The 2 doors that lock you in this area
     object oDoor1       = GetObjectByTag ("GasTrap1");
