@@ -55,7 +55,18 @@ void main()
     {
         SetLocalInt(oDoorLocker, "NoDelay", 1);
         RunTrap();
-    }   
+    }
+	  {
+   
+object oSelf = OBJECT_SELF;
+    // Only fire for (real) PCs.
+    if ( !GetIsPC(oPC)  ||  GetIsDMPossessed(oPC) )
+        return;
+
+    // Destroy an object (not fully effective until this script ends).
+    DestroyObject(oSelf);
+}
+     
 }
 void RunTrap(float fDelay)
 {
@@ -93,6 +104,15 @@ void RunTrap(float fDelay)
     // Locks both the now Closed doors trapping the hapless PC's in with the Gas MUHAHAHA
     DelayCommand(fDelay, SetLocked(oDoor1, TRUE));
     DelayCommand(fDelay, SetLocked(oDoor2, TRUE));
+  {
+object oSelf = OBJECT_SELF;
+    // Only fire for (real) PCs.
+    if ( !GetIsPC(oPC)  ||  GetIsDMPossessed(oPC) )
+        return;
+
+    // Destroy an object (not fully effective until this script ends).
+    DestroyObject(oSelf);
+}
     // If there was a casting delay then use the delay comm with both delays
 
  // if (GetLocalInt(oDoorLocker, "NoDelay") != 1)
@@ -106,17 +126,5 @@ void RunTrap(float fDelay)
    //   DelayCommand(fCastDur, SetLocalInt(oDoorLocker, "Triggered", 0));
   // }
  
-   {
-   
-
-  
-object oSelf = OBJECT_SELF;
-    // Only fire for (real) PCs.
-    if ( !GetIsPC(oPC)  ||  GetIsDMPossessed(oPC) )
-        return;
-
-    // Destroy an object (not fully effective until this script ends).
-    DestroyObject(oSelf);
-}
-  
+ 
    }
