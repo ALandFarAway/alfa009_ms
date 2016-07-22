@@ -905,7 +905,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3E1B3BFF682F270D997561EADBE91CBBB917B93A" downloadHash="3207A39937E96E8565B45CB9FFECC7C45C8D3D4D" name="alaron p21 farheight ruin2.trx" dlsize="762817" size="952495" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BBC8F85B4521EB287E1BD700EC9DC2DF23AD2865" downloadHash="91B96385F4B2337DE8CB8176BEE70DE637487526" name="alaron p21 farheight ruin2.trx" dlsize="762819" size="952496" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>

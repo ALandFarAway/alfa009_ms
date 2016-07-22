@@ -56,16 +56,6 @@ void main()
         SetLocalInt(oDoorLocker, "NoDelay", 1);
         RunTrap();
     }
-	  {
-   
-object oSelf = OBJECT_SELF;
-    // Only fire for (real) PCs.
-    if ( !GetIsPC(oPC)  ||  GetIsDMPossessed(oPC) )
-        return;
-
-    // Destroy an object (not fully effective until this script ends).
-    DestroyObject(oSelf);
-}
      
 }
 void RunTrap(float fDelay)
