@@ -32,7 +32,7 @@ void Climb(object climber, int dc, object climbTo, float heightFeet, object fall
 
 	if(GetIsSkillSuccessful(climber, 31, dc)) {
 		AssignCommand(climber, SpeakString("<i>*successfully makes the climb*</i>"));
-		AssignCommand(climber, DelayCommand(0.5, ActionJumpToObject(climbTo)));
+		AssignCommand(climber, DelayCommand(0.5, ActionJumpToLocation(climbTo)));
 	} else {
 		Fall(climber, heightFeet, fallTo);
 	}

@@ -105,13 +105,14 @@ void RunTrap(float fDelay)
     DelayCommand(fDelay, SetLocked(oDoor1, TRUE));
     DelayCommand(fDelay, SetLocked(oDoor2, TRUE));
   {
-object oSelf = OBJECT_SELF;
+//object oSelf = OBJECT_SELF;
     // Only fire for (real) PCs.
-    if ( !GetIsPC(oPC)  ||  GetIsDMPossessed(oPC) )
-        return;
+   // if ( !GetIsPC(oPC)  ||  GetIsDMPossessed(oPC) )
+    //    return;
 
     // Destroy an object (not fully effective until this script ends).
-    DestroyObject(oSelf);
+   // DelayCommand(fDelay,DestroyObject(oSelf), TRUE));
+	//DestroyObject(oSelf);
 }
     // If there was a casting delay then use the delay comm with both delays
 
