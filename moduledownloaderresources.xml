@@ -635,7 +635,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="611FE0293B5302E5D10DD55FB7926CDBE0480AE5" downloadHash="1CFE632794F5F0535E332105DF5EF2C26EA3FD21" name="alaron q22 c callidyrr west.trx" dlsize="2909873" size="17358017" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4324235AA22142DB7794F2A00339C6D368491F83" downloadHash="3B7F7C4D5E99A6833790B17AD904AC002812696E" name="alaron q22 c callidyrr west.trx" dlsize="2906199" size="17348600" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1140,7 +1140,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4D306CEE6847F9A969054AAB79F52436E48B4B49" downloadHash="BC57C8E9AE95F4AA82F15792B164FEA1B4EB07F7" name="009 testing grounds.trx" dlsize="319958" size="8507633" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7F552FC04908DEAA588B6826E292D067320C950B" downloadHash="857F75129116893BB6F99220D144481A09904D7C" name="009 testing grounds.trx" dlsize="321234" size="8509308" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1350,7 +1350,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6EA37DE0843EAE0DA19C5FA47707B7AFA1052CED" downloadHash="B13E8D4EF46A1DD7681A2A799677B910E894811A" name="alaron p21 farheight mountains.trx" dlsize="5753479" size="24279665" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A81D9EE636C556BDA804065F8FA29397DE3BC0B1" downloadHash="1243C8187FE64E784BCED922ACBCA12A480C09DE" name="alaron p21 farheight mountains.trx" dlsize="6219716" size="25780333" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1560,7 +1560,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="23E721BCFBB1B62680C1281EABF543480B1F9BBB" downloadHash="EF254EA709372D1CB25631AA541CF7B8B908A172" name="snowdown s33 the ride n.trx" dlsize="2918880" size="21822604" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DD20E6304B0D3424226E40D33973A9393B79E40F" downloadHash="F75564BFA28E1EBA370154C48C7CDA80F2F9C2C3" name="snowdown s33 the ride n.trx" dlsize="4022597" size="23075351" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1600,7 +1600,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="98D80CE841FD9AF03C5DF59AE4920C516B50A856" downloadHash="5844AA5305E07AFFD39D828E2C3A6812C2A72B07" name="gwynneth l35 lost ruins 1.trx" dlsize="289230" size="6638212" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7CBA2E605A5649A3A566E059CEA4522A3017E717" downloadHash="A18ABEEA6BFE5875E7816A16ABD35729EBD2BF5F" name="gwynneth l35 lost ruins 1.trx" dlsize="284075" size="6633264" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1610,7 +1610,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="54F1DF870A58585DC2DD0107510991806EF1751B" downloadHash="150B781906169E95200021C2330CAB8C08258EA6" name="gwynneth l35 lost ruins 3.trx" dlsize="160033" size="1880017" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="565D62B85495F1C486A0AE7DB5908E4B314292A4" downloadHash="2192FE6750026930519FF813565E60CA0A7C1B76" name="gwynneth l35 lost ruins 3.trx" dlsize="156932" size="1880016" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1760,7 +1760,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B64C33B802D49E937D266DEC668CCDAA70008248" downloadHash="2F27EF558C5F1EDC34C1E1A3266E7E674DC2834B" name="gwynneth l35 lost ruins 2.trx" dlsize="274665" size="9283950" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="18CA67DFECCFA54536B2AB682A7174CB4D7B736C" downloadHash="B1554151516B84C66E02D2B2562B960295A46AF4" name="gwynneth l35 lost ruins 2.trx" dlsize="277263" size="9283950" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
