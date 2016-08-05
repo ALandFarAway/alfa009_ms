@@ -905,7 +905,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BBC8F85B4521EB287E1BD700EC9DC2DF23AD2865" downloadHash="91B96385F4B2337DE8CB8176BEE70DE637487526" name="alaron p21 farheight ruin2.trx" dlsize="762819" size="952496" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="35EB83F1D490A741E3B086BC20599DC0B93EDF3A" downloadHash="A0EF9F0559967A81F9B0C2593CFDEED7393AE20A" name="alaron p21 farheight ruin2.trx" dlsize="751440" size="942276" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1350,7 +1350,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A81D9EE636C556BDA804065F8FA29397DE3BC0B1" downloadHash="1243C8187FE64E784BCED922ACBCA12A480C09DE" name="alaron p21 farheight mountains.trx" dlsize="6219716" size="25780333" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5FA8BDA3D52111F5C20AEBCD2DA6BE335BAA8139" downloadHash="AEDAD352509BD2FF6B78EEC93F03153570CA0C35" name="alaron p21 farheight mountains.trx" dlsize="6221682" size="25789744" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
