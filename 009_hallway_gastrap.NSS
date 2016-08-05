@@ -101,7 +101,7 @@ object oSelf = OBJECT_SELF;
        return;
 
     // Destroy an object (not fully effective until this script ends).
-   // DelayCommand(fDelay,DestroyObject(oSelf), TRUE);
+   // DelayCommand(fDelay,DestroyObject(oSelf, TRUE));
 	DestroyObject(oSelf);
 }
     // If there was a casting delay then use the delay comm with both delays
