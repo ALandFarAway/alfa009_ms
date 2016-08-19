@@ -905,7 +905,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="35EB83F1D490A741E3B086BC20599DC0B93EDF3A" downloadHash="A0EF9F0559967A81F9B0C2593CFDEED7393AE20A" name="alaron p21 farheight ruin2.trx" dlsize="751440" size="942276" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="CF2805F800D4CD7775A039CCA01E5ABF048AC174" downloadHash="EF6FE941CDA699C51F116C0B3A1C23836B6FAF14" name="alaron p21 farheight ruin2.trx" dlsize="755363" size="945386" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1845,7 +1845,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="438A6AC38FC9EA4C2E0FE95B9C78AA213A17BAA3" downloadHash="B4374898B7BE198132392EC41A5FFFEBA96A13EB" name="snowdown t33 to brannoch.trx" dlsize="3549766" size="23504258" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="CFFBC228AF58A8B61B0B1A7AC05A15FA3C5128E1" downloadHash="48A379136348BBF33DFDB6D337790A26B57959F5" name="snowdown t33 to brannoch.trx" dlsize="3607324" size="23376630" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
