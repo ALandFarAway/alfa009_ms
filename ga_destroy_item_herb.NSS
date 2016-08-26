@@ -69,7 +69,7 @@ void main( string sItemTag ) {
 	nGP += ConsumeReward( oPC, "it_gloomshroom", 10, 8.0f, 5.0f );
 
 	// Nararoot: 10gp, 5xp, CR 5
-	nGP += ConsumeReward( oPC, "it_nararoot", 10, 15.0f, 5.0f );
+	nGP += ConsumeReward( oPC, "it_nararoot", 10, 5.0f, 5.0f );
 	
 	// Wormwood: 1gp, 0.5xp, CR 1
 	nGP += ConsumeReward( oPC, "009_field_herb1", 1, 0.5f, 1.0f );
@@ -82,6 +82,9 @@ void main( string sItemTag ) {
 	
 	//Mushrooms: 1gp, 1xp, CR .5	
 	nGP += ConsumeReward( oPC, "tg_mushrooms", 1, 1.0f, 1.0f );
+	
+	//Agrimont: 5gp, 3xp, CR 5	
+	nGP += ConsumeReward( oPC, "009_it_herb_agrimont", 5, 3.0f, 5.0f );
 	
 
 	// Reward GP.

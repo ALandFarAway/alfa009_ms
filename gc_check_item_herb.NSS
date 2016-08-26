@@ -27,7 +27,7 @@ int StartingConditional()
 	if(GetIsObjectValid(GetItemPossessedBy(GetPCSpeaker(),"009_woodland_mushrooms"))) return TRUE;
 	if(GetIsObjectValid(GetItemPossessedBy(GetPCSpeaker(),"tg_herb2"))) return TRUE; //wolfsbane
 	if(GetIsObjectValid(GetItemPossessedBy(GetPCSpeaker(),"tg_mushrooms"))) return TRUE; //skaug mushrooms
-	
+	if(GetIsObjectValid(GetItemPossessedBy(GetPCSpeaker(),"009_it_herb_agrimont"))) return TRUE; //agrimont
    // return GetIsObjectValid(GetItemPossessedBy(GetPCSpeaker(),sItem));
     
     return FALSE;

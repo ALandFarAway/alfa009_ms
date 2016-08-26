@@ -107,6 +107,12 @@ void main()
 		sRef = "009_field_herb1";
 		
 	}
+	 else if (sTag == "009_it_herb_agrimont") {
+		nHeal = 4;
+		nSurv = 5;
+		sMsg = "This plant looks useful, but it seems to be past its useful harvest time.";
+		sRef = "009_it_herb_agrimont";
+	}
 	bHealCheck = GetSkillRank(SKILL_HEAL, oPC, TRUE) >= nHeal;
 	bSurvCheck = GetSkillRank(SKILL_SURVIVAL, oPC, TRUE) >= nSurv;
 	bSpellCheck = GetSkillRank(SKILL_SPELLCRAFT, oPC, TRUE) >= nSpell;
