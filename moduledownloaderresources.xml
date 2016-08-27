@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <content xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <resource type="DirectoryEntry" hash="E40503040E701C55DFE55D630456B6DDBC2B0867" downloadHash="B679D75A01B93ADC3EAA46CF360BE2667CF0DBA2" name="alaron s23n torriage grove.trx" dlsize="927677" size="7713462" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="30D6934CA1B420657BA027F811EFF7631CA68D50" downloadHash="B5623D4752D7EEA47953D0FB36C7AE1CE2290489" name="alaron s23n torriage grove.trx" dlsize="907445" size="7627354" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -495,7 +495,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4B3B5489E9BC131F9549027783C080868CC70ADD" downloadHash="84A8F755C562131E3877F7F834207CE8E7A6D894" name="alaron q22 c callidyrr cstl int.trx" dlsize="368796" size="683867" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A9E6EC7AC3C932B8A6D6EB27E428570EC8E5B1C7" downloadHash="A8B9AEF90ACF3885A3119E52F4C538809935F23C" name="alaron q22 c callidyrr cstl int.trx" dlsize="370395" size="685774" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1845,12 +1845,22 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CFFBC228AF58A8B61B0B1A7AC05A15FA3C5128E1" downloadHash="48A379136348BBF33DFDB6D337790A26B57959F5" name="snowdown t33 to brannoch.trx" dlsize="3607324" size="23376630" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BFA7D38C0A6B34D1E485EED413E13BF5CF317CE7" downloadHash="3785755C0FF7A4402B4FFAF49F9E89F31659A9A4" name="snowdown t33 to brannoch.trx" dlsize="3833992" size="24043589" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="69E9700E4BB0730FAEEE290A87DFB44A4D3CC023" downloadHash="50DA5AE466B15B8F05E696069816CC980A08642B" name="snowdown t33 brannoch.trx" dlsize="2405939" size="15710324" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="85A8630A049ECBB1AAFD60E7E0477BD821FC047B" downloadHash="FFC571F98C9B6A3C354A160E381BEE8BFB40C9C3" name="snowdown t33 lodge area.trx" dlsize="1366893" size="15828607" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="1B27E5A99B54CA99D4F33A8CF3C623DF98360F6E" downloadHash="0C8EFDF61C4E079D038E8EB39D044D08B5727565" name="snowdown t33 broadleaf lodge int.trx" dlsize="259703" size="261143" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
