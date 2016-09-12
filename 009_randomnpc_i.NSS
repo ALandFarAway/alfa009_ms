@@ -9,9 +9,9 @@ const float _SIZE_STD_Z = 0.04f;
 const float _SIZE_MEAN_MALE = 1.0f;
 const float _SIZE_MEAN_FEMALE = 0.925f;
 
-const string VAR_RANDOMIZE_NPC = "010_RANDOMIZE_NPC";
-const string VAR_RANDOMIZE_NPC_EQUIP = "010_RANDOMIZE_NPC_EQUIP";
-const string VAR_RANDOMIZE_NPC_NAME = "010_RANDOMIZE_NPC_NAME";
+const string VAR_RANDOMIZE_NPC = "00_RANDOMIZE_NPC";
+const string VAR_RANDOMIZE_NPC_EQUIP = "00_RANDOMIZE_NPC_EQUIP";
+const string VAR_RANDOMIZE_NPC_NAME = "00_RANDOMIZE_NPC_NAME";
 
 
 void RandomizeNPCName(object oNPC = OBJECT_SELF)
@@ -60,7 +60,7 @@ void RandomizeNPCAppearance(object oNPC = OBJECT_SELF)
 		case RACIAL_SUBTYPE_GRAY_DWARF:
 		case RACIAL_SUBTYPE_SHIELD_DWARF:
 			// Dwarves have a higher beard chance.
-			fFacialHairChance = 0.8;
+			fFacialHairChance = 0.9;
 			break;
 		case RACIAL_SUBTYPE_DROW:
 			// Drow only have white hair.
@@ -132,41 +132,41 @@ void RandomizeNPCClothing(object oNPC = OBJECT_SELF)
 	//create clothing
 	switch (rCloth)
 		{
-		case 1:sArmType="010_it_clothcom";break;
-		case 2:sArmType="010_it_clothcom0";break;
-		case 3:sArmType="010_it_clothcom1";break;
-		case 4:sArmType="010_it_clothcom2";break;
-		case 5:sArmType="010_it_clothcom3";break;
-		case 6:sArmType="010_it_clothcomb";break;
-		case 7:sArmType="010_it_clothcomb0";break;
-		case 8:sArmType="010_it_clothcomb1";break;
-		case 9:sArmType="010_it_clothcomb2";break;
-		case 10:sArmType="010_it_clothcomb3";break;
-		case 11:sArmType="010_it_clothcomb4";break;
-		case 12:sArmType="010_it_clothcomb5";break;
-		case 13:sArmType="010_it_clothcomc";break;
-		case 14:sArmType="010_it_clothcomc0";break;
-		case 15:sArmType="010_it_clothcomc1";break;
-		case 16:sArmType="010_it_clothcomc2";break;
-		case 17:sArmType="010_it_clothcomc3";break;
-		case 18:sArmType="010_it_clothcomd";break;
-		case 19:sArmType="010_it_clothcomd0";break;
-		case 20:sArmType="010_it_clothcomd1";break;
+		case 1:sArmType="00_alfa_rand_cloth_blgl"     ;break;
+		case 2:sArmType="00_alfa_rand_cloth_laborbl"  ;break;
+		case 3:sArmType="00_alfa_rand_cloth_merchbl"  ;break;
+		case 4:sArmType="00_alfa_rand_cloth_sailorgrn";break;
+		case 5:sArmType="00_alfa_rand_cloth_merchgrn" ;break;
+		case 6:sArmType="00_alfa_rand_cloth_merchgrn1";break;
+		case 7:sArmType="00_alfa_rand_cloth_comylw"   ;break;
+		case 8:sArmType="00_alfa_rand_cloth_comylw1"  ;break;
+		case 9:sArmType="00_alfa_rand_cloth_comylw2"  ;break;
+		case 10:sArmType="00_alfa_rand_cloth_nobbrn"  ;break;
+		case 11:sArmType="00_alfa_rand_cloth_nobbrn1" ;break;
+		case 12:sArmType="00_alfa_rand_cloth_nobred"  ;break;
+		case 13:sArmType="00_alfa_rand_cloth_comred"  ;break;
+		case 14:sArmType="00_alfa_rand_cloth_comred1" ;break;
+		case 15:sArmType="00_alfa_rand_cloth_comblk"  ;break;
+		case 16:sArmType="00_alfa_rand_cloth_comblk1" ;break;
+		case 17:sArmType="00_alfa_rand_cloth_comblk2" ;break;
+		case 18:sArmType="00_alfa_rand_cloth_compurp" ;break;
+		case 19:sArmType="00_alfa_rand_cloth_compurp1";break;
+		case 20:sArmType="00_alfa_rand_cloth_compurp2";break;
 		}
 	object oArmour=CreateItemOnObject(sArmType);
 	//create boots
 	switch (rBoots)
 		{
-		case 1:sBootType="010_it_boots";break;
-		case 2:sBootType="010_it_boots1";break;
-		case 3:sBootType="010_it_boots2";break;
-		case 4:sBootType="010_it_bootscloth";break;
-		case 5:sBootType="010_it_bootscloth0";break;
-		case 6:sBootType="010_it_bootscloth2";break;
-		case 7:sBootType="010_it_bootscloth3";break;
-		case 8:sBootType="010_it_bootscloth4";break;
-		case 9:sBootType="010_it_boots0";break;
-		case 10:sBootType="010_it_boots3";break;
+		case 1:sBootType="00_rand_boot_simple";break;
+		case 2:sBootType="00_rand_boot_stud";break;
+		case 3:sBootType="00_rand_boot_simple1";break;
+		case 4:sBootType="00_rand_boot_simple2";break;
+		case 5:sBootType="00_rand_boot_simple3";break;
+		case 6:sBootType="00_rand_boot_simple4";break;
+		case 7:sBootType="00_rand_boot_hide";break;
+		case 8:sBootType="00_rand_boot_fancy";break;
+		case 9:sBootType="00_rand_boot_fancy1";break;
+		case 10:sBootType="00_rand_boot_fancy3";break;
 		}
 	object oBoots=CreateItemOnObject(sBootType);
 
@@ -203,45 +203,45 @@ string RandomNPCResref(int race=RACIAL_TYPE_HUMAN, float prob = 0.2)
 				case 0:
 					switch (Random(6)) {
 						case 0:
-							sResRef="abr_cr_DwarfExpertM";
+							sResRef="00_cr_dwarf_rand_com1";
 							break;
 						case 1:
-							sResRef="abr_cr_DwarfExpertF";
+							sResRef="00_cr_dwarf_rand_com2";
 							break;
 						case 2:
-							sResRef="abr_cr_DwarfWarriorA";
+							sResRef="00_cr_dwarf_rand_com3";
 							break;
 						case 3:
-							sResRef="abr_cr_DwarfWarriorH";
+							sResRef="00_cr_dwarf_rand_com4";
 							break;
 						case 4:
-							sResRef="abr_cr_DwarfAdeptM";
+							sResRef="00_cr_dwarf_rand_com5";
 							break;
 						case 5:
-							sResRef="abr_cr_DwarfAdeptF";
+							sResRef="00_cr_dwarf_rand_com6";
 							break;
 					}
 					break;
 				case 1:
-					sResRef="abr_cr_dwarf_commoner_m0";
+					sResRef="00_cr_dwarf_rand_com1";
 					break;
 				case 2:
-					sResRef="abr_cr_dwarf_commoner_m1";
+					sResRef="00_cr_dwarf_rand_com2";
 					break;
 				case 3:
-					sResRef="abr_cr_dwarf_commoner_m2";
+					sResRef="00_cr_dwarf_rand_com3";
 					break;
 				case 4:
-					sResRef="abr_cr_dwarf_commoner_m3";
+					sResRef="00_cr_dwarf_rand_com4";
 					break;
 				case 5:
-					sResRef="abr_cr_dwarf_commoner_f0";
+					sResRef="00_cr_dwarf_rand_com5";
 					break;
 				case 6:
-					sResRef="abr_cr_dwarf_commoner_f1";
+					sResRef="00_cr_dwarf_rand_com6";
 					break;
 				case 7:
-					sResRef="abr_cr_dwarf_commoner_f2";
+					sResRef="00_cr_dwarf_rand_com7";
 					break;
 			}
 			break;
@@ -270,38 +270,38 @@ string RandomNPCResref(int race=RACIAL_TYPE_HUMAN, float prob = 0.2)
 					}
 					break;
 				case 1:
-					sResRef="010_cr_gnome_comm0";
+					sResRef="00_cr_gnome_rand_com1";
 					break;
 				case 2:
-					sResRef="010_cr_gnome_comm1";
+					sResRef="00_cr_gnome_rand_com2";
 					break;
 				case 3:
-					sResRef="010_cr_gnome_comm2";
+					sResRef="00_cr_gnome_rand_com3";
 					break;
 				case 4:
-					sResRef="010_cr_gnome_comm3";
+					sResRef="00_cr_gnome_rand_com4";
 					break;
 				case 5:
-					sResRef="010_cr_gnome_comm4";
+					sResRef="00_cr_gnome_rand_com5";
 					break;
 				case 6:
-					sResRef="010_cr_gnome_comm5";
+					sResRef="00_cr_gnome_rand_com6";
 					break;
 				}
 			break;
 		case RACIAL_TYPE_GRAYORC:
 			switch(Random(4)) {
 				case 0:
-					sResRef = "010_cr_deepgnome0";
+					sResRef = "00_cr_deepgnome_rand_com0";
 					break;
 				case 1:
-					sResRef = "010_cr_deepgnome1";
+					sResRef = "00_cr_deepgnome_rand_com1";
 					break;
 				case 2:
-					sResRef = "010_cr_deepgnome2";
+					sResRef = "00_cr_deepgnome_rand_com2";
 					break;
 				case 3:
-					sResRef = "010_cr_deepgnome1";
+					sResRef = "00_cr_deepgnome_rand_com3";
 					break;
 			}
 			break;
