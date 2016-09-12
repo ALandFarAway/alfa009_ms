@@ -1440,7 +1440,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="967B20F1C573D48777E0BAB1E3468C268AECD007" downloadHash="D32F0403D66CCD84ABEA3DCC250DC4A5035923CE" name="wd 4g dock ward.trx" dlsize="2044996" size="14453617" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4B95B1E48AFF7C91A7AF54226ACF0725F79E1966" downloadHash="5ADB5D4FF65473C2BCAB4CF3C0EBE9FCA02B09FB" name="wd 4g dock ward.trx" dlsize="2059611" size="14465184" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
