@@ -495,7 +495,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1813753F9AD41A3C9532E8399060606ED5F2630B" downloadHash="DDC0D303C4510F9E4CFFBEE792676E325B9B518A" name="alaron q22 c callidyrr cstl int.trx" dlsize="365330" size="680753" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FCEF725973183434F8A9693B6BF5B147A59814AD" downloadHash="C5558DD52B924FD16EE910A7398D0C412057B951" name="alaron q22 c callidyrr cstl int.trx" dlsize="374225" size="689998" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
