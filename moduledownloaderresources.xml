@@ -50,7 +50,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B8DC0B281870B6A2A2ACF176637DFA98FBB622A8" downloadHash="1A72D19A4C732ECB852470521F290556837293BE" name="snowdown r34 westphal city.trx" dlsize="1941827" size="14117066" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="242AA30BCAE9E6381B9EB57EBC3C3F2F667BE8C5" downloadHash="08993F0BDEF5AE2DB8F49923608A28E983DA82BA" name="snowdown r34 westphal city.trx" dlsize="2215492" size="14117068" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1886,6 +1886,16 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="3BB9B97FCD4BC1658E5F1FDB382A2DCD928BA056" downloadHash="5251E678EB08B225E7881ECA433163117DD289FA" name="snowdown s33 shandilar keep.trx" dlsize="300349" size="3186086" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="2BDB0E03C5AC93DFA083E8FD0616D59B4272B354" downloadHash="65F9371F9D70292A9235796DD025B5D542AC0E56" name="skullport.trx" dlsize="2665302" size="12194967" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="D08F5A206954231E2FDECD84A70DCEE7753AAD8F" downloadHash="45524AB1E9CDDE6FA98B366253954BF0B0988606" name="skullport3.trx" dlsize="2338602" size="11012061" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
