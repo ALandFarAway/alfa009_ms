@@ -1560,7 +1560,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7626F8435999C4DB9A340AE4AF5051139ACCEF6A" downloadHash="C0590F0BE4616F69F54141FCD7ACF84C13985330" name="snowdown s33 the ride n.trx" dlsize="5266426" size="26537343" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="320A72D04A92BE15F0450547FE8426CFBC598DF0" downloadHash="84A87557383F3DED4B5A25219A1DF3E16B74A4A7" name="snowdown s33 the ride n.trx" dlsize="5328528" size="26705090" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1750,7 +1750,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7B1FFC39DC12DBA60FC3DC616535245A705484D5" downloadHash="EFA0C776C37F0BD12D5045072248558A5461472D" name="Skullport Skull Isle.trx" dlsize="672241" size="7730340" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="01220915769F135E85C3696736FC6754E24CA80F" downloadHash="EB10CF9A3C7DF56F9819DC81C7831A19C8EA7844" name="Skullport Skull Isle.trx" dlsize="672000" size="7730340" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1850,7 +1850,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B6DA0F31A6BEBD2FF1ED27108A64398F1E60B6BB" downloadHash="DF0ECE9DED931224205609EEEB009D70C9DFC29D" name="snowdown t33 brannoch.trx" dlsize="2323184" size="15628765" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2047AB4FB27A8ECBCB34CDC061B4F56DC1A7D667" downloadHash="EAAACE17562FD7FD5F764C6FAE229321644C7E52" name="snowdown t33 brannoch.trx" dlsize="2336253" size="15638150" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1870,7 +1870,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="ACCC607E3FCC61B8C38A4153DDBFB6E905B9C3EA" downloadHash="47DE449F2F359DB13E8D9BF9550AFCE4D6D9F7E1" name="snowdown t33 brannoch shop int.trx" dlsize="110164" size="110685" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6E3023A90E3F7595066B55DE06D2EF1BDD12A9FD" downloadHash="AFB491940A6F396B013AD6BC260D2E559D548FB6" name="snowdown t33 brannoch shop int.trx" dlsize="103542" size="103988" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1880,12 +1880,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F25BF405198508E3C295FD82D1FC8ED2CF5F9274" downloadHash="6E1FB2FD2F777F17B45B8F35D7D8291337686266" name="snowdown t33 brannoch public int.trx" dlsize="89869" size="90048" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C868EF5494A5F7ED93C9C546D064D60A68A7F8C6" downloadHash="C667DA2D8F2452D392BAE02B6A106B8227B0B909" name="snowdown t33 brannoch public int.trx" dlsize="82146" size="82388" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3BB9B97FCD4BC1658E5F1FDB382A2DCD928BA056" downloadHash="5251E678EB08B225E7881ECA433163117DD289FA" name="snowdown s33 shandilar keep.trx" dlsize="300349" size="3186086" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A57BAE9BB6E80F46EA3F5BA6E5DFE64A807AC80C" downloadHash="C81B7D76EAC13295F8033E3C0B5C28579AF16BCF" name="snowdown s33 shandilar keep.trx" dlsize="302295" size="3188261" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1896,6 +1896,16 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="D08F5A206954231E2FDECD84A70DCEE7753AAD8F" downloadHash="45524AB1E9CDDE6FA98B366253954BF0B0988606" name="skullport3.trx" dlsize="2338602" size="11012061" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="BC12D4D31E52B2337CFDB905158DDE9981272044" downloadHash="76C4186D2111E5DA001C05F0B9EFF1BDE75BA7BB" name="skullport3 west.trx" dlsize="2328126" size="11006888" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="948A0CFE2641552BA39FBB5D08E3991DF3A7C865" downloadHash="EACE31B5D7192A240A5778B383E66969B13A3C5A" name="skullport east.trx" dlsize="2636066" size="12162757" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
