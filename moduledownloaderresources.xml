@@ -1850,7 +1850,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2047AB4FB27A8ECBCB34CDC061B4F56DC1A7D667" downloadHash="EAAACE17562FD7FD5F764C6FAE229321644C7E52" name="snowdown t33 brannoch.trx" dlsize="2336253" size="15638150" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4C627D64BBFB4DE837E3A3600D13D5F8F5A206F4" downloadHash="56E85AFC1B666D7E7EBD132AD44F8BFA23115F70" name="snowdown t33 brannoch.trx" dlsize="2329196" size="15638360" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1865,12 +1865,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DC5CC60991E836479162F64DF91FD04CC19FEFF2" downloadHash="9E8A18A9D74222DD315CEFF460D48F33E958AE00" name="snowdown t33 brannoch inn.trx" dlsize="174787" size="175653" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8D026A4E4B6DEF3BB520D0A47352AA1F78CB6D3C" downloadHash="09C9CB6D0270B0B2D71EDE0AC482568653A44E23" name="snowdown t33 brannoch inn.trx" dlsize="173781" size="174804" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6E3023A90E3F7595066B55DE06D2EF1BDD12A9FD" downloadHash="AFB491940A6F396B013AD6BC260D2E559D548FB6" name="snowdown t33 brannoch shop int.trx" dlsize="103542" size="103988" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="AFE6BA958EE73C8081551FCE927E57B2E24141CB" downloadHash="00D974AE7CB591C9BA0399600F62BF2D5CB00E20" name="snowdown t33 brannoch shop int.trx" dlsize="103456" size="103833" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
