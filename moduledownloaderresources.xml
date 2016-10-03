@@ -1305,7 +1305,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3360497E713ACAF3278BF6AC9AD28F48F9BAD94A" downloadHash="72ABECF0993341796BD8151A1BD73EF8C41247CB" name="alaron callidyrr twisted sail.trx" dlsize="135846" size="136555" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9ADED002C8C6310D1B75DAA6B01342A2FDD312D8" downloadHash="C18BCF65A0ECA1ECE49CA1B3A763DBD9CD57F724" name="alaron callidyrr twisted sail.trx" dlsize="135720" size="136427" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1870,7 +1870,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="AFE6BA958EE73C8081551FCE927E57B2E24141CB" downloadHash="00D974AE7CB591C9BA0399600F62BF2D5CB00E20" name="snowdown t33 brannoch shop int.trx" dlsize="103456" size="103833" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5B2D73F4E195209CBCECCDD10443F79D08DB64AC" downloadHash="6959E0232D3AE072F33A7FB51B551AABB6F62883" name="snowdown t33 brannoch shop int.trx" dlsize="100833" size="101657" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1906,6 +1906,31 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="948A0CFE2641552BA39FBB5D08E3991DF3A7C865" downloadHash="EACE31B5D7192A240A5778B383E66969B13A3C5A" name="skullport east.trx" dlsize="2636066" size="12162757" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="EFE05CE66E87746DC2E25E1EBA142FFF40584B43" downloadHash="18093BD1FD40F2B7B014549AB079CC55A3E9DEAB" name="skullport burning troll.trx" dlsize="179015" size="447464" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="07B600BB85BC74AD3B09A924AFEEE0C2E5A90CE8" downloadHash="F7F12BEABFD8B31B90D8F024A350F43046C24BD6" name="skullport hall of the voice.trx" dlsize="69638" size="112972" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="582B67FB47DCD526827A80CE7120692F2176DFFF" downloadHash="0EBA7955A0590F100C4F14EA3394BC72BC7AA652" name="skullport the trolls guffaw1.trx" dlsize="75166" size="75556" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="97325FA9220DA33072A975293E98573B5C3FA0BC" downloadHash="BEE6E0AF43D95A491B412A4C63F90CECDA9E4A8C" name="skullport shops.trx" dlsize="707556" size="713636" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="D5E89FBA1AA3B81B1A6372843409B250B042C562" downloadHash="6F9380E4EB6BAAD6303556F4DDD2AEB2514A8F10" name="skullport cult plague fire death.trx" dlsize="236230" size="237858" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
