@@ -920,7 +920,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2527FB4A21EBBFB745472E741A3DA8BBEBD625FF" downloadHash="DEA270DF854F267F22813741C38210E457A1BA4D" name="gwynneth l30 myrloch sheepool.trx" dlsize="4927683" size="30509454" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="442F258CD496C63C6520A626A42EB692854CD51B" downloadHash="1F8E89197D8838FD26A654F5B092423914FE16AB" name="gwynneth l30 myrloch sheepool.trx" dlsize="4927717" size="30511035" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1145,7 +1145,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3D9E0B886F026271F04FA89B9BC2768ECC74002C" downloadHash="64EE9DB69A49EA166EF66B3F904E734359F9C281" name="gwynneth o33 macsheehan  int.trx" dlsize="627220" size="4066816" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C2EF9DB501324812FB44F4805F1D757ACBC98581" downloadHash="DC0DAD56C796CAB42A5D16E71B7F09189F8996DE" name="gwynneth o33 macsheehan  int.trx" dlsize="638099" size="4081222" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1885,7 +1885,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A57BAE9BB6E80F46EA3F5BA6E5DFE64A807AC80C" downloadHash="C81B7D76EAC13295F8033E3C0B5C28579AF16BCF" name="snowdown s33 shandilar keep.trx" dlsize="302295" size="3188261" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A6BFE8DA12180DF0BEBE9B18F04138B8C672ABA5" downloadHash="18EB6B93727AE7179DDD0C9284E30D69E95DC79F" name="snowdown s33 shandilar keep.trx" dlsize="309953" size="3196692" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1931,6 +1931,16 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="D5E89FBA1AA3B81B1A6372843409B250B042C562" downloadHash="6F9380E4EB6BAAD6303556F4DDD2AEB2514A8F10" name="skullport cult plague fire death.trx" dlsize="236230" size="237858" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="6DB8E878264F1FFA407512547636C72289D6F70F" downloadHash="D27CEA6F24E8F785FA1328B7832498793E68B8E2" name="skullport pirate areas.trx" dlsize="247792" size="292243" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="BC12D4D31E52B2337CFDB905158DDE9981272044" downloadHash="76C4186D2111E5DA001C05F0B9EFF1BDE75BA7BB" name="skullport west.trx" dlsize="2328126" size="11006888" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
