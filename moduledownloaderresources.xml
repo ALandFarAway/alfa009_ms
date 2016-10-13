@@ -400,7 +400,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A603DBCE56163A404B04D6AF098EC68B4AB9836E" downloadHash="2CAA7763CD432DC80DBC9E40D67E9E717F778BF3" name="gwynneth o34 macsheehan road.trx" dlsize="3054700" size="14704728" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="250C5DDB1B4D5A3F8863EEF8766E83C51ABAB39E" downloadHash="BB12DA46DF52737F3E4E33CAA6DDF42820252320" name="gwynneth o34 macsheehan road.trx" dlsize="3043686" size="14692023" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1885,7 +1885,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A6BFE8DA12180DF0BEBE9B18F04138B8C672ABA5" downloadHash="18EB6B93727AE7179DDD0C9284E30D69E95DC79F" name="snowdown s33 shandilar keep.trx" dlsize="309953" size="3196692" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B7F95A77516FE0BA1F1CB071170700B09736E72F" downloadHash="D3BDC02D3ABE16E656CD5BBB5E31688FBA4DF135" name="snowdown s33 shandilar keep.trx" dlsize="316908" size="3205108" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
