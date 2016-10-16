@@ -1365,7 +1365,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="49C8370758450706EBAFD7F35F8D3B5590122CE3" downloadHash="8B0D705CFFF2212073833D533C80EF268A79E8DA" name="gwynneth o33 llyrath forest int.trx" dlsize="1098010" size="1248774" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7FBF3DE011A9D62E87242C905DD3A4D9FD393293" downloadHash="D16D8B3FDC536CE4926B7095DDFE44DE913A5ECA" name="gwynneth o33 llyrath forest int.trx" dlsize="1226611" size="1376639" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
