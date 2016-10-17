@@ -75,7 +75,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BDD44586B7862292BB53D78633AEC0C20B2C0CAA" downloadHash="E5BE63CBB991FD53A7F531E00D7C04381D28DB71" name="gwynneth o33 kings road.trx" dlsize="1751901" size="10171631" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="25B1E8D9C79CE15D7B3A57497B4903813A2AFF6E" downloadHash="8A61BACBB3F0314CAE15B55D554C3FA904E45A43" name="gwynneth o33 kings road.trx" dlsize="1749417" size="10172430" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1941,6 +1941,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="BC12D4D31E52B2337CFDB905158DDE9981272044" downloadHash="76C4186D2111E5DA001C05F0B9EFF1BDE75BA7BB" name="skullport west.trx" dlsize="2328126" size="11006888" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="038CC5DC3FBEB32CADF55376D983A1C737AB0356" downloadHash="DD758FBAF9A9265848777B1F0CE9125DD98E672D" name="o33 kings road int.trx" dlsize="9785" size="9747" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
