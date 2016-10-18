@@ -765,7 +765,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E341D83F0DC99FAF53C89E1EC64A56F6B607161F" downloadHash="19E073C30F55DF0E133DC35589A3A92AB0D1D03F" name="alaron o24 aithelar.trx" dlsize="3676818" size="17217129" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9B23B322B196621F05253DAA07082F1C9124FE8B" downloadHash="EB69C83C34E136A8179F3B643BF0A57517A8ED32" name="alaron o24 aithelar.trx" dlsize="3735219" size="17269641" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1250,7 +1250,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="48E710C22828F21089BA29BC3AD19DC902733D69" downloadHash="3D14B915F2E4EBE020291E5B85B0D80A8479449F" name="gwynneth p33 kingsbay town ext.trx" dlsize="5570950" size="26901322" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5EE150EDFC634CD5AD8C34D3A5DC859F8051611F" downloadHash="3131EA355CBDCECA2FB2CC7FE5916B8A2403845A" name="gwynneth p33 kingsbay town ext.trx" dlsize="5586149" size="26901322" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1946,6 +1946,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="038CC5DC3FBEB32CADF55376D983A1C737AB0356" downloadHash="DD758FBAF9A9265848777B1F0CE9125DD98E672D" name="o33 kings road int.trx" dlsize="9785" size="9747" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="48A72EBA40DD7D118DEA21F065F1972B0872A56A" downloadHash="511A6AE4B764CE1EE17C3F4D8114282B02736D52" name="alaron o24 aithelar int.trx" dlsize="81381" size="81927" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
