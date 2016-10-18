@@ -765,7 +765,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9B23B322B196621F05253DAA07082F1C9124FE8B" downloadHash="EB69C83C34E136A8179F3B643BF0A57517A8ED32" name="alaron o24 aithelar.trx" dlsize="3735219" size="17269641" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1CAF161839630A53F6015F50582DA48A262AFF7C" downloadHash="0BCA739DF935E3AEB2FF25CBA2192CE0D3D2547F" name="alaron o24 aithelar.trx" dlsize="3699676" size="17244073" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1290,7 +1290,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DA9C1B31F9F6BED8CA014BEF5306E4F46A12C689" downloadHash="957097D2DC1D98E9866A3842239E32F3486F193C" name="gwynneth p33 kingsbay interiors.trx" dlsize="275783" size="320417" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4529D603E2FA661622AB3D3639DD7398929D5A2E" downloadHash="4EC36F10CD532A8BFDCA30719687D2EB9D33C534" name="gwynneth p33 kingsbay interiors.trx" dlsize="279526" size="324216" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
