@@ -765,7 +765,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1CAF161839630A53F6015F50582DA48A262AFF7C" downloadHash="0BCA739DF935E3AEB2FF25CBA2192CE0D3D2547F" name="alaron o24 aithelar.trx" dlsize="3699676" size="17244073" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3CB770D583FCA3BA5B1251BB3FDFED9D4191040F" downloadHash="742F06EC82153B6DE0145E8ECEBAC742CFF71DCC" name="alaron o24 aithelar.trx" dlsize="3677761" size="17226269" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1950,7 +1950,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="48A72EBA40DD7D118DEA21F065F1972B0872A56A" downloadHash="511A6AE4B764CE1EE17C3F4D8114282B02736D52" name="alaron o24 aithelar int.trx" dlsize="81381" size="81927" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="39C5D96D11576531DF691D70F4BD30E8182BF5A1" downloadHash="C601CEC84D4FB677834AB76AF6A875D96431F33F" name="alaron o24 aithelar int.trx" dlsize="114720" size="115565" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
