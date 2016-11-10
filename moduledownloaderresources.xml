@@ -710,7 +710,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0DB5089E50759F1491BC886C9EDA3E59A5CC1FDE" downloadHash="245238D4D43FEB1717C37B3484914895F99B1ECA" name="gwynneth o33 macsheehan ruins.trx" dlsize="3116013" size="16232336" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="717981CAFBA78C81F664A2BE824AF5CE44ED054F" downloadHash="8821B2B740B2D2D0AC003862EE82B9EAB728A1E5" name="gwynneth o33 macsheehan ruins.trx" dlsize="3142079" size="16269723" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
