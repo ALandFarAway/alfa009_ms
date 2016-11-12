@@ -1005,7 +1005,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E0A0105FD0563F0BB36EB8D2FE3E7D37586E4699" downloadHash="F19AE113080B6B11A63493B2A37B7C2AF193D130" name="gwynneth quest areas.trx" dlsize="187888" size="321628" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6B35ADF8BABEF0AA03D368252712CCD5F6D7CA21" downloadHash="47B04F6BD193186F66C60771A5EDB371C759B8E8" name="gwynneth quest areas.trx" dlsize="187772" size="321628" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1965,7 +1965,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="611488F075DD0B7EB9701E8009116718B10F175D" downloadHash="0CE1075285DFFB4E7D568EAD32093A7D6FDFDCF5" name="gwynneth o32 cambro trail int.trx" dlsize="71434" size="71792" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="03BB2B5CD98A107FE22C324D7DC5BE13F76DD70B" downloadHash="F69A9777CA22ABFE180500016311DED7C0A77821" name="gwynneth o32 cambro trail int.trx" dlsize="71430" size="71792" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
