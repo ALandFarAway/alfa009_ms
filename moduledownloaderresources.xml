@@ -1290,7 +1290,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4529D603E2FA661622AB3D3639DD7398929D5A2E" downloadHash="4EC36F10CD532A8BFDCA30719687D2EB9D33C534" name="gwynneth p33 kingsbay interiors.trx" dlsize="279526" size="324216" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D17BD630465A0F47AB7A3D5080764A7EE510FF88" downloadHash="4F1A01F1F808556B07D6AD03CCF304BBCDC1B8D4" name="gwynneth p33 kingsbay interiors.trx" dlsize="278184" size="322817" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1965,7 +1965,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="03BB2B5CD98A107FE22C324D7DC5BE13F76DD70B" downloadHash="F69A9777CA22ABFE180500016311DED7C0A77821" name="gwynneth o32 cambro trail int.trx" dlsize="71430" size="71792" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E05C5E725E3DA6A6ED18C0BB4A3BE296E74C295F" downloadHash="EF005F127550A312E18B6E434E3EAF6B5A00AA23" name="gwynneth o32 cambro trail int.trx" dlsize="71428" size="71792" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
