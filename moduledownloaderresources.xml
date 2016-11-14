@@ -75,7 +75,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5A5D0E7370DDE2F9A231F99A15409891E93DFB5A" downloadHash="3255EC5C4C976786F3C0ED169196314000DE510F" name="gwynneth o33 kings road.trx" dlsize="1733832" size="10154851" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6FC862D8899EC47017404433343200A95B8EE64E" downloadHash="287D12D83DC26A6390CDC2CB7D3028A25EC220B7" name="gwynneth o33 kings road.trx" dlsize="1735094" size="10154906" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1965,7 +1965,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="94ECF9B30DB995EB96C212C1A11F7AFF48BC8972" downloadHash="A6A796C4B76B4FF0171199550848C2F7AEDD1A97" name="gwynneth o32 cambro trail int.trx" dlsize="74029" size="74207" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E28CEDBB184871A906D374F95AB017D94A1E6BC2" downloadHash="D28F199447B8570B7A3B9AC4B35D50F1F2B266DF" name="gwynneth o32 cambro trail int.trx" dlsize="74030" size="74207" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1976,6 +1976,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="5B6743849A5017EE6514B370F337790290AE7268" downloadHash="616766EFA20A68DDA0CB27B02648A63D133C3A57" name="snowdown r34 temple illmater.trx" dlsize="16227" size="16285" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="D17BD630465A0F47AB7A3D5080764A7EE510FF88" downloadHash="4F1A01F1F808556B07D6AD03CCF304BBCDC1B8D4" name="gwynneth p33 kingsbay town int.trx" dlsize="278184" size="322817" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
