@@ -1965,7 +1965,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E05C5E725E3DA6A6ED18C0BB4A3BE296E74C295F" downloadHash="EF005F127550A312E18B6E434E3EAF6B5A00AA23" name="gwynneth o32 cambro trail int.trx" dlsize="71428" size="71792" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="94ECF9B30DB995EB96C212C1A11F7AFF48BC8972" downloadHash="A6A796C4B76B4FF0171199550848C2F7AEDD1A97" name="gwynneth o32 cambro trail int.trx" dlsize="74029" size="74207" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
