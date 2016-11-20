@@ -1750,7 +1750,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="01220915769F135E85C3696736FC6754E24CA80F" downloadHash="EB10CF9A3C7DF56F9819DC81C7831A19C8EA7844" name="Skullport Skull Isle.trx" dlsize="672000" size="7730340" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9AA186DEE0A4D1C11E2636FA86788CF2529DB675" downloadHash="8CF1B56A810D4E14FC93093C435ABBE861E93F56" name="Skullport Skull Isle.trx" dlsize="663044" size="7723237" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1905,7 +1905,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="948A0CFE2641552BA39FBB5D08E3991DF3A7C865" downloadHash="EACE31B5D7192A240A5778B383E66969B13A3C5A" name="skullport east.trx" dlsize="2636066" size="12162757" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3C74EAFDD68D96CB7311B129801AEA181943976E" downloadHash="BC28AF95AC4059ED087CC048245E11831CE8A807" name="skullport east.trx" dlsize="2631448" size="12162757" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1960,7 +1960,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9991A1EE42DA5CF9F24E6043757BE93177ACD82E" downloadHash="94901CC69655D1278953C1B35EAD8AA01508F5B4" name="gwynneth o34 macsheehan rd int.trx" dlsize="76997" size="77457" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7CDF062DBA9453D02F948087337C5E68E08540D6" downloadHash="1E9B46346F9BCFCF5625B1E14E6DF7B016AB3D44" name="gwynneth o34 macsheehan rd int.trx" dlsize="76704" size="77202" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
