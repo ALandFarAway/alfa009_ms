@@ -1990,7 +1990,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8B4B4D0E503E8717C9F27B86F1A01BE94A7185AE" downloadHash="21970D4CB96923C304A4C4CEE036520E63803182" name="gwynneth m34s lowhill ext.trx" dlsize="3753356" size="19359511" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="629C0F5785E5CE9493A37DBB39DD28E275411117" downloadHash="0361D4F297B6DE469353F5097D36459FA81F4A4E" name="gwynneth m34s lowhill ext.trx" dlsize="3753426" size="19359512" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
