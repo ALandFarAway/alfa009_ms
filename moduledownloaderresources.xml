@@ -1265,7 +1265,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="20662C2191654BB2EC4AD5652D18580C25BDEA20" downloadHash="C8706EA8509AE0EDE7502039E42C09FED1CAA8D1" name="gwynneth m34nw trappers inn.trx" dlsize="151629" size="285300" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="60BA73FA2098192B81AC8A58AC92916F475DE200" downloadHash="12D23410E2864E79E1ABB03872467142BADE99CC" name="gwynneth m34nw trappers inn.trx" dlsize="152040" size="285266" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1990,7 +1990,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CFA76C99CAEBEDFABD133E57B2BDFB969407EAE9" downloadHash="99C8DD5D8F32D6FDC91346AA150DE2D6FF8C7100" name="gwynneth m34s lowhill ext.trx" dlsize="3417990" size="18213445" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6B7FF75312A46FE6A633A12B806E9AB50E938351" downloadHash="EF1019DC9002A7CD0E6D2D27225CE1C480B4FF80" name="gwynneth m34s lowhill ext.trx" dlsize="3413790" size="18209634" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
