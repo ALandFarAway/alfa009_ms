@@ -1990,12 +1990,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8E9B8B7A38B9EE60630D4331EC7417FBBC12FDB5" downloadHash="03B6A67B1441CF264405D82BA1F6BBD1F0E80F73" name="gwynneth m34s lowhill ext.trx" dlsize="3754054" size="19363499" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="CFA76C99CAEBEDFABD133E57B2BDFB969407EAE9" downloadHash="99C8DD5D8F32D6FDC91346AA150DE2D6FF8C7100" name="gwynneth m34s lowhill ext.trx" dlsize="3417990" size="18213445" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A01FE58E47D1B2ABBD561487BAA1173DC89BCF0F" downloadHash="F0320790D74EC7111AFD20C127E557C07BBFFD54" name="gwynneth m34s lowhill road.trx" dlsize="2047037" size="13497995" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="77D9716907CFF5057DC70B20E3D1B9F7BB36AA22" downloadHash="AD814F9463E2E4EA01A6857D547B922F299CF466" name="gwynneth m34s lowhill road.trx" dlsize="2121440" size="13572940" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
