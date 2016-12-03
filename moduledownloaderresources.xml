@@ -800,7 +800,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3D183DCFBF1BB1884BB605728237FA6EE4389B4F" downloadHash="3416258FEED24B800793EB02CDB5820D3F1A0DE9" name="gwynneth n31 cambro mountains.trx" dlsize="2429241" size="14655756" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="34C675C3C95D68529DC2E22A98534DFA961BFA07" downloadHash="7E24A23829F0971773488E265FA706DE182061A8" name="gwynneth n31 cambro mountains.trx" dlsize="2447006" size="14649993" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
