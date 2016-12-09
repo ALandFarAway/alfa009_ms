@@ -855,7 +855,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="99135FAF118C49B07BD012F8552B36B09603F370" downloadHash="B0D959B36B072E516C3DF7D991BD812CC25F7E01" name="alaron s23w rillifane run int.trx" dlsize="496851" size="592032" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4CC27E974737962266E35567A30EE974A87A0B98" downloadHash="677129E97D840903A4E59E62106E6B322C18DC57" name="alaron s23w rillifane run int.trx" dlsize="496484" size="591916" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1990,12 +1990,17 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6B7FF75312A46FE6A633A12B806E9AB50E938351" downloadHash="EF1019DC9002A7CD0E6D2D27225CE1C480B4FF80" name="gwynneth m34s lowhill ext.trx" dlsize="3413790" size="18209634" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="AAD3E911E2EFF5FD69C80C4A9314FC4A0831F78B" downloadHash="B0CA82558E5D15E9E3A855CBEB5083FEAF92752E" name="gwynneth m34s lowhill ext.trx" dlsize="3431549" size="18209766" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="77D9716907CFF5057DC70B20E3D1B9F7BB36AA22" downloadHash="AD814F9463E2E4EA01A6857D547B922F299CF466" name="gwynneth m34s lowhill road.trx" dlsize="2121440" size="13572940" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="0CA8CDE41DB2538028F89994A6A80FE0E68FA3CA" downloadHash="B807AD8E2AC47F37279DDCB0CE8E2754F72349E5" name="003_derochelle_manor.trx" dlsize="345918" size="705813" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
