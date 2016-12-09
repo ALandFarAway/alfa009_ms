@@ -195,7 +195,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="15EDA687BA02E35D04215106FD5D3023DF8A8895" downloadHash="4BD9BD99CB831363363817918123AC16B489B2C6" name="gwynneth m34nw corwell shops int.trx" dlsize="425364" size="472047" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B2BB5674BC7F48BA6D1A453BCE0E04ABDDDF499C" downloadHash="78AB9C227CA6855A4972992C8D1EFFF667B35A01" name="gwynneth m34nw corwell shops int.trx" dlsize="427803" size="474523" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2000,7 +2000,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0CA8CDE41DB2538028F89994A6A80FE0E68FA3CA" downloadHash="B807AD8E2AC47F37279DDCB0CE8E2754F72349E5" name="003_derochelle_manor.trx" dlsize="345918" size="705813" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5EBAA54086CFB6B2E8DEC9757C83349D83DE021D" downloadHash="35C757D71F72ADED152F398A88C0DE9CCF7A1062" name="003_derochelle_manor.trx" dlsize="359079" size="718655" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
