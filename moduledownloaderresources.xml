@@ -2000,7 +2000,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5EBAA54086CFB6B2E8DEC9757C83349D83DE021D" downloadHash="35C757D71F72ADED152F398A88C0DE9CCF7A1062" name="003_derochelle_manor.trx" dlsize="359079" size="718655" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BC5F4512D3D5A401A5FC712BC5ACF8B8E215E776" downloadHash="B507BBFEC0AC271471A112350613793399299CEF" name="003_derochelle_manor.trx" dlsize="341503" size="701312" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
