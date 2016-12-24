@@ -1560,7 +1560,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="58B4B8F29E8F8B02B4C7FDB8C4809FE9565FEB14" downloadHash="3A6D375FAF4D67AF87FF4E67CE6D507FDB1BEF04" name="snowdown s33 the ride n.trx" dlsize="5341836" size="26713536" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1EAD7976AB5BE44586E2596511649910D699A8A4" downloadHash="CCAA6FAB68F8DAEBF593911037EE49F8423ABE1E" name="snowdown s33 the ride n.trx" dlsize="5322912" size="26710478" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1885,7 +1885,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B7F95A77516FE0BA1F1CB071170700B09736E72F" downloadHash="D3BDC02D3ABE16E656CD5BBB5E31688FBA4DF135" name="snowdown s33 shandilar keep.trx" dlsize="316908" size="3205108" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="69087660130B2A2C42DC68AFE1BCB177BAE1B583" downloadHash="4B6825F27A8BBB3FD33327FF260F128C153CE474" name="snowdown s33 shandilar keep.trx" dlsize="327159" size="3210364" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
