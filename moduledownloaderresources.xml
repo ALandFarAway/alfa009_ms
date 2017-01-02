@@ -15,7 +15,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CF6D57A95BB8F1AF4CE34A44E11A9C8F90877978" downloadHash="8800B07C846C752CD1D89242FA9E180F54A650B4" name="moray isle f28 town interiors.trx" dlsize="68187" size="68644" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D1B012D92AA9EFA637A0A527339B5E3DB1056FDF" downloadHash="35F03B72E74BF60C49B8DEACE6AC4B9FC5E2AD4B" name="moray isle f28 town interiors.trx" dlsize="85563" size="86375" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2006,6 +2006,21 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="768CA2AFC68E4049160981B3498D4F7C2FA3A22E" downloadHash="20D058D7C9545C41B33891EC0A7A8BADD4585463" name="snowdown t33 brannoch town.trx" dlsize="2314585" size="15626328" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="D1A0D1E228D0436647774ED023EFE5D393934A35" downloadHash="4F920EC87B8A86A37838985DACE576A215E98D11" name="moray isle f29w lac dyngall.trx" dlsize="3443314" size="19103210" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="FC81210CD82D4D62572F3A3C25F405D2E3C0270C" downloadHash="CFD7E2888BE5375ADDC7E9DA4EEB1330CE4E0C2C" name="moray isle f30 breasl marsh s.trx" dlsize="7839171" size="40429890" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="B1F1CE23CB133696A782EA967823894820EBFAAF" downloadHash="ECB2510A8C6C1147446AC8B5951933768B7B7DCA" name="moray isle f29e breasal marsh.trx" dlsize="4197204" size="21738644" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
