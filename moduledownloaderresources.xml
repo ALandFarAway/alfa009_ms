@@ -395,7 +395,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="738E9DE362BD2860241459064560BB51F84AD1F2" downloadHash="A10989FC0AAD1282C0C42BED3E5F35B9695A3C9A" name="gwynneth m34ne koart vill.trx" dlsize="3758425" size="19972393" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0BB120114CEA7B4F6CBEB46ED624DD3992B1613D" downloadHash="4D9F2B8CA70EAA58445523D8595D63AD0293CC7A" name="gwynneth m34ne koart vill.trx" dlsize="3812128" size="20036574" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2015,7 +2015,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="02C52A6A6BDD5BA95E4563D5F93926B320037199" downloadHash="2692B5DEC2562B32F680CC49553ADFA4F6F74E76" name="moray isle f30 breasl marsh s.trx" dlsize="8153989" size="40741948" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1E3A79D399D7C7F9A790C2F1CE687A1F4204E8CC" downloadHash="73DC7146D3039496D24778EED5D37D027351DE1F" name="moray isle f30 breasl marsh s.trx" dlsize="9817668" size="45279109" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
