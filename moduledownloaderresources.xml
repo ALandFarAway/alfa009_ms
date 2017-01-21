@@ -270,7 +270,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0C268B698EAD95243C8C93EC3EFD1FAC580156F0" downloadHash="5B76456B0F5249A134E5D6BBFBCF6C71359A6679" name="oman i25 old stone wood.trx" dlsize="10066491" size="29656189" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2E37290008004410925F83A6E9724D3475D0071A" downloadHash="BFECEF24807E51427E445FCF296EE1BC400AEFB3" name="oman i25 old stone wood.trx" dlsize="10074787" size="29660488" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -580,7 +580,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8AB3EC383724E81DD74AEA6B8E9F7ED82B622ABC" downloadHash="9EAB826BD8E6EF45736F4222A499AE6FDE434842" name="oman k25 iron keep interiors.trx" dlsize="271301" size="362217" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B934C223F32D9AF582216784F13D133784435043" downloadHash="83EBA69350AA9413DB0A9510CBA528A9F6A4521B" name="oman k25 iron keep interiors.trx" dlsize="277818" size="368648" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1055,7 +1055,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C3E5396221039EFBC55D1E76D9A49E83A82DE086" downloadHash="DE6101BC92B6D659342DA98312F29DE33EA09D15" name="oman k26 grampalt highlands.trx" dlsize="4704075" size="22022702" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="53AB9D3D412F859730AD28D0FE2ABF7520776A51" downloadHash="DF6161C39C54EC194826A0D62B7D78A6FE32F257" name="oman k26 grampalt highlands.trx" dlsize="4645634" size="21964483" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2036,6 +2036,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="886156FD1834F9F254DCCB6FF644399F2006B62D" downloadHash="9FCD78333CD07F82809720B13D3A270EF232DF9F" name="moray isle f29e dungeon l1.trx" dlsize="1255753" size="8841125" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="2FFCD5A92FF2CC69FA37DA311BCA09F7D29D9E27" downloadHash="7638F362DAC398327B8019E285D09675CF71E32D" name="oman k26 gramphalt caves.trx" dlsize="469552" size="3420508" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
