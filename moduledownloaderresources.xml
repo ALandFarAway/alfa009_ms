@@ -1055,7 +1055,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="53AB9D3D412F859730AD28D0FE2ABF7520776A51" downloadHash="DF6161C39C54EC194826A0D62B7D78A6FE32F257" name="oman k26 grampalt highlands.trx" dlsize="4645634" size="21964483" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="41973218CA195153862D6718828490C7128758AC" downloadHash="FE7341711744287529B2BC19D05AEFAAF241B49A" name="oman k26 grampalt highlands.trx" dlsize="4652339" size="21963586" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2041,6 +2041,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="2FFCD5A92FF2CC69FA37DA311BCA09F7D29D9E27" downloadHash="7638F362DAC398327B8019E285D09675CF71E32D" name="oman k26 gramphalt caves.trx" dlsize="469552" size="3420508" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="327E823FA4BCB217F408A9570F899EAB668EDB6B" downloadHash="1DA06FE6C59A8059F8E703EA36EDD21EA14BED43" name="oman j26 gramphalt mountains.trx" dlsize="3535794" size="18945093" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
