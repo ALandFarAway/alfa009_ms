@@ -2045,7 +2045,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="327E823FA4BCB217F408A9570F899EAB668EDB6B" downloadHash="1DA06FE6C59A8059F8E703EA36EDD21EA14BED43" name="oman j26 gramphalt mountains.trx" dlsize="3535794" size="18945093" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F285D51E355466EF0644929010B24D3A476A35C1" downloadHash="2191B3F9D036FBCFFAB62C22B28456D8FAF915E4" name="oman j26 gramphalt mountains.trx" dlsize="3631818" size="19001831" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
