@@ -2040,17 +2040,17 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2FFCD5A92FF2CC69FA37DA311BCA09F7D29D9E27" downloadHash="7638F362DAC398327B8019E285D09675CF71E32D" name="oman k26 gramphalt caves.trx" dlsize="469552" size="3420508" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2B677528CA052B168FBBA65763EAEBB03E3C05F4" downloadHash="C3FBCBB512EA170E42325C0252AA7C0E280C484C" name="oman k26 gramphalt caves.trx" dlsize="490193" size="3440446" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="221BC40B531E1740B89D99CD382F185AB89C28C7" downloadHash="F30DD2ACA6F571D56470E47E3704B42948FF1141" name="oman j26 gramphalt mountains.trx" dlsize="3613830" size="18989288" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7296ECB331C22CD4D9393D27252EE0652700D080" downloadHash="91B7CC338FBEC41356F83075B8EA435027F078F6" name="oman j26 gramphalt mountains.trx" dlsize="3640198" size="19009052" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F90FEDD315499622FCCAC9876D97333B01BA93AA" downloadHash="D75DBC73A5D0084BE59B21F3B755CB4C9EDEF51B" name="oman j26 gramphalt mt caves.trx" dlsize="1142740" size="1440945" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8F891C4118B8E5F735180042BFCCE7745A3A37BA" downloadHash="4D301764FC701C093A3181D59D63E864D03901D9" name="oman j26 gramphalt mt caves.trx" dlsize="1153583" size="1449310" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
