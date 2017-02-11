@@ -2045,12 +2045,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7296ECB331C22CD4D9393D27252EE0652700D080" downloadHash="91B7CC338FBEC41356F83075B8EA435027F078F6" name="oman j26 gramphalt mountains.trx" dlsize="3640198" size="19009052" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D5B414A4D0F2824779CD2962D757C8B19836CE68" downloadHash="AA7184ED23D7294908AF673C3B094FE31A08BE61" name="oman j26 gramphalt mountains.trx" dlsize="3699804" size="19056121" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8F891C4118B8E5F735180042BFCCE7745A3A37BA" downloadHash="4D301764FC701C093A3181D59D63E864D03901D9" name="oman j26 gramphalt mt caves.trx" dlsize="1153583" size="1449310" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3C1FF00B379789D1573E7756F90BC6945FEFF49C" downloadHash="E2A87D7FAF8233F0CBCB304BA00A50407E98FE0A" name="oman j26 gramphalt mt caves.trx" dlsize="1130038" size="1470323" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
