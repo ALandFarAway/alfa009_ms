@@ -35,7 +35,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2566704409072599A43A532D2106681B5B41BE7D" downloadHash="6230817306CEE4812A6EAB7C2082487BDB43C374" name="gwynneth n34 llyrath forest n.trx" dlsize="4527741" size="20869802" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="71DAC42AA186A8DEBF0A5B512DA3321F3E835265" downloadHash="4973628F77577CE7B3CE53EC2B9A89B2B4F81F2A" name="gwynneth n34 llyrath forest n.trx" dlsize="4544068" size="20869446" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1280,7 +1280,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="28C27F66AC1E261A68FD51DE72F85148BE7D3AAC" downloadHash="053AFC86691F8904CFDBD7EE763F657AE2EE7DEC" name="gwynneth n35 llyrath forest s.trx" dlsize="2473139" size="15141473" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B475F47D7DF890F468CB0468740E7BB1E3AB7864" downloadHash="9C2DF96E103846C8FAA006926245CFC7277DDA01" name="gwynneth n35 llyrath forest s.trx" dlsize="2479654" size="15148108" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1465,7 +1465,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9BE34300F5675C95A93C6ECF63EAEBDB4F9FAA50" downloadHash="A64D341B1D32EBD37570222C200E9014A14B081E" name="gwynneth n35 llyrath forest int.trx" dlsize="168601" size="169559" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D4BA568B3D1D52D56F52347FC5A16F8894919103" downloadHash="1BB07A5289A2B423E9B36B75220CCFBAE406B7C4" name="gwynneth n35 llyrath forest int.trx" dlsize="305931" size="308238" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2055,7 +2055,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D87FCF6FDC30D45F9B3A248C85997D023BBDC9C2" downloadHash="403CCE340C368D250E7E134F59D8834F0204A515" name="oman j26 gramphalt frostgiants.trx" dlsize="619669" size="634881" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="205F267D19C674A85A8B8EDF537D799BF733637C" downloadHash="31420C0660C761F5C211B4E0F9D19AB6DFADA9BB" name="oman j26 gramphalt frostgiants.trx" dlsize="681725" size="695729" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
