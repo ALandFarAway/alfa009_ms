@@ -580,7 +580,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B934C223F32D9AF582216784F13D133784435043" downloadHash="83EBA69350AA9413DB0A9510CBA528A9F6A4521B" name="oman k25 iron keep interiors.trx" dlsize="277818" size="368648" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B3136D14EEC728693D46B9D5F6CC75473DFC616C" downloadHash="95786C13FD66F60A9087C07059C3161FD7E171A3" name="oman k25 iron keep interiors.trx" dlsize="275974" size="366882" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2045,7 +2045,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C3C047C28B3487D346060776BE9FF7283284F067" downloadHash="0B12DF5492C207A9B263A0A4549E15A4276BC4C6" name="oman j26 gramphalt mountains.trx" dlsize="4417776" size="21238101" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6BFE9B67CC50BA614B3A5A03053FAFC960A18111" downloadHash="26539AF6A0B1D6857BCCD40C612E41ED09F2DEEA" name="oman j26 gramphalt mountains.trx" dlsize="4423348" size="21247974" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2055,7 +2055,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F6B91328977A9D7E1B98C1E0E595474B1CD9691B" downloadHash="BA519AE74E4C532AFE231556C5C430D5F802E1D8" name="oman j26 gramphalt frostgiants.trx" dlsize="565349" size="581611" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D87FCF6FDC30D45F9B3A248C85997D023BBDC9C2" downloadHash="403CCE340C368D250E7E134F59D8834F0204A515" name="oman j26 gramphalt frostgiants.trx" dlsize="619669" size="634881" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
