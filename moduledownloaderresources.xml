@@ -1070,7 +1070,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D95265DC9A224777B560DE146E80AE1E8684A304" downloadHash="4E586002E6AB6B866EC90D31C32753810BDBEB88" name="oman k25 iron keep town.trx" dlsize="4353979" size="23651907" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="CC6A73D63CB428855AFA0DA4328B0224181FCC3F" downloadHash="E76E70E732B25B44AFB7BBA28BC0C35FA04900FF" name="oman k25 iron keep town.trx" dlsize="4333543" size="23639795" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1990,7 +1990,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="AAD3E911E2EFF5FD69C80C4A9314FC4A0831F78B" downloadHash="B0CA82558E5D15E9E3A855CBEB5083FEAF92752E" name="gwynneth m34s lowhill ext.trx" dlsize="3431549" size="18209766" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="57A7BAE87E84A20C7D67D1FC39D3127A10FA4891" downloadHash="BB0FED4DD87904EE31440EBFED82ECE311785B0B" name="gwynneth m34s lowhill ext.trx" dlsize="3410400" size="18213607" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2045,12 +2045,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8BE898F6A2B83EADCA8107013FC4FA7C3A93395B" downloadHash="D40EEAC9C98FEB065B741D81F70BA6CFEC0590AE" name="oman j26 gramphalt mountains.trx" dlsize="4426267" size="21247976" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="720165F44412CF12F201E78293267D9E32D75E50" downloadHash="2F655FA08E9361E91FCA4B8C0491E746E0484715" name="oman j26 gramphalt mountains.trx" dlsize="4449307" size="21271280" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="18EEB9A26AF93FE6344429D212AA5CC9E5D335D1" downloadHash="59C605E71D46C386D06E422508EF548A81010E43" name="oman j26 gramphalt mt caves.trx" dlsize="1182122" size="1612706" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DE34D72726835320785F3E42960ED99FF4087E37" downloadHash="A8667532D53FD574AE298550A2A010BD73CA0DBB" name="oman j26 gramphalt mt caves.trx" dlsize="1182278" size="1612706" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
