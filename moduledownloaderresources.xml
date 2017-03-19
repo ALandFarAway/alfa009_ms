@@ -90,7 +90,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7A644DFE99D2607AAEE8EDEF87C357D44E2C44ED" downloadHash="5788B5342A1DE1D28A272C8339FDF3458757D1A5" name="009_startarea.trx" dlsize="92176" size="94360" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="AB3D007A69976B2A8379E9DA40E98739F9D722DF" downloadHash="60D44D69A4C560B51AD91C30348CDBC3FB02E663" name="009_startarea.trx" dlsize="92160" size="94370" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1990,7 +1990,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="57A7BAE87E84A20C7D67D1FC39D3127A10FA4891" downloadHash="BB0FED4DD87904EE31440EBFED82ECE311785B0B" name="gwynneth m34s lowhill ext.trx" dlsize="3410400" size="18213607" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6760EB90EE67861741CE13915C683B2A979407C1" downloadHash="0AD0C203C41A0D23CDF8173DE5657DC05CB0C151" name="gwynneth m34s lowhill ext.trx" dlsize="3426025" size="18220690" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
