@@ -1905,7 +1905,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3C74EAFDD68D96CB7311B129801AEA181943976E" downloadHash="BC28AF95AC4059ED087CC048245E11831CE8A807" name="skullport east.trx" dlsize="2631448" size="12162757" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DF842A02C8AF6C2C6B0649F5CE397D9F34DC18DE" downloadHash="390E454E988AA496937D66B22C70445F0A26A240" name="skullport east.trx" dlsize="2634926" size="12163281" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1925,7 +1925,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="97325FA9220DA33072A975293E98573B5C3FA0BC" downloadHash="BEE6E0AF43D95A491B412A4C63F90CECDA9E4A8C" name="skullport shops.trx" dlsize="707556" size="713636" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="43A5211EE9BF8E4F68AEF65600E3E2EDA064BE83" downloadHash="80F857C0AB54FFF3AA86B0B34ADC813FD527D207" name="skullport shops.trx" dlsize="761349" size="766356" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
