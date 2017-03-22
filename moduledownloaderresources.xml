@@ -2060,4 +2060,9 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="B2E6051598E401ABE3EADB465E90EC0C62FF300E" downloadHash="1EE16E004C7550C960C5BB4DD47A72C2E10972F4" name="skullport sewer.trx" dlsize="1254179" size="9108985" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
 </content>
