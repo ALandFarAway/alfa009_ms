@@ -2065,4 +2065,14 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="E485A9BE78B57054AD1CF42BCA70231641096601" downloadHash="3BB92E6195135AAEC766739B2ADD43A604ADDE06" name="skullport ssarmn residence.trx" dlsize="208370" size="210051" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="C30C71D4C56A77F66DC4D4628BBCC57A5ACAAC89" downloadHash="B965F05EC116E18FFBEF35FEC477C0E22C643189" name="skullport ssarmn cave exit.trx" dlsize="1966822" size="2447942" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
 </content>
