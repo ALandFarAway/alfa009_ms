@@ -1905,12 +1905,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5E7677933DC02F070A2A414C452EF292A6B6EFD8" downloadHash="1359DC0717A65F9010D29393616F6822888B9E99" name="skullport east.trx" dlsize="2622601" size="12152790" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0B31A615CE1A2B5B60B9DBCA7001D15BC00187B5" downloadHash="233D37F9ECE0B623322E87036894C2A8F269BC6A" name="skullport east.trx" dlsize="2641647" size="12175571" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="EFE05CE66E87746DC2E25E1EBA142FFF40584B43" downloadHash="18093BD1FD40F2B7B014549AB079CC55A3E9DEAB" name="skullport burning troll.trx" dlsize="179015" size="447464" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="758E4B1E1B5554F010446F606176D3DEC400DDC5" downloadHash="87D620DED4133D162AADE5D3758BA491546B51B6" name="skullport burning troll.trx" dlsize="178531" size="447465" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2060,12 +2060,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="088AED74417C26C383938C37C86F2A2B37AA031F" downloadHash="B9086E76F583DAB8046C615DA284950512EECD61" name="skullport sewer.trx" dlsize="1240828" size="9102464" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9825C66A81BF025EEA8738EB2A5AF0DBBF971136" downloadHash="57E8DD330BCEB546F0A3D6A217CCB2ADA2361C9C" name="skullport sewer.trx" dlsize="1260254" size="9988819" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E485A9BE78B57054AD1CF42BCA70231641096601" downloadHash="3BB92E6195135AAEC766739B2ADD43A604ADDE06" name="skullport ssarmn residence.trx" dlsize="208370" size="210051" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D1BF433649916562CE1B654E059FA8BC91567FD1" downloadHash="199840D4B750016D24B9B2746C430F3538D5B7C4" name="skullport ssarmn residence.trx" dlsize="209978" size="211348" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
