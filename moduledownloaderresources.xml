@@ -1905,7 +1905,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0B31A615CE1A2B5B60B9DBCA7001D15BC00187B5" downloadHash="233D37F9ECE0B623322E87036894C2A8F269BC6A" name="skullport east.trx" dlsize="2641647" size="12175571" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="CA465AE3FEB9EA0171BF97EC980F3BB066F07D86" downloadHash="8BE1CF93082C02A86C4AE5132A52729BCA9B8219" name="skullport east.trx" dlsize="2651474" size="12176395" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1915,7 +1915,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="07B600BB85BC74AD3B09A924AFEEE0C2E5A90CE8" downloadHash="F7F12BEABFD8B31B90D8F024A350F43046C24BD6" name="skullport hall of the voice.trx" dlsize="69638" size="112972" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4E860D51F267A7117DE8C21A8AAAE8D76ED20AE3" downloadHash="2EBD1DBC1AB7D2BDE8C53D67CF126B4B8D52C7A6" name="skullport hall of the voice.trx" dlsize="69244" size="112403" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
