@@ -2065,7 +2065,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D1BF433649916562CE1B654E059FA8BC91567FD1" downloadHash="199840D4B750016D24B9B2746C430F3538D5B7C4" name="skullport ssarmn residence.trx" dlsize="209978" size="211348" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2D1FF98F7E86481C0176C8347DB9AC1A63DCA90D" downloadHash="329432DD1EDF3942E7390EB2638FC6199314EC76" name="skullport ssarmn residence.trx" dlsize="219702" size="221068" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
