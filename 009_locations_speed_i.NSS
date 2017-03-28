@@ -11,7 +11,7 @@ const int TICK_LIMIT = 20;
 const float RUN_LIMIT_FACTOR = 0.75;
 
 // Standard PC max speed, 4.0 m/sec (78.86 ft/rd)
-const float STD_SPEED = 4.0;
+const float STD_SPEED = 4.10;
 
 const float LOC_EPS = 0.02;
 
