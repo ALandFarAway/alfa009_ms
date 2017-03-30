@@ -23,7 +23,7 @@
 
 #include "acr_mod_events_i"
 //#include "010_weather_i"
-#include "009_locations_speed_i"
+//#include "009_locations_speed_i"
 
 
 ////////////////////////////////////////////////////////////////////////////////
@@ -45,7 +45,7 @@ const float HB_DELAY  = 0.1;
 ////////////////////////////////////////////////////////////////////////////////
 
 //void _hb_weather();
-void _hb_loc_players();
+//void _hb_loc_players();
 void _hb_cursed_items();
 
 ////////////////////////////////////////////////////////////////////////////////
@@ -57,10 +57,10 @@ void _hb_cursed_items();
 //	process_weather();
 //}
 
-void _hb_loc_players()
-{
-	loc_update_players();
-}
+//void _hb_loc_players()
+//{
+//	loc_update_players();
+//}
 
 void _hb_cursed_items()
 {
@@ -106,7 +106,7 @@ void main()
 {
 	ACR_ModuleOnHeartbeat();
 	
-	DelayCommand(HB_DELAY, _hb_loc_players());
+//	DelayCommand(HB_DELAY, _hb_loc_players());
 	//DelayCommand(HB_DELAY*2, _hb_weather());
-	DelayCommand(HB_DELAY*3, _hb_cursed_items());
+	DelayCommand(HB_DELAY*2, _hb_cursed_items());
 }
