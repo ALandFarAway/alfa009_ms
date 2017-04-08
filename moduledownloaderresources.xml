@@ -350,7 +350,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0BE35D74F45506EDA997742A162C7FA09B20011D" downloadHash="563E1FBC4F6E7D10E9AA28A7E468510BF7E8E2A6" name="gwynneth o32 cambro trail.trx" dlsize="2301045" size="13907781" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="681035E0D73671B4B17E1D1E37455AB153D1579B" downloadHash="ECE0FA8E0F669C5007BB337F8E2FF2A224D0A91E" name="gwynneth o32 cambro trail.trx" dlsize="2303365" size="13911199" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1965,7 +1965,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E28CEDBB184871A906D374F95AB017D94A1E6BC2" downloadHash="D28F199447B8570B7A3B9AC4B35D50F1F2B266DF" name="gwynneth o32 cambro trail int.trx" dlsize="74030" size="74207" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="26391019A6782A657FD4CB8100AAA3DFABF09C90" downloadHash="27CD527C54810D4DFEDA0DF54A11BC1933DBDF24" name="gwynneth o32 cambro trail int.trx" dlsize="236763" size="506352" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2080,7 +2080,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="196345ADDB331D74A2AECADEEE6295AE15EBE4FC" downloadHash="4646DA83B66C98C9008EEDC9A5C9BD8F4516E419" name="skullport lower shops.trx" dlsize="774886" size="780624" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="889AF59EBE5BF03D101B5542571DF2F6C9150330" downloadHash="B9C4AF09176B0FEE1CB2412A05001E0A75CF8871" name="skullport lower shops.trx" dlsize="758074" size="763534" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2090,7 +2090,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="030CA0CF02511CFB270B9B3CF3275C7832FED527" downloadHash="06888E30AA79451B3901EAEBC679D8A730DE79DE" name="skullport lower west.trx" dlsize="2329920" size="11006888" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="081D45F6ADDC3CEB36C18CF5F80F18318CF5F535" downloadHash="115E32484E10A735280A71CFC086BE376E702E20" name="skullport lower west.trx" dlsize="2313433" size="10990495" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
