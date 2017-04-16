@@ -49,5 +49,5 @@ void main();
 
 void main() {
 	// Spawn 4-9 hobgoblins.
-	SpawnRandomNumber( 4, 9, "010_cr_hu_hobgoblin" );
+	SpawnRandomNumber( 4, 7, "010_cr_hu_hobgoblin" );
 }

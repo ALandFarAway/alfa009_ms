@@ -1055,7 +1055,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3E298958F9A9CA6081B547860405B92223500B1D" downloadHash="A9427EC40BCB375B1D5CE966CF5B62314005044E" name="oman k26 grampalt highlands.trx" dlsize="4617109" size="21942190" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1E9269D97A15BE017A2D504B950E3C772650D4CC" downloadHash="134A49A3A72D25E6E9FE1B25DE0E969444939DD0" name="oman k26 grampalt highlands.trx" dlsize="4592296" size="21909478" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1330,7 +1330,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D3C478EBCC7D977EAE85411D1C8317E1E6E488CF" downloadHash="74FC1CBBFD5279506B2BB8EF1B468C49A65488FD" name="gwynneth p33 kingsbay silver sal.trx" dlsize="192450" size="236403" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C8BD2F671BAA886E088D10A2C2DCFA50AD5ED30A" downloadHash="70B0E8E8A9DA5CCF77586821DD79BECBB3C72C1D" name="gwynneth p33 kingsbay silver sal.trx" dlsize="193401" size="237439" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2045,7 +2045,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="720165F44412CF12F201E78293267D9E32D75E50" downloadHash="2F655FA08E9361E91FCA4B8C0491E746E0484715" name="oman j26 gramphalt mountains.trx" dlsize="4449307" size="21271280" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4C46A66B231D8DD7C4031DCEB498B4D80C77AC6C" downloadHash="F50A354B1635A3E4136632C1822368835F373AB9" name="oman j26 gramphalt mountains.trx" dlsize="4425980" size="21252646" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2055,7 +2055,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="205F267D19C674A85A8B8EDF537D799BF733637C" downloadHash="31420C0660C761F5C211B4E0F9D19AB6DFADA9BB" name="oman j26 gramphalt frostgiants.trx" dlsize="681725" size="695729" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2633AF4F95B42BED103F7A7CE5134A7355DA3A4E" downloadHash="9F78A15EAD4DA8F8F62CEA898A0E3C95E42141E9" name="oman j26 gramphalt frostgiants.trx" dlsize="738243" size="757543" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>

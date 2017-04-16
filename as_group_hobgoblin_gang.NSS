@@ -54,8 +54,10 @@ void main();
 
 // Created by Riotnrrd for ALFA 4/2012
 void main() {
-	int nHobgoblins = d6() + 3;
+	int nHobgoblins = d4() + 3;
 	int i;
 	
-	for (i = 0; i < nHobgoblins; i++) ACR_SpawnObject("abr_cr_hu_hobgoblin", OBJECT_TYPE_CREATURE);
+	for (i = 0; i < nHobgoblins; i++) ACR_SpawnObject("abr_cr_hu_hobgoblin1", OBJECT_TYPE_CREATURE);
 }
+
+
