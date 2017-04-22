@@ -190,7 +190,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5AFCC1486145DA386FC6A4EA0719B7734A47803B" downloadHash="72C569C02450CCE06DDB1F3AB0DE9062D560E2EB" name="oman k25 iron keep cave.trx" dlsize="113188" size="292363" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8F8E5F465F2310DC5DDC0254A0F55BB78E770632" downloadHash="46518247E97D40CA87654AE605C171E74D7D45FD" name="oman k25 iron keep cave.trx" dlsize="108361" size="423296" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -350,7 +350,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="681035E0D73671B4B17E1D1E37455AB153D1579B" downloadHash="ECE0FA8E0F669C5007BB337F8E2FF2A224D0A91E" name="gwynneth o32 cambro trail.trx" dlsize="2303365" size="13911199" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="338817E437C5633E66BB3950069E62710E2D6AE5" downloadHash="B56551C2E1826D83339737912B62CE96539CBC85" name="gwynneth o32 cambro trail.trx" dlsize="2392713" size="14084580" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1055,7 +1055,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1E9269D97A15BE017A2D504B950E3C772650D4CC" downloadHash="134A49A3A72D25E6E9FE1B25DE0E969444939DD0" name="oman k26 grampalt highlands.trx" dlsize="4592296" size="21909478" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3FF8F58C8996496F12D90BEBFB5E9F4DC3BD2F63" downloadHash="7C06D8583C331C291AE026F60F7A842F2969C03E" name="oman k26 grampalt highlands.trx" dlsize="4604290" size="21931808" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1965,7 +1965,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="26391019A6782A657FD4CB8100AAA3DFABF09C90" downloadHash="27CD527C54810D4DFEDA0DF54A11BC1933DBDF24" name="gwynneth o32 cambro trail int.trx" dlsize="236763" size="506352" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="00F89FE6F0D0222CE51EAF1CF951B2B0ABAC9A23" downloadHash="EECCEEEC71F039C0FA0DAF160531AA92F4770D37" name="gwynneth o32 cambro trail int.trx" dlsize="469998" size="2511967" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2045,7 +2045,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4C46A66B231D8DD7C4031DCEB498B4D80C77AC6C" downloadHash="F50A354B1635A3E4136632C1822368835F373AB9" name="oman j26 gramphalt mountains.trx" dlsize="4425980" size="21252646" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="230A400EFC31B7CD563CAFAD6203A042ECD60457" downloadHash="3A5B44A2CA9F5BB579810B9C0ED6BB8ED0180152" name="oman j26 gramphalt mountains.trx" dlsize="4407474" size="21223082" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2055,7 +2055,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2633AF4F95B42BED103F7A7CE5134A7355DA3A4E" downloadHash="9F78A15EAD4DA8F8F62CEA898A0E3C95E42141E9" name="oman j26 gramphalt frostgiants.trx" dlsize="738243" size="757543" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F13EA6EABB65E84E989738E02F84AE38FF347B56" downloadHash="658C836AEFAAC849F15524FBB1DCEBFE41F21190" name="oman j26 gramphalt frostgiants.trx" dlsize="729507" size="746107" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
