@@ -350,7 +350,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="338817E437C5633E66BB3950069E62710E2D6AE5" downloadHash="B56551C2E1826D83339737912B62CE96539CBC85" name="gwynneth o32 cambro trail.trx" dlsize="2392713" size="14084580" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0342865F2BEA43CDB6E79FFE38ED61C2216C0943" downloadHash="5A2B2AB3793FF6967E0C59F5E11AEA125BF18C1C" name="gwynneth o32 cambro trail.trx" dlsize="2401935" size="14098705" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1965,7 +1965,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="00F89FE6F0D0222CE51EAF1CF951B2B0ABAC9A23" downloadHash="EECCEEEC71F039C0FA0DAF160531AA92F4770D37" name="gwynneth o32 cambro trail int.trx" dlsize="469998" size="2511967" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C449675DD91D785EE244069139F484F25E5D34C7" downloadHash="445E9800D6B5B8FCE1B1D25F656D33E636CCB806" name="gwynneth o32 cambro trail int.trx" dlsize="472567" size="2648081" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2045,12 +2045,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="230A400EFC31B7CD563CAFAD6203A042ECD60457" downloadHash="3A5B44A2CA9F5BB579810B9C0ED6BB8ED0180152" name="oman j26 gramphalt mountains.trx" dlsize="4407474" size="21223082" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="064632BEB41EFC84CC5CEE3F8318376F48879BCA" downloadHash="5E9068A536567E66EB4E69AB3795980A6025429D" name="oman j26 gramphalt mountains.trx" dlsize="4428009" size="21240110" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DE34D72726835320785F3E42960ED99FF4087E37" downloadHash="A8667532D53FD574AE298550A2A010BD73CA0DBB" name="oman j26 gramphalt mt caves.trx" dlsize="1182278" size="1612706" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8AA53DDF1DB563BFFDB36335565E044EAF3B837C" downloadHash="A70DB636C9FA0D0EE7029AC65D3F6833058E3149" name="oman j26 gramphalt mt caves.trx" dlsize="1225093" size="1657163" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
