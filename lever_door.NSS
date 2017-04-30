@@ -1,10 +1,13 @@
 // 'lever_to_door'
 //
 // OnUsed script placed on a lever unlocks/opens & closes/locks door.
-// - set 'sDoorTag' on lever
+// - set 'sDoorTag' on lever as a variable on the lever with the name of the door tag
+
+#include "acr_placeable_i"
 
 void main()
 {
+    ACR_PlaceableOnUsed();
     object oLever = OBJECT_SELF;
 
     string sDoorTag = GetLocalString(oLever, "sDoorTag");
