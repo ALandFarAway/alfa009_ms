@@ -340,7 +340,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A55A07E6DCE96FD6E391513A5B6F4FF3A216BC60" downloadHash="62247A41B825E5F9BE7245818072BA10EE84D0CD" name="cave complex 1.trx" dlsize="391782" size="397205" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2BB742328BA723855AF8992E87F1BDBB7465CFE0" downloadHash="69A46E04581B49AC6EC4FA9BDD625B1CCA45EBD4" name="cave complex 1.trx" dlsize="395122" size="400405" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -610,7 +610,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8A6C68327B974E9656C19B344F726865A1382515" downloadHash="335266EE4899A32D8229066A087ECCA3679CE916" name="gwynneth k28 duergar outpost.trx" dlsize="289380" size="834517" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3BF6C771127CEC6D390310B827A6306086B64A93" downloadHash="E5D0FB33B9E4C5ABB62C47BA64BD6DEF651557DA" name="gwynneth k28 duergar outpost.trx" dlsize="309132" size="852055" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -620,7 +620,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="22CBDBEA8B9DD033EF754396BFABF67F40DBE3CC" downloadHash="0519E9A07CA6CC0DFCAA8D9CD99443A7ADB5BECC" name="gwynneth k28 caves.trx" dlsize="2697262" size="2792956" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="08094756B56587ACD790A41E1867A5A7FF9008DE" downloadHash="B0149F5A3700F7334741ACB70C48B1ABAA41AED8" name="gwynneth k28 caves.trx" dlsize="2710165" size="2804784" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1025,7 +1025,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="730EC4BEDDE9DB9346345E84B87744E05F16383C" downloadHash="52E9B1ED042986BA1BBD524BEBB049C0231327E7" name="cave complex 2.trx" dlsize="174325" size="176389" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="002CDCD6C3FE1939545DDB981F09A34B40E1A3CF" downloadHash="A1E8B319E0D24AB3B3690DF41CD28D1AD6BA1FD8" name="cave complex 2.trx" dlsize="178431" size="268164" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1070,7 +1070,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CC6A73D63CB428855AFA0DA4328B0224181FCC3F" downloadHash="E76E70E732B25B44AFB7BBA28BC0C35FA04900FF" name="oman k25 iron keep town.trx" dlsize="4333543" size="23639795" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="EFA08E4BC3E6F7EA4B6A12CEE45F35BBBBCCEFCF" downloadHash="1D99BCAA2E8BD7514B78F54670CB41BADBC12D46" name="oman k25 iron keep town.trx" dlsize="4333031" size="23635859" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1380,7 +1380,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4F06A0447B8BBE9818840703EF29EA3A9F2AC7B4" downloadHash="5067BD42085A62027DAF55ACE46707C267ADF31B" name="cave complex 3.trx" dlsize="349603" size="354403" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BDBC8119E0F7CD0A086CADC0827F31232B913FDD" downloadHash="8ABB6BB39D99FF6F5EBE1E6E4A577BB8CDF247B3" name="cave complex 3.trx" dlsize="348571" size="353423" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2045,12 +2045,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="064632BEB41EFC84CC5CEE3F8318376F48879BCA" downloadHash="5E9068A536567E66EB4E69AB3795980A6025429D" name="oman j26 gramphalt mountains.trx" dlsize="4428009" size="21240110" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0EB0357C3B6CC12C59DFC711A5C3250E1BBCD375" downloadHash="AF09FA6104EDFD29F1B44BA59A6652CFD67DE0ED" name="oman j26 gramphalt mountains.trx" dlsize="4470485" size="21234208" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8AA53DDF1DB563BFFDB36335565E044EAF3B837C" downloadHash="A70DB636C9FA0D0EE7029AC65D3F6833058E3149" name="oman j26 gramphalt mt caves.trx" dlsize="1225093" size="1657163" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D64D97A83A7D7B040EE1A9765103DF36E7BC7390" downloadHash="3A5D9DAEB222FA2A5AF9536663C75EAD8AA8E15F" name="oman j26 gramphalt mt caves.trx" dlsize="1327863" size="1756889" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>

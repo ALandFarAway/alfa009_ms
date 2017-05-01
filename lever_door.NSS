@@ -7,12 +7,12 @@
 
 void main()
 {
-    ACR_PlaceableOnUsed();
+    
     object oLever = OBJECT_SELF;
 
     string sDoorTag = GetLocalString(oLever, "sDoorTag");
     object oDoor = GetObjectByTag(sDoorTag);
-
+    ACR_PlaceableOnUsed();
     if (!GetIsOpen(OBJECT_SELF))
     {
         PlayAnimation(ANIMATION_PLACEABLE_OPEN);
