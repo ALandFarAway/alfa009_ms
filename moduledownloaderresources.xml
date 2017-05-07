@@ -610,12 +610,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3BF6C771127CEC6D390310B827A6306086B64A93" downloadHash="E5D0FB33B9E4C5ABB62C47BA64BD6DEF651557DA" name="gwynneth k28 duergar outpost.trx" dlsize="309132" size="852055" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E6AC15FB8549176871908304E6EFDD54FDB633A4" downloadHash="17EEF1244FD951D1218F13C0090C4968A51BF21D" name="gwynneth k28 duergar outpost.trx" dlsize="312172" size="854397" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E58ED45308715C665B858D03440824E758D25D67" downloadHash="DDC39464DD1964624C2CF1DF0912E15201B599F3" name="gwynneth m35 llyrath forest.trx" dlsize="2024574" size="14999011" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="AEFADDAD2C04A5572DCC0201385F7AE65B86C88C" downloadHash="05749C680032620889E734733C9543C19FB3D857" name="gwynneth m35 llyrath forest.trx" dlsize="2002346" size="14974839" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -815,7 +815,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0592BC665EB4DA32D7EE90AFCE16B238AF1946C6" downloadHash="E8D94838CB0FCE215CBE0A0DC9B1AB529492CB06" name="gwynneth l35 llyrath forest.trx" dlsize="3025929" size="16071465" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D00B24F634F8F0A03B4E3130A9C0E779FAFD5BC6" downloadHash="7E3F1BA5A18EE640B739DC08DEF084785F4EAAA2" name="gwynneth l35 llyrath forest.trx" dlsize="2946156" size="15988422" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1050,7 +1050,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6F13293806F7F6E85BE3B256B9881FF33B8E3BA2" downloadHash="709755104FCAD903B265120F6726BF81EDED2898" name="gwynneth m35 mystery keep.trx" dlsize="1130232" size="9894433" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A78D312CB553229E5B88B991A0A60E4CBE765CC7" downloadHash="A8574BB6E32F151C464A1F5F832CFAC565406479" name="gwynneth m35 mystery keep.trx" dlsize="1147172" size="9895015" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1600,7 +1600,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="073F21F391E88AD437E082FC5B1C7354FEF15B14" downloadHash="54DA7171D116DE0A4918FA690B37DE13AA77B1C1" name="gwynneth l35 lost ruins 1.trx" dlsize="284115" size="6630052" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FE77A502E8018311F1DB4A7E1F62F96F2D901E53" downloadHash="18A315CB096D59A1376E6A07103632B21FE075C6" name="gwynneth l35 lost ruins 1.trx" dlsize="291115" size="6636693" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
