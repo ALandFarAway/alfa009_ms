@@ -887,7 +887,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4E193BAF8B24FA0CD0C746A3A1533DB5806822E8" downloadHash="AB0C3EEF96E6805485580BA7B727C150A5E27A39" name="gwynneth l35 llyrath forest.trx" dlsize="2941773" size="15987153" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A1EDCE9C8A88B36D09E9465C31BDA4979D9BC752" downloadHash="703ADE187684E76179BB40EA98893A9EC929E1E3" name="gwynneth l35 llyrath forest.trx" dlsize="2947061" size="16009096" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1672,7 +1672,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FE77A502E8018311F1DB4A7E1F62F96F2D901E53" downloadHash="18A315CB096D59A1376E6A07103632B21FE075C6" name="gwynneth l35 lost ruins 1.trx" dlsize="291115" size="6636693" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2118B011438EA1411D52FFE10525E58ACA8B0551" downloadHash="504939C6CD2ED25C1F170C341FEF148BAE4D06CE" name="gwynneth l35 lost ruins 1.trx" dlsize="290312" size="6636693" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
