@@ -6,13 +6,13 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="921647CC805D3875364EA3D9D44A7930953D6922" downloadHash="60B4FB7F64019BF2D5A8F2FDDA7C6F7C579BB21C" name="alfa2_2da.hak" dlsize="381095" size="19699168" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="43A86BC2595084AD59370A666FF49BB6396A2CD7" downloadHash="A5DD586F1AE4E9238709E7E88FD771B2E590E5DA" name="alfa2_2da.hak" dlsize="380731" size="19699168" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="7718680FE840F54E627C4EAE5B7D2AE71697ACEC" downloadHash="C96A2C9E69332CEDB699FEA4BCA71B4ADA991A79" name="alfa2_acr.hak" dlsize="4011245" size="124958726" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="0F493F2AA51AE60F5C582E9421C428AD47B09F01" downloadHash="5828FF40AA11EA5E34175953E8E5393033944A20" name="alfa2_acr.hak" dlsize="4080384" size="121244125" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
@@ -967,7 +967,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A16CC7D797927A624FC65FC30DE388FB96A94F26" downloadHash="D0443B363A39C312626AD69809D27A20F0F9DEAE" name="wd 2l castle ward.trx" dlsize="1760745" size="12699780" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F575C627DBCF00F34B429304A83B1BC7789CD9A4" downloadHash="1BEB745AB1ED40C93F8545238BD563D63BED21A7" name="wd 2l castle ward.trx" dlsize="1774550" size="12712482" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2163,6 +2163,16 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="7EA3EE7A5E6A34581B8988F1F963EC85E40ED96F" downloadHash="C379B6891BE3FDD1186421C30B337C3662B3ECC4" name="gwynneth l35 llyrath cave int.trx" dlsize="57294" size="100199" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="9550209A477F76745CABD6ECF18231761057ECBC" downloadHash="9BD2E1704D2E5F8E2A2A5D940F8EA45B33AB73E4" name="wd 2l castleward blkstaff.trx" dlsize="176146" size="176582" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="DEE49064E7A6431680F60A68E7E060315D6B2C34" downloadHash="3404DB56998040D7C8B052B5B234AA0A9D5C1BD3" name="wd 2l castle ward int.trx" dlsize="52444" size="52665" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
