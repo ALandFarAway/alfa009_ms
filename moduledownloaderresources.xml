@@ -887,7 +887,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8CDFA32B65688FC01D7CE103132C90E78BD08293" downloadHash="570074E18AC43A052C6DA3B7DB19E6FE54455A78" name="gwynneth l35 llyrath forest.trx" dlsize="2963022" size="16003204" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4E193BAF8B24FA0CD0C746A3A1533DB5806822E8" downloadHash="AB0C3EEF96E6805485580BA7B727C150A5E27A39" name="gwynneth l35 llyrath forest.trx" dlsize="2941773" size="15987153" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2162,7 +2162,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7A88992E185E307D183E66F271B7342B16638F0D" downloadHash="8128ED1C77928EB9F65E4A05D4CC9DB473DB5CB6" name="gwynneth l35 llyrath cave int.trx" dlsize="57451" size="100329" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7EA3EE7A5E6A34581B8988F1F963EC85E40ED96F" downloadHash="C379B6891BE3FDD1186421C30B337C3662B3ECC4" name="gwynneth l35 llyrath cave int.trx" dlsize="57294" size="100199" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
