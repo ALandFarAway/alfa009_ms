@@ -6,13 +6,13 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="43A86BC2595084AD59370A666FF49BB6396A2CD7" downloadHash="A5DD586F1AE4E9238709E7E88FD771B2E590E5DA" name="alfa2_2da.hak" dlsize="380731" size="19699168" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="921647CC805D3875364EA3D9D44A7930953D6922" downloadHash="60B4FB7F64019BF2D5A8F2FDDA7C6F7C579BB21C" name="alfa2_2da.hak" dlsize="381095" size="19699168" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="0F493F2AA51AE60F5C582E9421C428AD47B09F01" downloadHash="5828FF40AA11EA5E34175953E8E5393033944A20" name="alfa2_acr.hak" dlsize="4080384" size="121244125" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="7718680FE840F54E627C4EAE5B7D2AE71697ACEC" downloadHash="C96A2C9E69332CEDB699FEA4BCA71B4ADA991A79" name="alfa2_acr.hak" dlsize="4011245" size="124958726" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
