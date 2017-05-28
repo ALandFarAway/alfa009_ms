@@ -1822,7 +1822,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9AA186DEE0A4D1C11E2636FA86788CF2529DB675" downloadHash="8CF1B56A810D4E14FC93093C435ABBE861E93F56" name="Skullport Skull Isle.trx" dlsize="663044" size="7723237" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8EFB976FBAD500DDE7D4B3E5B37C5FDEBE8A7E0D" downloadHash="C03ABF3DD7994083FD675BC983082194B0EEA5C2" name="Skullport Skull Isle.trx" dlsize="671977" size="7723223" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2157,12 +2157,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="081D45F6ADDC3CEB36C18CF5F80F18318CF5F535" downloadHash="115E32484E10A735280A71CFC086BE376E702E20" name="skullport lower west.trx" dlsize="2313433" size="10990495" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2771FA3DC9B924F4654C9B1CA5767FC42394A590" downloadHash="A04F4D539D4A7767DFB0E564D2000C04F41334BB" name="skullport lower west.trx" dlsize="2338482" size="11012252" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="577A054DE6EEF5EAE1520E97D381BD95F0F0EF53" downloadHash="D178DEE1CA27283DDED1CED5FAD9748E4891D3F9" name="gwynneth l35 llyrath cave int.trx" dlsize="211374" size="255930" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="76AF788A2B97729FF557F9B30252FE4265CCB0B1" downloadHash="3F9E848209E6AA906BA3E3AF649E85C58622427F" name="gwynneth l35 llyrath cave int.trx" dlsize="213940" size="438829" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2173,6 +2173,16 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="DEE49064E7A6431680F60A68E7E060315D6B2C34" downloadHash="3404DB56998040D7C8B052B5B234AA0A9D5C1BD3" name="wd 2l castle ward int.trx" dlsize="52444" size="52665" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="3564580CA41041664CAA8B2791482CB6FBB7A08E" downloadHash="E5360240D3A01CAC7F217D02E5E3D7D934DDB833" name="Skullport Skull Isle int.trx" dlsize="88997" size="89045" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="B686570F031762E9A8561F6A55976F3DB30D974F" downloadHash="8014899609829794108D7891BB2ABE9038E55870" name="skullport lw- drow lair.trx" dlsize="609875" size="842086" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
