@@ -1807,7 +1807,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="17A654E59AEAB847FFAD392645E5574FBB961DB5" downloadHash="26F0EABB5788773A126ECEAB1BF8FBACEB7BD90A" name="alaron r26 stirgewick ruins1-2.trx" dlsize="449124" size="455704" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A4DB89393E5280ACC1E20EB608C160D44F4AE422" downloadHash="1DFA11DC96D798FAF42CD62CEE2F9710668612F4" name="alaron r26 stirgewick ruins1-2.trx" dlsize="449224" size="455701" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2117,7 +2117,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D64D97A83A7D7B040EE1A9765103DF36E7BC7390" downloadHash="3A5D9DAEB222FA2A5AF9536663C75EAD8AA8E15F" name="oman j26 gramphalt mt caves.trx" dlsize="1327863" size="1756889" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3C544FBD2E3021B705AC41FFFF63F10DCD1521B8" downloadHash="9F9F16AF460259CF2A2DDE35A6A8CE1C36619AAF" name="oman j26 gramphalt mt caves.trx" dlsize="1328944" size="1759589" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
