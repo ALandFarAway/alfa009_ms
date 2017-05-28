@@ -6,19 +6,24 @@
  */
 // Put this script OnEnter.
 
+#include "acr_placeable_i"
 
 void main()
 {
-    object oTarget;
+     object oTarget;
+    object oTrigger = OBJECT_SELF;
+    string sDoorTag = GetLocalString(oTrigger, "sDoorTag");
+    object oDoor = GetObjectByTag(sDoorTag);
 
     // Get the creature who triggered this event.
-    object oPC = GetEnteringObject();
+    object oPC = GetExitingObject();
 
     // Only fire for (real) PCs.
     if ( !GetIsPC(oPC)  ||  GetIsDMPossessed(oPC) )
         return;
 
     // Close "RunicDoor1".
-    oTarget = GetObjectByTag("RunicDoor1");
+    oTarget = GetNearestObjectByTag("sDoorTag");
     DelayCommand(10.0,PlayAnimation(ANIMATION_PLACEABLE_CLOSE));
+    DelayCommand(10.0, AssignCommand(oTarget, ActionCloseDoor(oTarget)));
 }
