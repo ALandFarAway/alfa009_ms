@@ -24,6 +24,6 @@ void main()
 
     // Close "RunicDoor1".
     oTarget = GetNearestObjectByTag("sDoorTag");
-    DelayCommand(10.0,PlayAnimation(ANIMATION_PLACEABLE_CLOSE));
+   // DelayCommand(10.0,PlayAnimation(ANIMATION_PLACEABLE_CLOSE));
     DelayCommand(10.0, AssignCommand(oTarget, ActionCloseDoor(oTarget)));
 }
