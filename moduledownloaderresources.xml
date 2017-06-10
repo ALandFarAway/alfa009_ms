@@ -902,7 +902,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E77E54D1E4585E5FE1D2A542B030C608C908996B" downloadHash="BD8B0836B5AB13E3A2FACA583DDC1335E4D7226B" name="moray isle e31 orcskull mnts.trx" dlsize="4041065" size="21004190" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FE6CCC36DE4DC2A291D496154197DB21D9A2A313" downloadHash="9E886E44F894DE158D9E10DD337DE1AB3A7B06CF" name="moray isle e31 orcskull mnts.trx" dlsize="4064882" size="21026796" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1662,7 +1662,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0B940E03F3E1F36BE55EB2C689808156665A687A" downloadHash="85DAD80AC79FA2E9D1F9CE3B2432251904F3C9AD" name="gwynneth m34nw corwell town.trx" dlsize="5202357" size="27215588" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B1CA3B4A3873290344BB00FB9664C1472EB89FB3" downloadHash="277F8BD8FDEE16036F5DCF69D61546DBF9940354" name="gwynneth m34nw corwell town.trx" dlsize="5228259" size="27239988" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1762,7 +1762,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="AA678E0463ADEADFDB08B2A2AB09B885E14670E1" downloadHash="9A0FC8D9CB6A28EEC9FF3A6C501EE50AA4733FB1" name="gwynneth l34 cantrev dynnatt.trx" dlsize="5055530" size="23675377" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9F5178CDA2EDB0A88E10C64483772F8C199F067B" downloadHash="0891CA6BD3E149786BCCDC7E5067F3D77C909947" name="gwynneth l34 cantrev dynnatt.trx" dlsize="5092982" size="23691887" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2082,7 +2082,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="48B0CD5A8DD7127C41801366D1C4F651A1E5C274" downloadHash="8C43B20053560A022EAD4F8B6092E14D6EA85EE1" name="moray isle f30 breasl marsh s.trx" dlsize="9812251" size="45268474" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C8B11964D0CE05832AF8363F511F6F0381E8A0C6" downloadHash="D38EAD9CCABCFA4354D0053725260AF99F4C4FF4" name="moray isle f30 breasl marsh s.trx" dlsize="9784817" size="45221055" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2183,6 +2183,16 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="B686570F031762E9A8561F6A55976F3DB30D974F" downloadHash="8014899609829794108D7891BB2ABE9038E55870" name="skullport lw- drow lair.trx" dlsize="609875" size="842086" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="7C35CAA3CBDBBB800AE9D6FA33953EA3E1E11B6F" downloadHash="9FED99B4189F712CC8F7CA6646461FCA9B2CDF9C" name="moray isle e30 int.trx" dlsize="145357" size="548086" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="E99CF5CE51E7A45B7F9F61537CE747D0A5019911" downloadHash="85443FAF3F8A8D157C6FE359A8CBF71346CF6002" name="moray isle e30 Farview.trx" dlsize="4222451" size="33190513" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
