@@ -68,9 +68,9 @@ void InitializeSpawnResets()
 }
 
 void main() {
-
+   
 	//  
-	SetGlobalInt(_ACR_SETTINGS_SERVER_ID, 09);
+	SetGlobalInt(_ACR_SETTINGS_SERVER_ID, 9);
 	SetGlobalInt(_ACR_SETTINGS_SERVER_REGION, 3538);
 	SetGlobalString(_ACR_SETTINGS_SERVER_NAME, "ALFA 009 Moonshae Isles");
 //	SetGlobalString(_ACR_SETTINGS_SERVER_IP, "68.186.91.19:5121");
