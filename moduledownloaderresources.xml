@@ -2117,7 +2117,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3C544FBD2E3021B705AC41FFFF63F10DCD1521B8" downloadHash="9F9F16AF460259CF2A2DDE35A6A8CE1C36619AAF" name="oman j26 gramphalt mt caves.trx" dlsize="1328944" size="1759589" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="54915D616700DC565BA961A9DC3E01928EEC0760" downloadHash="2B957A107CDAB715DF11270E59D74BE65F521ADA" name="oman j26 gramphalt mt caves.trx" dlsize="1403503" size="1834066" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
