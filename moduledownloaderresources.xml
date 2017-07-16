@@ -687,7 +687,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="AEFADDAD2C04A5572DCC0201385F7AE65B86C88C" downloadHash="05749C680032620889E734733C9543C19FB3D857" name="gwynneth m35 llyrath forest.trx" dlsize="2002346" size="14974839" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="AE15AAC9DAD492983FB7404BF8AF2AD203BFE73C" downloadHash="AC3267B90ABF1A10CAFAA0693F0EE334FECAADA4" name="gwynneth m35 llyrath forest.trx" dlsize="2019194" size="14983942" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1802,7 +1802,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="29DE02EB573885C5110B2488019A4190DA2D8719" downloadHash="1EC51822C0B44EFAF4B7B4E02744EEFC5BF0275A" name="gwynneth m35 llyrath sea caves.trx" dlsize="931104" size="5714860" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="ED8AA26DEA672F3204DD837CBB7BF34F491AB072" downloadHash="07A2FBFF17DF2553D632B889623AD3987C5270C2" name="gwynneth m35 llyrath sea caves.trx" dlsize="965091" size="5743998" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2193,6 +2193,16 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="9146834531E80710BD990B12184C420ECD5AF651" downloadHash="9DF645849564EC3101E7C097DDB73A12FCB05209" name="moray isle e30 Farview.trx" dlsize="4377598" size="33617590" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="BC5F4512D3D5A401A5FC712BC5ACF8B8E215E776" downloadHash="B507BBFEC0AC271471A112350613793399299CEF" name="003_derochelle_manor_khelb.trx" dlsize="341503" size="701312" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="29DE02EB573885C5110B2488019A4190DA2D8719" downloadHash="1EC51822C0B44EFAF4B7B4E02744EEFC5BF0275A" name="gwynneth m35 llyrath sea caves1.trx" dlsize="931104" size="5714860" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
