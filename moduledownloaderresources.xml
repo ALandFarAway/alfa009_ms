@@ -2217,7 +2217,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="EE7B8512B7B610F9708BE649D7C9D77278C41851" downloadHash="995B9BD828A58B6430935EE393ED874D190897D5" name="gwynneth m35 llyrath crystalcave.trx" dlsize="1219753" size="5997390" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E678DBB19E348CE66B1312D9DF9E442C995A7EA1" downloadHash="66571A5409D7F003AA693638AB8C363E34C4D1EC" name="gwynneth m35 llyrath crystalcave.trx" dlsize="1175122" size="6004013" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
