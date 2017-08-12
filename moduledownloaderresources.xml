@@ -2117,7 +2117,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="54915D616700DC565BA961A9DC3E01928EEC0760" downloadHash="2B957A107CDAB715DF11270E59D74BE65F521ADA" name="oman j26 gramphalt mt caves.trx" dlsize="1403503" size="1834066" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7B116322C2912D6FA776098D542B54A0C41DCB5A" downloadHash="9F7DD713059E4523DB33DD92612629B5112DB17F" name="oman j26 gramphalt mt caves.trx" dlsize="1410027" size="1839666" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2217,7 +2217,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E678DBB19E348CE66B1312D9DF9E442C995A7EA1" downloadHash="66571A5409D7F003AA693638AB8C363E34C4D1EC" name="gwynneth m35 llyrath crystalcave.trx" dlsize="1175122" size="6004013" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="275343BC6CEC89F4D5A5CDC444DE852B8F25B718" downloadHash="FA32F5D122A936681F0A9970A313B91D58AA3FE0" name="gwynneth m35 llyrath crystalcave.trx" dlsize="1250603" size="6081451" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
