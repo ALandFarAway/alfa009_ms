@@ -467,7 +467,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0BB120114CEA7B4F6CBEB46ED624DD3992B1613D" downloadHash="4D9F2B8CA70EAA58445523D8595D63AD0293CC7A" name="gwynneth m34ne koart vill.trx" dlsize="3812128" size="20036574" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C3499B54664B227E70905AE7C8537E22E11E5433" downloadHash="5B4370253BB2B692C73ECF6A655661887EEC1D58" name="gwynneth m34ne koart vill.trx" dlsize="3792896" size="20014935" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
