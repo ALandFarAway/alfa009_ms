@@ -467,7 +467,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C3499B54664B227E70905AE7C8537E22E11E5433" downloadHash="5B4370253BB2B692C73ECF6A655661887EEC1D58" name="gwynneth m34ne koart vill.trx" dlsize="3792896" size="20014935" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5ACD20B46CB5735F86378969A478AFE33B6E780B" downloadHash="D5ED414D2164D3EA22684E404D6609E8B5001998" name="gwynneth m34ne koart vill.trx" dlsize="3800951" size="20015233" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -762,7 +762,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4FE08B152F02CFFD33C993A03DDB3BFCA1FADF22" downloadHash="5DA8DF82F07E15736DF2FF8C4473EBB8ED47D84A" name="gwynneth m28 winterglen forest.trx" dlsize="4990123" size="25545151" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3F34BD3B8DD940DE645368B23DEC152FF45328C3" downloadHash="658350429287FA58D6B56694F93B1028D5C325CD" name="gwynneth m28 winterglen forest.trx" dlsize="4746359" size="24271502" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1562,7 +1562,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D569F850C231C2480E313357C10E4D4610D6AD2E" downloadHash="2A1D6582D8DF158C8C62B7182D9AC7B6FDB21216" name="dwyvach g i36 salt flats.trx" dlsize="2956790" size="15967821" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B25C844130C2D1EC73B85B611D8DC02D3930B05F" downloadHash="F88BC7D484F21233FFB2B61EB07076EF815AEBC3" name="dwyvach g i36 salt flats.trx" dlsize="2966600" size="15967844" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2217,7 +2217,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="275343BC6CEC89F4D5A5CDC444DE852B8F25B718" downloadHash="FA32F5D122A936681F0A9970A313B91D58AA3FE0" name="gwynneth m35 llyrath crystalcave.trx" dlsize="1250603" size="6081451" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="931D3F997AED0E11185C329551E8BE2A4AC7743E" downloadHash="78664F51D8F7985C18DA5286458B87A32B658893" name="gwynneth m35 llyrath crystalcave.trx" dlsize="1267393" size="6087665" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
