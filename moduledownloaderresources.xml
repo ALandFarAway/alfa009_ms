@@ -1522,7 +1522,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3268F80A2932577FC5BF2E5B1DF7BD91D0786C05" downloadHash="E0148B742D6D6133E3BD88B58C71F0A2EFB2C09C" name="wd 4g taverns_inns int.trx" dlsize="396745" size="444110" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F95550571F234F7B6874049B6DBE1FEBC2C7DCB6" downloadHash="B44CDB14EA22051D0C1BC6399F3E0F391EF55E03" name="wd 4g taverns_inns int.trx" dlsize="397208" size="444211" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
