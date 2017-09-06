@@ -762,7 +762,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3F34BD3B8DD940DE645368B23DEC152FF45328C3" downloadHash="658350429287FA58D6B56694F93B1028D5C325CD" name="gwynneth m28 winterglen forest.trx" dlsize="4746359" size="24271502" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7F402A1D15FC7EE74926CE6C8F15C1A6F8537BC8" downloadHash="A033B29FA0A27250CED5A0DC6B9144029F756C93" name="gwynneth m28 winterglen forest.trx" dlsize="4756919" size="24270983" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2217,7 +2217,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="931D3F997AED0E11185C329551E8BE2A4AC7743E" downloadHash="78664F51D8F7985C18DA5286458B87A32B658893" name="gwynneth m35 llyrath crystalcave.trx" dlsize="1267393" size="6087665" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="953F75F19D52AA2EAF5877FA54FCFC34248CCB09" downloadHash="05BDB15C012F2B906171EC7F29CBEA5EEEC988FC" name="gwynneth m35 llyrath crystalcave.trx" dlsize="1263632" size="6083051" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
