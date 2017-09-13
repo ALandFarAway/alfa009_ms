@@ -732,7 +732,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="15C9BC026F73771E8DC7D141406F6BD021EEAF3F" downloadHash="351E67119C035E908FADE624A8AC64E1ACCA5721" name="nelanthar il. nemesser isle.trx" dlsize="5220254" size="26288955" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1E34727035190DC697D151069229601B157924FD" downloadHash="12FB857BE299AB66CB66E492EB267C95BA6EEEA4" name="nelanthar il. nemesser isle.trx" dlsize="5247092" size="26313213" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2218,6 +2218,36 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="953F75F19D52AA2EAF5877FA54FCFC34248CCB09" downloadHash="05BDB15C012F2B906171EC7F29CBEA5EEEC988FC" name="gwynneth m35 llyrath crystalcave.trx" dlsize="1263632" size="6083051" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="06BC0C68CDBC20D83635813A722E4626E0AD3436" downloadHash="15A1F003B7382F6AFC28F23FC7E10344D63A0E0E" name="nelanther isle of drachenshore4.trx" dlsize="5753593" size="35260840" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="645142FCFC4D4201F51F339E10B9D354FE487129" downloadHash="058C124BF1D8FD47E0F62FDD7BEBB7735072986A" name="isle_docks1.trx" dlsize="2322442" size="14197511" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="A55493C787D212B578D81CAE866C57ACE266BBB0" downloadHash="33A06E8C99852BEF0C59928EF011D8504B66B9D5" name="moray isle e30 druid int.trx" dlsize="143843" size="548949" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="CD0F044A287D0E35817D3F3878333FC404CD1ECF" downloadHash="9C7A8D5E4ED051B1829358F9C1DA123C9B6635BC" name="drachenshore misc int.trx" dlsize="444518" size="447422" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="F40232A38CC82EF12F0231A548405A1E1B0AF136" downloadHash="C8DF6E571F279C5C94AA7C5D316EB50DCC0E64BE" name="drachenshore shops.trx" dlsize="463362" size="466743" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="C81E719E3FA78EA97296E0FDE08E0CD3B964EADD" downloadHash="D9C0C7422B70A3FECA73BCE76C00741BEC20905E" name="drachenshore inn_taverns.trx" dlsize="769183" size="776376" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
