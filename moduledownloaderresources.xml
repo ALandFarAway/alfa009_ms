@@ -2147,17 +2147,17 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="889AF59EBE5BF03D101B5542571DF2F6C9150330" downloadHash="B9C4AF09176B0FEE1CB2412A05001E0A75CF8871" name="skullport lower shops.trx" dlsize="758074" size="763534" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C099DD10CF59F3E37B955A43B59EB5EF368E39B2" downloadHash="4004A598610FC69031BE2244EA68ECA56BB15185" name="skullport lower shops.trx" dlsize="753614" size="758947" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CA465AE3FEB9EA0171BF97EC980F3BB066F07D86" downloadHash="8BE1CF93082C02A86C4AE5132A52729BCA9B8219" name="skullport lower east.trx" dlsize="2651474" size="12176395" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F2F04D13769348506AFFBC1A59EFDD51B2F45C26" downloadHash="C2F4B6FD7404C53D59B52AA832D6064DE53BE6C9" name="skullport lower east.trx" dlsize="2927154" size="12447669" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2771FA3DC9B924F4654C9B1CA5767FC42394A590" downloadHash="A04F4D539D4A7767DFB0E564D2000C04F41334BB" name="skullport lower west.trx" dlsize="2338482" size="11012252" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6ACF8C186886A78D3D6222857D56B680F064F1E2" downloadHash="F5001A15B4BBFED0692C961277C45EA53EFC92D7" name="skullport lower west.trx" dlsize="2355752" size="11033445" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2222,7 +2222,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="06BC0C68CDBC20D83635813A722E4626E0AD3436" downloadHash="15A1F003B7382F6AFC28F23FC7E10344D63A0E0E" name="nelanther isle of drachenshore4.trx" dlsize="5753593" size="35260840" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FD36F129C9FDF0C0CFC974EBB64220057BE73EC6" downloadHash="D6EDBB54AA111C70F2DC793448E67B35C05EF7FB" name="nelanther isle of drachenshore4.trx" dlsize="5839908" size="35287869" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2248,6 +2248,26 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="C81E719E3FA78EA97296E0FDE08E0CD3B964EADD" downloadHash="D9C0C7422B70A3FECA73BCE76C00741BEC20905E" name="drachenshore inn_taverns.trx" dlsize="769183" size="776376" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="350DD3026AB4DCD00BF558B984A8E67E13283EFF" downloadHash="7EC0BA3ACC2E7E9332D86AC436692A48FB98082B" name="nelanther drachenshore misc int.trx" dlsize="444449" size="447415" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="A8343600CFC3A60F95F7BFD56F01C4D84B768B9C" downloadHash="268F5F5A73170EC0214FF3CCAF9554CC8EB62228" name="nelanther drachenshore shops.trx" dlsize="464047" size="467434" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="20404E6E4604DB6D43387D77446BE9E8EC2ADB7E" downloadHash="CB38C39ECF50156525FD8C18C30762B053FCD44B" name="nelanther drachenshore ext.trx" dlsize="1916919" size="12489432" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="522D599081BF7B683E37BF593F649DC131AD2E34" downloadHash="8C1EB0F81B23012F88DDE50515B697DEF59781D4" name="nelanther drachenshore tav_inns.trx" dlsize="786560" size="792709" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
