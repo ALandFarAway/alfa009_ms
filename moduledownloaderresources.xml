@@ -807,7 +807,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C7EBCAF86FAC8505E12BD42E23A4588EFC4866CE" downloadHash="D59D191D3ECF6F02CE40B91355F44A3EE84BA42B" name="alaron p23 dernal forest camp.trx" dlsize="5166513" size="25082533" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="98E3EE7760D3F61B1DF06AB9CA96DAD6BE20E84E" downloadHash="70F22B93AA4F98C84C5E6A02F41F7ED9CFCDCAF3" name="alaron p23 dernal forest camp.trx" dlsize="5190174" size="25106417" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1287,7 +1287,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="05595CBA391150B1DC5949F030ED5817984B8D90" downloadHash="CB942FAC630851A051473F406261F50E8E1121D9" name="alaron q22 callidyrr housing.trx" dlsize="567508" size="1154605" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0D4BF3C177DBE9A7820924809B5F0D7F8B37CDFA" downloadHash="235ECDD9DFF583583595D5D9E4C4DA4987F9AC85" name="alaron q22 callidyrr housing.trx" dlsize="557358" size="1145259" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1507,7 +1507,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7FC94483B5CA2FB1BEFFF925D5346BB8135445CB" downloadHash="CD84B982DAF6A6FA3A129672CDA5D22535EB9E30" name="alaron q22 callidyrr interiors.trx" dlsize="608808" size="701515" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0FC3CD0C6673557838F57F688544B47103DF528A" downloadHash="3A9FB15E07FB961F65F92D729B2605CA314CAB28" name="alaron q22 callidyrr interiors.trx" dlsize="607033" size="699812" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1827,7 +1827,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0D4FCA61F7C6D5E9365CF71712FB420147970AAB" downloadHash="7ECCBFC6BA7A553B3017739E625B170EA21BD02C" name="nelanther isle of drachenshore.trx" dlsize="1923796" size="15224621" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F271A5514FCE479DC53E2A08BEA9646E8A7D9924" downloadHash="FDC8E8C67FCC2FEA9B146EDB8700339667067639" name="nelanther isle of drachenshore.trx" dlsize="5850645" size="35303169" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2157,7 +2157,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6ACF8C186886A78D3D6222857D56B680F064F1E2" downloadHash="F5001A15B4BBFED0692C961277C45EA53EFC92D7" name="skullport lower west.trx" dlsize="2355752" size="11033445" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="CC547845D5581B782BD6D562B3EA9FDC3C63CBAC" downloadHash="3A9997812E21D877CCBF00C3610F8CA0A89AF285" name="skullport lower west.trx" dlsize="2327547" size="11002418" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2262,7 +2262,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="20404E6E4604DB6D43387D77446BE9E8EC2ADB7E" downloadHash="CB38C39ECF50156525FD8C18C30762B053FCD44B" name="nelanther drachenshore ext.trx" dlsize="1916919" size="12489432" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="73A5184FCB6136EEE9886D7A3C2EF84C8071CA31" downloadHash="86AA9F42C14BEE2ABAA8F635A0FA2E648333BCA4" name="nelanther drachenshore ext.trx" dlsize="1955703" size="12525923" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
