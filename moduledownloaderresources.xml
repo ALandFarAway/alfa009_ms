@@ -752,7 +752,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="232423ACD3C9522E1E58EDE76D6A04FB3A638018" downloadHash="1CD77B8D11EF538BF98942E1945E17F7143322BE" name="snowdown r34 westphal int 2.trx" dlsize="276234" size="952928" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D2C2E9DED9607BDA3D7B4F558616308842829B61" downloadHash="00F5CEE0A653B19B80E4BF8DF1BA9C98D780AA40" name="snowdown r34 westphal int 2.trx" dlsize="322511" size="997746" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1062,7 +1062,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9CBD621E14BDA0005057B46C376585517A2D3CFC" downloadHash="89942E0743C59B4F28D5B6D13E5EF25F9DA92FCB" name="snowdown r34 westphal inn tavern.trx" dlsize="241199" size="242876" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="59CD5731CC222703FD2882AACAD6475C13C36D2B" downloadHash="6E97F26B34751BF598C23672E038E00A4A4FE3FF" name="snowdown r34 westphal inn tavern.trx" dlsize="401222" size="404382" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1912,7 +1912,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A4AFB1C6E3019F0FB79125C66BC4EC81E1913CA0" downloadHash="EBF459378056B451AE4EF1891D70A1C5FC663C5D" name="snowdown t33 to brannoch.trx" dlsize="4565227" size="25976583" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5EC38741CB8348B653520EB031797A9B3732327D" downloadHash="E3832B45805D8BB32DD855746FE4FFA72301BB68" name="snowdown t33 to brannoch.trx" dlsize="4571678" size="25959543" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1922,7 +1922,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="85A8630A049ECBB1AAFD60E7E0477BD821FC047B" downloadHash="FFC571F98C9B6A3C354A160E381BEE8BFB40C9C3" name="snowdown t33 lodge area.trx" dlsize="1366893" size="15828607" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5E52B87451D98ED1FBFAB9B7F718DCFE47CD78A5" downloadHash="1792810B43082F15A8DFAEC52981943AB1EBC4F5" name="snowdown t33 lodge area.trx" dlsize="1302639" size="15768728" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
