@@ -1,7 +1,7 @@
 // tinting lever - test on_used script
 // adapted from lostdreams' tinting plugin script
 
-#include "nwnx_sql"
+//#include "nwnx_sql"
 #include "acr_db_persist_i"
 
 void main()

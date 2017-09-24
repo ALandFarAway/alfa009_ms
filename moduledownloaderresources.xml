@@ -142,7 +142,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1683FFBF7BD31D662404699EFAFA7D7AB17F6F4D" downloadHash="FBDF4F7A60A0DF6210725FFAA94EB36F145F8566" name="skaug port public buildings.trx" dlsize="605882" size="611787" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="699DDC03D526166B6B2FD0F0E60901D3F9F77731" downloadHash="55DDFF61F03EA63FC4D6975F06B9CEADC0F4C45C" name="skaug port public buildings.trx" dlsize="822793" size="832705" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -367,7 +367,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A75E8936252FE5809A0E1C55BD1BB5E27F8D4540" downloadHash="B73840A14937EAAC487CD9146EC4D4C5DF68C304" name="alaron q22 callidyrr int 2.trx" dlsize="361629" size="767641" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="86205F89DFE3F6DD633D8895F10CA9B0822AF701" downloadHash="5CC08D575ACEBC75BDB6CEF6FC592C3E99A88947" name="alaron q22 callidyrr int 2.trx" dlsize="496963" size="948246" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -922,7 +922,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B2E7E4AFC9B67883D69E24FD477E32F0A830CFC9" downloadHash="F8C78FDDE02B653F7FAC11CC445A6891F32D10FF" name="gwynneth m34nw corwell interiors.trx" dlsize="257076" size="259933" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="030C5C458F13D1B055BBD144436B591DAFAADFE1" downloadHash="40E71AC09C0F1D19660ADDF0A967FAA36E40814E" name="gwynneth m34nw corwell interiors.trx" dlsize="564566" size="570575" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1092,7 +1092,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F8539C81F608D373F5906F88EF0A6F0592FF6700" downloadHash="07CAE12B1BED76B8D606B48163AC5808E7FABA27" name="alaron q22 callidyrr inns.trx" dlsize="88742" size="675316" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2FDEAA46F778EB3598156AE03AC85E76D71CAC94" downloadHash="657884326DB91561A99C8C5991510721FEBC7E51" name="alaron q22 callidyrr inns.trx" dlsize="214701" size="800509" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1187,7 +1187,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2B81FBD40D71ADEFEF9096D0DEEF303DEC1FDACA" downloadHash="3823A5487CC99B08D4B94417B63E87A7F221DDFB" name="gwynneth m34nw corwell inns.trx" dlsize="424707" size="427822" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2CF125F5210D1E91B4E829114323D5B43A8CA3D7" downloadHash="77B745A1D0AE382BDDB61BD140F1FE920E827A3E" name="gwynneth m34nw corwell inns.trx" dlsize="581861" size="587027" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1322,7 +1322,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5EE150EDFC634CD5AD8C34D3A5DC859F8051611F" downloadHash="3131EA355CBDCECA2FB2CC7FE5916B8A2403845A" name="gwynneth p33 kingsbay town ext.trx" dlsize="5586149" size="26901322" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3103489B355403C4C295B9A1191FE2C7EDDFE445" downloadHash="DF496972CCF6A148DD2F9B5FB15565CC894C44B3" name="gwynneth p33 kingsbay town ext.trx" dlsize="5639512" size="26973045" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1832,7 +1832,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="18CA67DFECCFA54536B2AB682A7174CB4D7B736C" downloadHash="B1554151516B84C66E02D2B2562B960295A46AF4" name="gwynneth l35 lost ruins 2.trx" dlsize="277263" size="9283950" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="87D52FC6BA1FF145D26DC7FB0691357A26DD86A3" downloadHash="5602DE976156CBEE973F548070B32070C30D6715" name="gwynneth l35 lost ruins 2.trx" dlsize="434065" size="9435028" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2047,7 +2047,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="681F5D1B675DB4ED4DD7269E2846809155302EE9" downloadHash="649D7CF0429F0A256F7C10BD3C38858AE7F81040" name="gwynneth p33 kingsbay town int.trx" dlsize="285162" size="329751" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E6253F36C959413B5F2F8EE40D72570E82E70F4B" downloadHash="C43A6543512994FCB2BBB3667039B74D31409561" name="gwynneth p33 kingsbay town int.trx" dlsize="280698" size="325432" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2262,12 +2262,42 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="73A5184FCB6136EEE9886D7A3C2EF84C8071CA31" downloadHash="86AA9F42C14BEE2ABAA8F635A0FA2E648333BCA4" name="nelanther drachenshore ext.trx" dlsize="1955703" size="12525923" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5486CA06138454D9A547BEEBE8C6E965FA993F7A" downloadHash="45D87C20CD6DE97E3F3A254EB6062CF709B7B54A" name="nelanther drachenshore ext.trx" dlsize="2046007" size="12617185" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="522D599081BF7B683E37BF593F649DC131AD2E34" downloadHash="8C1EB0F81B23012F88DDE50515B697DEF59781D4" name="nelanther drachenshore tav_inns.trx" dlsize="786560" size="792709" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="A55493C787D212B578D81CAE866C57ACE266BBB0" downloadHash="33A06E8C99852BEF0C59928EF011D8504B66B9D5" name="moray isle e30 druid cave.trx" dlsize="143843" size="548949" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="990A668E9C6E4D93789257DB48C091B2000BEAF4" downloadHash="C6D20DFD705429EDD32413D2B72AA1A79AF8EB2C" name="alaron q22 callidyrr temples int.trx" dlsize="382326" size="1105238" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="6602DFA58559963FDE5E15DBE103BE7DE04587C0" downloadHash="F1520450C7AC50831375C342F1A56124B4D06892" name="alaron q22 callidyrr inns 2.trx" dlsize="311947" size="357121" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="60D5B4C0E5C82C92E679C2E18CE7BA338D011C47" downloadHash="EF76AA281D358E5AEAC316104F053A14DCA9B4FC" name="alaron o24 aithelar tomb.trx" dlsize="573318" size="756459" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="E415F4A8480522C3F861DA44607FEDA7E4DC2FE7" downloadHash="D305C241480E8C50EBF6498552831B5A14B512C3" name="alaron r26 stirgewick ruins.trx" dlsize="564485" size="572986" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="74302EB14073F757B71A20883CBB084A1552A260" downloadHash="100F327E40E77E6983D139641DBF401D821317D4" name="gwynneth l29 strange ruins.trx" dlsize="494232" size="498596" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
