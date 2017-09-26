@@ -75,4 +75,3 @@ void main()
    //DelayCommand(fDelay, DeleteLocalInt(OBJECT_SELF, "LOOTED"));
    DelayCommand(fDelay, SetLocalInt(OBJECT_SELF, "LOOTED", 0));
   }
-

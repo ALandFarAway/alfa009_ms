@@ -142,7 +142,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="699DDC03D526166B6B2FD0F0E60901D3F9F77731" downloadHash="55DDFF61F03EA63FC4D6975F06B9CEADC0F4C45C" name="skaug port public buildings.trx" dlsize="822793" size="832705" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F08AAAAC8166594EB1E412614CEF6995B97A8ACD" downloadHash="C671C7D732C9005B4C6520D534FEE2AE7FDD2E47" name="skaug port public buildings.trx" dlsize="922204" size="1201681" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -207,7 +207,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4425775A77DC6EE0643A6258C950569AF9CB9A58" downloadHash="EADA6799CB9BDA080DBC17855DE3F13138C7A053" name="ruathym c5 haven interiors.trx" dlsize="347250" size="482969" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="950340CDDCD5C048DC56530E16201ED04D4AD3B3" downloadHash="12639700805392082E66DE946D7A1CA28BB962D3" name="ruathym c5 haven interiors.trx" dlsize="599099" size="743553" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -412,7 +412,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2BB742328BA723855AF8992E87F1BDBB7465CFE0" downloadHash="69A46E04581B49AC6EC4FA9BDD625B1CCA45EBD4" name="cave complex 1.trx" dlsize="395122" size="400405" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="AD8A9BDDDA1D0C3667850602BD364E118DD5257C" downloadHash="2902A9E81DA834A8227AC32EFD507B691D2CF17D" name="cave complex 1.trx" dlsize="769015" size="782032" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -517,7 +517,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="555B9A4E92EDEE0EE32E7CE161EC6C8FCD950341" downloadHash="F35988178C394A11FDE73F6294511B1A95586C15" name="skaug port shops.trx" dlsize="472700" size="475345" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DC550E3D3A12C645C4A9368FFA2AA48F2D5565BC" downloadHash="679F804D201B81AB5243BC19CBB7E3E36591226A" name="skaug port shops.trx" dlsize="722894" size="729250" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -922,7 +922,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="030C5C458F13D1B055BBD144436B591DAFAADFE1" downloadHash="40E71AC09C0F1D19660ADDF0A967FAA36E40814E" name="gwynneth m34nw corwell interiors.trx" dlsize="564566" size="570575" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2C7D1740B690EA883E38BC30CD969DCCD9AD8FEC" downloadHash="46F657054FEDB6B16EBAE3D62874D83186014E4D" name="gwynneth m34nw corwell interiors.trx" dlsize="727211" size="735672" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1092,12 +1092,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2FDEAA46F778EB3598156AE03AC85E76D71CAC94" downloadHash="657884326DB91561A99C8C5991510721FEBC7E51" name="alaron q22 callidyrr inns.trx" dlsize="214701" size="800509" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="75457EA4EA370D9B16D84D1DB2E19FBED244CF90" downloadHash="410BD803665402B680EC5588EE313C4EE4957B36" name="alaron q22 callidyrr inns.trx" dlsize="532723" size="1123672" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="002CDCD6C3FE1939545DDB981F09A34B40E1A3CF" downloadHash="A1E8B319E0D24AB3B3690DF41CD28D1AD6BA1FD8" name="cave complex 2.trx" dlsize="178431" size="268164" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="64862C48F02F142D07A32F4E40743C1CB52CAA95" downloadHash="A86D43D52A173C233F5749AB8EAC17F99A2219D5" name="cave complex 2.trx" dlsize="176231" size="266256" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1517,7 +1517,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1804FCF3D17A2435B62CD29D3352DD8FC6003F28" downloadHash="F470D149F97226C4934FA43EE81432851C5B3BE0" name="skaug port west.trx" dlsize="2464133" size="16865550" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0B0764CA0688B8F955DB78E3D66754FE244A51BC" downloadHash="24A43AC2B8602384A48D81FE37AC30CEC0397F08" name="skaug port west.trx" dlsize="2458617" size="16865600" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2298,6 +2298,16 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="74302EB14073F757B71A20883CBB084A1552A260" downloadHash="100F327E40E77E6983D139641DBF401D821317D4" name="gwynneth l29 strange ruins.trx" dlsize="494232" size="498596" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="ADDF1F857AE9D80A986324315B94102DBD3D24BF" downloadHash="4A967CCA3AF76860E61E81DBEAEC17E807EDB6A8" name="skaug port inns-taverns.trx" dlsize="1042895" size="1055788" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="5DFB9AEBB96DCC76D82589BC69A71F2FD55F85C6" downloadHash="0BABC30F8DDBC6498374DB9C0167590CA33A3B69" name="generic interiors.trx" dlsize="310562" size="313605" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
