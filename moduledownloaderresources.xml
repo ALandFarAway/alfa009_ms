@@ -647,7 +647,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2D5DCF93D2387AB7EAA5DC640E7D881A7B88B446" downloadHash="27B9901A43B6893132A1EE6F4C91DBB9ED1BAEF5" name="skaug b2 cave barrow.trx" dlsize="352794" size="577097" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="15A72C8899C57B299D49365BDA2C2AD02DBD81F1" downloadHash="51CB5547E7F8F2262D29AEF9D1F1750670357F21" name="skaug b2 cave barrow.trx" dlsize="336481" size="561280" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2252,12 +2252,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="350DD3026AB4DCD00BF558B984A8E67E13283EFF" downloadHash="7EC0BA3ACC2E7E9332D86AC436692A48FB98082B" name="nelanther drachenshore misc int.trx" dlsize="444449" size="447415" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4F2C3A92DDB11226509F3063F16C33F1CF4464C9" downloadHash="B5BC7BCC63E88F9690DF8042DF3A835DC2F3D1A8" name="nelanther drachenshore misc int.trx" dlsize="416829" size="419566" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A8343600CFC3A60F95F7BFD56F01C4D84B768B9C" downloadHash="268F5F5A73170EC0214FF3CCAF9554CC8EB62228" name="nelanther drachenshore shops.trx" dlsize="464047" size="467434" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B107EE5C272ED5A96D4550FD2D99BA5B38EDA0D3" downloadHash="BE3525315240E3EE12B0D607180498CE8483BFDA" name="nelanther drachenshore shops.trx" dlsize="452165" size="455085" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
