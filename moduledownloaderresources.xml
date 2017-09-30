@@ -427,7 +427,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="398436C4DC26C1BF64D2DB05C188D1AAA01517E6" downloadHash="71792C3D1B75D6D8829B910E015C45BF0C2532F7" name="generic merchant at sea - int.trx" dlsize="195649" size="198306" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9C2345582CEC34C01AFC3DC2D52677DF5BDB2447" downloadHash="376BC83A5EAC048FD2D838453843801C4348A36D" name="generic merchant at sea - int.trx" dlsize="193107" size="196878" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -517,7 +517,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DC550E3D3A12C645C4A9368FFA2AA48F2D5565BC" downloadHash="679F804D201B81AB5243BC19CBB7E3E36591226A" name="skaug port shops.trx" dlsize="722894" size="729250" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="11EC79EFCD7AC8317FB883D272746E621DE28A13" downloadHash="9D6228B8335306C6869340EA71F01D307499DA04" name="skaug port shops.trx" dlsize="710449" size="716502" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1547,7 +1547,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="03C7D7E137BCB69A1C655EA2C724C42C0C0CA785" downloadHash="497368CE030736FD1D4534B3B37F49215626CD8B" name="nelanther drachenshore  cave.trx" dlsize="714880" size="729069" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BB6CC9A1E1E0E1ED76F339A3F20A5D2B8ABAB2DF" downloadHash="38E696A4E5A0DA558D9B608831316B3D8621F3C3" name="nelanther drachenshore  cave.trx" dlsize="1005131" size="1021691" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2267,7 +2267,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="522D599081BF7B683E37BF593F649DC131AD2E34" downloadHash="8C1EB0F81B23012F88DDE50515B697DEF59781D4" name="nelanther drachenshore tav_inns.trx" dlsize="786560" size="792709" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9F28B12A45B74992A3A0BEA4B534EA3887071652" downloadHash="57CB8DC59CCADAEE67CDAC2BC6C5EA257003AAC0" name="nelanther drachenshore tav_inns.trx" dlsize="778985" size="785693" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2308,6 +2308,21 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="5DFB9AEBB96DCC76D82589BC69A71F2FD55F85C6" downloadHash="0BABC30F8DDBC6498374DB9C0167590CA33A3B69" name="generic interiors.trx" dlsize="310562" size="313605" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="299017116F426D78A34B4AFBCDCA40BBDC6BE07C" downloadHash="F03F9E3E36ACDB82A5CB278A2EB1FBB3CC4C13EE" name="009_dm prep area.trx" dlsize="287413" size="295440" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="C6ACF128F623B78BF0D8ED299F165FB26AD51ED2" downloadHash="F951AC064B46CD19F3E9BCBD3F15DDA872D94031" name="009_sloops in battle.trx" dlsize="390035" size="7940163" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="251DC1ACFBDB6C329B84EB3D5E36BDF89B03BB17" downloadHash="ED6C7E447B2B9A2C97118F5AF2C8D922CB8BF89B" name="009_testing grounds.trx" dlsize="326782" size="8510856" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
