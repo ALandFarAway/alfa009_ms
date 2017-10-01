@@ -82,7 +82,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="34E8D5FD5B27D2A3B7305D62BE0F2B6B34CA1B7C" downloadHash="55FA8C1F53F26B04BC8445A05B9ECFDAE23B3973" name="generic merchant at sea.trx" dlsize="486787" size="7857113" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E2C6594F9BFD6D117107B09EB91FEC68A4FD5A92" downloadHash="9E6A13BAA8FF4356CC67AA81BD9A5CBAD433BB41" name="generic merchant at sea.trx" dlsize="492057" size="7857113" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -427,7 +427,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9C2345582CEC34C01AFC3DC2D52677DF5BDB2447" downloadHash="376BC83A5EAC048FD2D838453843801C4348A36D" name="generic merchant at sea - int.trx" dlsize="193107" size="196878" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DE1DEC28A432BF5B07222A1596433D3FE208098B" downloadHash="46CD4A9E78D5020B52CBD460E223468EECEB121D" name="generic merchant at sea - int.trx" dlsize="184314" size="188304" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -517,7 +517,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="11EC79EFCD7AC8317FB883D272746E621DE28A13" downloadHash="9D6228B8335306C6869340EA71F01D307499DA04" name="skaug port shops.trx" dlsize="710449" size="716502" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9C1CAABE0F79E4CBB92C431D70923FDC9DE378FD" downloadHash="9D061B7F80BE8A01255C9726605EB6A046A61F6F" name="skaug port shops.trx" dlsize="731574" size="737430" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -567,7 +567,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FCEF725973183434F8A9693B6BF5B147A59814AD" downloadHash="C5558DD52B924FD16EE910A7398D0C412057B951" name="alaron q22 c callidyrr cstl int.trx" dlsize="374225" size="689998" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="36BE7403E214510783253572E7239B9685B1D7E4" downloadHash="F4DBCB4524E90F4500A982DB6D200E805B787DE7" name="alaron q22 c callidyrr cstl int.trx" dlsize="376506" size="692609" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1547,7 +1547,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BB6CC9A1E1E0E1ED76F339A3F20A5D2B8ABAB2DF" downloadHash="38E696A4E5A0DA558D9B608831316B3D8621F3C3" name="nelanther drachenshore  cave.trx" dlsize="1005131" size="1021691" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4A95F87A20787A8EF372C97ACBEE6A05E5E91F6B" downloadHash="A74E23525D75274C8954F4A856633676F8C452A7" name="nelanther drachenshore  cave.trx" dlsize="1042023" size="1058053" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1842,7 +1842,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="30E8AEAD7E6A076109EAC7462F898CBBE56BD8AD" downloadHash="FB3E12F64F313CC980850177E637672575C2339E" name="skaug deserted island cave.trx" dlsize="167879" size="169016" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2A37B6946C140F9F468642E607824BADD5015450" downloadHash="5033EF807316DBCC72894E0436E23D74C9CFDFAE" name="skaug deserted island cave.trx" dlsize="167869" size="169035" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
