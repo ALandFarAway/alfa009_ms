@@ -192,7 +192,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="531B105986CE2F7418A951D20BA2627DEEF92ECC" downloadHash="5938FCCECC601A03C9380524A06AABAE65F82194" name="alaron q20 farheight cave.trx" dlsize="649706" size="701406" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6EC0420D2A7F93FDD3BB3A47F10912A2E762425A" downloadHash="D3011696AA40F6F2163C9A5F43D3181AB39E35F5" name="alaron q20 farheight cave.trx" dlsize="652927" size="704383" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1242,7 +1242,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="72C896C097B57CA2EA2513E7998B4E51D25CDDC9" downloadHash="63E91145C6FAC3FF0DF91B63D427F89BBF4C746D" name="alaron q20 farheight caves2.trx" dlsize="175688" size="265593" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="66774BC13330AEE299CBCD146C750BBBD3A13B6B" downloadHash="0FD360D46339ED2335AB39965C344088F5A80895" name="alaron q20 farheight caves2.trx" dlsize="175427" size="265593" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2112,7 +2112,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0EB0357C3B6CC12C59DFC711A5C3250E1BBCD375" downloadHash="AF09FA6104EDFD29F1B44BA59A6652CFD67DE0ED" name="oman j26 gramphalt mountains.trx" dlsize="4470485" size="21234208" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E385ED31EDBD05FF12E0AD7F5A2B84F7CD28426D" downloadHash="01B200B8013505A9C521A0CF967FD498B9FF2721" name="oman j26 gramphalt mountains.trx" dlsize="4477810" size="21234462" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
