@@ -357,7 +357,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F607F165CC7F1491D518C347B8EE2734A2601030" downloadHash="B1F30E767C447DEC31D8532FA246911149D3A393" name="alaron p21 farheight canyonpass.trx" dlsize="2472953" size="12763525" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3946CD2E27291903EB61EE9B03933534426C36CC" downloadHash="46A900E97E6123F6A5127C5AFB3529E4BCA018E1" name="alaron p21 farheight canyonpass.trx" dlsize="2444861" size="12726908" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -487,7 +487,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7AFDBCAD59EBC57646F1E1D824BE4ECA013E1126" downloadHash="91EB2E88F6A926EAF4535A34CADFD6F54ED087F5" name="alaron q20 cave lvl2 waterlogged.trx" dlsize="582187" size="11618072" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="AD8EF62DB4D3A149BB7AFED240625619B1E2C22E" downloadHash="D157774EE536AE8F8F5DDA0CEC55750B1FD47FEA" name="alaron q20 cave lvl2 waterlogged.trx" dlsize="540838" size="11603610" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -722,7 +722,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6761B28A7DC172D7DFF9BDA5E4200EBD638DCF2F" downloadHash="3ACD18AF72430B5B4BE166E3B6072832F3A53439" name="alaron q21 whiterock int.trx" dlsize="300535" size="393518" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="16B743A1B51240D088293149F24F44D3A784D089" downloadHash="E6B39C293BDAB03034EC3FB385AD9D8F472F7BB7" name="alaron q21 whiterock int.trx" dlsize="296827" size="390040" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -837,12 +837,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3CB770D583FCA3BA5B1251BB3FDFED9D4191040F" downloadHash="742F06EC82153B6DE0145E8ECEBAC742CFF71DCC" name="alaron o24 aithelar.trx" dlsize="3677761" size="17226269" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="64EC5F936C2D82738CACE4D52F898643717FA609" downloadHash="3CFA5406820F9504A669C2ED70831B4BDDE45014" name="alaron o24 aithelar.trx" dlsize="3705152" size="17255653" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="33448F6FAC8B2073E6E50B695957B1FF9103776C" downloadHash="073E0B403B3AC0CE01CAD1EED9025E3DA9BBD386" name="alaron o22 cantrev blackstone.trx" dlsize="3151385" size="15266461" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="001F7982A70BB577E33387D9AFC2A10F4FF9ED82" downloadHash="EEE74067B40B828BF759AE856EB48024B77FE987" name="alaron o22 cantrev blackstone.trx" dlsize="3158335" size="15266445" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -977,7 +977,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CF2805F800D4CD7775A039CCA01E5ABF048AC174" downloadHash="EF6FE941CDA699C51F116C0B3A1C23836B6FAF14" name="alaron p21 farheight ruin2.trx" dlsize="755363" size="945386" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0141DD52B52AFDFE5A7CC649B2B51CBC28417F44" downloadHash="2C7A0505D397139E7DCD4A78BA5AC72535E96C6F" name="alaron p21 farheight ruin2.trx" dlsize="693962" size="884279" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1227,7 +1227,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2408D4C4A44F73B7C5C80BB08A0F4B3B53367CBE" downloadHash="F91D9BDC1240C079411394B5C5CAFA59F9A2D73F" name="alaron o22 cantrev black int.trx" dlsize="89509" size="133056" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="63B8F501312430F678F2E4C33F52ADB8A5348E65" downloadHash="4FD85651155055F7D405005A9CD79B0DC6EE1204" name="alaron o22 cantrev black int.trx" dlsize="89481" size="133050" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1367,7 +1367,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BDCB63826614DF2D2FF897AC31F53FD17D00085E" downloadHash="E96874133E68FE762CD1DFA1D923F27ABADB8861" name="alaron q21 whiterock flood mine.trx" dlsize="836721" size="11835175" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F4D0EB49C95B73341060C23DAFC80FD9210C64C8" downloadHash="6A059CB0D07E12A47B9889B04448CA0057382C34" name="alaron q21 whiterock flood mine.trx" dlsize="834903" size="11835175" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1422,7 +1422,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5FA8BDA3D52111F5C20AEBCD2DA6BE335BAA8139" downloadHash="AEDAD352509BD2FF6B78EEC93F03153570CA0C35" name="alaron p21 farheight mountains.trx" dlsize="6221682" size="25789744" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A34B7CBB86C2361BF39FB72C2F1D53E78199389F" downloadHash="CC24EF8EB1115EDC4B034723185140F23E52F41C" name="alaron p21 farheight mountains.trx" dlsize="6230148" size="25794647" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1492,7 +1492,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9F2A333E62574F3B1D2538CD4188702F47C993B6" downloadHash="74B05D8596F62FDE6E14280838C5383CB84B2AD5" name="alaron p24 dernal forest depths.trx" dlsize="6016393" size="25737444" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3F410DB0B3C7D1F3BD87CD675B8FA3AAC51A00DE" downloadHash="D059FB66B87DBFFB2135CC37725BDE0395BFD992" name="alaron p24 dernal forest depths.trx" dlsize="6021549" size="25742765" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1557,7 +1557,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6658D9E5257A1F46877820932355336D852F6AE2" downloadHash="8F2587D913CDFBE427838922262286ABED9F4652" name="alaron p21 farheight canyon int.trx" dlsize="480422" size="576608" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2F059046EF3ADC9566D909436EAE7E577D4A27D9" downloadHash="9A84895207152F3CCA58278FC1C842D8CDF46D4D" name="alaron p21 farheight canyon int.trx" dlsize="500001" size="596405" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1647,7 +1647,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="59016D93157E4155FA8DDB412B3517CA6436A829" downloadHash="8B131AEB2EA6C120CF3418490F7C253606341949" name="alaron q21 cantrev white rock.trx" dlsize="2844378" size="16155410" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="39DF5F2712E08095AACA34DF0FE9D14262E96F44" downloadHash="CE8590EA3110FDED5EE9D068E47ACCB76529A791" name="alaron q21 cantrev white rock.trx" dlsize="2842490" size="16155410" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1787,7 +1787,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="73E523F2069628FE7588B9D688B4DB6F7F82D22B" downloadHash="51975911B5CCCBD1BE8CE481810BC44F6561100C" name="alaron p21 cantrev blackstone rd.trx" dlsize="2949939" size="14237837" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4FA3FF5E9A1E28D5299B48461A267DD759313939" downloadHash="D973F9854EC6D22245A28DACF0BD91392A0A9C8A" name="alaron p21 cantrev blackstone rd.trx" dlsize="2938445" size="14232368" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2017,7 +2017,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="39C5D96D11576531DF691D70F4BD30E8182BF5A1" downloadHash="C601CEC84D4FB677834AB76AF6A875D96431F33F" name="alaron o24 aithelar int.trx" dlsize="114720" size="115565" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C6BF0889BFCF90D59DB90A4DAC21B868482936C5" downloadHash="D2DB85C449D3A4C6F12D7E4A50FA6D306B32AA9F" name="alaron o24 aithelar int.trx" dlsize="105295" size="106057" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2287,7 +2287,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="60D5B4C0E5C82C92E679C2E18CE7BA338D011C47" downloadHash="EF76AA281D358E5AEAC316104F053A14DCA9B4FC" name="alaron o24 aithelar tomb.trx" dlsize="573318" size="756459" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8851806298DF0D64330B48F094AADA06E62BC5AB" downloadHash="28587CD5CAABB325556CF1B0EF8BBB61DBDCE094" name="alaron o24 aithelar tomb.trx" dlsize="500781" size="684914" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
