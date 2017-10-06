@@ -72,7 +72,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="30D6934CA1B420657BA027F811EFF7631CA68D50" downloadHash="B5623D4752D7EEA47953D0FB36C7AE1CE2290489" name="alaron s23n torriage grove.trx" dlsize="907445" size="7627354" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="41202B35F5FE741D2DB27A5A225B926DBB34EA4A" downloadHash="B0A4581D991229CC9D2F20E98CE463EC11A338B1" name="alaron s23n torriage grove.trx" dlsize="908854" size="7625378" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -167,7 +167,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D29E515019E03CB355265DF11B51922229B2B164" downloadHash="0E3006B256C2EC23E55A4F0AB90699AF51528C4C" name="alaron q22se high kings road.trx" dlsize="2595228" size="16278869" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BE9FCEB2C7BC5D26C2BF969965263574F26ACE27" downloadHash="56D255263A198FE845ED66F6900DAEE010E3511C" name="alaron q22se high kings road.trx" dlsize="2593686" size="16278869" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -182,7 +182,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="730EFE3CCC2A8715651B25CDF9C8A56820C0EA7F" downloadHash="67CD7D91A8831E7A242ECC38848C86B8C446998E" name="alaron q27 cantrev grady int.trx" dlsize="50640" size="50618" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3E0D6FCF433DBDE3173110FFBC166846785D0152" downloadHash="ECA10D8993CA98B9334631AF4A7E04F6FA8D3E46" name="alaron q27 cantrev grady int.trx" dlsize="43571" size="43726" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -202,7 +202,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8B46844A460FF5EBBBD79582EFE86B53E4C0F679" downloadHash="F8E71FDE2838AC6794396411720B39F5B254448D" name="alaron q23 high kings road.trx" dlsize="1986385" size="11753617" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2DF806A452950D858080FD4E676A0D7AA084ED25" downloadHash="A475357A226F0E9CF2A4E4649A92962B6C1AF117" name="alaron q23 high kings road.trx" dlsize="1983981" size="11758090" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -302,7 +302,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DBCCF30119BA03D8A32A76F3558A4C025091CCE3" downloadHash="44D832D763070E046539CD5D2D5A68F5498D75B2" name="alaron q24 hkr - horsa int.trx" dlsize="217117" size="219404" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A7F4E2D392ACB811BD0C11C9E85CEA3B47A31A33" downloadHash="BC2571A2F4304507CCEC789867F375E8F1AC19DA" name="alaron q24 hkr - horsa int.trx" dlsize="201365" size="203389" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -367,7 +367,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="86205F89DFE3F6DD633D8895F10CA9B0822AF701" downloadHash="5CC08D575ACEBC75BDB6CEF6FC592C3E99A88947" name="alaron q22 callidyrr int 2.trx" dlsize="496963" size="948246" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B91C7DDE6A12A689424DD23C98AB92570E841A31" downloadHash="257E6C647EF28EDEBD789F1A6ACC39CB7FF8450E" name="alaron q22 callidyrr int 2.trx" dlsize="520451" size="970929" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -792,7 +792,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F53F012354AC5F9B59E919DF262F862D389D5F23" downloadHash="86BC44A6B9E0F156574A4577B3443F511BE2EBAA" name="alaron q26 high kings road.trx" dlsize="3827295" size="19327914" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="446C02A4F8BA105A0E6648A43BF6196A8A5CEE44" downloadHash="ED32D1685C9CDC69E56524308454EC72AB10B423" name="alaron q26 high kings road.trx" dlsize="3826628" size="19323016" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -927,7 +927,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4CC27E974737962266E35567A30EE974A87A0B98" downloadHash="677129E97D840903A4E59E62106E6B322C18DC57" name="alaron s23w rillifane run int.trx" dlsize="496484" size="591916" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="390A64044F2ED59406E56DAEDC0417726F4A63BC" downloadHash="3EDA44B0938CCBEAF621F17FE4B7BE3A0EF318B1" name="alaron s23w rillifane run int.trx" dlsize="497091" size="591916" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1092,7 +1092,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="75457EA4EA370D9B16D84D1DB2E19FBED244CF90" downloadHash="410BD803665402B680EC5588EE313C4EE4957B36" name="alaron q22 callidyrr inns.trx" dlsize="532723" size="1123672" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F9F22CF4063B70E33EB094742E54E78CD5B9484A" downloadHash="C2CED83E6B7C0AC724B3639B77B786458EA48CB0" name="alaron q22 callidyrr inns.trx" dlsize="535489" size="1125604" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1102,7 +1102,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CFC2D01600356E8A159279E1FC6754A597AED97E" downloadHash="153448C80BC026EB1E641145A626730CD71E7A3A" name="alaron q24 hkr ruins 1.trx" dlsize="519840" size="659457" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D11A5623FC8A150DA5DE6ABD6B1578D5367C7320" downloadHash="04740C3916285CDE154A8BEEB496346241CFE8B8" name="alaron q24 hkr ruins 1.trx" dlsize="519211" size="658748" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1177,7 +1177,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F179B1B9FC573E5080B5768675D5DAFB43BCF05E" downloadHash="21206286D6BDA3FFC0BB626B6A4C0A319E403205" name="alaron q26a regents field.trx" dlsize="2432146" size="12696645" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5441F8B7A60F5E061E30F343E0C409D4FB63BA00" downloadHash="042080481DE7299E23866098AE0F37ABB72E1465" name="alaron q26a regents field.trx" dlsize="2270710" size="12535276" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1287,7 +1287,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0D4BF3C177DBE9A7820924809B5F0D7F8B37CDFA" downloadHash="235ECDD9DFF583583595D5D9E4C4DA4987F9AC85" name="alaron q22 callidyrr housing.trx" dlsize="557358" size="1145259" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B455E0A4017B6F9B6C1893B2575861E22AE3CFE5" downloadHash="18CA7E168111F430A6F37D5EB575F9397FCDBEEB" name="alaron q22 callidyrr housing.trx" dlsize="565688" size="1154452" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1447,7 +1447,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DE822E42B20C8B2C3CDFF3C1F30AB6CCF430D713" downloadHash="C4835C006FD038C1022E793AD11AA72F42BCF681" name="alaron q22w farheight road int1.trx" dlsize="324140" size="505777" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5300F60C9C543E45DEF5E4F2D71340ECCEA6EF98" downloadHash="B31077F1A71C11AEACDC801FCDCC2CC20A5D2152" name="alaron q22w farheight road int1.trx" dlsize="319826" size="501587" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1477,7 +1477,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="728EBC2B9050ACA2DAF0FC3F35FCF95C20C78290" downloadHash="AE8AFEBB52B07E9813331382166D999FDDDF99C7" name="alaron s23n torriage wood.trx" dlsize="4139685" size="21330069" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DA8843CA75F256ED82E0942949DE8A02562E83A7" downloadHash="C001B3BDE042601F7094EAAF36444BB330859707" name="alaron s23n torriage wood.trx" dlsize="4162330" size="21356785" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1507,7 +1507,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0FC3CD0C6673557838F57F688544B47103DF528A" downloadHash="3A9FB15E07FB961F65F92D729B2605CA314CAB28" name="alaron q22 callidyrr interiors.trx" dlsize="607033" size="699812" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="08AFC8BDB5DDA9DEE11313B59A4E9B0DE5DC9B4B" downloadHash="9CF9E4CD71B84DBB889CAC6D0F0D4B5935F301A5" name="alaron q22 callidyrr interiors.trx" dlsize="600455" size="693156" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1587,7 +1587,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3E4657EF9A9C3BD50F7978AC9A3F4433FC2CA07C" downloadHash="22EFA5432669F29F3F0D42C3383D0AFB97E1AF29" name="alaron q27grady village.trx" dlsize="902191" size="6775613" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="82D53CBDFA2AD21787FCEFBECC4CB9241AD66720" downloadHash="E8E699F973864FA1D9BA373DC6224D826C3698BB" name="alaron q27grady village.trx" dlsize="899158" size="6770334" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1647,7 +1647,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="39DF5F2712E08095AACA34DF0FE9D14262E96F44" downloadHash="CE8590EA3110FDED5EE9D068E47ACCB76529A791" name="alaron q21 cantrev white rock.trx" dlsize="2842490" size="16155410" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="524A88B4D43A540C6EE04CF2071BEFA4F34E7FA4" downloadHash="A5F18C3C476767AD2ABE2BF586D118A8268F1132" name="alaron q21 cantrev white rock.trx" dlsize="2826027" size="16140979" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1657,7 +1657,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CF9E5D0BCE294E53E3B52BBDB3BB5BC851B4A4B5" downloadHash="13E18152EC4BFB4408FAA1D4129494C592E919E6" name="alaron q22w farheight road.trx" dlsize="3246686" size="20161341" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0374EC3DE4ECDE063C55B96146A39ACB8E1BEDDC" downloadHash="BD396EC5C8BF42385A192B7CB30FB1D50676DF16" name="alaron q22w farheight road.trx" dlsize="3245235" size="20152667" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1777,7 +1777,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CBD230E861B870575D3DF61DDE555BAB183CC120" downloadHash="BE27A1637D386ACC98B2B13DFD2723A4767442D8" name="alaron q24 hkr - horsa.trx" dlsize="3736932" size="21408161" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="97B95F7B3F42C293346ECEB042E4B9C34967219C" downloadHash="B9FB716C5F923B8AF39E30F832DA2091FD2E7750" name="alaron q24 hkr - horsa.trx" dlsize="3727921" size="21379616" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2277,7 +2277,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="990A668E9C6E4D93789257DB48C091B2000BEAF4" downloadHash="C6D20DFD705429EDD32413D2B72AA1A79AF8EB2C" name="alaron q22 callidyrr temples int.trx" dlsize="382326" size="1105238" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2907B5B2D3D6C49DE8E0F852EC68F9AEA966EDAD" downloadHash="6B6AF52B1681D6F6787D0F4824B03A10A963A38C" name="alaron q22 callidyrr temples int.trx" dlsize="359319" size="1079520" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2292,7 +2292,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E415F4A8480522C3F861DA44607FEDA7E4DC2FE7" downloadHash="D305C241480E8C50EBF6498552831B5A14B512C3" name="alaron r26 stirgewick ruins.trx" dlsize="564485" size="572986" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3896659BBA3458E4D98205A605B008730AD5BE68" downloadHash="46A4777DD80A9D813B7F344A78A2AA18D0A17F59" name="alaron r26 stirgewick ruins.trx" dlsize="558230" size="566814" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
