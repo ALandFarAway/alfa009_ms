@@ -26,6 +26,7 @@
 #include "acr_mod_events_i"
 #include "acr_db_persist_i"
 #include "acr_quest_i"
+
 ////////////////////////////////////////////////////////////////////////////////
 // Constants ///////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////
@@ -73,20 +74,11 @@ void main() {
 	SetGlobalInt(_ACR_SETTINGS_SERVER_ID, 9);
 	SetGlobalInt(_ACR_SETTINGS_SERVER_REGION, 3538);
 	SetGlobalString(_ACR_SETTINGS_SERVER_NAME, "ALFA 009 Moonshae Isles");
-//	SetGlobalString(_ACR_SETTINGS_SERVER_IP, "68.186.91.19:5121");
-	SetGlobalString(_ACR_SETTINGS_SERVER_IP, "ms.alandfaraway.org");
-//	SetGlobalString(_ACR_SETTINGS_SERVER_IP, "ms.alandfaraway.pw");
+	SetGlobalString(_ACR_SETTINGS_SERVER_IP, "ms.alandfaraway.info");
 	
 	ACR_ModuleOnModuleLoad();
 	
-    // Custom code goes below this line.
-	object oInitialize = CreateObject(OBJECT_TYPE_ITEM, "n2_it_spoon", GetStartingLocation());
-	DestroyCampaignDatabase("_acr_test");
-	ACR_SetPersistentObject(GetModule(), "1", oInitialize, "_acr_test");
-	DelayCommand(4.0, DestroyObject(oInitialize));
-	DelayCommand(4.1, WriteTimestampedLogEntry("There is no spoon."));
- 
-	//DelayCommand(6.0, InitializeDoors());
+	// Custom code goes below this line.
 	DelayCommand(12.0, InitializeSpawnResets());
 
 	SetLocalInt(GetModule(), "ACR_HEALTHMONITOR_GAMEOBJUPDATE_BACKOFF", 1);
