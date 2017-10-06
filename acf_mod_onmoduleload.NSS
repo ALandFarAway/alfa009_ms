@@ -86,7 +86,7 @@ void main() {
 	DelayCommand(4.0, DestroyObject(oInitialize));
 	DelayCommand(4.1, WriteTimestampedLogEntry("There is no spoon."));
  
-	//DelayCommand(6.0, InitializeDoors());
+	DelayCommand(6.0, InitializeDoors());
 	DelayCommand(12.0, InitializeSpawnResets());
 
 	SetLocalInt(GetModule(), "ACR_HEALTHMONITOR_GAMEOBJUPDATE_BACKOFF", 1);
