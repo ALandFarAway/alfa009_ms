@@ -367,7 +367,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B91C7DDE6A12A689424DD23C98AB92570E841A31" downloadHash="257E6C647EF28EDEBD789F1A6ACC39CB7FF8450E" name="alaron q22 callidyrr int 2.trx" dlsize="520451" size="970929" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C6C474F0ADD7401A218CA2530046812B8798E9E8" downloadHash="7D45146690236B6E779CB645C89F702C279FD3B0" name="alaron q22 callidyrr int 2.trx" dlsize="496044" size="947739" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -922,7 +922,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2C7D1740B690EA883E38BC30CD969DCCD9AD8FEC" downloadHash="46F657054FEDB6B16EBAE3D62874D83186014E4D" name="gwynneth m34nw corwell interiors.trx" dlsize="727211" size="735672" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2EB2161C6C26E2FB98C3DD77EF7AB914A1D211DF" downloadHash="24F533307FDFDB813134B805E3E35B64ED5FF709" name="gwynneth m34nw corwell interiors.trx" dlsize="676898" size="684999" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1217,7 +1217,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C2EF9DB501324812FB44F4805F1D757ACBC98581" downloadHash="DC0DAD56C796CAB42A5D16E71B7F09189F8996DE" name="gwynneth o33 macsheehan  int.trx" dlsize="638099" size="4081222" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C0BFAB594CC01A0DCB7CA8851E44A5391EA5566B" downloadHash="00B5039F1474F30848901761EDF4C1887CEC5A2C" name="gwynneth o33 macsheehan  int.trx" dlsize="617815" size="4052397" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1257,7 +1257,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1C8B85ECDD6A9C32B747B1B533874A699AED0FF3" downloadHash="6DACF190BB682D3BC29CB6DC234175BF9EE0085E" name="alaron s25 swanmay tearglade .trx" dlsize="5022146" size="23659615" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="278AEDCEC2E7BE06568DD07CF0B0686555A1F8B6" downloadHash="6C814D15D52137BB18EB6285B4028DD8654B075C" name="alaron s25 swanmay tearglade .trx" dlsize="5117551" size="23708209" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2323,6 +2323,16 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="251DC1ACFBDB6C329B84EB3D5E36BDF89B03BB17" downloadHash="ED6C7E447B2B9A2C97118F5AF2C8D922CB8BF89B" name="009_testing grounds.trx" dlsize="326782" size="8510856" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="496AF413DBAD0F780AE6F6D4D0057E07400D5787" downloadHash="9F25E391495A6A58C27FF98CE94DA5B48EC31CFB" name="caves1.trx" dlsize="807073" size="1894877" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="3FBD48EAB21E7CB395783797715B5EAFAFD6E8C5" downloadHash="FCF277FC0AD296ECF7362FF5CB24C4B5B5593E37" name="alaron s25 tearglade int.trx" dlsize="257320" size="3748737" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>

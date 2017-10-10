@@ -39,4 +39,3 @@ void main () {
 		SetLocalInt(oArea, "ACR_SPAWNS_OFF", TRUE);
 	}
 }
-

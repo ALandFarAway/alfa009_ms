@@ -25,6 +25,7 @@
 
 #include "acr_mod_events_i"
 #include "acr_db_persist_i"
+#include "09_door_i"
 #include "acr_quest_i"
 
 ////////////////////////////////////////////////////////////////////////////////
