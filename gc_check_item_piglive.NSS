@@ -7,7 +7,7 @@
 // FAB 10/5
 // EPF 3/13/06 -- second parameter now used to check and see if the item is held by anyone in the party
 //				  also checks the PC Speaker instead of the first PC if bCheckParty is FALSE.
-
+/*
 int StartingConditional()
 {
 
@@ -19,3 +19,5 @@ int StartingConditional()
     return FALSE;
 
 }
+
+/*
