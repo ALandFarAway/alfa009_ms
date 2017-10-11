@@ -292,7 +292,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2116C919CB016CCAFCA8A407DB72A876965E63C6" downloadHash="C9A1E0A0D67A846337EA42B34C0D7231346566AC" name="gwynneth l33 caer corwell int.trx" dlsize="187185" size="188831" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3D417EDB4F7D43F95766C58E96EA110C4D9ABC46" downloadHash="A906BC8A2270F830A670040F778C8BBEA92D703E" name="gwynneth l33 caer corwell int.trx" dlsize="180060" size="181759" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -542,7 +542,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B77EEA246AC187A2F4BA10F8A72FBD63F2A727E8" downloadHash="9329F41FBD5AABE7E600B1CF752A487B7363529B" name="gwynneth l35 castle of skulls.trx" dlsize="885909" size="907715" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DED04099013435458C4561FF038A69896C473C82" downloadHash="D5643645A8E2DA99565638F90F8CCCC30E6EEE51" name="gwynneth l35 castle of skulls.trx" dlsize="885687" size="907698" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -697,7 +697,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6A0A96CF9BE7E19741BCEE2C59050CD6662C49FF" downloadHash="BF1707F69E45B13E05DCACFEDCBEAD1791EAECEC" name="gwynneth l33 caer corwell.trx" dlsize="1913264" size="14244116" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="52426BBE705ACF4C9DBA3C4A50E0BC2472601323" downloadHash="AD7CE54FF210924C3181EAC3952BDB1A42D9F92E" name="gwynneth l33 caer corwell.trx" dlsize="1969055" size="14294649" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -992,7 +992,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="442F258CD496C63C6520A626A42EB692854CD51B" downloadHash="1F8E89197D8838FD26A654F5B092423914FE16AB" name="gwynneth l30 myrloch sheepool.trx" dlsize="4927717" size="30511035" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="04F3FC9D2F2D3DC9A48535E9401524EAB9A58651" downloadHash="644E7ECEA4BFF2731BD26CF94A5442520FD52965" name="gwynneth l30 myrloch sheepool.trx" dlsize="4932586" size="30509776" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1482,7 +1482,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8B6AADC793577F4AA46118974FFCE78A629BDB39" downloadHash="D6D88C4DE96BFF80D4A544CDDB4DEC70D2A123D9" name="gwynneth L29 Mountain range.trx" dlsize="4930893" size="24111389" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7036EF69C7359E5E136B2EF7C139BAD9945FDE81" downloadHash="7A96B07B1BD159605B5F6913951DD6838001A346" name="gwynneth L29 Mountain range.trx" dlsize="4929602" size="24111728" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1762,7 +1762,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9F5178CDA2EDB0A88E10C64483772F8C199F067B" downloadHash="0891CA6BD3E149786BCCDC7E5067F3D77C909947" name="gwynneth l34 cantrev dynnatt.trx" dlsize="5092982" size="23691887" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BE99195D13C685F6FDB4EACB4DBB8DAFDB185F56" downloadHash="ACFB6CA31F41C3FFD5AEEB096B4A6342BDAEC999" name="gwynneth l34 cantrev dynnatt.trx" dlsize="5080478" size="23691875" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2297,7 +2297,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="74302EB14073F757B71A20883CBB084A1552A260" downloadHash="100F327E40E77E6983D139641DBF401D821317D4" name="gwynneth l29 strange ruins.trx" dlsize="494232" size="498596" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D3FDFB146CABB1D179AF60BD85559A5DFDC7144C" downloadHash="8713A582C8F0D1BD2B48E95AC9245DF0DAB2B82D" name="gwynneth l29 strange ruins.trx" dlsize="490755" size="495099" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>

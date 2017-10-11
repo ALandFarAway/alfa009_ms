@@ -1,5 +1,7 @@
 // 'spellhook_geas'
 
+#include "acr_spellhook"
+
 const string sTAG_GEAS = "009_necromancy_geas";
 
 
