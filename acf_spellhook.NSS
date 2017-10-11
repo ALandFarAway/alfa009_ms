@@ -1,12 +1,15 @@
 // 'spellhook_geas'
 
-#include "acr_spellhook"
+#include "acr_spellhook_i"
 
 const string sTAG_GEAS = "009_necromancy_geas";
 
 
 void main()
 {
+    // Hook ACR's spellhook.
+    ACR_Spellhook();
+
     object oCaster = OBJECT_SELF;
 
     object oGeas = GetItemPossessedBy(oCaster, sTAG_GEAS);

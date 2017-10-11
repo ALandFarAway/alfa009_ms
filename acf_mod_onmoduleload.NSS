@@ -81,7 +81,6 @@ void main() {
 	
 	// Custom code goes below this line.
 	
-	SetLocalString(GetModule(), "X2_S_UD_SPELLSCRIPT", "009_no_necro_geas");// this is to make the geas stone work
 	DelayCommand(12.0, InitializeSpawnResets());
 
 	SetLocalInt(GetModule(), "ACR_HEALTHMONITOR_GAMEOBJUPDATE_BACKOFF", 1);
