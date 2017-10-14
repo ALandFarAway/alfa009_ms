@@ -1062,7 +1062,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="59CD5731CC222703FD2882AACAD6475C13C36D2B" downloadHash="6E97F26B34751BF598C23672E038E00A4A4FE3FF" name="snowdown r34 westphal inn tavern.trx" dlsize="401222" size="404382" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="560987233FF77D835F62B19330F05B0C28859C76" downloadHash="6B1F565890857EA028C11AD6A5BCCF4D2896EB36" name="snowdown r34 westphal inn tavern.trx" dlsize="371851" size="374951" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2052,12 +2052,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="21F61FDABC736D05A2EF9212454FCA46C59F06A6" downloadHash="7AD8867C3C2485FCB51BC1B6EB07E13C02C1DD22" name="gwynneth m34s lowhill int.trx" dlsize="444046" size="628205" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C47CD5B47CC8AC1CF6DC9DC232702B05FE6A0423" downloadHash="A8730767E10BE141E86156F8427D959DCD9B821C" name="gwynneth m34s lowhill int.trx" dlsize="421941" size="606696" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6760EB90EE67861741CE13915C683B2A979407C1" downloadHash="0AD0C203C41A0D23CDF8173DE5657DC05CB0C151" name="gwynneth m34s lowhill ext.trx" dlsize="3426025" size="18220690" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7A99B904C027AF306FE6133480FFEEAE5F27F2CF" downloadHash="5D391A8C65837852462FCEF148FF7C1A64485438" name="gwynneth m34s lowhill ext.trx" dlsize="3437825" size="18220689" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2217,7 +2217,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="953F75F19D52AA2EAF5877FA54FCFC34248CCB09" downloadHash="05BDB15C012F2B906171EC7F29CBEA5EEEC988FC" name="gwynneth m35 llyrath crystalcave.trx" dlsize="1263632" size="6083051" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B2BE7DE0997F474B9CDB2785ADEC4239E4072F16" downloadHash="36554FDC8F13D705CFEE8C52A817316B7C7556E3" name="gwynneth m35 llyrath crystalcave.trx" dlsize="1250176" size="6075274" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
