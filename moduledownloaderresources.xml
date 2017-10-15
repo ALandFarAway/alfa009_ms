@@ -1437,7 +1437,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F43088F52D6AFECE18A6BC1EF97E92463895A455" downloadHash="63BAF0DA6DCBDE24D2801337DBD39886026F8F5F" name="gwynneth o33 llyrath forest int.trx" dlsize="1267082" size="1415105" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0DBB82EA8BDC79D66CA95031A28AFD2600E66539" downloadHash="39D53A7B4521F7836CA3540DDBB0607A4C241F72" name="gwynneth o33 llyrath forest int.trx" dlsize="1267094" size="1415105" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2332,7 +2332,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B01D1276911E24FDFD22D74183C6DB5CAF02A56C" downloadHash="06E025AD9D70C548189B0CC63B2FA5F1BA4BDD2C" name="alaron s25 tearglade int.trx" dlsize="255292" size="3655738" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="24580A4A1CAD07FBF6B4D96F6D66E4B268B183AE" downloadHash="16D38030436C57B9C23230B72153433330ACD6C1" name="alaron s25 tearglade int.trx" dlsize="254539" size="3701626" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
