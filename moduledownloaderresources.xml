@@ -192,7 +192,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6EC0420D2A7F93FDD3BB3A47F10912A2E762425A" downloadHash="D3011696AA40F6F2163C9A5F43D3181AB39E35F5" name="alaron q20 farheight cave.trx" dlsize="652927" size="704383" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D2035039F27FA2D26DBD8EBBF47D5A84421D2A85" downloadHash="BBC31E845FE0FB2DD72F5DA1BCB5E6DE4944EEFA" name="alaron q20 farheight cave.trx" dlsize="677297" size="729212" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -442,7 +442,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0BAD11F3DD34DF28890C9508F8C194E0B0186B8B" downloadHash="CE2A456E5202FD6FCE73B182B375E5C49CCA5452" name="moray isle e31 orcskull caves.trx" dlsize="388373" size="615688" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B5E6934C645A57C734B587BD5EF86858F690326C" downloadHash="CB5904CA75009D4C65DAD05BEF045CFAEA80902A" name="moray isle e31 orcskull caves.trx" dlsize="381314" size="608633" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -567,7 +567,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="36BE7403E214510783253572E7239B9685B1D7E4" downloadHash="F4DBCB4524E90F4500A982DB6D200E805B787DE7" name="alaron q22 c callidyrr cstl int.trx" dlsize="376506" size="692609" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="33C2989A3AD15B21AB6D29C8942AEFABE95434CF" downloadHash="B79706065FA6E5F1BDAA9D208BA99706924E2AC1" name="alaron q22 c callidyrr cstl int.trx" dlsize="376666" size="693207" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1007,7 +1007,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F561B976317AA8902F9C34BBD26057C6A0D13AA2" downloadHash="E426775C0CEA41192B9D135BF3DA345B219514CB" name="generic beach.trx" dlsize="3888978" size="17725799" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A4D0DFE0018DC206B8C87CF84420BDF398A1980A" downloadHash="FDE4DC66D3BD83CEB93D95F0C6078F034DCA10DF" name="generic beach.trx" dlsize="3569137" size="17427385" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1242,7 +1242,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="66774BC13330AEE299CBCD146C750BBBD3A13B6B" downloadHash="0FD360D46339ED2335AB39965C344088F5A80895" name="alaron q20 farheight caves2.trx" dlsize="175427" size="265593" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2CA7B0508E7FA2F609E4DA190EFA923968CD2321" downloadHash="68A9158983C7F806989A013F74BC70682BD9AC56" name="alaron q20 farheight caves2.trx" dlsize="178133" size="268061" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1747,7 +1747,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A733FA6B0629B8C7E877D27A397D0BD2C510D007" downloadHash="AA08A90E5DE3E6FFA52C37D4C45BC6A06700AA20" name="alaron q20 farheight mts caves.trx" dlsize="432964" size="2794052" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="AF89550CE2731A6AA6216328BF91AB024E5FDFB6" downloadHash="00EBD89219137E74E0833FE9BCA12137582D7F46" name="alaron q20 farheight mts caves.trx" dlsize="420801" size="2781724" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2082,7 +2082,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C8B11964D0CE05832AF8363F511F6F0381E8A0C6" downloadHash="D38EAD9CCABCFA4354D0053725260AF99F4C4FF4" name="moray isle f30 breasl marsh s.trx" dlsize="9784817" size="45221055" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5105EF68335B9F4B4F2C228B69CA605055DD08FB" downloadHash="C51AB8AD401C373A3FC7940527519B2E98CC29E9" name="moray isle f30 breasl marsh s.trx" dlsize="9652036" size="44820817" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2092,12 +2092,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A39590AF76CAF931ABEFDA4CE834761C265DBCB2" downloadHash="1E273354D0E53F41946C011460FE8335408BD002" name="naga dungeon l2b.trx" dlsize="727519" size="6448210" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="42DC63AEEA7923A0CD6D5325CF4258E459F15BA2" downloadHash="152AC075B0FE4F077952813DF61F6D9705227B52" name="naga dungeon l2b.trx" dlsize="730873" size="6439513" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B79B4BF2EA2D2DB9A70EF3B2D4E404772A565461" downloadHash="25C7840428A27114E79317E9BCF2C4527C87D341" name="naga dungeon l2a.trx" dlsize="653754" size="6466895" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="842390FB868C7C950EDCAA0BF0403624105E167C" downloadHash="BF5D9DD5ECBFBC44F257F86F3F94210121A464AF" name="naga dungeon l2a.trx" dlsize="659498" size="6457756" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2117,7 +2117,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7B116322C2912D6FA776098D542B54A0C41DCB5A" downloadHash="9F7DD713059E4523DB33DD92612629B5112DB17F" name="oman j26 gramphalt mt caves.trx" dlsize="1410027" size="1839666" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="994706D8B5690CE542782DEF73151793502073B7" downloadHash="37FD57B988F74C7627DCB23E5F5CC14E18F0069A" name="oman j26 gramphalt mt caves.trx" dlsize="1388564" size="1817296" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2252,12 +2252,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="ECF03BA857C768CC4315FCAF2680F5C021131FAB" downloadHash="269DEFE20226358CE97A46A1B9477F841E14BA74" name="nelanther drachenshore misc int.trx" dlsize="373123" size="375844" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A6BA2C271CE5BD438721F55A5587A39E7BC94A8C" downloadHash="687BFFF8ED70A18859CB196A5FB5A150EA8F603C" name="nelanther drachenshore misc int.trx" dlsize="372232" size="375261" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B107EE5C272ED5A96D4550FD2D99BA5B38EDA0D3" downloadHash="BE3525315240E3EE12B0D607180498CE8483BFDA" name="nelanther drachenshore shops.trx" dlsize="452165" size="455085" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BE6177EB1218F498E3796B79505979D2DE046F7C" downloadHash="F4A291D2D0B0DA35BD6D1E5926D4AD4F49015E90" name="nelanther drachenshore shops.trx" dlsize="441330" size="444536" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
