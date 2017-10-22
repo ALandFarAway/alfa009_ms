@@ -457,7 +457,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BBEBE5BF313592FF6FEEAF3195957BF315DD3618" downloadHash="839FF00090DDB16B920C12C500B9166012F674F6" name="generic coastline.trx" dlsize="3859855" size="20917497" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="EBF7A634DA058740D718049186B8F7ECC11ACA7C" downloadHash="344D691C6FFFD27E73C282F307C15B1D3F80CABF" name="generic coastline.trx" dlsize="3839749" size="20896388" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1007,7 +1007,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A4D0DFE0018DC206B8C87CF84420BDF398A1980A" downloadHash="FDE4DC66D3BD83CEB93D95F0C6078F034DCA10DF" name="generic beach.trx" dlsize="3569137" size="17427385" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="CD6A678EA22AD21E22D7E64B28B40E0EAD9C1D60" downloadHash="84B53CB8DA2037550ED3D7A1E7E7C58806FA1BA0" name="generic beach.trx" dlsize="3581277" size="17422672" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1102,7 +1102,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D11A5623FC8A150DA5DE6ABD6B1578D5367C7320" downloadHash="04740C3916285CDE154A8BEEB496346241CFE8B8" name="alaron q24 hkr ruins 1.trx" dlsize="519211" size="658748" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D43832399C33B5D5DF3970F190D1D51634E722A9" downloadHash="678E9E4FE64407104743E307A67EBBB826671A66" name="alaron q24 hkr ruins 1.trx" dlsize="519281" size="658746" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1192,7 +1192,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="ABB56E39080A79475B7DF57F5BE0C8D731D30E5F" downloadHash="6D6A383CABE6D81C49AA7059407963872C2D1E51" name="ruathym c3 sea caves.trx" dlsize="186625" size="1770761" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="43D323C7ECB20FF8B6E3D55352D872472E97ED7D" downloadHash="DF5E5DA5EB8B6EE3599F6560A75F9E6E6C0E90D7" name="ruathym c3 sea caves.trx" dlsize="183481" size="1767303" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1297,7 +1297,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="30085041E2A1C9F11DD5971054BF52129DFF891E" downloadHash="E2786966FE59E829AE938817961D504AA0A2CB3F" name="nelanther deserted island.trx" dlsize="1835096" size="14996656" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0F319293DD0139524498524B8EE52F944E8D5CEC" downloadHash="9D717360B6189A9912D66D3023E1DFA553121739" name="nelanther deserted island.trx" dlsize="1802600" size="14980388" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1472,7 +1472,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D738AE1C7EDFC5FC29B44BB8B9409F6F05D10463" downloadHash="38846F9A43E74C01800161080F08C40648AD2817" name="underdark karsoluthiylportal int.trx" dlsize="298238" size="312734" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B8F806ED37F4B464418C5BBE195D0934B0369105" downloadHash="EE526A387CCFF0B1742F51DC16ED326B2532AD4E" name="underdark karsoluthiylportal int.trx" dlsize="286913" size="300095" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1657,7 +1657,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0374EC3DE4ECDE063C55B96146A39ACB8E1BEDDC" downloadHash="BD396EC5C8BF42385A192B7CB30FB1D50676DF16" name="alaron q22w farheight road.trx" dlsize="3245235" size="20152667" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DA98F74659E148910E488446BDCC9A3F600E2E2C" downloadHash="25E0F3FB0F8AADD8779C94BD1969C9252003ECD4" name="alaron q22w farheight road.trx" dlsize="3244143" size="20156864" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
