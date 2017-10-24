@@ -72,7 +72,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="150E1B4B7B75C2B189DA3C3A32DBC5A1953603CA" downloadHash="5CCE1878E1E9CF32EEEA35A597C7BA13CC625C4A" name="alaron s23n torriage grove.trx" dlsize="907043" size="7628457" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BD833D3FCDC1E7774E4AE01ABD5F25D0887A4C62" downloadHash="A46E503BA7274366B3C2B56427BD4F995A2B9262" name="alaron s23n torriage grove.trx" dlsize="908035" size="7628457" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -447,7 +447,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="67DC084096B39D419DB71C1D6D3688E09E351157" downloadHash="BF25F9C7116D394D246D223A0E54B5F004193AB8" name="skaug b5 jiawood caves.trx" dlsize="757747" size="777785" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2F065354F997367B6384AF2CD4DB346A781E8F23" downloadHash="531703485F893ABD139B48CB66A2A31547DE157F" name="skaug b5 jiawood caves.trx" dlsize="757786" size="777208" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -657,7 +657,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="38F04C8658BFF284A3E62F2BEF2956877BF3E081" downloadHash="CB5F3D2818868F7335759BE13E96DE71A4ADE3F7" name="skaug b2 shipwreck.trx" dlsize="1938103" size="12043584" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="155787C7708D380237739E1E234D9375AD368693" downloadHash="A13BC0FCB73C2519A78D661A5A4DDA06A0667221" name="skaug b2 shipwreck.trx" dlsize="1989583" size="12093296" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1032,7 +1032,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3043AEE2BE9F2BB79E61F7EAE9D06F611DCCAD2E" downloadHash="46F35BAA4AC9054770BBE020157488E04272CDFC" name="skaug a4 smugglers cove.trx" dlsize="1010349" size="1028055" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FCF21C6CE212677315D14FCD92AE87F359F85592" downloadHash="037D4C23FACDB3ABF23B7ECD2AFF418A53CD06C8" name="skaug a4 smugglers cove.trx" dlsize="1010571" size="1028268" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1082,7 +1082,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="552CEB8C885477746D57E7324E6CC3C3F97F4ECC" downloadHash="EC9C667FDA5F0B46887E2494E4358AFA8ABF6798" name="skaug blood drake at sea.trx" dlsize="386830" size="7903218" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A29F7C46DA7F069B4B55B4DC37F5C0443D0E53BA" downloadHash="B456CB295ECB2CDF12BFA243DEC36BDC2389095E" name="skaug blood drake at sea.trx" dlsize="388101" size="7906771" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1727,7 +1727,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="59A76A28C4C5EEE8627B87FC78CB12DE1EC14525" downloadHash="5563656799734D30698AD9D75A6F8C72370EBB61" name="skaug b6 lighthouse.trx" dlsize="1292450" size="10859434" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C2A9C0BE27103DB69518227755B24071EBF5F726" downloadHash="8EB6E14722421A5D698DDAB8C39F0C0E5EC3F2C2" name="skaug b6 lighthouse.trx" dlsize="1292753" size="10859172" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1792,7 +1792,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0B0F1E1424E7C4B834BA39D4E8B2E3A270BD2C0A" downloadHash="A3FF32B63C817BFACDF2705BE9509E572C254D83" name="skaug blood drake interior.trx" dlsize="252690" size="888698" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="EBFC44B7AE56AFF5BC588F55FB5799BA0C6E83FB" downloadHash="56EE593D476008C535BF21DCD141BD66FBFAA398" name="skaug blood drake interior.trx" dlsize="251553" size="888985" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2333,6 +2333,31 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="24580A4A1CAD07FBF6B4D96F6D66E4B268B183AE" downloadHash="16D38030436C57B9C23230B72153433330ACD6C1" name="alaron s25 tearglade int.trx" dlsize="254539" size="3701626" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="DDD5AB2EDED98A4C5E7872EA2CB3FB0AB5D4B410" downloadHash="6BB05A60DB457E098BE81076ECCC59666DB6F77A" name="skaug a4 coast.trx" dlsize="1251567" size="10055828" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="3BA030D5CFC9FF094AD912E07EE33D2ED4490C93" downloadHash="0F96B27C15FC0C11E1CCDF83E35F4D1CEA2EF78E" name="skaug b3 to skaug port.trx" dlsize="1834354" size="10169091" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="64A58357C1C79939073AED51A33E466459EB0A1D" downloadHash="15B334689C66A01A3A26501D1E6A0B6EF064CB96" name="skaug b5 jiawood.trx" dlsize="2477282" size="12888115" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="10A110181355FD263DAEA3B09275ECD1F481D238" downloadHash="422D15FD72235F539A453129C5D671D6590CE0A3" name="skaug b4 river.trx" dlsize="1589451" size="9941095" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="DABB7A4F0317B426E707877F45C6480CD75AAFD9" downloadHash="C5158B4269A643D7964961FB2379B6E2C60EEB78" name="skaug a5 coast.trx" dlsize="1421098" size="10370458" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
