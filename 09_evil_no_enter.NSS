@@ -19,9 +19,9 @@ void main()
         return;
 
     // Abort if the PC's alignment is not any evil.
-    if ( GetAlignmentGoodEvil(oPC) != ALIGNMENT_EVIL )
+    if ( GetAlignmentGoodEvil(oPC) !=ALIGNMENT_EVIL )
     {
-        oTarget = GetWaypointByTag("WP_no_evil_enter");
+        oTarget =GetNearestObjectByTag("WP_no_evil_enter");
         AssignCommand(oPC, JumpToObject(oTarget));
         return;
     }
