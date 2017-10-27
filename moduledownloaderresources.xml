@@ -142,7 +142,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F08AAAAC8166594EB1E412614CEF6995B97A8ACD" downloadHash="C671C7D732C9005B4C6520D534FEE2AE7FDD2E47" name="skaug port public buildings.trx" dlsize="922204" size="1201681" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F3C19543B05754DF3C44E8B7D97B7A7E29ED4908" downloadHash="F0C596086C547287C6C49A611566FA064FE99F80" name="skaug port public buildings.trx" dlsize="891334" size="1169730" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -352,7 +352,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B55C811EDEBDEFA42CE1C1451D70B2BD19474CA9" downloadHash="E417E8C30025D9C0237BC705CA82D2230CEB7CBA" name="skaug port temples.trx" dlsize="319510" size="819761" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="48781FE04AF60AADAADA1E5B96F58F4C71D086B6" downloadHash="148538FA088110C7AA105DC6E5255BD60E6871A9" name="skaug port temples.trx" dlsize="304477" size="804761" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -517,7 +517,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9C1CAABE0F79E4CBB92C431D70923FDC9DE378FD" downloadHash="9D061B7F80BE8A01255C9726605EB6A046A61F6F" name="skaug port shops.trx" dlsize="731574" size="737430" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B6B976FB024445682D9AF532E928E5C815D22E2F" downloadHash="D9807D01F7D5E2FD9EAEB3698B9EA387102D9883" name="skaug port shops.trx" dlsize="678173" size="683455" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1002,7 +1002,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="04AD5AA076E12B10B44459281F2FFD401F1F34CE" downloadHash="81F59A957686B263DB0AEA0919BFB156485336C9" name="skaug port slithery bones.trx" dlsize="1409828" size="12024766" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="CEDD8B4DA4727BEFD39C534F3169ED756185FC92" downloadHash="D0C0701B5FEE37FABA8164CD5C9FE4D740FE4347" name="skaug port slithery bones.trx" dlsize="1407384" size="12020827" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1117,7 +1117,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="11DDD34DDBC7191B17BE7697ED89AEEE78CF81B3" downloadHash="6EAA415365050AB6200ED77F960C2098A06CC4BC" name="skaug port east slaver  int.trx" dlsize="467901" size="1191747" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="99B69AC517995C4949FCFD31B67AEEE3072152C1" downloadHash="80EAFA1E2CABBE0B573F5A7E61AA2E1FD7D5627A" name="skaug port east slaver  int.trx" dlsize="471001" size="1194726" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1247,7 +1247,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9104512CB9423FBFAA0CDE454E59D74F0FDD0E41" downloadHash="AA7907F50C927EB52961E1BC6FEC1F77253C9FDD" name="skaug port crypts.trx" dlsize="544331" size="557501" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="AED34078C001958B4C683928E89FE6F9E4BD27B8" downloadHash="50ABBD3106B92710FB524A807746F8EE1D0CC155" name="skaug port crypts.trx" dlsize="540496" size="554480" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1572,7 +1572,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="ED44A25E279B7DC8ECC3127DDDD5BD20ADA51920" downloadHash="A1CE047C5203587BC53903C6CB7B340777C78713" name="skaug port east.trx" dlsize="2201813" size="16613850" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D9F8170D97EA49C987820C34C27D8D01DD16A915" downloadHash="4FB3E8DB54DF217BBAB74E5E98BCB61346797F9A" name="skaug port east.trx" dlsize="2114801" size="16526342" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1742,7 +1742,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CAAA3A03BDE60FF0CD9F740C0E1D52F6FD8D590B" downloadHash="53CC6EE8B0E6A61A2358738141A44EE5A93657E5" name="skaug port residences.trx" dlsize="427840" size="431318" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B24A190DD8B257D61C2EB82D7529E10CA9A7223D" downloadHash="219BF410A35E3DD0634DABFC47BB4DF0CC97F7C1" name="skaug port residences.trx" dlsize="373426" size="377486" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2302,7 +2302,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="ADDF1F857AE9D80A986324315B94102DBD3D24BF" downloadHash="4A967CCA3AF76860E61E81DBEAEC17E807EDB6A8" name="skaug port inns-taverns.trx" dlsize="1042895" size="1055788" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="32C49784B9FF638C8D2C295D36A52571E63B2771" downloadHash="8929F6C801F63270F60249F59466F68DA3EC089E" name="skaug port inns-taverns.trx" dlsize="954338" size="966783" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2403,6 +2403,16 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="3560A70FA74044DEDF8CF9ECD4CC0B56CC1266E2" downloadHash="18C4F5C746562E4877577B4978E3B258790C69D8" name="skaug d5 coastal swamp.trx" dlsize="1564925" size="10975542" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="BC0BF711F0B571EABAC97BDAF0C038870FA1841C" downloadHash="0358146C38BFD58EEDF34CF9E9C6B1B992DAC863" name="nelanther deserted isle cave.trx" dlsize="167766" size="169011" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="00EF3D30E9D0AE133F58DCEA6CC053C3D4B0CB68" downloadHash="DF4F6A66824307C79051CE276E2A602BE95F6C63" name="nelanther undersea cave.trx" dlsize="485784" size="7983342" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>

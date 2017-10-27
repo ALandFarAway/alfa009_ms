@@ -19,7 +19,7 @@ void main()
         return;
 
     // Abort if the PC's alignment is not any evil.
-    if ( GetAlignmentGoodEvil(oPC) !=ALIGNMENT_EVIL )
+    if ( GetAlignmentGoodEvil(oPC) ==ALIGNMENT_EVIL )
     {
         oTarget =GetNearestObjectByTag("WP_no_evil_enter");
         AssignCommand(oPC, JumpToObject(oTarget));
@@ -27,5 +27,5 @@ void main()
     }
 
     // Send a message to the player's chat window.
-    SendMessageToPC(oPC, "You feel a force push you back , not allowing you to enter");
+    SendMessageToPC(oPC, "You feel a force push you back,not allowing you to enter");
 }
