@@ -1522,7 +1522,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F95550571F234F7B6874049B6DBE1FEBC2C7DCB6" downloadHash="B44CDB14EA22051D0C1BC6399F3E0F391EF55E03" name="wd 4g taverns_inns int.trx" dlsize="397208" size="444211" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F76A895F20714C0D3546680CBE4B32E32E76DD2A" downloadHash="DB792C36EBDB641DD274EE84A290ECD3DEAB7ECF" name="wd 4g taverns_inns int.trx" dlsize="377821" size="425070" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1822,7 +1822,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8EFB976FBAD500DDE7D4B3E5B37C5FDEBE8A7E0D" downloadHash="C03ABF3DD7994083FD675BC983082194B0EEA5C2" name="Skullport Skull Isle.trx" dlsize="671977" size="7723223" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A6F30EE4824815ADEA9081E574866F4345C44815" downloadHash="B13FD5722F2E604533B9D61D779AA1FCFAD1DDDA" name="Skullport Skull Isle.trx" dlsize="618599" size="7675198" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2002,7 +2002,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6DB8E878264F1FFA407512547636C72289D6F70F" downloadHash="D27CEA6F24E8F785FA1328B7832498793E68B8E2" name="skullport pirate areas.trx" dlsize="247792" size="292243" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2C38523CF4AB3D3DBD764E98BACC7887408BD9B2" downloadHash="DB3A2D341DFBEC0E14D5AC3F0C0477DA25707A94" name="skullport pirate areas.trx" dlsize="161625" size="205878" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2127,7 +2127,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9825C66A81BF025EEA8738EB2A5AF0DBBF971136" downloadHash="57E8DD330BCEB546F0A3D6A217CCB2ADA2361C9C" name="skullport sewer.trx" dlsize="1260254" size="9988819" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="34862E0CE69C8AE2350EFF32378F460096907FC4" downloadHash="EF1E858711A5A588261AB686E3F1689D7AE9755B" name="skullport sewer.trx" dlsize="1247481" size="12066298" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2157,7 +2157,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CC547845D5581B782BD6D562B3EA9FDC3C63CBAC" downloadHash="3A9997812E21D877CCBF00C3610F8CA0A89AF285" name="skullport lower west.trx" dlsize="2327547" size="11002418" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="EE7F68CED6150834C9DA1DCCF8473E2F84F4429A" downloadHash="A3343E83DE5623ADE3B081E13A8EDA46F2479DAB" name="skullport lower west.trx" dlsize="2304752" size="10979428" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2177,12 +2177,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3564580CA41041664CAA8B2791482CB6FBB7A08E" downloadHash="E5360240D3A01CAC7F217D02E5E3D7D934DDB833" name="Skullport Skull Isle int.trx" dlsize="88997" size="89045" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F6D308EDB2F7ED89716958CF5FDE1C7EC08720A5" downloadHash="85AEDC1B67E1E3811A65627F1A828CD5F5ED40A8" name="Skullport Skull Isle int.trx" dlsize="93452" size="93590" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B686570F031762E9A8561F6A55976F3DB30D974F" downloadHash="8014899609829794108D7891BB2ABE9038E55870" name="skullport lw- drow lair.trx" dlsize="609875" size="842086" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="99EB5B4811D57FA703E3129E3114502F91FECA77" downloadHash="9441394632823C054ABF387BFFE500BB5D87C216" name="skullport lw- drow lair.trx" dlsize="561736" size="793981" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2418,6 +2418,26 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="623FB1EEB3B88981D7C276AAE43CCF872EB9B6F0" downloadHash="6FCA46615D753DABB9B0A26A0F83A161D4599EAE" name="skaug port west1.trx" dlsize="2366695" size="16768953" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="A29F7C46DA7F069B4B55B4DC37F5C0443D0E53BA" downloadHash="B456CB295ECB2CDF12BFA243DEC36BDC2389095E" name="skaug ship blood drake at sea.trx" dlsize="388101" size="7906771" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="A494E85F9710DDEEE6633A5715B1D6D699841E85" downloadHash="626C407962151474D1F2A652CDC71880AA63B119" name="skaug ship blood drake interior.trx" dlsize="247305" size="884658" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="1829FEDBC4A326234AD7B8DC610CD48EEEC4DFC7" downloadHash="B320CCE389DD2DEA458B927148844AEF345DA34F" name="skaug ship on board.trx" dlsize="185065" size="186905" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="2591781D1A2A90D2239CC172845FC7ED612E4F5F" downloadHash="94CC3C55A23DBB4C7D7B07C392E8EFA91D2C6FDA" name="skaug ship docked.trx" dlsize="144466" size="145360" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
