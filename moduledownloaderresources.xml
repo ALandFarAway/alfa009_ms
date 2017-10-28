@@ -1012,7 +1012,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B283959013D3952531AB87872A1340F661F0ECFC" downloadHash="9AAC35E6CDE086B240F9EFD0DA08DE966179BE5F" name="skaug port west  pirate estate.trx" dlsize="123220" size="124024" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2E67F0F6CDF63622626F1407BBFA2A730D1C031B" downloadHash="347AF34596F79FBD7565508B783ADD246A536873" name="skaug port west  pirate estate.trx" dlsize="105493" size="106352" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1517,7 +1517,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0B0764CA0688B8F955DB78E3D66754FE244A51BC" downloadHash="24A43AC2B8602384A48D81FE37AC30CEC0397F08" name="skaug port west.trx" dlsize="2458617" size="16865600" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7FFCFE628C55FB3776BB153202E5A015CE4C4B47" downloadHash="83C0BD0C04F3C6B1DE79E1ECDFB09ACC707907FD" name="skaug port west.trx" dlsize="2101733" size="14910478" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1977,12 +1977,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="758E4B1E1B5554F010446F606176D3DEC400DDC5" downloadHash="87D620DED4133D162AADE5D3758BA491546B51B6" name="skullport burning troll.trx" dlsize="178531" size="447465" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9F29EC3B4E1D1F2779F60A9B99905269321C5BA3" downloadHash="F8026F35ED7630734A35BEBF17CFBF0A665EDE93" name="skullport burning troll.trx" dlsize="169266" size="393559" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4E860D51F267A7117DE8C21A8AAAE8D76ED20AE3" downloadHash="2EBD1DBC1AB7D2BDE8C53D67CF126B4B8D52C7A6" name="skullport hall of the voice.trx" dlsize="69244" size="112403" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="62D8A30645C7ABC82AFBD5572E9DA1850D297340" downloadHash="4704ABF4C8C6DDDF65EBC19F370D0F7455469AD9" name="skullport hall of the voice.trx" dlsize="62775" size="105833" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1997,7 +1997,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D5E89FBA1AA3B81B1A6372843409B250B042C562" downloadHash="6F9380E4EB6BAAD6303556F4DDD2AEB2514A8F10" name="skullport cult plague fire death.trx" dlsize="236230" size="237858" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="82FA2988692D9A8BD2413BEEE84FFC6E59E1386C" downloadHash="C9CE5DD41891AC72F38DF57CE8EE0291C908B2D2" name="skullport cult plague fire death.trx" dlsize="227294" size="228503" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2147,7 +2147,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C099DD10CF59F3E37B955A43B59EB5EF368E39B2" downloadHash="4004A598610FC69031BE2244EA68ECA56BB15185" name="skullport lower shops.trx" dlsize="753614" size="758947" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="00A13E27971CDAD02C1D4149E4E44B2224DECD2F" downloadHash="7CCCFC9C9F9386F608A7DFD83F2ED7C87EF15F31" name="skullport lower shops.trx" dlsize="678816" size="684807" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2413,6 +2413,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="00EF3D30E9D0AE133F58DCEA6CC053C3D4B0CB68" downloadHash="DF4F6A66824307C79051CE276E2A602BE95F6C63" name="nelanther undersea cave.trx" dlsize="485784" size="7983342" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="623FB1EEB3B88981D7C276AAE43CCF872EB9B6F0" downloadHash="6FCA46615D753DABB9B0A26A0F83A161D4599EAE" name="skaug port west1.trx" dlsize="2366695" size="16768953" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>

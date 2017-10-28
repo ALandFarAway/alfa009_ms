@@ -23,9 +23,10 @@ void main()
     {
         oTarget =GetNearestObjectByTag("WP_no_evil_enter");
         AssignCommand(oPC, JumpToObject(oTarget));
+		 // Send a message to the player's chat window.
+        SendMessageToPC(oPC, "You feel a force push you back,not allowing you to enter");
         return;
     }
 
-    // Send a message to the player's chat window.
-    SendMessageToPC(oPC, "You feel a force push you back,not allowing you to enter");
+   
 }
