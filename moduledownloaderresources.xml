@@ -122,7 +122,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DF0979454D47E034E6EF29131C19B40C8D2529BC" downloadHash="F14CAFE1D8525889B6CC4BB4B0ABCB36900B7570" name="snowdown r34 westphal city.trx" dlsize="2229021" size="14125316" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E92C280CD9E1500EB0E278DD1EECE9D759CDA63F" downloadHash="A60D6FAFFC5ACE68A58F851189A6B055DC19AF69" name="snowdown r34 westphal city.trx" dlsize="2135970" size="14026782" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -132,7 +132,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DAA514AF2349860DF2CF582E162769ED5D093537" downloadHash="944118CB73FE21BC8B8D68F1D181C84784508DE4" name="undersea kressilacc.trx" dlsize="1080114" size="8925381" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B75B4F71412865370CF846847ABF2A3B2FA21AE3" downloadHash="B12FE0F5CECB1A02DEDD19F2A05426D26D4CBB3C" name="undersea kressilacc.trx" dlsize="1061813" size="8910558" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -222,7 +222,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9E11140AE52CF9CE86DD4FE2E23E8E149529645B" downloadHash="CC291CAB1CACFC0E25AD2035F12D465FE5CFE638" name="underdark area a.trx" dlsize="379382" size="2509977" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1DBF6B35DD1FE99692A140A63C76D0817CE16514" downloadHash="927C153EBB2292D8892E39AB26DF2ACD4A35F960" name="underdark area a.trx" dlsize="379608" size="2511175" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -287,7 +287,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CBB8EACFA6D6D2C743F5AA7725B3161F6FDD5412" downloadHash="B4F7EDFA6630B2DC586944869FFB1145E4766F5E" name="underdark drow outpost.trx" dlsize="2535750" size="19006070" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D8794E55EA3259C622CDEA9C565B2464751B86A1" downloadHash="2732613B0E786B3108CF0D03F08BF2CA4B90A69C" name="underdark drow outpost.trx" dlsize="2425226" size="18905481" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -752,7 +752,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D2C2E9DED9607BDA3D7B4F558616308842829B61" downloadHash="00F5CEE0A653B19B80E4BF8DF1BA9C98D780AA40" name="snowdown r34 westphal int 2.trx" dlsize="322511" size="997746" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="91C4507B0FC8B182CA621D8FB8CD208FE44071EF" downloadHash="16CDB2AADA9C0CE0FE1F9E70E8780A8202B5B4E0" name="snowdown r34 westphal int 2.trx" dlsize="294256" size="969910" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -782,7 +782,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="16B1AA50B77791180F66A9A23E677EA63ED5B952" downloadHash="5823B697138A3A7A20CD47AEA165416AC7C51F4C" name="gwynneth o33 macsheehan ruins.trx" dlsize="3131936" size="16246747" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0FDEDAB9C45152045935E2BA7D0E5EE6B9D0BD84" downloadHash="C2E849385454451B182D5038DBA9F465B916D2A0" name="gwynneth o33 macsheehan ruins.trx" dlsize="3112866" size="16241289" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -862,12 +862,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1C2C1DF2B10ADF5A25EB7E84A2FA24F718D326B5" downloadHash="08C1E41FA0DCB9F3E0E38A25164361571A3FBC07" name="wd 4g dock ward int shops.trx" dlsize="128607" size="131536" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B11EDC12C8DCDDF4B14F9F6497F7FC3E69D33DCB" downloadHash="2190534ABE0EB83ED8FB6CEAFDE737E989ECF9F6" name="wd 4g dock ward int shops.trx" dlsize="130226" size="133069" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7A7E7EA7732277AC4D23B7AB8C5735C5D1311007" downloadHash="C25CA2574AA29D9D488A52662C19246524338EE8" name="underdark karsoluthiyl city int.trx" dlsize="340254" size="346341" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="157C9B8857EE9EEDC46A6D9B80A3FE524E4F69C2" downloadHash="5530F00E4F3DC34B36A6150D0764634B7B7C1E6C" name="underdark karsoluthiyl city int.trx" dlsize="344554" size="350913" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -877,7 +877,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3BF3D5C1ADDACF125A27DDA2E5F944B9EB35FFB9" downloadHash="5E4EBF27A8EFED4EAF770D731651B27AC6F64A9F" name="underdark karsoluthiyl baths.trx" dlsize="169130" size="708495" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0AE8C7AD8833DF7A379B07986F991B488E032B8E" downloadHash="D70C713438148DEBEFB48993EBCA50D3E1D64F40" name="underdark karsoluthiyl baths.trx" dlsize="174857" size="714154" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -907,7 +907,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A925C84A234DF6FF9771E66250DB74CC0A3DC1B6" downloadHash="5298FCDE8E1AC0AB8FD57876517E56DC87C25018" name="underdark kuotoa cavern.trx" dlsize="911829" size="6800097" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6F0674C54CEC80A24E1AD989DFCA2A98C3AE6A00" downloadHash="D5113F392983B9DD8DB6FA9CCBF9B7D8DA2BCB25" name="underdark kuotoa cavern.trx" dlsize="825120" size="6722029" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1217,7 +1217,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C0BFAB594CC01A0DCB7CA8851E44A5391EA5566B" downloadHash="00B5039F1474F30848901761EDF4C1887CEC5A2C" name="gwynneth o33 macsheehan  int.trx" dlsize="617815" size="4052397" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F13DCE200E57CF8162F6E47C436950F429CA39B8" downloadHash="4C2E7667B2537C449351AE84B2D46CD87F56B072" name="gwynneth o33 macsheehan  int.trx" dlsize="610098" size="4052412" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1307,7 +1307,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FD966D99631627E51A1502FF6CB48DF8C5BA9E2B" downloadHash="3AAB9F21C054AF84972E390B4484FCFEAB6792E1" name="wd 4h dock_south ward int.trx" dlsize="448767" size="495572" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D04F5C06215958EABC98F7B66771CFDF8DF588F6" downloadHash="72E8513AC7AAF9459BB9748E3036ED6A451A8C17" name="wd 4h dock_south ward int.trx" dlsize="424438" size="471073" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1512,7 +1512,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4B95B1E48AFF7C91A7AF54226ACF0725F79E1966" downloadHash="5ADB5D4FF65473C2BCAB4CF3C0EBE9FCA02B09FB" name="wd 4g dock ward.trx" dlsize="2059611" size="14465184" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3FE3FF93089E33FC485A6A86996B63C56EE101DD" downloadHash="B7FDCD3942D4BBBD73A19ECDB8351815248C18C0" name="wd 4g dock ward.trx" dlsize="1976063" size="14224780" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1522,7 +1522,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F76A895F20714C0D3546680CBE4B32E32E76DD2A" downloadHash="DB792C36EBDB641DD274EE84A290ECD3DEAB7ECF" name="wd 4g taverns_inns int.trx" dlsize="377821" size="425070" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0E9D949274808C1C7466EF0AF4C83C22AE614B3E" downloadHash="8895ABE724FF3DFE89F656879A94BE309C992D5C" name="wd 4g taverns_inns int.trx" dlsize="377002" size="424073" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1622,7 +1622,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C7E258EECC42EAC42F92C484DF51FA1A19A60F77" downloadHash="3DE6429CF57402BF39216A95922AFE3BBF8041AA" name="snowdown r34 westphal int 1.trx" dlsize="341015" size="344185" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="60060868F2E8FE360796E5B3A2639670BA78BFE6" downloadHash="206C6CF88EECDF057B41CB420080AA7AEC864686" name="snowdown r34 westphal int 1.trx" dlsize="322080" size="325322" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1632,7 +1632,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1EAD7976AB5BE44586E2596511649910D699A8A4" downloadHash="CCAA6FAB68F8DAEBF593911037EE49F8423ABE1E" name="snowdown s33 the ride n.trx" dlsize="5322912" size="26710478" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="077411B0321E2543196A505DD4D52CE4F2FE2E80" downloadHash="2B5BF6F6138746A7DED75750CC9AD6564EEC6DCE" name="snowdown s33 the ride n.trx" dlsize="5097086" size="26483696" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1822,7 +1822,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A6F30EE4824815ADEA9081E574866F4345C44815" downloadHash="B13FD5722F2E604533B9D61D779AA1FCFAD1DDDA" name="Skullport Skull Isle.trx" dlsize="618599" size="7675198" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DC0BB187559F492CD44E58988074136358609F87" downloadHash="957131EC8C0D6A3D9CB03A61913C0992923401F9" name="Skullport Skull Isle.trx" dlsize="616705" size="7673089" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1922,17 +1922,17 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5E52B87451D98ED1FBFAB9B7F718DCFE47CD78A5" downloadHash="1792810B43082F15A8DFAEC52981943AB1EBC4F5" name="snowdown t33 lodge area.trx" dlsize="1302639" size="15768728" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E34C020EBDAFF42A8698B149F8472316DC3192EC" downloadHash="6395D2E76B92A837FA3AA3F3D95889503ED72704" name="snowdown t33 lodge area.trx" dlsize="1822060" size="16279636" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4BC7E34E2F98F9A2D5EE9CC025DEE04D902389E8" downloadHash="83BC1A741602B160583DF53A02418223A14A1259" name="snowdown t33 broadleaf lodge int.trx" dlsize="260041" size="261463" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9E765BDCEC6DE74266B1BEB8FB8637FA24DEC062" downloadHash="A880CC7C2CAAC709ACD411E47D9727DD8BA122E8" name="snowdown t33 broadleaf lodge int.trx" dlsize="242198" size="243724" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A758C299F08C710DB3DD488F897BD2CBE9B8DDC4" downloadHash="82C3220363A87F8BE7DAB05EC346BFC415CE9103" name="snowdown t33 brannoch inn.trx" dlsize="172832" size="173563" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="260E95480DB0577611FF119DBC1836E0F9A8C65D" downloadHash="76F64A487646902705EC570490D85DB9E037BA57" name="snowdown t33 brannoch inn.trx" dlsize="152383" size="153247" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1942,17 +1942,17 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E9DE66681147F6442B690C7DF8527AA6BCD5FA6C" downloadHash="4420E55AB224E4E1B671EC6C0E79DBD92EE6CA7C" name="snowdown t33 brannoch estate.trx" dlsize="67599" size="67893" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="459BB315978B94A25B4A94C28756EB69DEF231CF" downloadHash="A0B7F5E5BEAF290018B3A1B51D5879013BB594AB" name="snowdown t33 brannoch estate.trx" dlsize="45933" size="46156" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C868EF5494A5F7ED93C9C546D064D60A68A7F8C6" downloadHash="C667DA2D8F2452D392BAE02B6A106B8227B0B909" name="snowdown t33 brannoch public int.trx" dlsize="82146" size="82388" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="23FFBAE4E314444458D466D75DD6359FB0E0829A" downloadHash="DE7331B8B0CEA2C3B5ABDE44580B147A2506EABE" name="snowdown t33 brannoch public int.trx" dlsize="65247" size="65429" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D82301D626B6A7E441E9BA8AA8C067E15ECBAE28" downloadHash="35EB6685DFD7D20940746FDE5289708188321C46" name="snowdown s33 shandilar keep.trx" dlsize="317075" size="3204061" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D0DD11739860DC35922B1333C5A1E252815048BD" downloadHash="4F543BFE15FC23BA666B3FAB9FD6B5C0255A2CD5" name="snowdown s33 shandilar keep.trx" dlsize="318016" size="3196545" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1987,7 +1987,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="582B67FB47DCD526827A80CE7120692F2176DFFF" downloadHash="0EBA7955A0590F100C4F14EA3394BC72BC7AA652" name="skullport the trolls guffaw1.trx" dlsize="75166" size="75556" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5288710CC217CDE242ABF6718C92A2BE118E45EB" downloadHash="1D51BB15B173432711C8E3C45F9F335FF76DE740" name="skullport the trolls guffaw1.trx" dlsize="21218" size="21241" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2072,7 +2072,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="768CA2AFC68E4049160981B3498D4F7C2FA3A22E" downloadHash="20D058D7C9545C41B33891EC0A7A8BADD4585463" name="snowdown t33 brannoch town.trx" dlsize="2314585" size="15626328" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E7E84098927D98EB80A3841A75B74982893A9744" downloadHash="366428DEBC26C254258AE2934EA61FF0BE23904F" name="snowdown t33 brannoch town.trx" dlsize="2187016" size="15501174" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2132,7 +2132,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2D1FF98F7E86481C0176C8347DB9AC1A63DCA90D" downloadHash="329432DD1EDF3942E7390EB2638FC6199314EC76" name="skullport ssarmn residence.trx" dlsize="219702" size="221068" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="91D77A3246D681EF798F514FC91C7F57226B2027" downloadHash="A701F02EC32F277A4B4C38EB70FEB64F3E0F7712" name="skullport ssarmn residence.trx" dlsize="173090" size="174105" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2142,7 +2142,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C30C71D4C56A77F66DC4D4628BBCC57A5ACAAC89" downloadHash="B965F05EC116E18FFBEF35FEC477C0E22C643189" name="skullport ssarmn cave.trx" dlsize="1966822" size="2447942" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C22B3625F392DFF5374445AFF33194DFB56D66DF" downloadHash="3BC475EE68586F7B4365A576E6110E677265B783" name="skullport ssarmn cave.trx" dlsize="1365423" size="1831094" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2438,6 +2438,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="2591781D1A2A90D2239CC172845FC7ED612E4F5F" downloadHash="94CC3C55A23DBB4C7D7B07C392E8EFA91D2C6FDA" name="skaug ship docked.trx" dlsize="144466" size="145360" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="A327B0C3D48CCD702BC72E5B4F5617302BCEF653" downloadHash="D5A3DE1792DB25262343F925E8F33BF7CF5B5CB3" name="skullport ssarmn cave2.trx" dlsize="578532" size="1034066" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
