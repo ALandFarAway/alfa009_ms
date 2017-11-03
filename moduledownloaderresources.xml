@@ -1382,7 +1382,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0B67BB121A47004441A9B97A786E1E85A5313C1E" downloadHash="FFF5FDF9BF3F4BFDAD093202AB4DF042BA62FB0C" name="caftenor p14 town.trx" dlsize="4029635" size="21006827" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="851ED8329BE8BA5D7F6EB4C3BDB7B64974864BF1" downloadHash="E97E85CD8C5196AE5386AB0A7C3D2A8719BA4562" name="caftenor p14 town.trx" dlsize="4089598" size="21073643" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1812,7 +1812,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5826733C1C94D8FAD81D70814523E00B1BE79A2B" downloadHash="3AA0925ADCAEE2701F3D05F2913A8E876965A632" name="gwynneth p34 cantrev horstall.trx" dlsize="1897897" size="12873737" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A53E11D93E04453D3D17EFB49AD077369BE78075" downloadHash="BD9E1D7E982C0153F75F29AF4C412CFAC19F043B" name="gwynneth p34 cantrev horstall.trx" dlsize="1903157" size="12882543" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
