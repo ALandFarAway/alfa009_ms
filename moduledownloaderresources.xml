@@ -122,7 +122,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E92C280CD9E1500EB0E278DD1EECE9D759CDA63F" downloadHash="A60D6FAFFC5ACE68A58F851189A6B055DC19AF69" name="snowdown r34 westphal city.trx" dlsize="2135970" size="14026782" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4BF0AF16ED26B603D39F73D3509DA927671B74B5" downloadHash="B1DAABCBE922F5525EE52536AAC9788EA112E00A" name="snowdown r34 westphal city.trx" dlsize="2113888" size="14005744" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
