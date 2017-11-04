@@ -122,7 +122,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4BF0AF16ED26B603D39F73D3509DA927671B74B5" downloadHash="B1DAABCBE922F5525EE52536AAC9788EA112E00A" name="snowdown r34 westphal city.trx" dlsize="2113888" size="14005744" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D334B3F11141D730C1777E90F2ACEDBD5AED8B8D" downloadHash="77039CAA7D97553C36948DA7D116AB313CBF1C6A" name="snowdown r34 westphal city.trx" dlsize="2096043" size="13983862" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2192,7 +2192,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2F53DF44E0C444576D7C09FC9EB64F194C4D27A2" downloadHash="91F05B8063250503E03C058DA701E7C68AA6CBED" name="moray isle e30 Farview.trx" dlsize="4276086" size="33022139" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C9D5C12B1E0A0DF5524E4266361D3C4F4A05E519" downloadHash="13632F27FA09C1A78F629F67D8151153539B6CEC" name="moray isle e30 Farview.trx" dlsize="4241638" size="32992539" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2272,7 +2272,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F438622D146E173F51D0A885EF0B30BA05CC72A8" downloadHash="2FCC6AEDF5FC65F7B02069FEF048FFD06EAAFADA" name="moray isle e30 druid cave.trx" dlsize="121200" size="526311" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3306E6B2FA34ACC98C8B9F9558B426C67E5ED9FF" downloadHash="E7508AA9BC1B8024A712572C98B8C554FB427B5C" name="moray isle e30 druid cave.trx" dlsize="121262" size="526216" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
