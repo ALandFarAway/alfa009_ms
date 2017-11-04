@@ -61,13 +61,15 @@ void main() {
 			
 			e = GetNextEffect( oPC );
 		}
+		SendMessageToAllDMs( GetName( oPC ) + " has taken off their blindfold." );
 		DeleteLocalInt( oPC, VAR_BLINDFOLDED );
 	} else {
 		// Add blindness effect.
 		effect eBlindness = SupernaturalEffect( EffectBlindness() );
 		effect eBlindfold = EffectNWN2SpecialEffectFile( GetSpecialEffectFileForBlindfold( oPC ) );
 		effect eCombined = EffectLinkEffects( eBlindfold, eBlindness );
-		ApplyEffectToObject( DURATION_TYPE_PERMANENT, eBlindness, oPC );
+		ApplyEffectToObject( DURATION_TYPE_PERMANENT, eCombined, oPC );
+		SendMessageToAllDMs( GetName( oPC ) + " has put on a blindfold." );
 		SetLocalInt( oPC, VAR_BLINDFOLDED, TRUE );
 	}
 }
