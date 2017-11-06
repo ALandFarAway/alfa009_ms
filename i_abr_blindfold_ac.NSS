@@ -32,7 +32,7 @@ string GetSpecialEffectFileForBlindfold( object oTarget ) {
 		case RACIAL_TYPE_GRAYORC:
 		case RACIAL_TYPE_HALFORC:
 			sEffectFile = "acme_fx_blackdomino_oo";
-			break;
+			break;	
 		case RACIAL_TYPE_ELF:
 			sEffectFile = "acme_fx_blackdomino_dd";
 			break;
@@ -68,7 +68,7 @@ void main() {
 		effect eBlindness = SupernaturalEffect( EffectBlindness() );
 		effect eBlindfold = EffectNWN2SpecialEffectFile( GetSpecialEffectFileForBlindfold( oPC ) );
 		effect eCombined = EffectLinkEffects( eBlindfold, eBlindness );
-		ApplyEffectToObject( DURATION_TYPE_PERMANENT, eCombined, oPC );
+		ApplyEffectToObject( DURATION_TYPE_TEMPORARY, eCombined, oPC );
 		SendMessageToAllDMs( GetName( oPC ) + " has put on a blindfold." );
 		SetLocalInt( oPC, VAR_BLINDFOLDED, TRUE );
 	}

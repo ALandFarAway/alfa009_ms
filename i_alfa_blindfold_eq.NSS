@@ -30,7 +30,7 @@ void main()
     } else {
         // PC is not blindfolded. Add effect.
         effect eBlindness = SupernaturalEffect(EffectBlindness());
-        ApplyEffectToObject( DURATION_TYPE_PERMANENT, eBlindness, oPC );
+        ApplyEffectToObject( DURATION_TYPE_TEMPORARY, eBlindness, oPC );
         SetLocalInt( oPC, VAR_BLINDFOLDED, TRUE );
     }
 }

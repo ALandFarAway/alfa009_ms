@@ -992,7 +992,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="04F3FC9D2F2D3DC9A48535E9401524EAB9A58651" downloadHash="644E7ECEA4BFF2731BD26CF94A5442520FD52965" name="gwynneth l30 myrloch sheepool.trx" dlsize="4932586" size="30509776" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3BCE7B619D433F260BFABEDE237E983943A1B657" downloadHash="99F50B8BAEC9E5CDC17F6641FBB06709CAAE6E5E" name="gwynneth l30 myrloch sheepool.trx" dlsize="4921695" size="30491425" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1022,7 +1022,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F0DEA38510BD35E2DBD555CA093133FBECBEF104" downloadHash="7EF63E3A7759CE99A8BFBD8FCD29FE86FA8187F6" name="gwynneth m32 sacred grove.trx" dlsize="1882068" size="9355103" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="EC58E61F7D77DD691E74E3ABEE2E2291572858C4" downloadHash="703E673D85761AC14F2A062E25C8D7A937ED9B34" name="gwynneth m32 sacred grove.trx" dlsize="1864769" size="9352723" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1547,7 +1547,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4A95F87A20787A8EF372C97ACBEE6A05E5E91F6B" downloadHash="A74E23525D75274C8954F4A856633676F8C452A7" name="nelanther drachenshore  cave.trx" dlsize="1042023" size="1058053" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FBF7C5648D5DF00580C6BD245570A3A550278163" downloadHash="81B4A36113736173E5DA772BF9BAE05A9C469D69" name="nelanther drachenshore  cave.trx" dlsize="1038080" size="1054108" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2082,7 +2082,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5105EF68335B9F4B4F2C228B69CA605055DD08FB" downloadHash="C51AB8AD401C373A3FC7940527519B2E98CC29E9" name="moray isle f30 breasl marsh s.trx" dlsize="9652036" size="44820817" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5CFAA666F80018881F42FBA84E6676869400ADD4" downloadHash="93AA651658CC998160BA140A5640BE57CE1B7819" name="moray isle f30 breasl marsh s.trx" dlsize="9278920" size="43880764" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2443,6 +2443,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="A327B0C3D48CCD702BC72E5B4F5617302BCEF653" downloadHash="D5A3DE1792DB25262343F925E8F33BF7CF5B5CB3" name="skullport ssarmn cave2.trx" dlsize="578532" size="1034066" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="2EC159A286124F2F3A0E69EAC77EAA82A983746D" downloadHash="1E4DE0677C64B9A79BA00AFCD44FB6B9360CBE2E" name="nelanther drachenshore cave1.trx" dlsize="786773" size="1872001" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
