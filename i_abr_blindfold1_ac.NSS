@@ -1,9 +1,12 @@
-//
+/*/
 // On Use item script for abr_blindfold
 //
 // This script will apply blindness to the item's user. Additionally, it will
 // create a blindfold VFX and apply it to the user.
 //
+
+
+#include "acr_spells_i"
 
 // Local variable kept on the PC to keep track of their blindfold status.
 const string VAR_BLINDFOLDED = "TMP_BLINDFOLDED";
@@ -20,6 +23,7 @@ int GetIsDesiredBlindnessEffect( effect e ) {
 // Fetches the effect file to use for the blindfold.
 string GetSpecialEffectFileForBlindfold( object oTarget ) {
 	string sEffectFile;
+	//string VFXbyRace(string basename, object oPC)
 	
 	int nRacialType = GetRacialType( oTarget );
 	switch ( nRacialType ) {
@@ -57,10 +61,11 @@ void main() {
 			// Delete blindness/blindfold effects.
 			if ( GetIsDesiredBlindnessEffect( e ) ) {
 				RemoveEffect( oPC, e );
-			
+			//RemoveSEFFromObject(oPC,VFXbyRace("acme_fx_blackdomino",oPC));
 			}
 			
 			e = GetNextEffect( oPC );
+		
 		}
 		SendMessageToAllDMs( GetName( oPC ) + " has taken off their blindfold." );
 		DeleteLocalInt( oPC, VAR_BLINDFOLDED );

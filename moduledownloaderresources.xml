@@ -1062,7 +1062,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0F231DF740AA6CF8B3F0C616445651D46F389229" downloadHash="0DFF34B566CC554B695CE0F7F8DB5E00C8646F6B" name="snowdown r34 westphal inn tavern.trx" dlsize="368344" size="371200" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="AC35D827918F5CEAB08EA28BA9EFEE93BBF8ACCD" downloadHash="8C765E418D2023C63D7D644D0D394768B2230F12" name="snowdown r34 westphal inn tavern.trx" dlsize="364933" size="368069" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
