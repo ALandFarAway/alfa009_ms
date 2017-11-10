@@ -517,7 +517,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B6B976FB024445682D9AF532E928E5C815D22E2F" downloadHash="D9807D01F7D5E2FD9EAEB3698B9EA387102D9883" name="skaug port shops.trx" dlsize="678173" size="683455" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="47D3595D1BD638A08881A6276FD717AA639D11F3" downloadHash="D7F24467C664B8242B63A39F3BEA6B8D48D805A9" name="skaug port shops.trx" dlsize="676120" size="681746" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2192,7 +2192,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C9D5C12B1E0A0DF5524E4266361D3C4F4A05E519" downloadHash="13632F27FA09C1A78F629F67D8151153539B6CEC" name="moray isle e30 Farview.trx" dlsize="4241638" size="32992539" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="587A40FCC50D6E8F59B299BFF1212EFBE4C12FF2" downloadHash="4664B9480B6A65F5C1C4978B106CEFAB81DCFC6B" name="moray isle e30 Farview.trx" dlsize="4220139" size="32986425" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
