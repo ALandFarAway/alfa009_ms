@@ -1,4 +1,4 @@
-/*/
+//
 // On Use item script for abr_blindfold
 //
 // This script will apply blindness to the item's user. Additionally, it will
@@ -6,7 +6,8 @@
 //
 
 
-#include "acr_spells_i"
+#include "acr_effects_i"
+#include "acr_vfx_i"
 
 // Local variable kept on the PC to keep track of their blindfold status.
 const string VAR_BLINDFOLDED = "TMP_BLINDFOLDED";
@@ -61,15 +62,15 @@ void main() {
 			// Delete blindness/blindfold effects.
 			if ( GetIsDesiredBlindnessEffect( e ) ) {
 				RemoveEffect( oPC, e );
-			//RemoveSEFFromObject(oPC,VFXbyRace("acme_fx_blackdomino",oPC));
 			}
 			
-			e = GetNextEffect( oPC );
+    else	e = GetNextEffect( oPC );
 		
 		}
 		SendMessageToAllDMs( GetName( oPC ) + " has taken off their blindfold." );
 		DeleteLocalInt( oPC, VAR_BLINDFOLDED );
-	} else {
+		
+	} else if  ( GetLocalInt( oPC, VAR_BLINDFOLDED ) != TRUE ){
 		// Add blindness effect.
 		effect eBlindness = SupernaturalEffect( EffectBlindness() );
 		effect eBlindfold = EffectNWN2SpecialEffectFile( GetSpecialEffectFileForBlindfold( oPC ) );
@@ -78,4 +79,6 @@ void main() {
 		SendMessageToAllDMs( GetName( oPC ) + " has put on a blindfold." );
 		SetLocalInt( oPC, VAR_BLINDFOLDED, TRUE );
 	}
-}
+}	
+
+

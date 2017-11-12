@@ -467,7 +467,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B582C716C9DCA80145D366BE1C2FD897964A48FD" downloadHash="749BBFC5E959425C6A6FD8BCE337CD6C0BD6FB71" name="gwynneth m34ne koart vill.trx" dlsize="3803183" size="20015233" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E7ACD75324D7DB689020FBCBCB1971D6469D78FA" downloadHash="5E7BD63ACEFD41416ED7992587083184232E5265" name="gwynneth m34ne koart vill.trx" dlsize="3813102" size="20028732" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1757,7 +1757,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0BA2FE78CB6D3973BC407EB1DBCC66A41F515469" downloadHash="174D2E82C6B0ED5AFA4027D7D5C0F0222275976D" name="gwynneth n34 kings road.trx" dlsize="3257547" size="15845293" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="94A33A60A4BE47A86DA78BCDDA0FCD7D37AFC1AC" downloadHash="58CCAAA88F5176094410468BB3AD893E4F02819C" name="gwynneth n34 kings road.trx" dlsize="3244052" size="15833468" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2032,7 +2032,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2D2F519FDFCCF2CA062A64B0FE6ED195E144535D" downloadHash="410FE377B84B9B8BC4AA098472671241C4B54BD0" name="gwynneth o32 cambro trail int.trx" dlsize="433989" size="2652838" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D5303913435BB9CC6F3324C98DB602A9AFBA3E16" downloadHash="F4C241D06AD728B549F0D6B63CDEF0A5C20FDD52" name="gwynneth o32 cambro trail int.trx" dlsize="438152" size="2658604" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2192,7 +2192,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="587A40FCC50D6E8F59B299BFF1212EFBE4C12FF2" downloadHash="4664B9480B6A65F5C1C4978B106CEFAB81DCFC6B" name="moray isle e30 Farview.trx" dlsize="4220139" size="32986425" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1FA9763BF153090A272215DE6519A4548355484F" downloadHash="6C6C761624870C8B338CD89C7EBC85B9255C0162" name="moray isle e30 Farview.trx" dlsize="4249882" size="33083305" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2272,7 +2272,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3306E6B2FA34ACC98C8B9F9558B426C67E5ED9FF" downloadHash="E7508AA9BC1B8024A712572C98B8C554FB427B5C" name="moray isle e30 druid cave.trx" dlsize="121262" size="526216" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="65444994276716D513F72E988D4391F8A2895CD7" downloadHash="5AF66DF7B54E3285AE61201D77A7FEAC59B245BE" name="moray isle e30 druid cave.trx" dlsize="121187" size="526278" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
