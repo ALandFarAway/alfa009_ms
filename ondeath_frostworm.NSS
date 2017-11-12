@@ -23,7 +23,7 @@ void main()
 
 	 
     // Get the creature who triggered this event.
-    object  = GetLastKiller();
+    object oPC = GetLastKiller();
 
     // We are really interested in the ultimate master of the killer.
     while ( GetMaster(oPC) != OBJECT_INVALID )
