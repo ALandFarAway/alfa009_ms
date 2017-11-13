@@ -2052,7 +2052,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C47CD5B47CC8AC1CF6DC9DC232702B05FE6A0423" downloadHash="A8730767E10BE141E86156F8427D959DCD9B821C" name="gwynneth m34s lowhill int.trx" dlsize="421941" size="606696" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C88597AD685D877A11D04ED75F37615FF2D4ADD1" downloadHash="A8730767E10BE141E86156F8427D959DCD9B821C" name="gwynneth m34s lowhill int.trx" dlsize="421941" size="600713" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
