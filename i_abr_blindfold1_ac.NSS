@@ -52,6 +52,8 @@ string GetSpecialEffectFileForBlindfold( object oTarget ) {
 void main() {
 	// Get our target.
 	object oPC = GetItemActivator();
+	
+	
 
 	if ( GetLocalInt( oPC, VAR_BLINDFOLDED ) == TRUE ) {
 		// PC is blindfolded. Remove effect.
@@ -64,21 +66,48 @@ void main() {
 				RemoveEffect( oPC, e );
 			}
 			
-    else	e = GetNextEffect( oPC );
+    	e = GetNextEffect( oPC );
 		
 		}
 		SendMessageToAllDMs( GetName( oPC ) + " has taken off their blindfold." );
+		effect eDur = EffectVisualEffect(VFX_DUR_CESSATE_POSITIVE);
 		DeleteLocalInt( oPC, VAR_BLINDFOLDED );
 		
 	} else if  ( GetLocalInt( oPC, VAR_BLINDFOLDED ) != TRUE ){
 		// Add blindness effect.
 		effect eBlindness = SupernaturalEffect( EffectBlindness() );
+		 //Declare major varibles
+    object oTarget = GetSpellTargetObject();
+    int nMetaMagic = GetMetaMagicFeat();
+    int nDuration = GetCasterLevel(OBJECT_SELF);
+    effect eBlind =  EffectBlindness();
+    effect eDeaf = EffectDeaf();
+    effect eAC = EffectACDecrease( 2 );
+    effect eMoveDec = EffectMovementSpeedDecrease(50);
+    effect eSpot = EffectSkillDecrease(SKILL_SPOT , 50);
+    effect eSearch = EffectSkillDecrease(SKILL_SEARCH , 4);
+    effect eDex;
+    effect eVis = EffectVisualEffect(VFX_DUR_SPELL_BLIND_DEAF);
+    int nDex = GetAbilityScore( oTarget, ABILITY_DEXTERITY );
+    if (nDex > 10)
+        {
+        int nDecr = (nDex-10);
+        eDex = EffectAbilityDecrease( ABILITY_DEXTERITY, nDecr);
+        }
+    effect eLink = EffectLinkEffects(eBlind, eDeaf);
+    eLink = EffectLinkEffects(eLink, eSpot);
+    eLink = EffectLinkEffects(eLink, eSearch);
+    eLink = EffectLinkEffects(eLink, eAC );
+    eLink = EffectLinkEffects(eLink, eMoveDec );
+    eLink = EffectLinkEffects(eLink, eDex );
+    eLink = EffectLinkEffects(eLink, eVis);
+    eLink = SupernaturalEffect(eLink);
 		effect eBlindfold = EffectNWN2SpecialEffectFile( GetSpecialEffectFileForBlindfold( oPC ) );
 		effect eCombined = EffectLinkEffects( eBlindfold, eBlindness );
 		ApplyEffectToObject( DURATION_TYPE_PERMANENT, eCombined, oPC );
 		SendMessageToAllDMs( GetName( oPC ) + " has put on a blindfold." );
 		SetLocalInt( oPC, VAR_BLINDFOLDED, TRUE );
+		
 	}
 }	
-
 
