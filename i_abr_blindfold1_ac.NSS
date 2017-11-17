@@ -6,108 +6,117 @@
 //
 
 
-#include "acr_effects_i"
-#include "acr_vfx_i"
+// 'blindfold'
+/*
+    OnItemActivated script.
+
+    This script will apply heavy blindness effects to the PC (item-activator).
+    Additionally, it will create a blindfold-VFX and apply it.
+*/
+
+
 
 // Local variable kept on the PC to keep track of their blindfold status.
 const string VAR_BLINDFOLDED = "TMP_BLINDFOLDED";
 
-// Checks an effect to see if it is the blindness effect we make.
-int GetIsDesiredBlindnessEffect( effect e ) {
-	if ( !GetIsEffectValid( e ) ) return FALSE;
-	if ( GetEffectCreator( e ) != OBJECT_SELF ) return FALSE;
-	if ( GetEffectType( e ) != EFFECT_TYPE_BLINDNESS ) return FALSE;
-	if ( GetEffectSubType( e ) != SUBTYPE_SUPERNATURAL ) return FALSE;
-	return TRUE;
-}
 
-// Fetches the effect file to use for the blindfold.
-string GetSpecialEffectFileForBlindfold( object oTarget ) {
-	string sEffectFile;
-	//string VFXbyRace(string basename, object oPC)
-	
-	int nRacialType = GetRacialType( oTarget );
-	switch ( nRacialType ) {
-		case RACIAL_TYPE_DWARF:
-			sEffectFile = "acme_fx_blackdomino_dd";
-			break;
-		case RACIAL_TYPE_GNOME:
-			sEffectFile = "acme_fx_blackdomino_gg";
-			break;
-		case RACIAL_TYPE_GRAYORC:
-		case RACIAL_TYPE_HALFORC:
-			sEffectFile = "acme_fx_blackdomino_oo";
-			break;	
-		case RACIAL_TYPE_ELF:
-			sEffectFile = "acme_fx_blackdomino_dd";
-			break;
-		default:
-			sEffectFile = "acme_fx_blackdomino_hh";
-			break;
-	}
-	
-	return sEffectFile;
-}
+// Checks an effect to see if it is this blindness.
+int GetIsDesiredBlindnessEffect(effect eScan, object oPC);
 
-void main() {
-	// Get our target.
-	object oPC = GetItemActivator();
-	
-	
+// Fetches an effect-file to use for the blindfold-VFX.
+string GetSpecialEffectFileForBlindfold(object oPC);
 
-	if ( GetLocalInt( oPC, VAR_BLINDFOLDED ) == TRUE ) {
-		// PC is blindfolded. Remove effect.
-		effect eBlindness = SupernaturalEffect(EffectBlindness());
-		
-		effect e = GetFirstEffect( oPC);
-		while( GetIsEffectValid( e ) ) {
-			// Delete blindness/blindfold effects.
-			if ( GetIsDesiredBlindnessEffect( e ) ) {
-				RemoveEffect( oPC, e );
-			}
-			
-    	e = GetNextEffect( oPC );
-		
-		}
-		SendMessageToAllDMs( GetName( oPC ) + " has taken off their blindfold." );
-		effect eDur = EffectVisualEffect(VFX_DUR_CESSATE_POSITIVE);
-		DeleteLocalInt( oPC, VAR_BLINDFOLDED );
-		
-	} else if  ( GetLocalInt( oPC, VAR_BLINDFOLDED ) != TRUE ){
-		// Add blindness effect.
-		effect eBlindness = SupernaturalEffect( EffectBlindness() );
-		 //Declare major varibles
-    object oTarget = GetSpellTargetObject();
-    int nMetaMagic = GetMetaMagicFeat();
-    int nDuration = GetCasterLevel(OBJECT_SELF);
-    effect eBlind =  EffectBlindness();
-    effect eDeaf = EffectDeaf();
-    effect eAC = EffectACDecrease( 2 );
-    effect eMoveDec = EffectMovementSpeedDecrease(50);
-    effect eSpot = EffectSkillDecrease(SKILL_SPOT , 50);
-    effect eSearch = EffectSkillDecrease(SKILL_SEARCH , 4);
-    effect eDex;
-    effect eVis = EffectVisualEffect(VFX_DUR_SPELL_BLIND_DEAF);
-    int nDex = GetAbilityScore( oTarget, ABILITY_DEXTERITY );
-    if (nDex > 10)
+
+//
+void main()
+{
+    object oPC = GetItemActivator();
+
+
+    if (GetLocalInt(oPC, VAR_BLINDFOLDED))
+    {
+        DeleteLocalInt(oPC, VAR_BLINDFOLDED);
+
+        effect eScan = GetFirstEffect(oPC);
+        while (GetIsEffectValid(eScan))
         {
-        int nDecr = (nDex-10);
-        eDex = EffectAbilityDecrease( ABILITY_DEXTERITY, nDecr);
+            if (GetIsDesiredBlindnessEffect(eScan, oPC))
+            {
+                RemoveEffect(oPC, eScan);
+                eScan = GetFirstEffect(oPC);
+            }
+            else
+                eScan = GetNextEffect(oPC);
         }
-    effect eLink = EffectLinkEffects(eBlind, eDeaf);
-    eLink = EffectLinkEffects(eLink, eSpot);
-    eLink = EffectLinkEffects(eLink, eSearch);
-    eLink = EffectLinkEffects(eLink, eAC );
-    eLink = EffectLinkEffects(eLink, eMoveDec );
-    eLink = EffectLinkEffects(eLink, eDex );
-    eLink = EffectLinkEffects(eLink, eVis);
-    eLink = SupernaturalEffect(eLink);
-		effect eBlindfold = EffectNWN2SpecialEffectFile( GetSpecialEffectFileForBlindfold( oPC ) );
-		effect eCombined = EffectLinkEffects( eBlindfold, eBlindness );
-		ApplyEffectToObject( DURATION_TYPE_PERMANENT, eCombined, oPC );
-		SendMessageToAllDMs( GetName( oPC ) + " has put on a blindfold." );
-		SetLocalInt( oPC, VAR_BLINDFOLDED, TRUE );
-		
-	}
-}	
+
+        SendMessageToAllDMs(GetName(oPC) + " has taken off their blindfold.");
+    }
+    else
+    {
+        SetLocalInt(oPC, VAR_BLINDFOLDED, TRUE);
+
+        effect eBlind     = EffectBlindness();
+        effect eDeaf      = EffectDeaf();
+        effect eAC        = EffectACDecrease(2);
+        effect eMoveDec   = EffectMovementSpeedDecrease(50);
+        effect eSpot      = EffectSkillDecrease(SKILL_SPOT, 50);
+        effect eSearch    = EffectSkillDecrease(SKILL_SEARCH, 4);
+        effect eBlindfold = EffectNWN2SpecialEffectFile(GetSpecialEffectFileForBlindfold(oPC));
+
+        effect eVis = EffectVisualEffect(VFX_DUR_SPELL_BLIND_DEAF);
+
+        eVis = EffectLinkEffects(eVis, eBlind);
+        eVis = EffectLinkEffects(eVis, eDeaf);
+        eVis = EffectLinkEffects(eVis, eAC);
+        eVis = EffectLinkEffects(eVis, eMoveDec);
+        eVis = EffectLinkEffects(eVis, eSpot);
+        eVis = EffectLinkEffects(eVis, eSearch);
+        eVis = EffectLinkEffects(eVis, eBlindfold);
+
+        int iDex = GetAbilityScore(oPC, ABILITY_DEXTERITY);
+        if (iDex > 10)
+        {
+            int iDecr = iDex - 10;
+            effect eDex = EffectAbilityDecrease(ABILITY_DEXTERITY, iDecr);
+            eVis = EffectLinkEffects(eVis, eDex);
+        }
+
+        eVis = SupernaturalEffect(eVis);
+
+        AssignCommand(oPC, ApplyEffectToObject(DURATION_TYPE_PERMANENT, eVis, oPC));
+
+        SendMessageToAllDMs(GetName(oPC) + " has put on a blindfold.");
+    }
+}
+
+
+// Checks an effect to see if it is this blindness.
+int GetIsDesiredBlindnessEffect(effect eScan, object oPC)
+{
+    if (   GetIsEffectValid(eScan)
+        && GetEffectCreator(eScan) == oPC
+        && GetEffectType(eScan) == EFFECT_TYPE_BLINDNESS
+        && GetEffectSubType(eScan) == SUBTYPE_SUPERNATURAL)
+    {
+        return TRUE;
+    }
+    return FALSE;
+}
+
+// Fetches an effect-file to use for the blindfold-VFX.
+string GetSpecialEffectFileForBlindfold(object oPC)
+{
+    string sEffectFile;
+
+    switch (GetRacialType(oPC))
+    {
+        case RACIAL_TYPE_DWARF:     sEffectFile = "acme_fx_blackdomino_dd"; break;
+        case RACIAL_TYPE_GNOME:     sEffectFile = "acme_fx_blackdomino_gg"; break;
+        case RACIAL_TYPE_GRAYORC:
+        case RACIAL_TYPE_HALFORC:   sEffectFile = "acme_fx_blackdomino_oo"; break;
+        case RACIAL_TYPE_ELF:       sEffectFile = "acme_fx_blackdomino_dd"; break;
+        default:                    sEffectFile = "acme_fx_blackdomino_hh"; break;
+    }
+    return sEffectFile;
+}
 

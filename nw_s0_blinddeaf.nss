@@ -84,8 +84,8 @@ void main()
         if (!MyResistSpell(OBJECT_SELF, oTarget))
         {
             // Make Fortitude save to negate
-            if (!/*Fort Save*/ MySavingThrow(SAVING_THROW_FORT, oTarget, GetSpellSaveDC()))
-            {
+            if (!/*Fort Save*/ //MySavingThrow(SAVING_THROW_FORT, oTarget, GetSpellSaveDC()))
+           // {
                 //Metamagic check for duration
  /*               if (nMetaMagic == METAMAGIC_EXTEND)
                 {
@@ -98,4 +98,3 @@ void main()
         }
     }
 }
-
