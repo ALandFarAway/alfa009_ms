@@ -119,4 +119,3 @@ string GetSpecialEffectFileForBlindfold(object oPC)
     }
     return sEffectFile;
 }
-

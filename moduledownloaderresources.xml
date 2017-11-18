@@ -697,7 +697,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="52426BBE705ACF4C9DBA3C4A50E0BC2472601323" downloadHash="AD7CE54FF210924C3181EAC3952BDB1A42D9F92E" name="gwynneth l33 caer corwell.trx" dlsize="1969055" size="14294649" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A1C75ECC0FFFDE3EC903FBD79619A8A2FD651E3C" downloadHash="B39E727DAB71C256B50F0B9B11BB7EEE02D961DB" name="gwynneth l33 caer corwell.trx" dlsize="1982856" size="14304923" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2448,6 +2448,21 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="2EC159A286124F2F3A0E69EAC77EAA82A983746D" downloadHash="1E4DE0677C64B9A79BA00AFCD44FB6B9360CBE2E" name="nelanther drachenshore cave1.trx" dlsize="786773" size="1872001" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="848B99D2B805E70241ECECE9F1BD7007422169BC" downloadHash="25EC49BAAFDF75FE50B4F1C5BC950EA4B1A7B6DA" name="_travel gnome airship in flight.trx" dlsize="228867" size="7839848" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="7C30C4EB2D16ED733DFFD3C33079D84EA0AB30AD" downloadHash="75D04D258CF1E5FD988C5EFB744ADA4982E6FAC9" name="_travel template_ferry.trx" dlsize="150469" size="6486624" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="581B4DFC8498EE98E0DE969E1CAACCF3643A9E3D" downloadHash="BE57AC82D2F553C7B978AA992F46CB0A7ECC0CDE" name="_travel transports ships at sea.trx" dlsize="1295121" size="14751850" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
