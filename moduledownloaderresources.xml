@@ -1172,7 +1172,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3A74696980ACCA140C0A0E37AD2DE334E06151F6" downloadHash="43529AC0A7D67F3561354CB9EA9AF72CDD2D9A47" name="gwynneth m34ne koart under.trx" dlsize="543091" size="1180061" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="40B5110302F60BD2E6C1CCC0733BFEEA30297CFA" downloadHash="5A969F61BE54448DE208C25F83E81F274F6FD485" name="gwynneth m34ne koart under.trx" dlsize="546569" size="1184755" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
