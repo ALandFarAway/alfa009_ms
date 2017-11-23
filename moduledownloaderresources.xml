@@ -2192,7 +2192,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1FA9763BF153090A272215DE6519A4548355484F" downloadHash="6C6C761624870C8B338CD89C7EBC85B9255C0162" name="moray isle e30 Farview.trx" dlsize="4249882" size="33083305" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3D56CBEF49C60C858467B3862C4FE229942CE5A3" downloadHash="EFA1EB2437D8AD55D455FAAE60EA82F6A3EF9C69" name="moray isle e30 Farview.trx" dlsize="4266803" size="33112684" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
