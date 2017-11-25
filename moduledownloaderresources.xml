@@ -467,7 +467,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FB2039E6C3EB252A39F2B18329DCCDA2ED3AC945" downloadHash="60DCC69C13DF862EC7C0455F2507151676CD5B95" name="gwynneth m34ne koart vill.trx" dlsize="3829403" size="20022145" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="98B44E43A5E9BB16DBDB22425FF3AF84C174FE6C" downloadHash="91FE689983B80B1A470BCEB9BC5BDFFA1B61E4A4" name="gwynneth m34ne koart vill.trx" dlsize="3829419" size="20022145" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1757,7 +1757,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="70DD16375234D89E29BAB864D9F59BEBE27113C3" downloadHash="70531D7A7E92C4A60ACF3D7320645293B029B706" name="gwynneth n34 kings road.trx" dlsize="3251186" size="15845960" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0D5920DD78C95883FC48B98B414CCE175EA75C6F" downloadHash="8C92D2EE78A3A3D064915CC75BE47101496EA7D1" name="gwynneth n34 kings road.trx" dlsize="3248652" size="15843239" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
