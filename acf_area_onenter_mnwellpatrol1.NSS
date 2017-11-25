@@ -128,7 +128,7 @@ void CreateQuestStep(object QuestWP, int count)
 				CR = 5;
 				break;
 			case 4:
-				spawnedCritter = "009_hu_bandit_patrol";
+				spawnedCritter = "009_hu_dangerous";
 				spawnedCritterName = " Dangerous Human";
 				CR = 5;
 				break;
