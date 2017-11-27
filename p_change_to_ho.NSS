@@ -15,7 +15,7 @@ void OnActivate(object oEventItem, object oActTarget, location lActTarget, objec
     
 
     // Change how the PC looks.
-    SetCreatureAppearanceType(oActivator, APPEARANCE_TYPE_HALF_ORC);
+    SetCreatureAppearanceType(oActivator, APPEARANCE_TYPE_HALFORC);
 	SetCreatureAppearanceType(oActivator, iAppearanceNumber(5));
 	// Set the PC's subrace.
     SetSubRace(oActivator, "HALF-ORC");
