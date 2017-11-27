@@ -2312,7 +2312,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="299017116F426D78A34B4AFBCDCA40BBDC6BE07C" downloadHash="F03F9E3E36ACDB82A5CB278A2EB1FBB3CC4C13EE" name="009_dm prep area.trx" dlsize="287413" size="295440" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="56A28D3EA673686D581EC6FE5435D58388A8EE11" downloadHash="E3B0FD663C5801A502F9CCE71A0F95A62B1F69B9" name="009_dm prep area.trx" dlsize="285265" size="293311" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
