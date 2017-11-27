@@ -3,20 +3,23 @@
 
 
 
-#include "nwnx_objectattributes_include"
+//#include "nwnx_objectattributes_include"
+#include "acr_vanity_i"
 
-void main() {
+
+void OnActivate(object oEventItem, object oActTarget, location lActTarget, object oActivator) {
     object oPC = GetItemActivator();
 	
-    XPObjectAttributesSetSubRace(oPC, RACIAL_SUBTYPE_HALFORC);
+    XPObjectAttributesSetSubRace(oActivator, RACIAL_SUBTYPE_HALFORC);
 	 // Get the creature who triggered this event.
     
 
-    // Only fire once per PC.
-    if ( GetLocalInt(oPC, "DO_ONCE__" + GetTag(OBJECT_SELF)) )
-        return;
-    SetLocalInt(oPC, "DO_ONCE__" + GetTag(OBJECT_SELF), TRUE);
-
     // Change how the PC looks.
-    SetCreatureAppearanceType(oPC, APPEARANCE_TYPE_HALF_ORC);
+    SetCreatureAppearanceType(oActivator, APPEARANCE_TYPE_HALF_ORC);
+	SetCreatureAppearanceType(oActivator, iAppearanceNumber(5));
+	// Set the PC's subrace.
+    SetSubRace(oActivator, "HALF-ORC");
 }
+
+
+
