@@ -10,8 +10,9 @@
 void OnActivate(object oEventItem, object oActTarget, location lActTarget, object oActivator) {
 object oPC = GetItemActivator();
 	
+    XPObjectAttributesSetRace(oActivator, RACIAL_TYPE_HALFORC);
     XPObjectAttributesSetSubRace(oActivator, RACIAL_SUBTYPE_HALFORC);
-	XPObjectAttributesSetRace(oActivator, RACIAL_TYPE_HALFORC);
+	
 	 // Get the creature who triggered this event.
     
 
