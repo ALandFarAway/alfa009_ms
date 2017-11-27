@@ -8,17 +8,19 @@
 
 
 void OnActivate(object oEventItem, object oActTarget, location lActTarget, object oActivator) {
-    object oPC = GetItemActivator();
+object oPC = GetItemActivator();
 	
     XPObjectAttributesSetSubRace(oActivator, RACIAL_SUBTYPE_HALFORC);
+	XPObjectAttributesSetRace(oActivator, RACIAL_TYPE_HALFORC);
 	 // Get the creature who triggered this event.
     
 
     // Change how the PC looks.
-    SetCreatureAppearanceType(oActivator, APPEARANCE_TYPE_HALFORC);
-	SetCreatureAppearanceType(oActivator, iAppearanceNumber(5));
+    SetCreatureAppearanceType(oActivator, APPEARANCE_TYPE_HALF_ORC);
+	//SetCreatureAppearanceType(oActivator, iAppearanceNumber(5));
+	//SetCreatureAppearanceType(oActivator, i5);
 	// Set the PC's subrace.
-    SetSubRace(oActivator, "HALF-ORC");
+   // SetSubRace(oActivator, "HALFORC");
 }
 
 

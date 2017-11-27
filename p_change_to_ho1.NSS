@@ -9,10 +9,11 @@ void main()
     object oPC = GetLastUsedBy();
 
     // Change how the PC looks.
-    SetCreatureAppearanceType(oPC, APPEARANCE_TYPE_HALF_ORC);
     XPObjectAttributesSetSubRace(oPC, RACIAL_SUBTYPE_HALFORC);
+	XPObjectAttributesSetRace(oPC, RACIAL_TYPE_HALFORC);
+	SetCreatureAppearanceType(oPC, APPEARANCE_TYPE_HALF_ORC);
     // Set the PC's subrace.
-    SetSubRace(oPC, "HALF-ORC");
+    SetSubRace(oPC, "HALF ORC");
 }/*
 
 void main() {
