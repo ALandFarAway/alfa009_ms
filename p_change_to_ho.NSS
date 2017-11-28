@@ -24,6 +24,7 @@ void main()
 	SetBaseAbilityScore (oPC,ABILITY_CHARISMA,10);
 	
     FeatRemove (oPC,FEAT_QUICK_TO_MASTER);
+	FeatRemove (oPC,1773);
 	FeatAdd (oPC,FEAT_DARKVISION,1,1,1);
 }
 

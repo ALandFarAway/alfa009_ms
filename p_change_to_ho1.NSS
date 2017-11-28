@@ -15,6 +15,7 @@ void main()
 	//SetCreatureAppearanceType(oPC, APPEARANCE_TYPE_HALF_ORC);
 	SetCreatureAppearanceType(oPC,5); // appearance.2da-line
 	FeatRemove (oPC,FEAT_QUICK_TO_MASTER);
+	FeatRemove (oPC,1773);
 	FeatAdd (oPC,FEAT_DARKVISION,1,1,1);
   
 }
