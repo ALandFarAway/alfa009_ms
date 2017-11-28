@@ -15,14 +15,16 @@ void main()
 	
 	//SetCreatureAppearanceType(oPC, APPEARANCE_TYPE_HALF_ORC);
 	SetCreatureAppearanceType(oPC,5); // appearance.2da-line
-    SetFirstName(oPC,"Tobias");
+   // SetFirstName(oPC,"Tobias");
 	SetBaseAbilityScore (oPC,ABILITY_STRENGTH,10);
 	SetBaseAbilityScore (oPC,ABILITY_DEXTERITY, 18);
 	SetBaseAbilityScore (oPC,ABILITY_CONSTITUTION,14);
-	SetBaseAbilityScore (oPC,ABILITY_INTELLIGENCE,19);
-	SetBaseAbilityScore (oPC,ABILITY_WISDOM, 8);
-	SetBaseAbilityScore (oPC,ABILITY_CHARISMA,8);
+	SetBaseAbilityScore (oPC,ABILITY_INTELLIGENCE,21);
+	SetBaseAbilityScore (oPC,ABILITY_WISDOM, 9);
+	SetBaseAbilityScore (oPC,ABILITY_CHARISMA,10);
 	
+    FeatRemove (oPC,FEAT_QUICK_TO_MASTER);
+	FeatAdd (oPC,FEAT_DARKVISION,1,1,1);
 }
 
 

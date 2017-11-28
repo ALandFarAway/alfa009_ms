@@ -14,7 +14,8 @@ void main()
 	
 	//SetCreatureAppearanceType(oPC, APPEARANCE_TYPE_HALF_ORC);
 	SetCreatureAppearanceType(oPC,5); // appearance.2da-line
-	SetFirstName(oPC,"Tobias");
+	FeatRemove (oPC,FEAT_QUICK_TO_MASTER);
+	FeatAdd (oPC,FEAT_DARKVISION,1,1,1);
   
 }
 
