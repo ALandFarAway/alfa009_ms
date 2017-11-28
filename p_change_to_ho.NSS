@@ -2,7 +2,6 @@
 
 
 
-
 #include "nwnx_objectattributes_include"
 
 void main()
@@ -16,9 +15,15 @@ void main()
 	
 	//SetCreatureAppearanceType(oPC, APPEARANCE_TYPE_HALF_ORC);
 	SetCreatureAppearanceType(oPC,5); // appearance.2da-line
-    // Set the PC's subrace.
-    //SetSubRace(oPC, "HALF-ORC");
-}/*
+    SetFirstName(oPC,"Tobias");
+	SetBaseAbilityScore (oPC,ABILITY_STRENGTH,10);
+	SetBaseAbilityScore (oPC,ABILITY_DEXTERITY, 18);
+	SetBaseAbilityScore (oPC,ABILITY_CONSTITUTION,14);
+	SetBaseAbilityScore (oPC,ABILITY_INTELLIGENCE,19);
+	SetBaseAbilityScore (oPC,ABILITY_WISDOM, 8);
+	SetBaseAbilityScore (oPC,ABILITY_CHARISMA,8);
+	
+}
 
 
 
