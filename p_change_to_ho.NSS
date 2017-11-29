@@ -20,13 +20,12 @@ void main()
 	SetBaseAbilityScore (oPC,ABILITY_DEXTERITY, 18);
 	SetBaseAbilityScore (oPC,ABILITY_CONSTITUTION,14);
 	SetBaseAbilityScore (oPC,ABILITY_INTELLIGENCE,21);
-	SetBaseAbilityScore (oPC,ABILITY_WISDOM, 9);
+	SetBaseAbilityScore (oPC,ABILITY_WISDOM, 8);
 	SetBaseAbilityScore (oPC,ABILITY_CHARISMA,10);
 	
     FeatRemove (oPC,FEAT_QUICK_TO_MASTER);
-	FeatRemove (oPC,1773);
+	FeatRemove (oPC,1773);//FEAT_HUMAN_SKILLED
 	FeatAdd (oPC,FEAT_DARKVISION,1,1,1);
 }
-
 
 
