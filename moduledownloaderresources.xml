@@ -2302,7 +2302,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="32C49784B9FF638C8D2C295D36A52571E63B2771" downloadHash="8929F6C801F63270F60249F59466F68DA3EC089E" name="skaug port inns-taverns.trx" dlsize="954338" size="966783" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="AC3A6FEBEB14AB3AA70C41F165CEEBE9520280E7" downloadHash="8F8BDB94943B414C84AC1423A000E8A2B836CBCC" name="skaug port inns-taverns.trx" dlsize="968170" size="980714" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>

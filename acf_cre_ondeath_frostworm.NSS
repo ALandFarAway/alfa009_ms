@@ -13,7 +13,7 @@
 	Any other number or value will default to Large Radius
 	
 	Now you can place the items.  Add cold, and stand back and watch the fun!
-*/
+/
 
 #include "acr_vfx_i"
 #include "acr_effects_i"
@@ -119,5 +119,25 @@ void main()
 		oVictim = GetNextObjectInShape(SHAPE_SPHERE, RADIUS_SIZE_LARGE, lBlastPoint, TRUE, OBJECT_TYPE_CREATURE | OBJECT_TYPE_PLACEABLE | OBJECT_TYPE_DOOR); 
 
 	} // END WHILE
+}
+*/
+void main()
+{
+    effect eDamage;
+
+    // Get the creature who triggered this event.
+    object oPC = GetLastKiller();
+
+    // We are really interested in the ultimate master of the killer.
+    while ( GetMaster(oPC) != OBJECT_INVALID )
+        oPC = GetMaster(oPC);
+
+    // Cause damage.
+    eDamage = EffectDamage(d6(8), DAMAGE_TYPE_PIERCING);
+    ApplyEffectToObject(DURATION_TYPE_INSTANT, eDamage, oPC);
+
+    // Cause damage.
+   eDamage = EffectDamage(d6(12), DAMAGE_TYPE_COLD);
+   ApplyEffectToObject(DURATION_TYPE_INSTANT, eDamage, oPC);
 }
   
