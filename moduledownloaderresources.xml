@@ -927,7 +927,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6FD96C0F0C03328DA41950431F8361D03CCAE46D" downloadHash="51D54F66B96054F1810CB46CF9FB3D7D5F0709D0" name="alaron s23w rillifane run int.trx" dlsize="500432" size="595577" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A4CD1F57E105062ECCB325492B3015588DCA1551" downloadHash="4B5D9EB74A1368056E52D2A21A87578B27017C0F" name="alaron s23w rillifane run int.trx" dlsize="500480" size="595799" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
