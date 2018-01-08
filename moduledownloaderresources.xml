@@ -927,7 +927,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A4CD1F57E105062ECCB325492B3015588DCA1551" downloadHash="4B5D9EB74A1368056E52D2A21A87578B27017C0F" name="alaron s23w rillifane run int.trx" dlsize="500480" size="595799" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6736110C861F5DEFBBE8E4278C74F66ADDCEA35B" downloadHash="FA9F3CEAAA550D69DBD4EEC0BBE8F675932ACFF7" name="alaron s23w rillifane run int.trx" dlsize="515854" size="610382" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2302,7 +2302,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="AC3A6FEBEB14AB3AA70C41F165CEEBE9520280E7" downloadHash="8F8BDB94943B414C84AC1423A000E8A2B836CBCC" name="skaug port inns-taverns.trx" dlsize="968170" size="980714" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="178CABEBF8103E992A376B8C114D0A6533143A3A" downloadHash="08ED0D99AB6787CF741F0B6C833C0402F1E2272E" name="skaug port inns-taverns.trx" dlsize="941512" size="953950" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
