@@ -122,7 +122,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D334B3F11141D730C1777E90F2ACEDBD5AED8B8D" downloadHash="77039CAA7D97553C36948DA7D116AB313CBF1C6A" name="snowdown r34 westphal city.trx" dlsize="2096043" size="13983862" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D831C003E91983DE141D98350B5E1032391A4EAF" downloadHash="DF0A8E820A8EB42671534180EFBFB5CA63C3AB11" name="snowdown r34 westphal city.trx" dlsize="2080035" size="13973034" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -427,7 +427,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DE1DEC28A432BF5B07222A1596433D3FE208098B" downloadHash="46CD4A9E78D5020B52CBD460E223468EECEB121D" name="generic merchant at sea - int.trx" dlsize="184314" size="188304" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="410C3D6863043D835AB038066A99AF000A39391C" downloadHash="F0E3FB08DFB16B1587AA7C48870793248A5B008E" name="generic merchant at sea - int.trx" dlsize="182837" size="186839" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1622,7 +1622,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="60060868F2E8FE360796E5B3A2639670BA78BFE6" downloadHash="206C6CF88EECDF057B41CB420080AA7AEC864686" name="snowdown r34 westphal int 1.trx" dlsize="322080" size="325322" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="AAA6CF626EED9C3D371D66F47B22C928308B0731" downloadHash="918BFC33AA8B74CACC183BACB11FC3EAE52D5583" name="snowdown r34 westphal int 1.trx" dlsize="400890" size="405555" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
