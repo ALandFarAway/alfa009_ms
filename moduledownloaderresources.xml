@@ -122,7 +122,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D831C003E91983DE141D98350B5E1032391A4EAF" downloadHash="DF0A8E820A8EB42671534180EFBFB5CA63C3AB11" name="snowdown r34 westphal city.trx" dlsize="2080035" size="13973034" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6652F74B427026EE11124044FF0EF187126EAC57" downloadHash="A1594EC8B60CC6C499F8BE2594995F389CC3B1C1" name="snowdown r34 westphal city.trx" dlsize="2059926" size="13953593" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2483,6 +2483,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="F9F22CF4063B70E33EB094742E54E78CD5B9484A" downloadHash="C2CED83E6B7C0AC724B3639B77B786458EA48CB0" name="alaron q22 c callidyrr inns.trx" dlsize="535489" size="1125604" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="B2CA284F6D1A98CCA3F8300DE6D6F70F6340A861" downloadHash="D73A34CCFF9B4C62AE6549E192A3FB1DFCF0D89F" name="snowdown r34 westphal lordshall.trx" dlsize="21985" size="22013" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
