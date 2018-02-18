@@ -707,7 +707,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4324235AA22142DB7794F2A00339C6D368491F83" downloadHash="3B7F7C4D5E99A6833790B17AD904AC002812696E" name="alaron q22 c callidyrr west.trx" dlsize="2906199" size="17348600" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="40A006DE2DFAF253E1E231B9015B55F5FA12561D" downloadHash="63B5C44094F42517BD95A1D75C22551735A3154B" name="alaron q22 c callidyrr west.trx" dlsize="2897324" size="17335951" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1102,7 +1102,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D43832399C33B5D5DF3970F190D1D51634E722A9" downloadHash="678E9E4FE64407104743E307A67EBBB826671A66" name="alaron q24 hkr ruins 1.trx" dlsize="519281" size="658746" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FC453F57B6E62B09ED1EDCF6992A057C3965F869" downloadHash="596D510F72726643BD25E6C667B2DA318B6DCF20" name="alaron q24 hkr ruins 1.trx" dlsize="509736" size="649079" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1302,7 +1302,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1FD6425AFBBE5C6D8BC46F0F9B9500102EA3D27B" downloadHash="DC54BC8C33144CA9EBEED7C603F896E7B30728F2" name="underdark area e.trx" dlsize="81946" size="83092" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A1746650A72F514F619B23188BD8CA728BEBA0B4" downloadHash="BE0F50A7C166DF352172C998ACE70BE97FB69949" name="underdark area e.trx" dlsize="83357" size="84503" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1442,7 +1442,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F051B652ABD361F44A6165A26C1F4A5AEDEC3B32" downloadHash="A54FD242CED956AEA9521E8EE909B779EB410488" name="alaron s23w rillifanes run.trx" dlsize="1745124" size="11415954" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FB3A2F2F4F6E07AFE87BBA88DEC5312694DB4D9B" downloadHash="4D4F801D4163F3CF37EDA2BC62A5C28614AE42C2" name="alaron s23w rillifanes run.trx" dlsize="1738916" size="11418856" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1622,7 +1622,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F94663B977C5AEBC35DF5A533B208D02DEE111C8" downloadHash="FB696897FEF21AA0B0F0964F953D8064A352E44F" name="snowdown r34 westphal int 1.trx" dlsize="415688" size="462970" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D9FC60C89BD09E4B6FE3B38891294708AEA6741F" downloadHash="C1BFEC297C7FA8645F46E9910F75EA66695A6FC9" name="snowdown r34 westphal int 1.trx" dlsize="408883" size="456462" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1977,17 +1977,17 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9F29EC3B4E1D1F2779F60A9B99905269321C5BA3" downloadHash="F8026F35ED7630734A35BEBF17CFBF0A665EDE93" name="skullport burning troll.trx" dlsize="169266" size="393559" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E90FEF62C778E55FE39DEF0DF03306C8996770EC" downloadHash="4560631265C32A15B4DA8B8B68CCDE3D474D9FCA" name="skullport burning troll.trx" dlsize="168467" size="347574" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="62D8A30645C7ABC82AFBD5572E9DA1850D297340" downloadHash="4704ABF4C8C6DDDF65EBC19F370D0F7455469AD9" name="skullport hall of the voice.trx" dlsize="62775" size="105833" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3CDCE79D7E4AEA224996F55341F0AFFAFEA1891A" downloadHash="C09C1978FF5B8F1C39590351C3C80EC9997307F3" name="skullport hall of the voice.trx" dlsize="62841" size="106087" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5288710CC217CDE242ABF6718C92A2BE118E45EB" downloadHash="1D51BB15B173432711C8E3C45F9F335FF76DE740" name="skullport the trolls guffaw1.trx" dlsize="21218" size="21241" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4B58162971CAD880319172A9078F8EF20935F50C" downloadHash="895A213244446B52A8E522023142F0A8EBB0F461" name="skullport the trolls guffaw1.trx" dlsize="28631" size="28573" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2147,17 +2147,17 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="00A13E27971CDAD02C1D4149E4E44B2224DECD2F" downloadHash="7CCCFC9C9F9386F608A7DFD83F2ED7C87EF15F31" name="skullport lower shops.trx" dlsize="678816" size="684807" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="72B70BBF4B6FD160BF0E5E149E769DFB0A42DB68" downloadHash="7556BD1D43DCADD6CE0246926B6C67043A25B991" name="skullport lower shops.trx" dlsize="677818" size="683311" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F2F04D13769348506AFFBC1A59EFDD51B2F45C26" downloadHash="C2F4B6FD7404C53D59B52AA832D6064DE53BE6C9" name="skullport lower east.trx" dlsize="2927154" size="12447669" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="26531BAC925F1D7DFF9AB3D95B391C664ED5ED1C" downloadHash="FBDAE5F1BC5A4AF212D67F7012D6CC6F54D9AE32" name="skullport lower east.trx" dlsize="2843718" size="12364869" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="EE7F68CED6150834C9DA1DCCF8473E2F84F4429A" downloadHash="A3343E83DE5623ADE3B081E13A8EDA46F2479DAB" name="skullport lower west.trx" dlsize="2304752" size="10979428" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7AA0B346F605DBD976BF9708F4910A2C58BB6BD8" downloadHash="23CCEAB860FFD42AB55990734FC4C689F8BB63C8" name="skullport lower west.trx" dlsize="2305755" size="10979471" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2177,12 +2177,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F6D308EDB2F7ED89716958CF5FDE1C7EC08720A5" downloadHash="85AEDC1B67E1E3811A65627F1A828CD5F5ED40A8" name="Skullport Skull Isle int.trx" dlsize="93452" size="93590" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="EEF54A2FA8A7EE43735E693C4C05621A9A6C43E9" downloadHash="8E11059F5E58FAB944044218330E8571E70CBF3D" name="Skullport Skull Isle int.trx" dlsize="94124" size="94296" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="99EB5B4811D57FA703E3129E3114502F91FECA77" downloadHash="9441394632823C054ABF387BFFE500BB5D87C216" name="skullport lw- drow lair.trx" dlsize="561736" size="793981" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4C143022941365125DC9740FAD0ABD4B416AF781" downloadHash="0FDF6D586661971FA932D9FC09B301185A9B2809" name="skullport lw- drow lair.trx" dlsize="553599" size="786055" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2482,7 +2482,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F9F22CF4063B70E33EB094742E54E78CD5B9484A" downloadHash="C2CED83E6B7C0AC724B3639B77B786458EA48CB0" name="alaron q22 c callidyrr inns.trx" dlsize="535489" size="1125604" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D21492CA70DB5D4C43BE14A7369603631AE9B58B" downloadHash="86B50E6382506E6CC97361FDDA2F58FA681A288D" name="alaron q22 c callidyrr inns.trx" dlsize="533459" size="1123452" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
