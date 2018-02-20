@@ -1547,7 +1547,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BF9910FABA058CC1068C8CCC4099A2E52AC0C573" downloadHash="B53BDDC17B7331B07E1BF7ECE6E227AFA7BBD726" name="nelanther drachenshore  cave.trx" dlsize="1092021" size="1109529" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="65F9A89F6F7CB8A54947AC97F0D91F699C255409" downloadHash="CF2CDC2DC38DA9E430A1A02920D473B1BF2AE05A" name="nelanther drachenshore  cave.trx" dlsize="1091790" size="1109840" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2252,7 +2252,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A6BA2C271CE5BD438721F55A5587A39E7BC94A8C" downloadHash="687BFFF8ED70A18859CB196A5FB5A150EA8F603C" name="nelanther drachenshore misc int.trx" dlsize="372232" size="375261" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="28BBCBB842F536302CF77FB4D7962A998619DE97" downloadHash="94752B6D900E20CED53E3B91871F506416B00496" name="nelanther drachenshore misc int.trx" dlsize="366119" size="368894" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2488,6 +2488,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="B2CA284F6D1A98CCA3F8300DE6D6F70F6340A861" downloadHash="D73A34CCFF9B4C62AE6549E192A3FB1DFCF0D89F" name="snowdown r34 westphal lordshall.trx" dlsize="21985" size="22013" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="B0C6D581333361E002E0B1294530886BE59EEF02" downloadHash="88CB95F579B88346B7FD1723D7D12484FDF12AB0" name="_travel_waterdeep transit ship.trx" dlsize="479246" size="7851976" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
