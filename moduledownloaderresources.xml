@@ -1302,7 +1302,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="EF1608374C6BFFCA899B2BDE7045FD43C74FCF3B" downloadHash="08D6F87CD935046028BCEA78E90F337BE9B1CB65" name="underdark area e.trx" dlsize="171543" size="173485" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A33F60B80CDAF611FFA036FCC952CA5E12E3EDA9" downloadHash="842AFCE760D19CA3666AAA412047636C0142711A" name="underdark area e.trx" dlsize="170764" size="172572" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
