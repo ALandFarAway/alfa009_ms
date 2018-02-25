@@ -25,3 +25,8 @@ ACR_TriggerOnEnter();
     oTarget = GetWaypointByTag("WP_UD_e_secretcave_enter");
     oSpawn = CreateObject(OBJECT_TYPE_DOOR, "secret_ud_e_cave_enter", GetLocation(oTarget));
 }
+
+
+
+
+
