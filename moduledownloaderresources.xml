@@ -1302,7 +1302,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A33F60B80CDAF611FFA036FCC952CA5E12E3EDA9" downloadHash="842AFCE760D19CA3666AAA412047636C0142711A" name="underdark area e.trx" dlsize="170764" size="172572" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8539F2EDAEEE21E815899E816827691D9C7C2969" downloadHash="7A1958AB0699366AFA1B6FBA7D7B7FED012CC897" name="underdark area e.trx" dlsize="170765" size="172572" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1547,7 +1547,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="671ACD614B619037EFAA41B16EB581FDF72F1440" downloadHash="CE59AE0211558B0857260AAC7089DEE012002925" name="nelanther drachenshore  cave.trx" dlsize="1128566" size="1144965" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FE831B5719BC105D9147EACC886D913660BEAC63" downloadHash="574BFDE4ACC3F7B51EBDB82191B123ACAE3AB972" name="nelanther drachenshore  cave.trx" dlsize="1110915" size="1127190" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1977,7 +1977,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="205007E0B484566EFCA74849ADFD56D73622A6C9" downloadHash="92C8F127BE796194330721663C7D86D943E287C6" name="skullport burning troll.trx" dlsize="169192" size="347109" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BB0AA23DC1B9F33FAD8770EEF0F129B85C95247A" downloadHash="6322BAF29A8A864E93C8344326547D6EBCC8A332" name="skullport burning troll.trx" dlsize="175245" size="354101" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2182,7 +2182,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4C143022941365125DC9740FAD0ABD4B416AF781" downloadHash="0FDF6D586661971FA932D9FC09B301185A9B2809" name="skullport lw- drow lair.trx" dlsize="553599" size="786055" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F992AC9FC07BA1D60CB6BD7093677842DA02E64D" downloadHash="5ED399FB700FA7743A2B4C8E9C88621911A0C111" name="skullport lw- drow lair.trx" dlsize="558580" size="791282" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2267,7 +2267,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9F28B12A45B74992A3A0BEA4B534EA3887071652" downloadHash="57CB8DC59CCADAEE67CDAC2BC6C5EA257003AAC0" name="nelanther drachenshore tav_inns.trx" dlsize="778985" size="785693" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="44566795622D55F04C2E3C6E4A379FB48E78F6A2" downloadHash="4D85CB047D7948C86FE13C1EB0D06FF2C2B2486A" name="nelanther drachenshore tav_inns.trx" dlsize="769531" size="775821" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2493,6 +2493,16 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="B0C6D581333361E002E0B1294530886BE59EEF02" downloadHash="88CB95F579B88346B7FD1723D7D12484FDF12AB0" name="_travel_waterdeep transit ship.trx" dlsize="479246" size="7851976" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="7E166E0D4E88DEA3D1D836A43025D47F72037F11" downloadHash="4FFE9C3585FA0179191B021D4C41F3B91A8F5758" name="skullport lower west docks.trx" dlsize="2791752" size="12330785" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="6FAB03A9152F4D81611158D3D789BEEBA3292BC7" downloadHash="6F4FBB38992B54564CF5E206107AF298FF3AC3CA" name="skullport lower east trade_heart.trx" dlsize="2533193" size="12539651" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
