@@ -77,32 +77,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5217935B911CAEFCE65E767E6CFAFAA8E7790712" downloadHash="22B8EB0F88D96E636B70DECDBD16F833796F4C87" name="skaug e4.trx" dlsize="1725583" size="11641408" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="E2C6594F9BFD6D117107B09EB91FEC68A4FD5A92" downloadHash="9E6A13BAA8FF4356CC67AA81BD9A5CBAD433BB41" name="generic merchant at sea.trx" dlsize="492057" size="7857113" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="D1B012D92AA9EFA637A0A527339B5E3DB1056FDF" downloadHash="35F03B72E74BF60C49B8DEACE6AC4B9FC5E2AD4B" name="moray isle f28 town interiors.trx" dlsize="85563" size="86375" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="B1FEE75075460CE2319B7AFF0B445C4074A7BA66" downloadHash="DD06D88E36A65D33B5F76A26FC24066761DD9F3E" name="alaron p21 farheight ruin1.trx" dlsize="609510" size="842082" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="4EAAB53053464FE6F3D3BD654BE20BCE854E42C9" downloadHash="E56D30D5AE06570F3693CBA8839F86DFD58E6F7F" name="norheim il. dragon caves level 2.trx" dlsize="1421691" size="10029576" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="C341CF222F707479F566F6830CF465F313F92690" downloadHash="B70DF4FBD916D3246989D048AC0D5EB82880E6C7" name="generic hillside with mine.trx" dlsize="1793805" size="10473201" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -117,17 +97,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3EFA8BF0823A06ABC05D165A15981EBA502C3421" downloadHash="6EAECD4C87612602ABB530DE4B2C7DAF9C0DFC68" name="generic cnnt cave_area3.trx" dlsize="814329" size="835848" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="6652F74B427026EE11124044FF0EF187126EAC57" downloadHash="A1594EC8B60CC6C499F8BE2594995F389CC3B1C1" name="snowdown r34 westphal city.trx" dlsize="2059926" size="13953593" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="AF8F65DA66DD937FC5915BD5150F81518EEF980F" downloadHash="8F87B3E2E2629987E52513016777409AA7B3EDA3" name="generic shop.trx" dlsize="25883" size="25871" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -148,16 +118,6 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="B0CAFCB33967F05B2E29631D7BF4C6682B079D80" downloadHash="5E6DD7AC7BAC467094568AB7FB010177B4385E09" name="gwynneth o33 kings road.trx" dlsize="1842677" size="10518769" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="DFB8303BB36CA2D07DCDDB9E0721F88757F27642" downloadHash="1379FE0FFD4C76D571789C8277523D6DD87001E2" name="gwynneth n33 synnoria.trx" dlsize="5788664" size="30350634" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="581B4DFC8498EE98E0DE969E1CAACCF3643A9E3D" downloadHash="BE57AC82D2F553C7B978AA992F46CB0A7ECC0CDE" name="travel transports ships at sea.trx" dlsize="1295121" size="14751850" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -197,22 +157,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E2768838B1ED25A1C740D243A08EFF6EAD8E419E" downloadHash="3F59A32C2823B3B8860E051FC5924E551E250FDD" name="generic labrynth.trx" dlsize="3507953" size="18254442" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="2DF806A452950D858080FD4E676A0D7AA084ED25" downloadHash="A475357A226F0E9CF2A4E4649A92962B6C1AF117" name="alaron q23 high kings road.trx" dlsize="1983981" size="11758090" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="950340CDDCD5C048DC56530E16201ED04D4AD3B3" downloadHash="12639700805392082E66DE946D7A1CA28BB962D3" name="ruathym c5 haven interiors.trx" dlsize="599099" size="743553" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="4DA45DBF6FC070D545846E287F48F8EE29AE830B" downloadHash="CB070D2F3DAB70693A503695D281914E8060D6B8" name="Festival Grounds.trx" dlsize="2765489" size="14750767" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -232,27 +182,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="73A4391585733C9D834009A30B24817FB3AC27FE" downloadHash="4CF5BA339D676AB5B00A56A40BB89F824D3C0555" name="ruathym temple of umberlee.trx" dlsize="256513" size="2476956" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="98BCFA0FAAC98EC1662F43A388847E671C9D67C2" downloadHash="17D2EB4454AB342629979559C26AFA43618EB476" name="gwynneth m34nw corwell thief gld.trx" dlsize="239075" size="417818" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="66B43403984E99D7A2F2EF654AE5ACB637730715" downloadHash="7E69C649635AB9D9823E42908514E68B685A5CE3" name="secs_area_001.trx" dlsize="528573" size="545679" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="4674CC4E4FCBD65B90E1C6607C915E2332FEEBC5" downloadHash="8E53415BFDBF3C22BDE8783E89E817EB78F0F75F" name="ruathym a2 ext.trx" dlsize="539011" size="11268549" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="969569566256E0569D183E939709B49FE6164F07" downloadHash="D7BF1C45DF62D5261F41AD4E685A2E503C83E649" name="gwynneth lowhill vill.trx" dlsize="3762542" size="19359482" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -272,22 +207,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4D6873480242429AC1493A005DD701A0D913676A" downloadHash="EDAF118C2CCD83F61A543E724D4FD6510D0E58EE" name="alaron o24 aithelar tomb level_2.trx" dlsize="156240" size="157928" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="7C30C4EB2D16ED733DFFD3C33079D84EA0AB30AD" downloadHash="75D04D258CF1E5FD988C5EFB744ADA4982E6FAC9" name="travel template_ferry.trx" dlsize="150469" size="6486624" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="9D51C8E3D05D83FDAC5696F6659CD6733161D6A6" downloadHash="ED8553164460527890ADA229210E35EFEF491AC8" name="gwynneth l29 deep mines.trx" dlsize="769209" size="953884" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="D8794E55EA3259C622CDEA9C565B2464751B86A1" downloadHash="2732613B0E786B3108CF0D03F08BF2CA4B90A69C" name="underdark drow outpost.trx" dlsize="2425226" size="18905481" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -367,11 +287,6 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C6C474F0ADD7401A218CA2530046812B8798E9E8" downloadHash="7D45146690236B6E779CB645C89F702C279FD3B0" name="alaron q22 callidyrr int 2.trx" dlsize="496044" size="947739" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="639F9CE9A32A2530D40AE7F602720019D0A6BDE0" downloadHash="214F2590C3EDB36BC5DC7F21EAE2449A7AC36C33" name="alaron s24e torriage coast.trx" dlsize="4145082" size="20413365" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -392,16 +307,6 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4D98997F6AE052457EAFCE704DF00D7E039FFC4E" downloadHash="E17200466F5B48339102E0B55C8729A983610EF5" name="thayan estate int 1.trx" dlsize="384260" size="389079" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="1D4803564390E1C1D59FAEB05AABB5BD6274DB70" downloadHash="6D8AFD9678F9BCECDED6C368AA5070D545E07148" name="skaug b4.trx" dlsize="1622119" size="10016782" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="929D6BAB4C62ED71B1F73DC4715CD614DEF86AF9" downloadHash="FB83EACDD85C384E3A285B0D29EDA708810D132B" name="gwynneth k29 high home upperlvl2.trx" dlsize="255373" size="351678" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -413,11 +318,6 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="AD8A9BDDDA1D0C3667850602BD364E118DD5257C" downloadHash="2902A9E81DA834A8227AC32EFD507B691D2CF17D" name="cave complex 1.trx" dlsize="769015" size="782032" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="FD32ED8FDF6A4FD9AB8FA3906422EA632BD8F527" downloadHash="0413E217B5BD5A645E8D7948141D456244E1FC50" name="generic mountain pass.trx" dlsize="10123218" size="33750776" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -462,11 +362,6 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5C021DCEA5BD2D83320B9E40C9A3D0E027256845" downloadHash="DAE180EB020EA2A10DC0D056D8CB4D297A9F89B8" name="skaug inns &amp; taverns.trx" dlsize="1047396" size="1059936" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="98B44E43A5E9BB16DBDB22425FF3AF84C174FE6C" downloadHash="91FE689983B80B1A470BCEB9BC5BDFFA1B61E4A4" name="gwynneth m34ne koart vill.trx" dlsize="3829419" size="20022145" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -502,17 +397,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="11804D8DC0127C31BF67DEF7E6EA6FA0591C7E04" downloadHash="0957057603DEA2DF46D1E01E2B5E913050C4EC79" name="skaug b3  to skaug port.trx" dlsize="1847031" size="10179750" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="6E403896D8241B0C2336BF4A5C4122E3B0334572" downloadHash="4601046FA1C8714F42647717F1FEBEC9AB87227D" name="fey barrow n29 village.trx" dlsize="127109" size="262017" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="71C2E9E7C4A1157268C7D42A188BF53DA6A2C84C" downloadHash="073105C2C3F81FB6CE8779E2A16C06DBFFF17321" name="skaug c4.trx" dlsize="1530009" size="10036586" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -528,11 +413,6 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="D202D1791F5FA3CBABE4647CBB750511F20140EC" downloadHash="57F323423002C48CBCCE48DBE061B695AAC7D1B3" name="dwyvach g j34 salt flats.trx" dlsize="3596651" size="18287489" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="30397F17CADB2D5DBC4CFE5BFEAE37BEBA7CCF93" downloadHash="59862E53F4683F48E9C46BEF8CD62A95399F1C65" name="volcano.trx" dlsize="1600552" size="14088395" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -592,27 +472,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="00EF3D30E9D0AE133F58DCEA6CC053C3D4B0CB68" downloadHash="DF4F6A66824307C79051CE276E2A602BE95F6C63" name="skaug undersea cave.trx" dlsize="485784" size="7983342" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="F4E140302C88080BA468E8CAAAF7BB9C81E94C44" downloadHash="5AEFECB882C029DBFDDC665E1EE23C74C2820B31" name="gwynneth n34 llyrath cave.trx" dlsize="170466" size="172508" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="7C0DEEE1B6BACE8253D79E4BD01F1C941C370B41" downloadHash="F5F26287C976BFBB12F38AED0FEB43268AAD58DD" name="norheim j15 inn.trx" dlsize="67481" size="67822" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="1829FEDBC4A326234AD7B8DC610CD48EEEC4DFC7" downloadHash="B320CCE389DD2DEA458B927148844AEF345DA34F" name="skaug on board .trx" dlsize="185065" size="186905" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="A0239CCE60713D7588EC016C92B567B8D18ED704" downloadHash="F023FC987095BFBFBFABCA7F49403D1EBC534DB0" name="skaug jail.trx" dlsize="167915" size="169954" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -628,16 +493,6 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="308C4ABC4E677D15E70993B7E17AA84F45B1A1AC" downloadHash="76E06B64857D111FC2D291BEC8A0A2695740CC49" name="gwynneth o32 myrrdale ext.trx" dlsize="4842539" size="17155869" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="04F00446F4CD405E73F085B073F51E606E736F1D" downloadHash="6BDCC84597AD7F3503ADA36A3FB1916575B3EA19" name="alaron q22 callidyrr pot n paper.trx" dlsize="139239" size="227518" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="6EBAB6B7BC6D7C6F8E02F00811922052316B0899" downloadHash="AFF5F939F1B48034293036C932ED9659B198343B" name="gwynneth n33 ck_waterfallcave.trx" dlsize="212520" size="440085" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -668,11 +523,6 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="9733719B592C1DDD8091DE096EC9D3DC2CEEAA3C" downloadHash="7626F593A41E2CA97C77BA55C92A3970AA6ED11B" name="gwynneth p35 horstall liths int.trx" dlsize="494697" size="503161" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="2591781D1A2A90D2239CC172845FC7ED612E4F5F" downloadHash="94CC3C55A23DBB4C7D7B07C392E8EFA91D2C6FDA" name="skaug docked ship.trx" dlsize="144466" size="145360" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -747,11 +597,6 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E7FE263F674526C1B27970BC06D445B567216EBB" downloadHash="FF1B2F97AC160A7FA1150EDCD98CF22C5A438177" name="skaug d4.trx" dlsize="1827296" size="10526157" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="91C4507B0FC8B182CA621D8FB8CD208FE44071EF" downloadHash="16CDB2AADA9C0CE0FE1F9E70E8780A8202B5B4E0" name="snowdown r34 westphal int 2.trx" dlsize="294256" size="969910" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -783,11 +628,6 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="0FDEDAB9C45152045935E2BA7D0E5EE6B9D0BD84" downloadHash="C2E849385454451B182D5038DBA9F465B916D2A0" name="gwynneth o33 macsheehan ruins.trx" dlsize="3112866" size="16241289" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="05290A09F1C1BC75CEDFD1DB54CDECE437871F84" downloadHash="B9233CBC6FB424AED45198314978A29323AE62B1" name="generic farmland.trx" dlsize="1779104" size="10815713" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -827,11 +667,6 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="78012806EECA25B96DBD6D7F2BA6277B7E92137E" downloadHash="34F44B01DA7E4931FB84738D6D9303FD5A00EACC" name="gwynneth l29 strange ruins 2.trx" dlsize="340288" size="343495" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="CF7A933D81FDF84DC59A6D06EE4CD073EC279D16" downloadHash="C2A25911A5D05360985560446BFE6DDBFA52A8B6" name="norheim i16 hammerstaad town int.trx" dlsize="211315" size="212491" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -857,11 +692,6 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F019A9601F2E06E59E658CADCA2C0D013A85D297" downloadHash="EC4AF173BC52630446692F8C5728E7B06DF8799C" name="generic ruined inn.trx" dlsize="29929" size="30018" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="B11EDC12C8DCDDF4B14F9F6497F7FC3E69D33DCB" downloadHash="2190534ABE0EB83ED8FB6CEAFDE737E989ECF9F6" name="wd 4g dock ward int shops.trx" dlsize="130226" size="133069" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -878,11 +708,6 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="0AE8C7AD8833DF7A379B07986F991B488E032B8E" downloadHash="D70C713438148DEBEFB48993EBCA50D3E1D64F40" name="underdark karsoluthiyl baths.trx" dlsize="174857" size="714154" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="990A668E9C6E4D93789257DB48C091B2000BEAF4" downloadHash="C6D20DFD705429EDD32413D2B72AA1A79AF8EB2C" name="alaron q22_callidyrr temples int.trx" dlsize="382326" size="1105238" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -917,11 +742,6 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5E7A4A69B10F68C599509CB2CDEBF9F84B31A964" downloadHash="4C3E61A68139BF619611117F49BC0A9CEBB37334" name="volcanic interior.trx" dlsize="145902" size="147269" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="0FADEFDC8CF193701D269018438CE83B99111AE6" downloadHash="6CCB5A8A2A716AE886E25F20B505662BB052D36E" name="gwynneth m34nw corwell interiors.trx" dlsize="674110" size="682086" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -937,42 +757,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="AA610C393221E2E0E551A673E8D23A909F3BAEDC" downloadHash="654C9AA1D19A4BF6BB008FBC75C99692EE2362C9" name="snowdown r34 salty air tavern.trx" dlsize="158008" size="158748" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="38EFF4D43A5D0589C7D2CDECDD16244C63CC6004" downloadHash="97CFDEB3505984F6A7EE922B2501173485B588CD" name="alaron q25 high kings road.trx" dlsize="2253745" size="13107529" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="912EFBB188BC9236F61FB1C2D80872634500F149" downloadHash="66E39CA6DAD1D8FEE28E270B89E7B085BDA06199" name="gwynneth o33 llyrath forest s.trx" dlsize="2677723" size="15093858" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="4893E151A7EFE318F516E01CAFD404F7B0259943" downloadHash="E22BDE63110CDA601B771F472265164CFFC60A48" name="evermeet.trx" dlsize="6291106" size="35542273" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="41B7D5F6657F8D4BFC28EFAAB7CD45496D75EB98" downloadHash="C90CA7233C7798C58544413FB5D75253AA81C327" name="gwynneth l29 strange ruins 1.trx" dlsize="146571" size="1004353" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="F7F24EADF4D2B57412E36BFD714695659CD8849A" downloadHash="32C0E3D17F49014BC6FF797D8DA085937CAA09AB" name="gwynneth lowhill interiors.trx" dlsize="436017" size="575428" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="F575C627DBCF00F34B429304A83B1BC7789CD9A4" downloadHash="1BEB745AB1ED40C93F8545238BD563D63BED21A7" name="wd 2l castle ward.trx" dlsize="1774550" size="12712482" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="E86AA0DCD432FD12DBDB856BF38662F10BC0F3AB" downloadHash="7C6910FEC8F9D5CC25D4DC976443D53D5366794F" name="generic brothel or shady inns.trx" dlsize="74112" size="75426" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -993,11 +783,6 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="3BCE7B619D433F260BFABEDE237E983943A1B657" downloadHash="99F50B8BAEC9E5CDC17F6641FBB06709CAAE6E5E" name="gwynneth l30 myrloch sheepool.trx" dlsize="4921695" size="30491425" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="A54B7C511694E7E2CAA332020FEEE6C1FF161CC2" downloadHash="B9826BA69E9C7FBA61D4B2FE3322EB9C259326B4" name="moray isle f29 lac dyngall.trx" dlsize="3322423" size="19015954" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1082,17 +867,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A29F7C46DA7F069B4B55B4DC37F5C0443D0E53BA" downloadHash="B456CB295ECB2CDF12BFA243DEC36BDC2389095E" name="skaug blood drake at sea.trx" dlsize="388101" size="7906771" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="99FC34C3DA65CAF18C7F02FED4A998650452F75E" downloadHash="7D9A9717050F7CC81E18543ED6B3DD4AF1FA5167" name="skaug c4 forgotten temple.trx" dlsize="1530372" size="10035665" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="F9F22CF4063B70E33EB094742E54E78CD5B9484A" downloadHash="C2CED83E6B7C0AC724B3639B77B786458EA48CB0" name="alaron q22 callidyrr inns.trx" dlsize="535489" size="1125604" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1103,11 +878,6 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="FC453F57B6E62B09ED1EDCF6992A057C3965F869" downloadHash="596D510F72726643BD25E6C667B2DA318B6DCF20" name="alaron q24 hkr ruins 1.trx" dlsize="509736" size="649079" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="AECE14D6A55BF739E1958C64385F979E7727CA0A" downloadHash="40BADAD37241D160F50B911FF5C3DC6AA60CB09D" name="skaug d5.trx" dlsize="1561511" size="10975526" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1162,11 +932,6 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="848B99D2B805E70241ECECE9F1BD7007422169BC" downloadHash="25EC49BAAFDF75FE50B4F1C5BC950EA4B1A7B6DA" name="travel gnome airship in flight.trx" dlsize="228867" size="7839848" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="988501C0090F9ECD4C86EBAC70A9DCB1BBAE7C11" downloadHash="D7E173FE7BC4CDDC13EEBD5B25DAB34DEE39AE1B" name="underdark area b west.trx" dlsize="141067" size="142915" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -1207,22 +972,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A0AF3DED5B67C41B14286B7D62E96185E093CDFC" downloadHash="3B8EFD25FCE29DC90DCD3C08FF1B71651D664F5E" name="alaron r30 kythyss.trx" dlsize="580162" size="9672688" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="251DC1ACFBDB6C329B84EB3D5E36BDF89B03BB17" downloadHash="ED6C7E447B2B9A2C97118F5AF2C8D922CB8BF89B" name="009 testing grounds.trx" dlsize="326782" size="8510856" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="F13DCE200E57CF8162F6E47C436950F429CA39B8" downloadHash="4C2E7667B2537C449351AE84B2D46CD87F56B072" name="gwynneth o33 macsheehan  int.trx" dlsize="610098" size="4052412" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="3B00C490178DBE45A81688D7A7CD9FBD6E0178A6" downloadHash="1567DF52BD85B78DDD7EA350E67BE4F2E85BEED3" name="generic pirate base.trx" dlsize="170844" size="172678" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1267,27 +1017,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="34C8571578C85A73B43190975AAB21FABC10A744" downloadHash="C86D5EB36B1AC705ABBA0494B8A9D2E717CF9D06" name="skaug b5.trx" dlsize="2481127" size="12891047" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="F5FAF0B933B3B5CDEAC5DEB01EC317FB594B3844" downloadHash="B3EFDFEB72C2B662F3A095FF571E11C9B4751023" name="alaron q20 farheight mountains.trx" dlsize="2345335" size="13718724" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="F229982E05922C81D9C2ABB59A07DF3458F7FD37" downloadHash="E438BA15EDFD290E280720345B8DD73D47B2011B" name="skaug c5.trx" dlsize="1510541" size="10613316" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="A332865C66C4F6C0E6ABAB67F4E1A33B67AA9CB1" downloadHash="FEBD78450EC139E208DABAAB1E777AA1B49F07D5" name="skaug trap store.trx" dlsize="241424" size="242813" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="934AFEAD049BA7BA1D61B73DE2A258188A5AD72B" downloadHash="9377D1169E27C4AF9B8715C7919BBC39A12A186D" name="alaron q22 callidyrr housing.trx" dlsize="539040" size="1129318" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1312,37 +1042,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2F46F0F736B5464B2F4DF9C04D30219F17251FA1" downloadHash="1911F9E38EC050FA877D705A0CA7CAB627536BF9" name="generic cnnt cave_area2.trx" dlsize="1243742" size="1325290" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="49EA6A04EAB6E6535DE8FFD9C3256B03298BC97F" downloadHash="3D545597F233B4567D3701A1E9D204F11AE47FD5" name="gwynneth j34 firth isles.trx" dlsize="1717777" size="16315556" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="0FB522B6C73BABAEBAD178F4ECE4CE81A7B7B2D7" downloadHash="32296FF20387AFDFEC3D1EDB34264735BF4A0FD0" name="gwynneth p33 kingsbay town ext.trx" dlsize="4610947" size="23556988" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="B0C6D581333361E002E0B1294530886BE59EEF02" downloadHash="88CB95F579B88346B7FD1723D7D12484FDF12AB0" name="waterdeep transit ship.trx" dlsize="479246" size="7851976" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="8D137E72CB31AD5B179D45E86E4FF64299CA2EC4" downloadHash="9AB6696FF5EB6880F71155E91841CC6A0166DC8A" name="generic cnnt cave_area4.trx" dlsize="1364743" size="1409821" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="60BA73FA2098192B81AC8A58AC92916F475DE200" downloadHash="12D23410E2864E79E1ABB03872467142BADE99CC" name="gwynneth m34nw trappers inn.trx" dlsize="152040" size="285266" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="2CCDBC8A6A517B6C3234177E4C53DEDD49874EEE" downloadHash="A8F36D3052842E9F84FECFF089B9AF3412693B0B" name="generic cnnt cave_area1.trx" dlsize="1507220" size="1547426" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1357,27 +1062,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DAAED4940A6D35E15835A51B5368CB721AEB2BB5" downloadHash="ADB40D9F2AC46B8BDBC859E3591298DF9F130F2A" name="generic forested hillside.trx" dlsize="3006754" size="15583418" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="D17BD630465A0F47AB7A3D5080764A7EE510FF88" downloadHash="4F1A01F1F808556B07D6AD03CCF304BBCDC1B8D4" name="gwynneth p33 kingsbay interiors.trx" dlsize="278184" size="322817" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="F4D0EB49C95B73341060C23DAFC80FD9210C64C8" downloadHash="6A059CB0D07E12A47B9889B04448CA0057382C34" name="alaron q21 whiterock flood mine.trx" dlsize="834903" size="11835175" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="3C2EA870D215BFA5FD2DCC61DC6A5926349126D0" downloadHash="40A4E4C8AC1EC091072B892CC1FC8D75A8F0C31F" name="alaron q22s high kings road.trx" dlsize="2047469" size="11732722" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="9ADED002C8C6310D1B75DAA6B01342A2FDD312D8" downloadHash="C18BCF65A0ECA1ECE49CA1B3A763DBD9CD57F724" name="alaron callidyrr twisted sail.trx" dlsize="135720" size="136427" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1412,22 +1102,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E89F0E48776CEA3E85567E71F368FFDF947EF187" downloadHash="321046AC1F0B9BEF491E9BDBBA3A54A1002BF79D" name="norheim il. dragon caves level 4.trx" dlsize="256322" size="1891797" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="299017116F426D78A34B4AFBCDCA40BBDC6BE07C" downloadHash="F03F9E3E36ACDB82A5CB278A2EB1FBB3CC4C13EE" name="009 dm prep area.trx" dlsize="287413" size="295440" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="A34B7CBB86C2361BF39FB72C2F1D53E78199389F" downloadHash="CC24EF8EB1115EDC4B034723185140F23E52F41C" name="alaron p21 farheight mountains.trx" dlsize="6230148" size="25794647" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="6602DFA58559963FDE5E15DBE103BE7DE04587C0" downloadHash="F1520450C7AC50831375C342F1A56124B4D06892" name="alaron q22 inns n taverns 2.trx" dlsize="311947" size="357121" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1448,11 +1123,6 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="5300F60C9C543E45DEF5E4F2D71340ECCEA6EF98" downloadHash="B31077F1A71C11AEACDC801FCDCC2CC20A5D2152" name="alaron q22w farheight road int1.trx" dlsize="319826" size="501587" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="BDBC8119E0F7CD0A086CADC0827F31232B913FDD" downloadHash="8ABB6BB39D99FF6F5EBE1E6E4A577BB8CDF247B3" name="cave complex 3.trx" dlsize="348571" size="353423" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1487,27 +1157,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6904436AC7EE5CF7F2E54E44DF76883ADB6D9C1D" downloadHash="3946411F7F6146C6C9360649F20C84253E127054" name="alaron r26 stirgewick ruins1-1.trx" dlsize="135687" size="404855" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="3F410DB0B3C7D1F3BD87CD675B8FA3AAC51A00DE" downloadHash="D059FB66B87DBFFB2135CC37725BDE0395BFD992" name="alaron p24 dernal forest depths.trx" dlsize="6021549" size="25742765" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="40CCFF64605C701702B2B1BB67F60871ADDBF2A1" downloadHash="6411A204F42A9325B6291E75DDAB9643647A9AF1" name="alaron q22 c callidyrr high dist.trx" dlsize="3061212" size="15794968" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="C6ACF128F623B78BF0D8ED299F165FB26AD51ED2" downloadHash="F951AC064B46CD19F3E9BCBD3F15DDA872D94031" name="009_ sloops in battle.trx" dlsize="390035" size="7940163" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="08AFC8BDB5DDA9DEE11313B59A4E9B0DE5DC9B4B" downloadHash="9CF9E4CD71B84DBB889CAC6D0F0D4B5935F301A5" name="alaron q22 callidyrr interiors.trx" dlsize="600455" size="693156" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1523,11 +1178,6 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="0E9D949274808C1C7466EF0AF4C83C22AE614B3E" downloadHash="8895ABE724FF3DFE89F656879A94BE309C992D5C" name="wd 4g taverns_inns int.trx" dlsize="377002" size="424073" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="A2E9FF8276635630A887E6E35571C518085967F3" downloadHash="A7538A525814DBF349640E79C89ABD3317BD4599" name="skaug d3.trx" dlsize="1431250" size="10355117" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1552,22 +1202,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0D850B4F7587E6D8BF7E58A3CA87260DD0E4ECCB" downloadHash="120F6B47060C897DFA8F8FFC5CFBA41F694D2876" name="snowdown r34 hazels wares.trx" dlsize="22086" size="22079" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="2F059046EF3ADC9566D909436EAE7E577D4A27D9" downloadHash="9A84895207152F3CCA58278FC1C842D8CDF46D4D" name="alaron p21 farheight canyon int.trx" dlsize="500001" size="596405" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="B25C844130C2D1EC73B85B611D8DC02D3930B05F" downloadHash="F88BC7D484F21233FFB2B61EB07076EF815AEBC3" name="dwyvach g i36 salt flats.trx" dlsize="2966600" size="15967844" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="B09CDFAA3F091436DC0E6FB420DBA0829EA7CC37" downloadHash="FFCF632DA244D4A8D0225C8F8CB00001BFEBEBC2" name="skaug captain covaanar quarters.trx" dlsize="120067" size="120577" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1582,37 +1222,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="48BE260523ADA8CC545BA88C6817BFC98F83A868" downloadHash="1C3C913A205D504C2060ACC119EA5BAE95CA1B43" name="skaug maliceprow manor 1st floor.trx" dlsize="315250" size="317597" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="82D53CBDFA2AD21787FCEFBECC4CB9241AD66720" downloadHash="E8E699F973864FA1D9BA373DC6224D826C3698BB" name="alaron q27grady village.trx" dlsize="899158" size="6770334" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6901831CF64A9AD90F65CA00B20D098C71827161" downloadHash="2E81A42BE292A2EBF0E514CD7578DE2A9E69041B" name="alaron o24 aithelar tomb level_1.trx" dlsize="415270" size="596307" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="0F29E3429B660D420E554E3C5AEC51B82B76BD7D" downloadHash="6A106B11BB19320CCB1C042618580435581A5F22" name="gwynneth m34nw corwell chapel.trx" dlsize="67581" size="67623" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="75D13D411A817D44E8A4A4C446ADA26F794C789A" downloadHash="2DDA93D73DAA64075C70874EFCE432E6663BD37E" name="generic hell plane.trx" dlsize="2044547" size="17331147" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="EFBB35828A4462E014FF13C9FBF0D3247FAB5DB5" downloadHash="E464B92D5064E569535F63FA527140CEC9FEA158" name="generic ship at sea.trx" dlsize="252879" size="7812511" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="8F815DBB6A905C9F9B29750123CF7CBF76D6E729" downloadHash="81A71A8C6796ED11D8CAE54C86399657BC186446" name="gwynneth m34 corwell trding cstr.trx" dlsize="88825" size="89435" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1627,11 +1242,6 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CD75B0551812DFDD67BF0B4994F0A62C5358167B" downloadHash="DA9423CF1C88C74457CBF0410B14F95DD37D3421" name="generic volcanic ruin int.trx" dlsize="146419" size="147871" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="077411B0321E2543196A505DD4D52CE4F2FE2E80" downloadHash="2B5BF6F6138746A7DED75750CC9AD6564EEC6DCE" name="snowdown s33 the ride n.trx" dlsize="5097086" size="26483696" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -1642,17 +1252,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B5B7BB05D0163F9F1932BB26A176F2B72ED6DD81" downloadHash="A8E47A0DD216CC0AE5B7CD294EB93683303966BB" name="norheim il. dragon caves level 3.trx" dlsize="2199427" size="14882367" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="524A88B4D43A540C6EE04CF2071BEFA4F34E7FA4" downloadHash="A5F18C3C476767AD2ABE2BF586D118A8268F1132" name="alaron q21 cantrev white rock.trx" dlsize="2826027" size="16140979" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="5A509F0772D419A74B0D696B84B300AF372CE002" downloadHash="E27082B45F139A0E285E6655E2F6E3E50404E62D" name="thayan estate grounds.trx" dlsize="3225418" size="17576876" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1682,17 +1282,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="565D62B85495F1C486A0AE7DB5908E4B314292A4" downloadHash="2192FE6750026930519FF813565E60CA0A7C1B76" name="gwynneth l35 lost ruins 3.trx" dlsize="156932" size="1880016" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="403C48D81C767422089030A875C5733CFC184CC6" downloadHash="E43FEDDA2F42DE1F6B98689ACEE13842FCE4D939" name="gwynneth m34nw corwell housing.trx" dlsize="84210" size="216658" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="6C5389F8B138D6C86E3A1C54ECC2B02EFAA60240" downloadHash="C9D7B090E893BD1B956AB9F87200EFCFEAB9894E" name="skaug c3.trx" dlsize="1493979" size="10688021" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1702,37 +1292,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1FD48B25FFC8776C6A1E8F4157D7E298891F8B89" downloadHash="4AA7E1E09D105D821DF810BCEDD07A6236547C3A" name="generic mountain fort.trx" dlsize="2710843" size="14201219" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="60444DAA31B32DD1A6392B70CDB2DE78FF209606" downloadHash="B6CE8DD1861FD33064E688D60557CEFDCEB0DA67" name="thayan estate mansion.trx" dlsize="401007" size="536154" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="B7E7BBF3998440E5B49CF09E5BE754F6C7E1C570" downloadHash="095CB343CAB05DCD674D13E80DBEB56D3A3AF00D" name="skaug d4 jagged cave.trx" dlsize="170499" size="170760" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="47DE69437FFBC9EFB94AC58F21DD4A91B4648E6F" downloadHash="7235E90E9C8E286F92DF02AF505FA5D430C86752" name="skaug a4.trx" dlsize="1262545" size="10068916" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="9550209A477F76745CABD6ECF18231761057ECBC" downloadHash="9BD2E1704D2E5F8E2A2A5D940F8EA45B33AB73E4" name="wd 2l castleward int.trx" dlsize="176146" size="176582" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="C2A9C0BE27103DB69518227755B24071EBF5F726" downloadHash="8EB6E14722421A5D698DDAB8C39F0C0E5EC3F2C2" name="skaug b6 lighthouse.trx" dlsize="1292753" size="10859172" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="AFC29777F4C95C5A751F5CB9650E51368253A115" downloadHash="03B60218A1C553BA45C59711A055C074B65D8854" name="generic shore hideout cave.trx" dlsize="173174" size="891175" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1767,11 +1332,6 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FB99DA53CFC16BEF847DB810B678865CA02BE829" downloadHash="350FC141BAD7FBC32588848EAAC007CA6518686A" name="generic cnnt cave_area5.trx" dlsize="727164" size="752436" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="12C95DFE0378C5FB61A01256CA85D8BD606DE494" downloadHash="4FAB3A6B0929BDAB833A8D998B58D762B5256F15" name="gwynneth k34 pontswain.trx" dlsize="6719260" size="28180337" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -1792,32 +1352,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A494E85F9710DDEEE6633A5715B1D6D699841E85" downloadHash="626C407962151474D1F2A652CDC71880AA63B119" name="skaug blood drake interior.trx" dlsize="247305" size="884658" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="5B6743849A5017EE6514B370F337790290AE7268" downloadHash="616766EFA20A68DDA0CB27B02648A63D133C3A57" name="snowdown r34 temple ilmater.trx" dlsize="16227" size="16285" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="ED8AA26DEA672F3204DD837CBB7BF34F491AB072" downloadHash="07A2FBFF17DF2553D632B889623AD3987C5270C2" name="gwynneth m35 llyrath sea caves.trx" dlsize="965091" size="5743998" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="A4DB89393E5280ACC1E20EB608C160D44F4AE422" downloadHash="1DFA11DC96D798FAF42CD62CEE2F9710668612F4" name="alaron r26 stirgewick ruins1-2.trx" dlsize="449224" size="455701" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="A53E11D93E04453D3D17EFB49AD077369BE78075" downloadHash="BD9E1D7E982C0153F75F29AF4C412CFAC19F043B" name="gwynneth p34 cantrev horstall.trx" dlsize="1903157" size="12882543" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="30825D658317217477D903D52753CE26DEB5FD98" downloadHash="46C7F39785DAA0B8950EBEDAA50B86A69551F32F" name="skaug a5.trx" dlsize="1428105" size="10373907" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1838,11 +1373,6 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="E4849728ABDF0550C2965559684FE352BC0EABE4" downloadHash="08956E265A48253B1669945C9DD509D1FD968059" name="alaron q22 c callidyrr cstl ext.trx" dlsize="2434019" size="12762896" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="BC0BF711F0B571EABAC97BDAF0C038870FA1841C" downloadHash="0358146C38BFD58EEDF34CF9E9C6B1B992DAC863" name="skaug deserted island cave.trx" dlsize="167766" size="169011" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1917,11 +1447,6 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4C627D64BBFB4DE837E3A3600D13D5F8F5A206F4" downloadHash="56E85AFC1B666D7E7EBD132AD44F8BFA23115F70" name="snowdown t33 brannoch.trx" dlsize="2329196" size="15638360" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="1AB2B511851035BF05440C5B24B865267FAE6556" downloadHash="085E3EA98517C5EBA23D39F0A53A67A124BDC2E8" name="snowdown t33 lodge area.trx" dlsize="1729752" size="16179384" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -1957,26 +1482,6 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2BDB0E03C5AC93DFA083E8FD0616D59B4272B354" downloadHash="65F9371F9D70292A9235796DD025B5D542AC0E56" name="skullport.trx" dlsize="2665302" size="12194967" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="D08F5A206954231E2FDECD84A70DCEE7753AAD8F" downloadHash="45524AB1E9CDDE6FA98B366253954BF0B0988606" name="skullport3.trx" dlsize="2338602" size="11012061" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="BC12D4D31E52B2337CFDB905158DDE9981272044" downloadHash="76C4186D2111E5DA001C05F0B9EFF1BDE75BA7BB" name="skullport3 west.trx" dlsize="2328126" size="11006888" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="CA465AE3FEB9EA0171BF97EC980F3BB066F07D86" downloadHash="8BE1CF93082C02A86C4AE5132A52729BCA9B8219" name="skullport east.trx" dlsize="2651474" size="12176395" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="BB0AA23DC1B9F33FAD8770EEF0F129B85C95247A" downloadHash="6322BAF29A8A864E93C8344326547D6EBCC8A332" name="skullport burning troll.trx" dlsize="175245" size="354101" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -1992,27 +1497,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5D3B75A637670C7AC09250D29C4B638BE7016649" downloadHash="B1BEB0B5006C606662409F8E468789735D5C6D0B" name="skullport shops.trx" dlsize="757698" size="762697" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="82FA2988692D9A8BD2413BEEE84FFC6E59E1386C" downloadHash="C9CE5DD41891AC72F38DF57CE8EE0291C908B2D2" name="skullport cult plague fire death.trx" dlsize="227294" size="228503" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="2C38523CF4AB3D3DBD764E98BACC7887408BD9B2" downloadHash="DB3A2D341DFBEC0E14D5AC3F0C0477DA25707A94" name="skullport pirate areas.trx" dlsize="161625" size="205878" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="BC12D4D31E52B2337CFDB905158DDE9981272044" downloadHash="76C4186D2111E5DA001C05F0B9EFF1BDE75BA7BB" name="skullport west.trx" dlsize="2328126" size="11006888" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="038CC5DC3FBEB32CADF55376D983A1C737AB0356" downloadHash="DD758FBAF9A9265848777B1F0CE9125DD98E672D" name="o33 kings road int.trx" dlsize="9785" size="9747" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2042,11 +1532,6 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5B6743849A5017EE6514B370F337790290AE7268" downloadHash="616766EFA20A68DDA0CB27B02648A63D133C3A57" name="snowdown r34 temple illmater.trx" dlsize="16227" size="16285" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="A5B724D54CCCE51E0871592170C14AB826B96B2D" downloadHash="0C434DFFD1F7BF099B3BDCF81E608090C387B856" name="gwynneth p33 kingsbay town int.trx" dlsize="271987" size="316692" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -2067,11 +1552,6 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BC5F4512D3D5A401A5FC712BC5ACF8B8E215E776" downloadHash="B507BBFEC0AC271471A112350613793399299CEF" name="003_derochelle_manor.trx" dlsize="341503" size="701312" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="E7E84098927D98EB80A3841A75B74982893A9744" downloadHash="366428DEBC26C254258AE2934EA61FF0BE23904F" name="snowdown t33 brannoch town.trx" dlsize="2187016" size="15501174" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -2088,16 +1568,6 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="728A43318C84C389E1656FAC0D93B7882896F860" downloadHash="B04F6C5A8A03D67FFDB48528135A8389E1E1624A" name="moray isle f29e breasal marsh.trx" dlsize="3526483" size="19642399" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="42DC63AEEA7923A0CD6D5325CF4258E459F15BA2" downloadHash="152AC075B0FE4F077952813DF61F6D9705227B52" name="naga dungeon l2b.trx" dlsize="730873" size="6439513" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="842390FB868C7C950EDCAA0BF0403624105E167C" downloadHash="BF5D9DD5ECBFBC44F257F86F3F94210121A464AF" name="naga dungeon l2a.trx" dlsize="659498" size="6457756" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2137,11 +1607,6 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C30C71D4C56A77F66DC4D4628BBCC57A5ACAAC89" downloadHash="B965F05EC116E18FFBEF35FEC477C0E22C643189" name="skullport ssarmn cave exit.trx" dlsize="1966822" size="2447942" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="C22B3625F392DFF5374445AFF33194DFB56D66DF" downloadHash="3BC475EE68586F7B4365A576E6110E677265B783" name="skullport ssarmn cave.trx" dlsize="1365423" size="1831094" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -2152,27 +1617,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7E166E0D4E88DEA3D1D836A43025D47F72037F11" downloadHash="4FFE9C3585FA0179191B021D4C41F3B91A8F5758" name="skullport lower east.trx" dlsize="2791752" size="12330785" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="F84E7DA283A3A70A42EF4D2E5CEE9E60BE7A1BE3" downloadHash="2706F238C03A8B07A336D247C453C41B053AAD72" name="skullport lower west.trx" dlsize="2303556" size="10977266" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="76AF788A2B97729FF557F9B30252FE4265CCB0B1" downloadHash="3F9E848209E6AA906BA3E3AF649E85C58622427F" name="gwynneth l35 llyrath cave int.trx" dlsize="213940" size="438829" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="9550209A477F76745CABD6ECF18231761057ECBC" downloadHash="9BD2E1704D2E5F8E2A2A5D940F8EA45B33AB73E4" name="wd 2l castleward blkstaff.trx" dlsize="176146" size="176582" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="DEE49064E7A6431680F60A68E7E060315D6B2C34" downloadHash="3404DB56998040D7C8B052B5B234AA0A9D5C1BD3" name="wd 2l castle ward int.trx" dlsize="52444" size="52665" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2182,32 +1627,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F992AC9FC07BA1D60CB6BD7093677842DA02E64D" downloadHash="5ED399FB700FA7743A2B4C8E9C88621911A0C111" name="skullport lw- drow lair.trx" dlsize="558580" size="791282" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="A55493C787D212B578D81CAE866C57ACE266BBB0" downloadHash="33A06E8C99852BEF0C59928EF011D8504B66B9D5" name="moray isle e30 int.trx" dlsize="143843" size="548949" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="17F33E8EBDD2D03C16188AE2A73DBEF857A13DDC" downloadHash="5ED399FB700FA7743A2B4C8E9C88621911A0C111" name="skullport lw- drow lair.trx" dlsize="558580" size="790638" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="3D56CBEF49C60C858467B3862C4FE229942CE5A3" downloadHash="EFA1EB2437D8AD55D455FAAE60EA82F6A3EF9C69" name="moray isle e30 Farview.trx" dlsize="4266803" size="33112684" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="BC5F4512D3D5A401A5FC712BC5ACF8B8E215E776" downloadHash="B507BBFEC0AC271471A112350613793399299CEF" name="003_derochelle_manor_khelb.trx" dlsize="341503" size="701312" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="0FB77DE8BA60E656D4C6BDB5A0C350FE8F18E906" downloadHash="59A2EBAD48CD3BFAFE23831CDA4A1A7EBDDBAA70" name="gwynneth m35 llyrath sea caves1.trx" dlsize="940163" size="5729458" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="5B70952FB2DFD23E4E87F4CEB8D8E02FCD3DF15B" downloadHash="5129E4153E922AF1AB8452325AF9059B7C0A632A" name="generic sea caves.trx" dlsize="1168452" size="5949293" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2218,36 +1643,6 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="7B44463730A0486EE2A0D62EEA958E6C6E0F76FD" downloadHash="D4FD2C91D602781F56DF4128AB88D3AC3B9D8FFD" name="gwynneth m35 llyrath crystalcave.trx" dlsize="1109996" size="5935271" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="FD36F129C9FDF0C0CFC974EBB64220057BE73EC6" downloadHash="D6EDBB54AA111C70F2DC793448E67B35C05EF7FB" name="nelanther isle of drachenshore4.trx" dlsize="5839908" size="35287869" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="645142FCFC4D4201F51F339E10B9D354FE487129" downloadHash="058C124BF1D8FD47E0F62FDD7BEBB7735072986A" name="isle_docks1.trx" dlsize="2322442" size="14197511" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="A55493C787D212B578D81CAE866C57ACE266BBB0" downloadHash="33A06E8C99852BEF0C59928EF011D8504B66B9D5" name="moray isle e30 druid int.trx" dlsize="143843" size="548949" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="CD0F044A287D0E35817D3F3878333FC404CD1ECF" downloadHash="9C7A8D5E4ED051B1829358F9C1DA123C9B6635BC" name="drachenshore misc int.trx" dlsize="444518" size="447422" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="F40232A38CC82EF12F0231A548405A1E1B0AF136" downloadHash="C8DF6E571F279C5C94AA7C5D316EB50DCC0E64BE" name="drachenshore shops.trx" dlsize="463362" size="466743" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="C81E719E3FA78EA97296E0FDE08E0CD3B964EADD" downloadHash="D9C0C7422B70A3FECA73BCE76C00741BEC20905E" name="drachenshore inn_taverns.trx" dlsize="769183" size="776376" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2282,11 +1677,6 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6602DFA58559963FDE5E15DBE103BE7DE04587C0" downloadHash="F1520450C7AC50831375C342F1A56124B4D06892" name="alaron q22 callidyrr inns 2.trx" dlsize="311947" size="357121" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="8851806298DF0D64330B48F094AADA06E62BC5AB" downloadHash="28587CD5CAABB325556CF1B0EF8BBB61DBDCE094" name="alaron o24 aithelar tomb.trx" dlsize="500781" size="684914" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -2307,11 +1697,6 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5DFB9AEBB96DCC76D82589BC69A71F2FD55F85C6" downloadHash="0BABC30F8DDBC6498374DB9C0167590CA33A3B69" name="generic interiors.trx" dlsize="310562" size="313605" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="B76217A027436C92B2CA7B2F5F3B1F8FB6C54E68" downloadHash="90EDD740F56AF5E61A650EFAE4CA08E9947850D4" name="009_dm prep area.trx" dlsize="283468" size="291444" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -2323,11 +1708,6 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="251DC1ACFBDB6C329B84EB3D5E36BDF89B03BB17" downloadHash="ED6C7E447B2B9A2C97118F5AF2C8D922CB8BF89B" name="009_testing grounds.trx" dlsize="326782" size="8510856" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="DirectoryEntry" hash="496AF413DBAD0F780AE6F6D4D0057E07400D5787" downloadHash="9F25E391495A6A58C27FF98CE94DA5B48EC31CFB" name="caves1.trx" dlsize="807073" size="1894877" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2417,11 +1797,6 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="623FB1EEB3B88981D7C276AAE43CCF872EB9B6F0" downloadHash="6FCA46615D753DABB9B0A26A0F83A161D4599EAE" name="skaug port west1.trx" dlsize="2366695" size="16768953" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
   <resource type="DirectoryEntry" hash="A29F7C46DA7F069B4B55B4DC37F5C0443D0E53BA" downloadHash="B456CB295ECB2CDF12BFA243DEC36BDC2389095E" name="skaug ship blood drake at sea.trx" dlsize="388101" size="7906771" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
@@ -2503,6 +1878,946 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="6FAB03A9152F4D81611158D3D789BEEBA3292BC7" downloadHash="6F4FBB38992B54564CF5E206107AF298FF3AC3CA" name="skullport lower east trade_heart.trx" dlsize="2533193" size="12539651" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="AB22E405135B2D23474FCB02D886DA6C32BE3554" downloadHash="" name="bg1_bc1.bmu" dlsize="0" size="2450501" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="EA909EC4766FA57FBA4A80B2C0673B6395689045" downloadHash="" name="bg1_bc2.bmu" dlsize="0" size="2910674" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="A88335B720B297781E39D3545E2531FD485AAF6D" downloadHash="" name="bg1_bd1.bmu" dlsize="0" size="2098998" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="8EC23A04CA9E5230901DEAC3F4268281E1928C3D" downloadHash="" name="bg1_bd2.bmu" dlsize="0" size="2109865" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="7CABC4DC66B0623E135CFC29FA94313AD5DAC865" downloadHash="" name="bg1_bf1.bmu" dlsize="0" size="1938501" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="062F37EE6BCD557F846D67E9447BACBE5059BAB4" downloadHash="" name="bg1_bf2.bmu" dlsize="0" size="2244029" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="7C736B5E284D1304F3A09357E5C9C1C423515E73" downloadHash="" name="bg1_bl1.bmu" dlsize="0" size="1611239" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="22C40497986FD08A15F2C467759950BC208247D7" downloadHash="" name="bg1_bl2.bmu" dlsize="0" size="1922619" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="3D60A66F5B0DAD29076A944B1032F56E233EA4D6" downloadHash="" name="bg1_bw1.bmu" dlsize="0" size="1988656" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="6821FAC60A9C7B1E2F07FD744873677E21FE190E" downloadHash="" name="bg1_bp1.bmu" dlsize="0" size="1204565" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="1981BDA33E311EFC2F96DAE0778EEC19F828989E" downloadHash="" name="bg1_bp2.bmu" dlsize="0" size="2751014" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="E0CA17353F32FBBD7A38236AB1AA8E3D55C0F5E8" downloadHash="" name="bg1_cday1.bmu" dlsize="0" size="2290423" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="91F286AE1153FC78DCBB205E75936F19E6317D46" downloadHash="" name="bg1_cday2.bmu" dlsize="0" size="1502570" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="42D2F6415C3A66E1F0372443584617F2945E79B9" downloadHash="" name="bg1_chants.bmu" dlsize="0" size="797473" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="6B7D714CC473E89A64CCEAD46B1915B932D4B0AF" downloadHash="" name="bg1_chapter.bmu" dlsize="0" size="1973192" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="12666EEB22B6A2A23322B30E9EA2971B543F22D3" downloadHash="" name="bg1_cnite.bmu" dlsize="0" size="2086041" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="6B7D714CC473E89A64CCEAD46B1915B932D4B0AF" downloadHash="" name="bg1_dream.bmu" dlsize="0" size="1973192" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="430FA160523BB1D1EEE73B92A37CDCF76935ECCC" downloadHash="" name="bg1_dung1.bmu" dlsize="0" size="2939096" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="33EE230D6D00189523D4237F645F7C8CCB633AFF" downloadHash="" name="bg1_dung2.bmu" dlsize="0" size="2935334" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="7EBCF051D18D0AFF71BCD808F91EE9FE35AC72F8" downloadHash="" name="bg1_dung3.bmu" dlsize="0" size="1872882" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="0375B1B908ADB1108985710FE257F5B9591A86CC" downloadHash="" name="bg1_fday.bmu" dlsize="0" size="1772571" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="33163863D31C2043347FA25CDE343F5D744FABA0" downloadHash="" name="bg1_fnite.bmu" dlsize="0" size="1437368" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="C65E72EFEE167AE976D860E1BA59954FBB9EF794" downloadHash="" name="bg1_fort.bmu" dlsize="0" size="1620016" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="2B1B74C05B79057B5D7361253B0396E96090D78F" downloadHash="" name="bg1_pday.bmu" dlsize="0" size="1393482" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="86C17C38A3F0FC494F18F7BF51F3C5A68AD06D8B" downloadHash="" name="bg1_pnite.bmu" dlsize="0" size="2116552" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="4B11A4D0136FAF91E86937FE6813CB76659C1654" downloadHash="" name="bg1_tav1.bmu" dlsize="0" size="1481254" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="00BE6994F995AE8E6182B4666F8B6BD1C3FA9E57" downloadHash="" name="bg1_tav2.bmu" dlsize="0" size="1245525" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="78FC7F323B66D484159248AA6D8D2887CB15A38A" downloadHash="" name="bg1_tav3.bmu" dlsize="0" size="1624614" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="2664C1E8190FFD43CB2EA23939C92B1A51E332C8" downloadHash="" name="bg1_tav4.bmu" dlsize="0" size="1315324" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="933E8FEDA16813EA371D5F4E2C9B9F294875A3B4" downloadHash="" name="bg1_tday1.bmu" dlsize="0" size="1624614" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="806BFCED0702B6CAD5B247ECBD216EEA88A2D958" downloadHash="" name="bg1_tday2.bmu" dlsize="0" size="1489195" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="B09C0E3987E0995B6E7FC7F55D3787CE68A17992" downloadHash="" name="bg1_temple.bmu" dlsize="0" size="927458" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="5E51FCF55C959F260ADBD286B7E443F1E6A6CE6B" downloadHash="" name="bg1_theme.bmu" dlsize="0" size="1502570" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="E8207685A0A60D330585ECC170C6DA516CDDFC9C" downloadHash="" name="bg1_tnite.bmu" dlsize="0" size="1546038" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="69C0FE92D1314258457EE4B8EBC5BA75F034DAB1" downloadHash="" name="bg2_bc1.bmu" dlsize="0" size="1384705" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="8565F4264E8C2F5E0ED9291A888BB632EF2242C3" downloadHash="" name="bg2_bc2.bmu" dlsize="0" size="1907990" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="A4C05BAB040204A8ECA364B1AD8A2656EEF8A3F4" downloadHash="" name="bg2_bd1.bmu" dlsize="0" size="2244447" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="A3AE2826BC4DCF77569CC053F03B1127D39DB2AC" downloadHash="" name="bg2_bd2.bmu" dlsize="0" size="1781349" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="0D192BE6149C7E38369B4B90215758E1F8301E96" downloadHash="" name="bg2_bd3.bmu" dlsize="0" size="2016242" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="DEF5150DED53CDAACE6B6866F0085B68A3616834" downloadHash="" name="bg2_bf1.bmu" dlsize="0" size="2047589" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="3A490D5EC700AACF3ECC5A70C69A3A78AC5C9F30" downloadHash="" name="bg2_bf2.bmu" dlsize="0" size="1675605" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="58682EA3F26DBF6AADE1603468BF53A626B40165" downloadHash="" name="bg2_bjr.bmu" dlsize="0" size="1785946" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="655137AF51C0E037C599E37D08CD15DD53780988" downloadHash="" name="bg2_bm1.bmu" dlsize="0" size="1553979" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="E07A734E7761F1C47DDB3E6D16F81A1A2C041F21" downloadHash="" name="bg2_bm2.bmu" dlsize="0" size="1764630" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="FE7347A8A2819A4A7E8AD7C81FB8DD7D36EEC6D7" downloadHash="" name="bg2_bp1.bmu" dlsize="0" size="1983641" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="7FED6AD444A1A7461F2D4D71681536E4EAC72BDA" downloadHash="" name="bg2_bp2.bmu" dlsize="0" size="2118642" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="0FB3C5FB19E98E96FBAFE13A76AC516CE5C6672B" downloadHash="" name="bg2_brd.bmu" dlsize="0" size="1769228" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="30A57456B43E85874235CF3833A2708ECFA44640" downloadHash="" name="bg2_bsd.bmu" dlsize="0" size="2167125" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="0AFC2E8DDD64ABDB7C88451FA32F41C5795C3D0D" downloadHash="" name="bg2_bst.bmu" dlsize="0" size="1622106" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="228BD1DC98FB805B6654FF6C6828BE0642440D46" downloadHash="" name="bg2_mb.bmu" dlsize="0" size="4954077" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="5C32356B484D830B9E50D4BC555DC1B222CB7754" downloadHash="" name="bg2_vb.bmu" dlsize="0" size="3991099" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="64C1278ED893C12EFCB9660471E2913B7448D67C" downloadHash="" name="bg2_mx0011.bmu" dlsize="0" size="1595775" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="8461452987F7729F25EA30D81CE7528588A882C2" downloadHash="" name="bg2_mx0012.bmu" dlsize="0" size="1253884" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="0306E9166297F8F91FD0D4821A716F05CACF2EFA" downloadHash="" name="bg2_mx0013.bmu" dlsize="0" size="978867" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="CE0EAF5FD6723A3A37ECBB22B28A1DDF311B0F70" downloadHash="" name="bg2_mx0015.bmu" dlsize="0" size="1319086" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="8C1B150BE82035E8327939939467F221FC27A5B6" downloadHash="" name="bg2_mx0020.bmu" dlsize="0" size="389127" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="1C48C30BB99267869572DF87C4B2B34B1AF8399A" downloadHash="" name="bg2_mx0021.bmu" dlsize="0" size="727674" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="D671DCB2EF7536230A8BEAE6B1DD99EE4909CA66" downloadHash="" name="bg2_mx0202.bmu" dlsize="0" size="1892944" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="BE55070C70EBFD04A8AB9F48FDA37356ECAA70F6" downloadHash="" name="bg2_mx0204.bmu" dlsize="0" size="1637153" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="01BC29974295C7501DC328D8A6333E4DB10C01A7" downloadHash="" name="bg2_mx0300.bmu" dlsize="0" size="1655125" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="F791A0F828149ECB06CC148EF708A2C29D61F417" downloadHash="" name="bg2_mx0313.bmu" dlsize="0" size="617750" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="1447D3A5A9D3D18160732CAB6D08D1847E38EC51" downloadHash="" name="bg2_mx0400.bmu" dlsize="0" size="1338730" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="24A4E265F4231D28D2451B5C3C71446D48EEA83B" downloadHash="" name="bg2_mx0400n.bmu" dlsize="0" size="1059115" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="806245C38B6037F8257ED8EBB55564677EAD0F5C" downloadHash="" name="bg2_mx0404.bmu" dlsize="0" size="1423158" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="537D5E66D89527437090F833CD3470586438C9F5" downloadHash="" name="bg2_mx0500.bmu" dlsize="0" size="1084611" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="72B9A275631857D816F53189FBE45031A84584BB" downloadHash="" name="bg2_mx0512.bmu" dlsize="0" size="732271" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="6F21165A54CB383307196A9AE6ABCA58FF04C938" downloadHash="" name="bg2_mx0516.bmu" dlsize="0" size="1366733" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="476A8E1EA2BD7E5255CE919C4DA71414876CB4E0" downloadHash="" name="bg2_mx0602.bmu" dlsize="0" size="1745822" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="2B7689EC0EAC5F789D327CB513EFF4BB3F3EEEBC" downloadHash="" name="bg2_mx0700.bmu" dlsize="0" size="1424829" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="255B1CF07B28D3C164D287D8FFB1E5852C7CBEE1" downloadHash="" name="bg2_mx0900.bmu" dlsize="0" size="448477" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="58B4CABC74DD615B3AF24E7A34A2DBD87143717B" downloadHash="" name="bg2_mx1100.bmu" dlsize="0" size="1111360" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="C80ABBD270581ED56B805F42A7BDD1538784E723" downloadHash="" name="bg2_mx1200.bmu" dlsize="0" size="522874" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="A4112BB172E608C42737D87C748B232AF1C0CF69" downloadHash="" name="bg2_mx1201.bmu" dlsize="0" size="978867" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="F565FFF0812E1BE71BDC0EEE3B9E117C79101719" downloadHash="" name="bg2_mx1300.bmu" dlsize="0" size="663726" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="A7A07DE939808FA777089F71525A5DF9CB9E697A" downloadHash="" name="bg2_mx1304.bmu" dlsize="0" size="614825" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="198F35D154D2DB96FD07794EE848F6CCBC3DED75" downloadHash="" name="bg2_mx1400.bmu" dlsize="0" size="1210834" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="EB1319974E48A98AA92502ED320E2488DFABD35E" downloadHash="" name="bg2_mx1500.bmu" dlsize="0" size="1435278" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="0CB21189938D0757472BE9EAF6ADE4F1EEBF127E" downloadHash="" name="bg2_mx1600.bmu" dlsize="0" size="864346" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="E3F110320F5B7F0D5E7935DC2C023C0FF8F9A254" downloadHash="" name="bg2_mx1900.bmu" dlsize="0" size="781172" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="2AC9C0336F61904CFBC4E8116DF9A2E3318770AB" downloadHash="" name="bg2_mx2000.bmu" dlsize="0" size="1010214" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="A0B80C8342DCC69317A61588CA4A94C78102AEBF" downloadHash="" name="bg2_mx2100.bmu" dlsize="0" size="1686472" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="08ACC7A82CAFAF743E4930929193858E7344CC84" downloadHash="" name="bg2_mx2300.bmu" dlsize="0" size="1148976" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="80D751D55F631ABE30EB3F61159F5BD763E94E7C" downloadHash="" name="bg2_mx4000.bmu" dlsize="0" size="1195046" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="EEDECBC3F24427136EB551DF71655D3CFAAA33EC" downloadHash="" name="bg2_mx4500.bmu" dlsize="0" size="1815621" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="1728E36905D61C3B71A2AE06CADFCDE85BAAFDD4" downloadHash="" name="bg2_mx5000.bmu" dlsize="0" size="1412709" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="3E1FF74A031D96D7BF9132778D70424C8C5EB035" downloadHash="" name="bg2_mx5200.bmu" dlsize="0" size="1683222" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="2DBE285FF753210A8E60C6E267AA73DFC222778B" downloadHash="" name="bg2_mx5500.bmu" dlsize="0" size="1867448" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="0ADE10CE2A17EB44215F7F6CBE0C91BA4BA0D0CE" downloadHash="" name="bg2_mx6000.bmu" dlsize="0" size="1276036" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="1451B70AAF6B0D91C5E3DA31EA3A82D0A44031D6" downloadHash="" name="bg2_mx6100.bmu" dlsize="0" size="1709878" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="D8E84AA1D83C236D42730DB26AB60FBE0F2AB86B" downloadHash="" name="bg2_mx6200.bmu" dlsize="0" size="1108016" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="2E927CFBEF8F5D24CD1F421EFFCFE29BC4277A0C" downloadHash="" name="bg2_cred.bmu" dlsize="0" size="3601561" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="B477EF0C6BC835291318872A77C4B8EDD8230914" downloadHash="" name="bg2_dream1.bmu" dlsize="0" size="1490031" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="208517664754C91DC6630025795F6948865BBFA3" downloadHash="" name="bg2_dream2.bmu" dlsize="0" size="1583654" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="E48F4B1BF086194290992BF1E57F12AFF6430779" downloadHash="" name="bg2_harp_v2.bmu" dlsize="0" size="4796924" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="32264F4AFE74F2DF02E8567F3DEC478361DA1350" downloadHash="" name="bg2_harp_v6.bmu" dlsize="0" size="4602155" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="ECCEBBCF0D9302B6A40A23FBC4F8551311569339" downloadHash="" name="bg2_mxaerie.bmu" dlsize="0" size="1008542" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="636BD657A0F16D539DBD57FDDA0717DD23963E9C" downloadHash="" name="bg2_mxanom.bmu" dlsize="0" size="947520" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="A03D3256E06C5BF70679735260370EC26EE30D46" downloadHash="" name="bg2_mxjahir.bmu" dlsize="0" size="1131840" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="792FBF39F57AEC642D3A7FD5852269E22CC7F8A4" downloadHash="" name="bg2_mxkalah.bmu" dlsize="0" size="425907" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="E469113A4F63AC21DB3FD4BEE03EEF0923F70544" downloadHash="" name="bg2_mxkhali.bmu" dlsize="0" size="1099239" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="5D2442A5112B58633B0F662D3F8579E1C67DF6C5" downloadHash="" name="bg2_mxmelis.bmu" dlsize="0" size="1701100" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="8E0D1314C2DEA5B2947E91901950C537E5AE0610" downloadHash="" name="bg2_mxthief.bmu" dlsize="0" size="476480" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="05D2F307AD8D82F62AF3054ADD3440A8D1F85CB6" downloadHash="" name="bg2_mxvicon.bmu" dlsize="0" size="1189936" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="D2849FEA68628FE76A56EE462D722F57351028B2" downloadHash="" name="bg2_npc.bmu" dlsize="0" size="6569907" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="311456FA370F2CFC004A9E12E6FE7C45BACCF964" downloadHash="" name="bg2_theme.bmu" dlsize="0" size="3079204" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="396807FA4A99DE4A8258FD5F2832A1CE8294C973" downloadHash="" name="bg2_themet.bmu" dlsize="0" size="1920623" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="8BBF878A801B2E3DA053D46D0018CFCB02950A1C" downloadHash="" name="bg2_mx0406.bmu" dlsize="0" size="1106762" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="10DEC2DD18D8179883FBC8413931B30533561A98" downloadHash="" name="bg2_mx0410.bmu" dlsize="0" size="743974" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="8A97A91B6038FC06E245B05730E94B0DD70F67F7" downloadHash="" name="bg2_mx0414.bmu" dlsize="0" size="293832" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="19503DA2CC814C864ABE50CF695E362DF406FD82" downloadHash="" name="iwd1_theme.bmu" dlsize="0" size="1733701" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="ECB42C35B690041A4EA7060F89605A8AB5DEA69C" downloadHash="" name="iwd1_b1.bmu" dlsize="0" size="2460218" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="9B7F2F7B403C5E4FFF9CC63D5386ABDEF13BB8DE" downloadHash="" name="iwd1_b2.bmu" dlsize="0" size="2338488" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="F60F124D64362066AE69C1F5233CFC2C66DB4605" downloadHash="" name="iwd1_b3.bmu" dlsize="0" size="2203905" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="D95B7ED708FAE0620F1DB94CD4343F513C49EE05" downloadHash="" name="iwd1_b4.bmu" dlsize="0" size="2160856" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="0D33E12FB23FA7E7A9F2A05389E0DF9C65BD007D" downloadHash="" name="iwd1_b5.bmu" dlsize="0" size="4875918" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="A86C0478355EDCD429D4AF35A5646B320F0A561E" downloadHash="" name="iwd1_b6.bmu" dlsize="0" size="4287432" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="10B16133D0F7B7E5130DA361CA6C90DD496FBBCE" downloadHash="" name="iwd1_chap0.bmu" dlsize="0" size="585985" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="DC06723D04304F94DFDE483570DDB2D2B55845B8" downloadHash="" name="iwd1_chap1.bmu" dlsize="0" size="520784" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="F298510B6BDB7C3AB75A5564EFD8BDDEAB22BFEB" downloadHash="" name="iwd1_mx1000.bmu" dlsize="0" size="3935928" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="345D836076A8FC3F3AE02F6C00FD643CB63A9AD2" downloadHash="" name="iwd1_mx1001.bmu" dlsize="0" size="850136" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="AA83455D2FB255DC83F1C4954124EA01FB41CC77" downloadHash="" name="iwd1_mx1004.bmu" dlsize="0" size="642828" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="CFDD79F3C3B6977FBD20F9C315F88E8A95C8D051" downloadHash="" name="iwd1_mx1100.bmu" dlsize="0" size="1159425" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="0E9478A4992D34F764401D39627F6BC9550C4675" downloadHash="" name="iwd1_mx1201.bmu" dlsize="0" size="1564010" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="34A2D376AED9588770D7BF1D5DF370A0D729D646" downloadHash="" name="iwd1_mx2100.bmu" dlsize="0" size="1901303" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="646BC1B7AD032709585498549166F5CEBF87D2C6" downloadHash="" name="iwd1_mx2112.bmu" dlsize="0" size="1034874" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="D4ADAE174EF2C2ACFDDB828347C7222FC966EB05" downloadHash="" name="iwd1_mx3000.bmu" dlsize="0" size="1622106" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="EB1360821CDD8014DA2A9FA3E8B41915A96B811B" downloadHash="" name="iwd1_mx3501.bmu" dlsize="0" size="1544366" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="46A3B74A2004C0081677C93717EDFDC30467F961" downloadHash="" name="iwd1_mx3503.bmu" dlsize="0" size="741884" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="5B83422741800283AF0426670FD763305C06A078" downloadHash="" name="iwd1_mx3600.bmu" dlsize="0" size="835925" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="F8414DFBB2641ABD97F1CF6A5485F553D34BAE8D" downloadHash="" name="iwd1_mx3601.bmu" dlsize="0" size="1101747" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="524AB6E7422E4E72D975A4B891BAA47FEC03EEFC" downloadHash="" name="iwd1_mx3603.bmu" dlsize="0" size="310132" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="4A864E8B5BE13C0E2757AD642F6B20D0ED598455" downloadHash="" name="iwd1_mx4001.bmu" dlsize="0" size="1938919" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="17A1D7A45702DB9509B58D5213295191DC17BCE6" downloadHash="" name="iwd1_mx4005.bmu" dlsize="0" size="523291" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="A845DADDF1C1AB89BBABDABE0925024692DC668B" downloadHash="" name="iwd1_mx5000.bmu" dlsize="0" size="700924" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="2A166901830CC7795A25C0B853D5799C3B89BCC5" downloadHash="" name="iwd1_mx5001.bmu" dlsize="0" size="1917603" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="6B5AD5856EB34F665376826FD16DA17CFF5886AB" downloadHash="" name="iwd1_mx5101.bmu" dlsize="0" size="1376764" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="F99C3F3922BD53352E7DDAD14FAA8EBF03F8B01B" downloadHash="" name="iwd1_mx6000.bmu" dlsize="0" size="540846" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="4F37D7099EA27C7338281E7E1F23D114077CFA2F" downloadHash="" name="iwd1_mx6001.bmu" dlsize="0" size="1734955" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="25DADEC3AD5642F6AA83158D0CAB97EC20C009D3" downloadHash="" name="iwd1_mx6002.bmu" dlsize="0" size="1765466" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="A7AA01BEE92B0C5DE83B1358B93D3D09D19AE8F2" downloadHash="" name="iwd1_mx6003.bmu" dlsize="0" size="1923455" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="23F88A945A61C1986FA486B73C4E7C20D33264F3" downloadHash="" name="iwd1_mx6005.bmu" dlsize="0" size="1301949" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="B6315EB98FF93AD2C067C2C8A318C922ADFAABAF" downloadHash="" name="iwd1_mx7000.bmu" dlsize="0" size="693401" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="4775652518CAE5B4B590E04F8865BCD1AEB199B5" downloadHash="" name="iwd1_mx7001.bmu" dlsize="0" size="1900467" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="7472D5AFD9CFA073A393670AB3A2BF94204B9DC7" downloadHash="" name="iwd1_mx7004.bmu" dlsize="0" size="1734955" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="FD381A20C63C5D210FE18230B6FDCC618C0D1C51" downloadHash="" name="iwd1_mx8001.bmu" dlsize="0" size="1821891" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="7C84805E306B920D5DB46050C2F9C11509EF9449" downloadHash="" name="iwd1_mx8004.bmu" dlsize="0" size="1547709" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="12DAEDD519587AB37752473E37DCCB89A8D60FE7" downloadHash="" name="iwd1_mx8005.bmu" dlsize="0" size="1482508" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="8EEF3556862096DA48E57A3010E7459C41DE1DE7" downloadHash="" name="iwd1_mx8009.bmu" dlsize="0" size="1238420" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="1AFD2591BFEB997BF2F470FF85F483FD0401A34D" downloadHash="" name="iwd1_mx8012.bmu" dlsize="0" size="1425665" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="AC8D3EBC03F149777FF5BC4B3050B21D2F86CF7B" downloadHash="" name="iwd1_mx9000.bmu" dlsize="0" size="244931" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="915FF1858CEC33045FE247B4CCB5D680DBFBA2E7" downloadHash="" name="iwd1_mx9100.bmu" dlsize="0" size="2466384" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="CE3A24606017CB638B7150AC43189E6A364A5ACA" downloadHash="" name="iwd1_mx9103.bmu" dlsize="0" size="1135602" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="A973AE8DF02B6A9744AE156E075B78CE9B5F3AEC" downloadHash="" name="iwd1_mx9200.bmu" dlsize="0" size="860167" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="17CD0B88DA23066524CD48417F97175C2AD477B3" downloadHash="" name="iwd1_mx9201.bmu" dlsize="0" size="1376346" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="AFD689BCA9C757A50D5E056DB6444B9DE1A8F92E" downloadHash="" name="iwd1_mx9300.bmu" dlsize="0" size="2111954" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="8901512F09E57A892CF720E8CAF39FE340E55C6D" downloadHash="" name="iwd1_mx9400.bmu" dlsize="0" size="1654707" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="DB082F9BAC2E2CCC83447E4555032118C5F200AC" downloadHash="" name="iwd1_mx9500.bmu" dlsize="0" size="2558335" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="72B6498F5EA13AAE48ECB959A0E43AFE27F484EC" downloadHash="" name="iwd1_mx9501.bmu" dlsize="0" size="1387631" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="13CEE4B966A286364DCFEFC9A816B72C0AD5C166" downloadHash="" name="iwd1_mx9502a.bmu" dlsize="0" size="1273946" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="403A3E45B415F393ADDF61AE593EB680F74CE9E5" downloadHash="" name="iwd1_mx9502b.bmu" dlsize="0" size="1291918" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="E982AD3FC33661F9A4221F6A9755CF0BC8B33CDB" downloadHash="" name="iwd1_mx9600.bmu" dlsize="0" size="1136020" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="C9C627C7700B392570017EC85E7BC1A3CE2F7CE4" downloadHash="" name="iwd1_mx9603.bmu" dlsize="0" size="1408947" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="1A09AF7293C1727E1B5CC2463D5FA0C80AC6B2A6" downloadHash="" name="iwd2_theme.bmu" dlsize="0" size="979285" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="627C3802793839617A40E5A1E9807471B90C7145" downloadHash="" name="iwd2_b1.bmu" dlsize="0" size="3054452" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="EE774112325396E7B7F20C1E561B57E7198C6F84" downloadHash="" name="iwd2_b2.bmu" dlsize="0" size="1283977" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="9D6DC4FE0676604E3B3DA8056B7DF7BE5F9A3437" downloadHash="" name="iwd2_b3.bmu" dlsize="0" size="3018508" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="ECB996629E02C753F23A29054C372698E5842B74" downloadHash="" name="iwd2_b4.bmu" dlsize="0" size="3097920" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="5FFB41A3DA4D9CEC12A122A8C0FE85F63633BEA9" downloadHash="" name="iwd2_b5.bmu" dlsize="0" size="3092069" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="B55850AA1082B68DC188F12BDDD352C1332F79C3" downloadHash="" name="iwd2_b6.bmu" dlsize="0" size="2845473" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="069F442D6A0C3AD5971D35BDC3F3862CCD610C1E" downloadHash="" name="iwd2_b7.bmu" dlsize="0" size="275860" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="776CD6F86F3640C226B2CADD1F49E3C2981E656F" downloadHash="" name="iwd2_ba3101.bmu" dlsize="0" size="729345" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="444FD7A792F0355903E79284A1BA94EB26C2F829" downloadHash="" name="iwd2_ba5002.bmu" dlsize="0" size="802070" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="8A0AC32A44AEED9F1463FED2E205DBB2DA7200F7" downloadHash="" name="iwd2_ba5005.bmu" dlsize="0" size="1068310" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="789AE636A4FE95E689225B826F4126E96067A411" downloadHash="" name="iwd2_m7.bmu" dlsize="0" size="554638" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="BE288F001D38EF8F632C58C8E41CFC13B6004C57" downloadHash="" name="iwd2_mx1000.bmu" dlsize="0" size="2165453" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="D5E11AD9EC279122E449785A497F26B441B54B00" downloadHash="" name="iwd2_mx1100.bmu" dlsize="0" size="1762958" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="58E169B0F0DF89D1A3154A4BA31EEE267709D709" downloadHash="" name="iwd2_mx1200.bmu" dlsize="0" size="1497972" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="CADC24CE62412CC0B9C680F652D30E64A919F07C" downloadHash="" name="iwd2_mx2102.bmu" dlsize="0" size="2301708" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="7403A780A88A5949EFCC02D6216A00542BC7245C" downloadHash="" name="iwd2_mx5001.bmu" dlsize="0" size="1570697" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="384974D04D160F8383AF63E4FB81419BAE2657EF" downloadHash="" name="iwd2_mx5003.bmu" dlsize="0" size="1579474" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="F62C92703EB5BC627B25541AE20E8F4AA84A17F5" downloadHash="" name="iwd2_mx5101.bmu" dlsize="0" size="1043651" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="FAEC1B0146EEFDA077DADF521430255B09A76E97" downloadHash="" name="iwd2_mx5201.bmu" dlsize="0" size="1614583" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="E2895F9330C184370A29ED1F0D99DFF2A8AA046B" downloadHash="" name="iwd2_mx6000.bmu" dlsize="0" size="1947696" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="42BE4AEEFA93E204039675065788D4962B3D6D9F" downloadHash="" name="iwd2_mx6100.bmu" dlsize="0" size="1897123" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="ED09E84BAC48A27B15A1696B1D726FA96C23883B" downloadHash="" name="iwd2_mx6301.bmu" dlsize="0" size="1063713" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="D5C71EF84467BC74F92E106CB35D7C9061C4859D" downloadHash="" name="misc_searock.bmu" dlsize="0" size="4636010" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="F30BC58733991E8105C321C17906FB10E3F9726B" downloadHash="" name="misc_icewarden.bmu" dlsize="0" size="3861531" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Music" hash="CABF0AA55E8670A4722A71AA76F8CA4D7165A867" downloadHash="" name="da_elfsong.bmu" dlsize="0" size="2260748" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
