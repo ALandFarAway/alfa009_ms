@@ -852,7 +852,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="07845E1206FC94B735AAB06870BB6A8B2514F0F4" downloadHash="4F75628205C053D98C9296DFD24016376C1D761B" name="underdark area a north.trx" dlsize="471698" size="482369" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1B18A917BDA871216549F188171271B765E2F6C6" downloadHash="1F270C273C762502A995A87BF6F4B5D33599CF72" name="underdark area a north.trx" dlsize="487516" size="498467" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1482,7 +1482,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BB0AA23DC1B9F33FAD8770EEF0F129B85C95247A" downloadHash="6322BAF29A8A864E93C8344326547D6EBCC8A332" name="skullport burning troll.trx" dlsize="175245" size="354101" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="42A42E978717307F7A75351103ADDE661A4D4FD9" downloadHash="80F8AA6C0A4C4DD9ABD1B51E9557129431F88F73" name="skullport burning troll.trx" dlsize="306855" size="488232" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1627,7 +1627,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7F1462068EC4F4683D9EBCEB97B47C30793C23AC" downloadHash="6B5071176028EAD4116573447B7A3E10A55C5967" name="skullport lw- drow lair.trx" dlsize="593397" size="825642" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0BC5FEB8BA4281B0536413AA36181B014E5851D0" downloadHash="E9AE5F7A6989841E6F2A3F9C9AF627DBEB91C42C" name="skullport lw- drow lair.trx" dlsize="582501" size="814552" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
