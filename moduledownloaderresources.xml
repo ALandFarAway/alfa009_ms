@@ -557,7 +557,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="40A006DE2DFAF253E1E231B9015B55F5FA12561D" downloadHash="63B5C44094F42517BD95A1D75C22551735A3154B" name="alaron q22 c callidyrr west.trx" dlsize="2897324" size="17335951" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="13C7FC55052E228AB1671D8A97790697D965C223" downloadHash="70450F03B251E70013D9237FC653EC664374984A" name="alaron q22 c callidyrr west.trx" dlsize="2902367" size="17346391" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1177,7 +1177,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0E9D949274808C1C7466EF0AF4C83C22AE614B3E" downloadHash="8895ABE724FF3DFE89F656879A94BE309C992D5C" name="wd 4g taverns_inns int.trx" dlsize="377002" size="424073" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6156206BE2A4C55F647D063209A8F228B58A8676" downloadHash="7FDFCB1916B3ECD82C7D9B9D0D8A603A80DF8195" name="wd 4g taverns_inns int.trx" dlsize="381118" size="428241" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1872,7 +1872,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7E166E0D4E88DEA3D1D836A43025D47F72037F11" downloadHash="4FFE9C3585FA0179191B021D4C41F3B91A8F5758" name="skullport lower west docks.trx" dlsize="2791752" size="12330785" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FE79832F1759E932FC0838F6F9841C9E952B8ED2" downloadHash="8A38B934D47792E48DB68B34D9F4C56533DA1C56" name="skullport lower west docks.trx" dlsize="2775965" size="12312812" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2818,6 +2818,11 @@
     </server-ref>
   </resource>
   <resource type="Music" hash="CABF0AA55E8670A4722A71AA76F8CA4D7165A867" downloadHash="" name="da_elfsong.bmu" dlsize="0" size="2260748" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="7E38E51E5C69AC69194861BBE7BDFE387F8D3B0C" downloadHash="76FCDDEF9442F2FF471585F100749E7D4E05ACD2" name="skullport lp inns_festhalls.trx" dlsize="298137" size="479280" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
