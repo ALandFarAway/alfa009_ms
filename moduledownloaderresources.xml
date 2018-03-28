@@ -1115,7 +1115,11 @@
       <string>0</string>
     </server-ref>
   </resource>
+<<<<<<< HEAD
   <resource type="DirectoryEntry" hash="E9E75690B468E969A04BE6509840BF2CD3637A60" downloadHash="E5270C550649B5D0B8E787D90A6B7577CCC343D9" name="skullport lp inns_festhalls.trx" dlsize="298129" size="479280" critical="false" exclude="false" urlOverride="">
+=======
+  <resource type="DirectoryEntry" hash="EDB0EA495EA72AB62CCDC471F1D2064682C1AF5E" downloadHash="AF531018CCA16885F47F657E226B91C678EB56FB" name="skullport lp inns_festhalls.trx" dlsize="297023" size="478224" critical="false" exclude="false" urlOverride="">
+>>>>>>> e69279e680038092ba9c04627b545d2fdf845ea7
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1421,45 +1425,80 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="6156206BE2A4C55F647D063209A8F228B58A8676" downloadHash="7FDFCB1916B3ECD82C7D9B9D0D8A603A80DF8195" name="wd 4g taverns_inns int.trx" dlsize="381118" size="428241" critical="false" exclude="false" urlOverride="">
+<<<<<<< HEAD
+=======
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="481071072C32D160E644552B877EA2DC3DF4A674" downloadHash="FEE3FE9EC5E42C0ACF128FA99ED7E3A4CF4EAB5C" name="wd 4h dock_south ward inns.trx" dlsize="707066" size="1431717" critical="false" exclude="false" urlOverride="">
+>>>>>>> e69279e680038092ba9c04627b545d2fdf845ea7
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
+<<<<<<< HEAD
+  <resource type="DirectoryEntry" hash="481071072C32D160E644552B877EA2DC3DF4A674" downloadHash="FEE3FE9EC5E42C0ACF128FA99ED7E3A4CF4EAB5C" name="wd 4h dock_south ward inns.trx" dlsize="707066" size="1431717" critical="false" exclude="false" urlOverride="">
+=======
   <resource type="DirectoryEntry" hash="E9E165D8739E2586457E7254248529EDF0174068" downloadHash="5BF031424F25981C38F5A76234382EE4D8BDC48D" name="gwynneth n35 llyrath forest int.trx" dlsize="291311" size="293442" critical="false" exclude="false" urlOverride="">
+>>>>>>> e69279e680038092ba9c04627b545d2fdf845ea7
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
+<<<<<<< HEAD
+  <resource type="DirectoryEntry" hash="E9E165D8739E2586457E7254248529EDF0174068" downloadHash="5BF031424F25981C38F5A76234382EE4D8BDC48D" name="gwynneth n35 llyrath forest int.trx" dlsize="291311" size="293442" critical="false" exclude="false" urlOverride="">
+=======
   <resource type="DirectoryEntry" hash="89CBDF645146BB07079E3E6ACB5C6F914A326A2F" downloadHash="D9A051AE31730F94DF5FC188210226AC74906B13" name="queen robyn at sea int.trx" dlsize="87040" size="87298" critical="false" exclude="false" urlOverride="">
+>>>>>>> e69279e680038092ba9c04627b545d2fdf845ea7
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
+<<<<<<< HEAD
+  <resource type="DirectoryEntry" hash="89CBDF645146BB07079E3E6ACB5C6F914A326A2F" downloadHash="D9A051AE31730F94DF5FC188210226AC74906B13" name="queen robyn at sea int.trx" dlsize="87040" size="87298" critical="false" exclude="false" urlOverride="">
+=======
   <resource type="DirectoryEntry" hash="FE831B5719BC105D9147EACC886D913660BEAC63" downloadHash="574BFDE4ACC3F7B51EBDB82191B123ACAE3AB972" name="nelanther drachenshore  cave.trx" dlsize="1110915" size="1127190" critical="false" exclude="false" urlOverride="">
+>>>>>>> e69279e680038092ba9c04627b545d2fdf845ea7
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
+<<<<<<< HEAD
+  <resource type="DirectoryEntry" hash="FE831B5719BC105D9147EACC886D913660BEAC63" downloadHash="574BFDE4ACC3F7B51EBDB82191B123ACAE3AB972" name="nelanther drachenshore  cave.trx" dlsize="1110915" size="1127190" critical="false" exclude="false" urlOverride="">
+=======
   <resource type="DirectoryEntry" hash="82FA2988692D9A8BD2413BEEE84FFC6E59E1386C" downloadHash="C9CE5DD41891AC72F38DF57CE8EE0291C908B2D2" name="skullport cult plague fire death.trx" dlsize="227294" size="228503" critical="false" exclude="false" urlOverride="">
+>>>>>>> e69279e680038092ba9c04627b545d2fdf845ea7
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
+<<<<<<< HEAD
+  <resource type="DirectoryEntry" hash="82FA2988692D9A8BD2413BEEE84FFC6E59E1386C" downloadHash="C9CE5DD41891AC72F38DF57CE8EE0291C908B2D2" name="skullport cult plague fire death.trx" dlsize="227294" size="228503" critical="false" exclude="false" urlOverride="">
+=======
   <resource type="DirectoryEntry" hash="2F059046EF3ADC9566D909436EAE7E577D4A27D9" downloadHash="9A84895207152F3CCA58278FC1C842D8CDF46D4D" name="alaron p21 farheight canyon int.trx" dlsize="500001" size="596405" critical="false" exclude="false" urlOverride="">
+>>>>>>> e69279e680038092ba9c04627b545d2fdf845ea7
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
+<<<<<<< HEAD
+  <resource type="DirectoryEntry" hash="2F059046EF3ADC9566D909436EAE7E577D4A27D9" downloadHash="9A84895207152F3CCA58278FC1C842D8CDF46D4D" name="alaron p21 farheight canyon int.trx" dlsize="500001" size="596405" critical="false" exclude="false" urlOverride="">
+=======
+  <resource type="DirectoryEntry" hash="B25C844130C2D1EC73B85B611D8DC02D3930B05F" downloadHash="F88BC7D484F21233FFB2B61EB07076EF815AEBC3" name="dwyvach g i36 salt flats.trx" dlsize="2966600" size="15967844" critical="false" exclude="false" urlOverride="">
+>>>>>>> e69279e680038092ba9c04627b545d2fdf845ea7
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+<<<<<<< HEAD
   <resource type="DirectoryEntry" hash="B25C844130C2D1EC73B85B611D8DC02D3930B05F" downloadHash="F88BC7D484F21233FFB2B61EB07076EF815AEBC3" name="dwyvach g i36 salt flats.trx" dlsize="2966600" size="15967844" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
+=======
+>>>>>>> e69279e680038092ba9c04627b545d2fdf845ea7
   <resource type="DirectoryEntry" hash="00222550F3824FEE1C8AE1E870D94FA206436650" downloadHash="DD8D50A0F9DFE0178A53A527180917780A5ECF23" name="skaug floating pirate camp.trx" dlsize="589756" size="8191234" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
