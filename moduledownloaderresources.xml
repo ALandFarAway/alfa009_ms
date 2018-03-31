@@ -165,7 +165,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FE79832F1759E932FC0838F6F9841C9E952B8ED2" downloadHash="8A38B934D47792E48DB68B34D9F4C56533DA1C56" name="skullport lower west docks.trx" dlsize="2775965" size="12312812" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="786B1F81EF3164E11D370EF3C2A0142F05E0A5C7" downloadHash="790BF95F5C254ED96E771A8BEC93003C602FD561" name="skullport lower west docks.trx" dlsize="2769712" size="12308265" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1115,7 +1115,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="EDB0EA495EA72AB62CCDC471F1D2064682C1AF5E" downloadHash="AF531018CCA16885F47F657E226B91C678EB56FB" name="skullport lp inns_festhalls.trx" dlsize="297023" size="478224" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FF0D5090FA43A3865B8631D2E9FC9BA6DFC8617B" downloadHash="05AE72FEEC1A6E06BB2E4980484F8811F74C32E4" name="skullport lp inns_festhalls.trx" dlsize="303756" size="484725" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
