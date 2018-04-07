@@ -1220,7 +1220,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F13EA6EABB65E84E989738E02F84AE38FF347B56" downloadHash="658C836AEFAAC849F15524FBB1DCEBFE41F21190" name="oman j26 gramphalt frostgiants.trx" dlsize="729507" size="746107" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4D521E793FE569961D2C452A69040873F1AF69E7" downloadHash="96B7D71A47B42561ECBAAFB93B7C1A99F4808CA6" name="oman j26 gramphalt frostgiants.trx" dlsize="746186" size="762404" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1730,7 +1730,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2006BAB829399035F4C8994E4B26479F2C30C3D8" downloadHash="67B6EAD044E3CB91BF25F88B1F4C9CEE9D2BF569" name="009_startarea.trx" dlsize="92176" size="94370" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D9A0FC35698327632CE2B992CB8EDBE803E3C6E1" downloadHash="B691C07E48D140D9ED07B7A9C5BC12DD4895A4E9" name="009_startarea.trx" dlsize="136336" size="139111" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
