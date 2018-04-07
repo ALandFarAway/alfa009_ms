@@ -60,11 +60,11 @@ void main( string sItemTag ) {
 	// Gloomshroom: 15gp, 7.5xp, CR 5
 	nGP += ConsumeReward( oPC, "it_gloomshroom", 15, 7.5f, 5.0f );
 
-	// Troll Blood: 50gp, 25xp, CR 8
-	nGP += ConsumeReward( oPC, "N2_CRFT_DIST033", 50, 25.0f, 8.0f );
+	// Troll Blood: 20gp, 10xp, CR 8
+	nGP += ConsumeReward( oPC, "N2_CRFT_DIST033", 20, 10.0f, 8.0f );
 
-	// Troll Blood (from other servers?): 50gp, 25xp, CR 8
-	nGP += ConsumeReward( oPC, "it_plot_hide_troll", 50, 25.0f, 8.0f );
+	// Troll Blood (from other servers?): 20gp, 10xp, CR 8
+	nGP += ConsumeReward( oPC, "it_plot_hide_troll", 20, 10.0f, 8.0f );
 
 	// Fire Beetle Gland: 3gp, 1.5xp, CR 2
 	nGP += ConsumeReward( oPC, "it_plot_beetle_fire", 3, 1.5f, 2.0f );
