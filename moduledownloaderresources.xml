@@ -1730,7 +1730,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D9A0FC35698327632CE2B992CB8EDBE803E3C6E1" downloadHash="B691C07E48D140D9ED07B7A9C5BC12DD4895A4E9" name="009_startarea.trx" dlsize="136336" size="139111" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="CB008150F14DA3A7482BDD7ABF3848FE66792DFC" downloadHash="A5225B2B8221029458067493C63F9BBF5989946B" name="009_startarea.trx" dlsize="136196" size="138967" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1822,7 +1822,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="2F820D40C0BCE2DAB14943C6456A741A50D4596D" downloadHash="8360FBCDC202A30AC4C83191BB5A221FFA3BF2E8" name="alfa2_acr.hak" dlsize="4104469" size="134384664" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="B7EA66C81F4BCCBBCF2A814124F004E1643B56F0" downloadHash="9DD4D446C41829901371EC38C940840C8F2D9487" name="alfa2_acr.hak" dlsize="4089795" size="133582320" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
