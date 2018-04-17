@@ -565,7 +565,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F26F8F638D47AB9637CD4ECEC3FDA3E9B603A145" downloadHash="3F96D5EBE87CB48A907825E315CBD1E649CF24BA" name="wd 4h dock_south ward.trx" dlsize="1840015" size="13222600" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4A959E82410A988F9E745EEE89C079273A1CB7BF" downloadHash="5B396B0A6F252398864B1F4E2B6B4E964F730BC3" name="wd 4h dock_south ward.trx" dlsize="1844803" size="13224481" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -945,7 +945,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C6C474F0ADD7401A218CA2530046812B8798E9E8" downloadHash="7D45146690236B6E779CB645C89F702C279FD3B0" name="alaron q22 c callidyrr int 2.trx" dlsize="496044" size="947739" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="56A60230DBAE4E0B391432FBE9A250910222CA50" downloadHash="6B26A2497BFE468A5D1C421B44B796B21F1983F5" name="alaron q22 c callidyrr int 2.trx" dlsize="495638" size="947665" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1195,7 +1195,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="28BBCBB842F536302CF77FB4D7962A998619DE97" downloadHash="94752B6D900E20CED53E3B91871F506416B00496" name="nelanther drachenshore misc int.trx" dlsize="366119" size="368894" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="204C77CDE028E0784065211E6EA2E3DFAEC94D11" downloadHash="0BD27DD64B9C3CE3BFE24303595F9A32CC9D5F03" name="nelanther drachenshore misc int.trx" dlsize="365201" size="367865" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1220,7 +1220,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4D521E793FE569961D2C452A69040873F1AF69E7" downloadHash="96B7D71A47B42561ECBAAFB93B7C1A99F4808CA6" name="oman j26 gramphalt frostgiants.trx" dlsize="746186" size="762404" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F73A7B1DCD20E2FD695CEDF1CD520DEF226637D8" downloadHash="5B2F15176BAE417721FEEDB8F724C47E1F479220" name="oman j26 gramphalt frostgiants.trx" dlsize="730790" size="746632" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1240,7 +1240,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D04F5C06215958EABC98F7B66771CFDF8DF588F6" downloadHash="72E8513AC7AAF9459BB9748E3036ED6A451A8C17" name="wd 4h dock_south ward int.trx" dlsize="424438" size="471073" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="CB613F4A6BE87D8A8FBBECA32ECC5123EFD1FB78" downloadHash="1E4C48089E695BFBC3BBE9BDA9712DE06B674B96" name="wd 4h dock_south ward int.trx" dlsize="425202" size="471699" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1340,7 +1340,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0DBB82EA8BDC79D66CA95031A28AFD2600E66539" downloadHash="39D53A7B4521F7836CA3540DDBB0607A4C241F72" name="gwynneth o33 llyrath forest int.trx" dlsize="1267094" size="1415105" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="11DC73D1ED2441C12E85FC081A07C9FF4479EA19" downloadHash="EBD83C424BE9239CBD503EEB071BBA807310810F" name="gwynneth o33 llyrath forest int.trx" dlsize="1248096" size="1397168" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1355,7 +1355,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5300F60C9C543E45DEF5E4F2D71340ECCEA6EF98" downloadHash="B31077F1A71C11AEACDC801FCDCC2CC20A5D2152" name="alaron q22w farheight road int1.trx" dlsize="319826" size="501587" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3D62B1F31306F9D5C408D1FCE258F5F9ED8AB56C" downloadHash="8E9D7B8D6D8E93E704E450D6E889436B36039F90" name="alaron q22w farheight road int1.trx" dlsize="319927" size="501643" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1440,12 +1440,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DCE52B927D92CC45B5008D756232631DAF0AACC2" downloadHash="12A3DACCC932189AC1E7C7282D53050F5D50D3AF" name="nelanther drachenshore  cave.trx" dlsize="948846" size="963757" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8DAFE8A61A134AC8783C970D34563F597B49B9AB" downloadHash="33C56508B4F48952496816B66EC3E5F1DE4F5736" name="nelanther drachenshore  cave.trx" dlsize="969874" size="985808" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="82FA2988692D9A8BD2413BEEE84FFC6E59E1386C" downloadHash="C9CE5DD41891AC72F38DF57CE8EE0291C908B2D2" name="skullport cult plague fire death.trx" dlsize="227294" size="228503" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2327FF129AAFE65D738DB9B9C86468387FC0C4A5" downloadHash="9719D4F53B42FC62FCB20C845675A657903E7FCF" name="skullport cult plague fire death.trx" dlsize="226814" size="228171" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1580,7 +1580,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A4238F00429EF06D1E5042A2AE00D1C892D17AFA" downloadHash="3F31A3B17021E5B57F4E5C8371F0F9A88AA7703B" name="moray isle f29e dungeon l1.trx" dlsize="1255569" size="8828232" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A0BAAFB5FF7A90BAD6CBDAF9D0D8D49C887BB6EA" downloadHash="B3A1DA71C71992271D3E51D56C7DE7C2C7F688A0" name="moray isle f29e dungeon l1.trx" dlsize="1261507" size="8828248" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1730,7 +1730,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CB008150F14DA3A7482BDD7ABF3848FE66792DFC" downloadHash="A5225B2B8221029458067493C63F9BBF5989946B" name="009_startarea.trx" dlsize="136196" size="138967" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="42A2E6B98C7EFDAF59031A6CF436646D251B88A1" downloadHash="DD6241EAC216E3D343444C6C6D569D2587EA075E" name="009_startarea.trx" dlsize="135456" size="138119" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
