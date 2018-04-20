@@ -1730,7 +1730,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="42A2E6B98C7EFDAF59031A6CF436646D251B88A1" downloadHash="DD6241EAC216E3D343444C6C6D569D2587EA075E" name="009_startarea.trx" dlsize="135456" size="138119" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="580819E9C6F0AC28C710185BF82E357EC71AB7C6" downloadHash="3B9E4D45312265C3C8D4FFEBA45E970D6425C534" name="009_startarea.trx" dlsize="143752" size="146360" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
