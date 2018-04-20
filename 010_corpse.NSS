@@ -19,7 +19,7 @@ void main()
 	SetLocalInt(OBJECT_SELF, "talk", 1);
 
 	//BeginConversation("clothes");
-	ActionStartConversation(oUser,"010_corpse",TRUE, FALSE);
+	ActionStartConversation(oUser,"009_corpse",TRUE, FALSE);
 	
 	// Do something
 }
