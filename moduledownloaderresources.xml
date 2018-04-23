@@ -455,7 +455,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0BC5FEB8BA4281B0536413AA36181B014E5851D0" downloadHash="E9AE5F7A6989841E6F2A3F9C9AF627DBEB91C42C" name="skullport lw- drow lair.trx" dlsize="582501" size="814552" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="97761DF91CB2C1CAC32CF29EA7E5DBFC38A18A83" downloadHash="DAD2984FE46DB3A52B794E33047B45E207FD10E3" name="skullport lw- drow lair.trx" dlsize="601403" size="879943" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -580,7 +580,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="934AFEAD049BA7BA1D61B73DE2A258188A5AD72B" downloadHash="9377D1169E27C4AF9B8715C7919BBC39A12A186D" name="alaron q22 c callidyrr housing.trx" dlsize="539040" size="1129318" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="03D6B40067DD2E04032C9084D6D44438EB6FF3C8" downloadHash="F8E9AFE58E8F1C30A7F705D602D1DC8906C6F9ED" name="alaron q22 c callidyrr housing.trx" dlsize="536419" size="1124721" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1730,7 +1730,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DE14ED4E3D297FAD50D921D1041E992C2F7496BD" downloadHash="AF61B81A49C9652980B5BF7447F1C30D31BC8A32" name="009_startarea.trx" dlsize="151613" size="154140" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="57DC9EEB74261449772BAC95A30B2C048D6B8343" downloadHash="473E9FD396304AE1AD61A39FC3D4A4C7AA34CAA1" name="009_startarea.trx" dlsize="145212" size="147842" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
