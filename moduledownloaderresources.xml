@@ -275,7 +275,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="22B32E8CCDF8BC9A7D7787BB6C759C6B9E94062E" downloadHash="8871C1496B9ED0B98E97E5C8ED050E5AF42F3867" name="gwynneth o34 macsheehan rd int.trx" dlsize="77780" size="78192" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C016F5B4BA6C9E84FC1A1E6EB0DAE7262EF5E329" downloadHash="787605137F53F8A48241A9B3C17A6C48B12CDFB9" name="gwynneth o34 macsheehan rd int.trx" dlsize="103205" size="103888" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -580,7 +580,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A2A3D7AFD06BE9421344FE1B3D9F569705840601" downloadHash="647E030597FD3F79D161BA874E126B2754C40783" name="alaron q22 c callidyrr housing.trx" dlsize="540584" size="1130746" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="32A956DFC1A439A47800C208175E66437B7C0CE4" downloadHash="74DE2B28C2EE3D4997DAA783602D5179EF4977AF" name="alaron q22 c callidyrr housing.trx" dlsize="558248" size="1191154" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1115,7 +1115,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FF0D5090FA43A3865B8631D2E9FC9BA6DFC8617B" downloadHash="05AE72FEEC1A6E06BB2E4980484F8811F74C32E4" name="skullport lp inns_festhalls.trx" dlsize="303756" size="484725" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C7DC26C69046DECDC44819EB1F1061CEBCA32EF7" downloadHash="BCA4F2B840C6E74A08C3DA7537883AE3FF9F5CC8" name="skullport lp inns_festhalls.trx" dlsize="313665" size="494130" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1400,7 +1400,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="40CCFF64605C701702B2B1BB67F60871ADDBF2A1" downloadHash="6411A204F42A9325B6291E75DDAB9643647A9AF1" name="alaron q22 c callidyrr high dist.trx" dlsize="3061212" size="15794968" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2216811BE2EE5793EB32ECC582229670674A3B93" downloadHash="A170B27895193E2F8C3B9E3168BD0F2AC1AE8A30" name="alaron q22 c callidyrr high dist.trx" dlsize="3062858" size="15796783" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1440,7 +1440,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8DAFE8A61A134AC8783C970D34563F597B49B9AB" downloadHash="33C56508B4F48952496816B66EC3E5F1DE4F5736" name="nelanther drachenshore  cave.trx" dlsize="969874" size="985808" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="25513586010A151B18CE2A9CC79D79CFBE9CE15E" downloadHash="E1D67873084204A7FCD17D9D5DF3F71DEB75CBFE" name="nelanther drachenshore  cave.trx" dlsize="948270" size="962888" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
