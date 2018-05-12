@@ -455,7 +455,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="031C32148B0C7DDB916F48C3F3EA6A3428F9A64F" downloadHash="04F5333608C9C3EDCFCB27C208D475504A3B6799" name="skullport lw- drow lair.trx" dlsize="614412" size="891766" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A24061A4B4CD1489778495A2920C6B72A66A3016" downloadHash="8CE35D070A2CD0A56736DA63A558FD68536E07D8" name="skullport lw- drow lair.trx" dlsize="603751" size="881714" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
