@@ -455,7 +455,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="97761DF91CB2C1CAC32CF29EA7E5DBFC38A18A83" downloadHash="DAD2984FE46DB3A52B794E33047B45E207FD10E3" name="skullport lw- drow lair.trx" dlsize="601403" size="879943" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="031C32148B0C7DDB916F48C3F3EA6A3428F9A64F" downloadHash="04F5333608C9C3EDCFCB27C208D475504A3B6799" name="skullport lw- drow lair.trx" dlsize="614412" size="891766" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -580,7 +580,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="32A956DFC1A439A47800C208175E66437B7C0CE4" downloadHash="74DE2B28C2EE3D4997DAA783602D5179EF4977AF" name="alaron q22 c callidyrr housing.trx" dlsize="558248" size="1191154" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D8227DC80E9A75E4D0017992112409E944747569" downloadHash="E756F89735683A44ECC597AFBF5FECEBBE32B092" name="alaron q22 c callidyrr housing.trx" dlsize="560919" size="1193904" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -655,7 +655,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="AC35D827918F5CEAB08EA28BA9EFEE93BBF8ACCD" downloadHash="8C765E418D2023C63D7D644D0D394768B2230F12" name="snowdown r34 westphal inn tavern.trx" dlsize="364933" size="368069" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="49D8AB9E359ADE6655D587D89713F9A20102BCE3" downloadHash="5F91C50A4E53A5A5CB7151AACC097C8F33530465" name="snowdown r34 westphal inn tavern.trx" dlsize="363204" size="366083" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1190,7 +1190,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1B18A917BDA871216549F188171271B765E2F6C6" downloadHash="1F270C273C762502A995A87BF6F4B5D33599CF72" name="underdark area a north.trx" dlsize="487516" size="498467" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A200AAB51F61E69A4727BA37C6403B3C9DF9B8AB" downloadHash="FB9C51F7338E3D19E676570AE51DEF8023DD12DF" name="underdark area a north.trx" dlsize="494305" size="505026" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
