@@ -1,10 +1,10 @@
 //Put this script OnEnter
 
-#include "acr_trigger_i"
+
 
 void main()
 {
-  ACR_TriggerOnEnter();
+
   
    effect eVFX;
    effect eDamage;
