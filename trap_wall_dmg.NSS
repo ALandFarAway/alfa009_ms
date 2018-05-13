@@ -10,7 +10,7 @@
 
 void main()
 {
- ACR_TriggerOnEnter();
+
  
     effect eVFX;
     effect eDamage;
