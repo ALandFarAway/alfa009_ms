@@ -95,7 +95,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BE9FCEB2C7BC5D26C2BF969965263574F26ACE27" downloadHash="56D255263A198FE845ED66F6900DAEE010E3511C" name="alaron q22se high kings road.trx" dlsize="2593686" size="16278869" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="123A96411F082580A4365CA741D850D3E8CC1A6B" downloadHash="C8DC555493A258B88A6FDF3B841D1368DFC7A438" name="alaron q22se high kings road.trx" dlsize="2600482" size="16281610" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1905,7 +1905,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E729579B77FB3041F1124E7CED375EF5D1766611" downloadHash="EE1CC834FB8DD992123F427B410777297E466547" name="alaron q22w farheight rd.trx" dlsize="3247392" size="20159038" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C6AA1E826D0C65A2185AA7982D4B392D6FD6C11B" downloadHash="9130A8F49E950756E14215CDAFC4E5839D314E52" name="alaron q22w farheight rd.trx" dlsize="3267109" size="20242491" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
