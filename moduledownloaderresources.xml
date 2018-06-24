@@ -1195,7 +1195,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CD1DECE2699DD2D4B533F7615A68B14153FAD5DC" downloadHash="397DFE625564F5795DB0E9451847592A8F9D5DAB" name="nelanther drachenshore misc int.trx" dlsize="798280" size="811417" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="84DE60B4DD5F9BFD58D8302B13784D73C7D24095" downloadHash="5524A2C5610C62F53AC87D73BB7D745947FDD6C4" name="nelanther drachenshore misc int.trx" dlsize="793293" size="806598" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1906,6 +1906,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="EF03A2EDF02683924C21C8FBE02EEFD1BF1B62E0" downloadHash="5F86E638AB3D7B2BD621AA474E2956674C455976" name="alaron q22w farheight rd.trx" dlsize="3331611" size="20298046" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="310C3B7CB2EBBD2448A3D958C806ACFCA7610F45" downloadHash="D45E4010471660BD27E1B9B85D95BB6C8DAD919E" name="_dreamland.trx" dlsize="1011003" size="11562021" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
