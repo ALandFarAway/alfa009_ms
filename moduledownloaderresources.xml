@@ -1195,7 +1195,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="84DE60B4DD5F9BFD58D8302B13784D73C7D24095" downloadHash="5524A2C5610C62F53AC87D73BB7D745947FDD6C4" name="nelanther drachenshore misc int.trx" dlsize="793293" size="806598" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BBFD9E78742C5116001A693688C327C569A187AF" downloadHash="379E831F97D62B1F6365A96B440894242A17CFDA" name="nelanther drachenshore misc int.trx" dlsize="814548" size="830131" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1440,7 +1440,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C6C8A4DC1BEAB4A4C4A5EDFA5455BE814814A6A6" downloadHash="5E07B0C5A788E33CFF9711A1359D52486C24411D" name="nelanther drachenshore  cave.trx" dlsize="1031756" size="1046150" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="277C356DF555B2FC63B60466BE0F6F046794E6D0" downloadHash="7D2F977D25F35AF0A015AD1B5A6F3C99A0EF529A" name="nelanther drachenshore  cave.trx" dlsize="1464687" size="1481860" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1725,7 +1725,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="05720AC63E74139FADC1C85A0C73C51C06CC0442" downloadHash="DB35E5EA4ABA3241B96237C7B9708151FC5B2D6D" name="nelanther isle of drachenshore.trx" dlsize="5859898" size="35298207" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E48827FA6C0B7C3E1065ED93A85F8A9E3F6AD310" downloadHash="4278F8709EC2E6FF4074C5291C460CA3ADDF591A" name="nelanther isle of drachenshore.trx" dlsize="5877534" size="35306193" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
