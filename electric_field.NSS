@@ -9,6 +9,7 @@
 
 void main()
 {
+    effect eEffect;
     object oTarget;
     effect eVFX;
     effect eDamage;
@@ -21,11 +22,13 @@ void main()
         return;
 
     // Cause damage.
-    eDamage = EffectDamage(d10(5), DAMAGE_TYPE_ELECTRICAL);
+    eDamage = EffectDamage(d10(3), DAMAGE_TYPE_ELECTRICAL);
     eVFX = EffectVisualEffect(VFX_IMP_LIGHTNING_M);
-    oTarget = GetObjectByTag("trg_Electrical_Field");
-    ApplyEffectToObject(DURATION_TYPE_INSTANT, eDamage, oTarget);
-    ApplyEffectToObject(DURATION_TYPE_INSTANT, eVFX, oTarget);
+    ApplyEffectToObject(DURATION_TYPE_INSTANT, eDamage, oPC);
+    ApplyEffectToObject(DURATION_TYPE_INSTANT, eVFX   , oPC);
+
+    // Send a message to the player's chat window.
+    SendMessageToPC(oPC, "*You are thown back by the impact of the electrical field*");
 
     // Find the location to which to teleport.
     oTarget = GetNearestObjectByTag("WP_Electric_Thrown");
@@ -33,4 +36,8 @@ void main()
     // Teleport the PC.
     AssignCommand(oPC, ClearAllActions());
     AssignCommand(oPC, JumpToObject(oTarget));
+
+    // Apply an effect.
+    eEffect = SupernaturalEffect(EffectKnockdown());
+    ApplyEffectToObject(DURATION_TYPE_TEMPORARY, eEffect, oPC, 10.0);
 }

@@ -19,6 +19,6 @@ void main()
         return;
 
     // Have Circle of Revealing cast Greater Dispelling.
-    oActor = GetObjectByTag("PLC_dispel_magic");
+    oActor = GetNearestObjectByTag("PLC_dispel_magic");
     AssignCommand(oActor, ActionCastSpellAtObject(SPELL_DISPEL_MAGIC, oPC, METAMAGIC_ANY, TRUE, 0, PROJECTILE_PATH_TYPE_DEFAULT, TRUE));
 }
