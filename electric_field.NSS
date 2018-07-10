@@ -28,7 +28,7 @@ void main()
     ApplyEffectToObject(DURATION_TYPE_INSTANT, eVFX   , oPC);
 
     // Send a message to the player's chat window.
-    SendMessageToPC(oPC, "*You are thown back by the impact of the electrical field*");
+    SendMessageToPC(oPC, "*You are thown back by the impact of an electrical field*");
 
     // Find the location to which to teleport.
     oTarget = GetNearestObjectByTag("WP_Electric_Thrown");

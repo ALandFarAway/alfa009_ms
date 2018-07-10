@@ -1440,7 +1440,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="AA925DAE9EE71E18E45A1352D478C07CB5D16D50" downloadHash="CDCBFE89207DB83AE12F5E75A02AC682BDF657B6" name="nelanther drachenshore  cave.trx" dlsize="1390253" size="1415055" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4BCDFA1CB92E8626F948C508F9574C5C5D10E98D" downloadHash="42382B9C27E9CED03D9BAB07A6A36146ADF64F20" name="nelanther drachenshore  cave.trx" dlsize="1390860" size="1415118" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1710,7 +1710,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="251DC1ACFBDB6C329B84EB3D5E36BDF89B03BB17" downloadHash="ED6C7E447B2B9A2C97118F5AF2C8D922CB8BF89B" name="009_testing grounds.trx" dlsize="326782" size="8510856" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D5FFF1E2A5EDBCDADC19CE8C2A440DC2AE1D8118" downloadHash="FE3168ABF6AE5AECB9BF65004E37D68C56402C0A" name="009_testing grounds.trx" dlsize="319796" size="8508693" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1900,7 +1900,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4CDC26B82BDA40AF5121DAD1CABBDCCBBEF79F0C" downloadHash="89A61FA01B32E5DDA2CBF2A7AF48953633C8D52E" name="alaron q22w farheight rd estate.trx" dlsize="408130" size="814768" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A85FD0CB7A3532A65742A98BA2F712C95B1813DF" downloadHash="3AC42BCF2E57B7C44C78A03E55E2E3736ABBA7D0" name="alaron q22w farheight rd estate.trx" dlsize="410240" size="817139" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
