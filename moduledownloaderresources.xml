@@ -1195,7 +1195,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5B86829FD4F279A4D9996E77FCC4ACE3E8554575" downloadHash="5FB284DCAAFCF122A0795CCC4190BF916205FB0B" name="nelanther drachenshore misc int.trx" dlsize="1052302" size="1064950" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FDEE42A624E7588477A1A969A71DA9AA8BC5132C" downloadHash="91310E545F7D0259102FC16957BAC01C94B2B715" name="nelanther drachenshore misc int.trx" dlsize="1121537" size="1134514" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1900,7 +1900,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A85FD0CB7A3532A65742A98BA2F712C95B1813DF" downloadHash="3AC42BCF2E57B7C44C78A03E55E2E3736ABBA7D0" name="alaron q22w farheight rd estate.trx" dlsize="410240" size="817139" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0AD21D9A21D10F3ECA3A5B423EE5364C683E9BC6" downloadHash="B1102A27EFB216C37A864EEFD75EA59416060E2A" name="alaron q22w farheight rd estate.trx" dlsize="409450" size="817048" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1911,6 +1911,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="310C3B7CB2EBBD2448A3D958C806ACFCA7610F45" downloadHash="D45E4010471660BD27E1B9B85D95BB6C8DAD919E" name="_dreamland.trx" dlsize="1011003" size="11562021" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="DB85CFAB0BEFB44E1998CE98A641D5D32B7CE2C6" downloadHash="C960ED1A27AE25DD9D9A3A93A130278E632B443E" name="lamp, table1.UEN" dlsize="428" size="1242" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
