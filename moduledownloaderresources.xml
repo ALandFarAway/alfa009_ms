@@ -70,7 +70,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1DBF6B35DD1FE99692A140A63C76D0817CE16514" downloadHash="927C153EBB2292D8892E39AB26DF2ACD4A35F960" name="underdark area a.trx" dlsize="379608" size="2511175" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="551CB95A8C1AB682BBB0718895963BCCADD489EE" downloadHash="E4E7A9DA5A77EFF00458E84387BF5628369A5277" name="underdark area a.trx" dlsize="418422" size="2545954" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1440,7 +1440,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="77F9183CE515AE988053BFB41343B41CFA4723BB" downloadHash="6AC1A31107871701873D4888A80DC86BB685EE91" name="nelanther drachenshore  cave.trx" dlsize="1434649" size="1456966" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="505D0CCC2E602D37E44F4EAF3999BE53735E244C" downloadHash="FB9E997CEE584CEB2C06803000D10BC52B702FA1" name="nelanther drachenshore  cave.trx" dlsize="1400976" size="1421971" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
