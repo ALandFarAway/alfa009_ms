@@ -7,6 +7,16 @@
 // Put this script OnEnter.
 
 
+// Clears all actions and jumps the caller to the provided object.
+// (Useful when this needs to be delayed.)
+void ClearAndJumpToObject(object oDestination);
+void ClearAndJumpToObject(object oDestination)
+{ 
+    ClearAllActions();
+    JumpToObject(oDestination);
+}
+
+
 void main()
 {
     effect eEffect;
@@ -22,22 +32,24 @@ void main()
         return;
 
     // Cause damage.
-    eDamage = EffectDamage(d10(3), DAMAGE_TYPE_ELECTRICAL);
+    eDamage = EffectDamage(d8(5), DAMAGE_TYPE_ELECTRICAL);
     eVFX = EffectVisualEffect(VFX_IMP_LIGHTNING_M);
     ApplyEffectToObject(DURATION_TYPE_INSTANT, eDamage, oPC);
     ApplyEffectToObject(DURATION_TYPE_INSTANT, eVFX   , oPC);
 
     // Send a message to the player's chat window.
-    SendMessageToPC(oPC, "*You are thown back by the impact of an electrical field*");
+    SendMessageToPC(oPC, "* you are knocked back by the force of the discharge*");
 
     // Find the location to which to teleport.
-    oTarget = GetNearestObjectByTag("WP_Electric_Thrown");
+    oTarget = GetWaypointByTag("WP_Electric_Thrown");
 
     // Teleport the PC.
-    AssignCommand(oPC, ClearAllActions());
-    AssignCommand(oPC, JumpToObject(oTarget));
-
+   // eVFX = EffectVisualEffect(VFX_IMP_UNSUMMON);
+   // ApplyEffectToObject(DURATION_TYPE_INSTANT, eVFX, oPC);
+   
     // Apply an effect.
-    eEffect = SupernaturalEffect(EffectKnockdown());
-    ApplyEffectToObject(DURATION_TYPE_TEMPORARY, eEffect, oPC, 10.0);
+    eEffect = EffectKnockdown();
+    ApplyEffectToObject(DURATION_TYPE_TEMPORARY, eEffect, oPC, 30.0);
+	DelayCommand(3.0, AssignCommand(oPC, ClearAndJumpToObject(oTarget)));
+
 }
