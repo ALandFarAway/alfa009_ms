@@ -41,7 +41,7 @@ void main()
     SendMessageToPC(oPC, "* you are knocked back by the force of the discharge*");
 
     // Find the location to which to teleport.
-    oTarget = GetWaypointByTag("WP_Electric_Thrown");
+    oTarget = GetNearestObjectByTag("WP_Electric_Thrown");
 
     // Teleport the PC.
    // eVFX = EffectVisualEffect(VFX_IMP_UNSUMMON);
