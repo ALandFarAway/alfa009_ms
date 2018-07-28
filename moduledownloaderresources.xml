@@ -70,7 +70,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="551CB95A8C1AB682BBB0718895963BCCADD489EE" downloadHash="E4E7A9DA5A77EFF00458E84387BF5628369A5277" name="underdark area a.trx" dlsize="418422" size="2545954" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A2FF6D64B081C56036219C02D09D8CF2B13FC9C6" downloadHash="29CA6F1F5AD11BB652BFF527029143315A4DDD5C" name="underdark area a.trx" dlsize="459028" size="2588691" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -290,12 +290,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="988501C0090F9ECD4C86EBAC70A9DCB1BBAE7C11" downloadHash="D7E173FE7BC4CDDC13EEBD5B25DAB34DEE39AE1B" name="underdark area b west.trx" dlsize="141067" size="142915" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4CF38D5B7AB3D0C7D0ED9227C37F1DE25F3F2EE1" downloadHash="084820FF824073EBEC96075A711EE6AA8F8869D2" name="underdark area b west.trx" dlsize="172528" size="533660" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BDBB1791C692EB6C0C61EAA0E9FD6422BD8AFE1A" downloadHash="45AB332B8C1BD39C9B7FFD5563DBD997648BDA26" name="underdark area a west.trx" dlsize="95535" size="96864" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C3D47464EC32AE9DFDDEB5F2D892F9DFC22D8539" downloadHash="176274F2FD1F4ADB60EA0073F4CC63EA25F2EE44" name="underdark area a west.trx" dlsize="166610" size="167941" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -770,7 +770,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="267B70B697B6AA80177EDF163B262256CFC5A152" downloadHash="4D3FB6D73D31500C88AB33F057EA4A05944736EC" name="underdark area c.trx" dlsize="360458" size="368227" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4A3F9C0B957D5F59C4543C5DB2BDA6B0617ECA15" downloadHash="7FB309E12EB91AC4AFD5EC2015D922C83C5738F1" name="underdark area c.trx" dlsize="420547" size="603523" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -835,7 +835,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="004490C6AC1C4BA54B3876375E9109CEB79FCB8A" downloadHash="520805C9CA3D3ECE2E05F759469DA0E5C8FD3677" name="underdark area b north.trx" dlsize="82229" size="82913" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F52946791902A371338ED6877B7884CBD2DED33E" downloadHash="443341E35F63B752C22D4833383CD2F90B8967F1" name="underdark area b north.trx" dlsize="93665" size="94324" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1190,7 +1190,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D777EA5EC36F44AF2BD00E0BBE5131BFF82935F4" downloadHash="847B6D4E81CD99AF59FDC7FE1C415008FA260C48" name="underdark area a north.trx" dlsize="521822" size="531815" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C9CDE658B894C085DDEFC3F2434DBE09C3D2CBAB" downloadHash="59392B2BE6CC2533D658E2BC38FD15D6253B1297" name="underdark area a north.trx" dlsize="553313" size="875235" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1535,7 +1535,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="149C3BFDA4F24F2CDD780ED836A63EC0B3170598" downloadHash="B1F5ADE6F543A5A57DCA97AF11E62730FC2D9FBC" name="underdark area b.trx" dlsize="118031" size="297830" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="782EE35CC8F7A00040307F879A81F5F72B5ACCA9" downloadHash="7D57A4133DB40B4F41C4F95B40DD79CFC9506D10" name="underdark area b.trx" dlsize="137326" size="586416" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1710,7 +1710,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="56FD7604D7E959B168BB1F79618F4283C6AB0974" downloadHash="FE8BA28BF5C1023FA50CEE178D2CA5EB45F213CB" name="009_testing grounds.trx" dlsize="323242" size="8508694" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="702E55382400361F6755F689E4521F5B4A9D6553" downloadHash="0B9A9D65E977501711C204747BCD1F30D56D1EF3" name="009_testing grounds.trx" dlsize="317446" size="8503223" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>

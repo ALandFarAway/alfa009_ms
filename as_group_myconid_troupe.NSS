@@ -58,5 +58,8 @@ void main() {
 	int i;
 	for (i=0; i<d4()+1; ++i) {
 		spawn_hostile_npc("abr_cr_pl_myconid_guard");
+		spawn_hostile_npc("sd_myconid01");
+		spawn_hostile_npc("sd_myconid03");
+		spawn_hostile_npc("abr_cr_pl_myconid_guard");
 	}
 }
