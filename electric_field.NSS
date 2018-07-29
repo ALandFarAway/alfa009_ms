@@ -35,7 +35,7 @@ void main()
     eDamage = EffectDamage(d8(5), DAMAGE_TYPE_ELECTRICAL);
     eVFX = EffectVisualEffect(VFX_IMP_LIGHTNING_M);
     ApplyEffectToObject(DURATION_TYPE_INSTANT, eDamage, oPC);
-    ApplyEffectToObject(DURATION_TYPE_INSTANT, eVFX   , oPC);
+   // ApplyEffectToObject(DURATION_TYPE_INSTANT, eVFX   , oPC);
 
     // Send a message to the player's chat window.
     SendMessageToPC(oPC, "* you are knocked back by the force of the discharge*");
