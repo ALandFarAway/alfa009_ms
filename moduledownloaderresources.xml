@@ -1555,7 +1555,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="659F788F2D91DC1EF274D76422EB49F6D84E24D0" downloadHash="4B98918034470B28CF3871C44EB1D8178FE91B34" name="alaron q22w farheight road.trx" dlsize="3240344" size="20154166" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="21D0677390267B74037586987352CC15905087A3" downloadHash="BCEE024A52519D73CF3DE81C3BAB627382757EBA" name="alaron q22w farheight road.trx" dlsize="3326568" size="20294565" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
