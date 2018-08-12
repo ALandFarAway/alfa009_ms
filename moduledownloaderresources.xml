@@ -1440,7 +1440,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6141DD3829F738222245BB11DBAEE1E2DBDC611B" downloadHash="ACAD8F9591DB4EED50C04DB244F70AD26524BF91" name="nelanther drachenshore  cave.trx" dlsize="1437520" size="1457865" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9F97ABF286B897E9D79E6398FA4BDA786D2E2BE2" downloadHash="314AE03C7101A03B51671CE4D4DB2CF35C9A9073" name="nelanther drachenshore  cave.trx" dlsize="1430172" size="1450603" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
