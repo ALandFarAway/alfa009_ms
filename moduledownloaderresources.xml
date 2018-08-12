@@ -455,7 +455,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CD0F5F90BCFFEB8DD3CA58E78A3C2AB03910F509" downloadHash="EF6F3D02BCF48F5C9EA4A7E6D4C92F5DAAABD050" name="skullport lw- drow lair.trx" dlsize="593396" size="825645" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="92157B93BF0A4334C53FBD1105447845AAF437F8" downloadHash="22D7EA6D8ACC47DBF9348AEC60DB426D303D8688" name="skullport lw- drow lair.trx" dlsize="593122" size="825592" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1900,7 +1900,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0AD21D9A21D10F3ECA3A5B423EE5364C683E9BC6" downloadHash="B1102A27EFB216C37A864EEFD75EA59416060E2A" name="alaron q22w farheight rd estate.trx" dlsize="409450" size="817048" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="26293191B930E46AE9AB81412A2CAD26734AC286" downloadHash="AFA4C01734C499C29D70D54F8FA314C7E74D3EF9" name="alaron q22w farheight rd estate.trx" dlsize="409130" size="817049" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
