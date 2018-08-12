@@ -1220,7 +1220,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F73A7B1DCD20E2FD695CEDF1CD520DEF226637D8" downloadHash="5B2F15176BAE417721FEEDB8F724C47E1F479220" name="oman j26 gramphalt frostgiants.trx" dlsize="730790" size="746632" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="42FAD44DE9F83D6AF88544EE4D1C282D0A40A674" downloadHash="C7F71478FB110C495EDD1F108EC33D466EA5DA94" name="oman j26 gramphalt frostgiants.trx" dlsize="718393" size="732838" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
