@@ -70,7 +70,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A2FF6D64B081C56036219C02D09D8CF2B13FC9C6" downloadHash="29CA6F1F5AD11BB652BFF527029143315A4DDD5C" name="underdark area a.trx" dlsize="459028" size="2588691" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2FF21EC6551A4F67E9336359536CC73BBE9B6B5F" downloadHash="5FDDFBECA709130CAAED53632592407D8729CB50" name="underdark area a.trx" dlsize="505904" size="2635228" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -575,7 +575,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="845E27984CC550FFAD7CF56D2D08FB280545CBA1" downloadHash="F8815AA3C427ABABD798E0909733998C4929A335" name="gwynneth k28 duergar outpost.trx" dlsize="300040" size="844518" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B20DFC97E154C268A971112D2CCCB90EE115718D" downloadHash="0B99B4504C3A455F5F786752FBF74825EC2EEA02" name="gwynneth k28 duergar outpost.trx" dlsize="293665" size="839603" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1535,7 +1535,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="782EE35CC8F7A00040307F879A81F5F72B5ACCA9" downloadHash="7D57A4133DB40B4F41C4F95B40DD79CFC9506D10" name="underdark area b.trx" dlsize="137326" size="586416" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="AACBFB40289AAE7125CC1C5134C8792C144BA37E" downloadHash="24D89A3E946906157AAF30BF3799BCDFB6F66F7F" name="underdark area b.trx" dlsize="148412" size="552753" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
