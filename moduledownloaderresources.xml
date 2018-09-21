@@ -90,7 +90,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="08AFC8BDB5DDA9DEE11313B59A4E9B0DE5DC9B4B" downloadHash="9CF9E4CD71B84DBB889CAC6D0F0D4B5935F301A5" name="alaron q22 c callidyrr interiors.trx" dlsize="600455" size="693156" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B2599F8B96370E1ED8EA9ED5224C7E86D5B64498" downloadHash="60CE00AACFF02A281EFAC471BE040E2ACEF91921" name="alaron q22 c callidyrr interiors.trx" dlsize="597791" size="691067" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -315,7 +315,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4A0C813A28085D5E65C38E5522B3E6B6A4981CE7" downloadHash="98460E15546942129EAFFBFB5E1768B94E2FC817" name="alaron q22 c callidyrr docks n.trx" dlsize="3131613" size="20023640" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C957B7267880D471C860E1EEBE6BB5F517AB478E" downloadHash="AC1D0A91C390CE57E9D8453621B5D3BA3E847326" name="alaron q22 c callidyrr docks n.trx" dlsize="3134245" size="20028000" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1710,7 +1710,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="702E55382400361F6755F689E4521F5B4A9D6553" downloadHash="0B9A9D65E977501711C204747BCD1F30D56D1EF3" name="009_testing grounds.trx" dlsize="317446" size="8503223" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3E4ED7B588FB91FBFB7AD9714C2A7311B6C9AA96" downloadHash="434EFEF25D7E02B8E1449D0D4809368B89369062" name="009_testing grounds.trx" dlsize="316309" size="8500607" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
