@@ -160,7 +160,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4674CC4E4FCBD65B90E1C6607C915E2332FEEBC5" downloadHash="8E53415BFDBF3C22BDE8783E89E817EB78F0F75F" name="ruathym a2 ext.trx" dlsize="539011" size="11268549" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D56EC4D5E8F43F793F5B1747351724E4FF012FF1" downloadHash="8B1DB72A629D1AEA544A92B9F6428D41FFDEC5E4" name="ruathym a2 ext.trx" dlsize="3378944" size="32282606" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -465,7 +465,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D1721FF82AD4F0B671D587B16AFB0B65A4E53802" downloadHash="01D9EFC5C966F5F0C6DAC8F319827A5929CC3607" name="ruathym a3 ext.trx" dlsize="524751" size="11258915" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="837457A8236181D1A59D905E0C4BF61B104C8A7D" downloadHash="82BEEE1970C1D6AC9EFE09CEF8344CF9E4357A68" name="ruathym a3 ext.trx" dlsize="527904" size="11263456" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -620,7 +620,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9EBCE77F124393C376FBA4AEB53BED8FDD1B3158" downloadHash="F4ADD573AE8CFD657E5FB2F210F996BD0E444D15" name="ruathym c5 haven ext.trx" dlsize="7983292" size="35837194" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2DA8DB4AFC3ECEFEF633B6E04990C69785A72D6E" downloadHash="251185685949657A25118FF91BA0B61F463637BA" name="ruathym c5 haven ext.trx" dlsize="7919467" size="35718995" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1050,7 +1050,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="950340CDDCD5C048DC56530E16201ED04D4AD3B3" downloadHash="12639700805392082E66DE946D7A1CA28BB962D3" name="ruathym c5 haven interiors.trx" dlsize="599099" size="743553" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="67800BB2547C108EA9389A415EDFDD9F5EB48383" downloadHash="9A8A89E7B22297C2B8388EF4362F22294D0B0D28" name="ruathym c5 haven interiors.trx" dlsize="615784" size="1616186" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1390,7 +1390,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3107F6AC119A104BB113D8377FF97781AAA2441B" downloadHash="949260396DE5FFE4084593ABB2CC186B30F4ECD0" name="alaron q22 c callidyrr cstl int.trx" dlsize="437960" size="755220" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DB174DDE27813EB1EB9E77284B45640F9FDB9266" downloadHash="5837386EA9ACB59F7235BF80BC1E8133A94316C7" name="alaron q22 c callidyrr cstl int.trx" dlsize="434422" size="751404" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1505,7 +1505,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7408BF715C78DD13AC93A47ACB9CC053306232C6" downloadHash="523FAFC62FC71299FCC43F4383A09B01F1067E2E" name="ruathym  b3_c3.trx" dlsize="969302" size="13450771" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="69437600A104808CE1328AE8165D8ED8CDA412D1" downloadHash="D53FCB6E415A97F366F5E13CEFD752D8EDD97367" name="ruathym  b3_c3.trx" dlsize="1938262" size="14168903" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1725,7 +1725,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8B86C4C7389BEF4AE93B1D07A9488252407297DF" downloadHash="A753927585DBBB4ACAFAB3EF24AC519342DC8569" name="nelanther isle of drachenshore.trx" dlsize="5830161" size="35185117" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="035A8FD429FD4486D4D9746F20DE33D48F755A4A" downloadHash="6DAA992260B191B0636AD8BD604AC9BEDEC2B1C8" name="nelanther isle of drachenshore.trx" dlsize="5238371" size="33442001" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1926,6 +1926,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="C8CAE1A1B4C7F792E113C1ACFD1999FA15E983AF" downloadHash="A431FD7707D93AF852A64E4F09B0D6E135A23E6B" name="nelanther drachenshore town ext.trx" dlsize="1975575" size="12547496" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="4096CE39B20A65C43A52ACFED5EB5A7265E9B47B" downloadHash="A78558E8330C32FA8D6D4D8373A3FFF6735EC927" name="ruathym c3 a1 ext drowcave.trx" dlsize="1648754" size="15035763" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
