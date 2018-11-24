@@ -1360,7 +1360,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F5220518ED0D316B11895991D9D5E72DE952DA9A" downloadHash="F7882ADA8A0F46D7C0EBC7C676D1D81B51F50418" name="ruathym c3 sea caves.trx" dlsize="183306" size="1767303" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="310846BF8457411963125B9AB3AC9252CCD9BF06" downloadHash="C2572AB84C4AF70038E74E429D32D081EECBE72C" name="ruathym c3 sea caves.trx" dlsize="192047" size="1774814" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1505,7 +1505,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="69437600A104808CE1328AE8165D8ED8CDA412D1" downloadHash="D53FCB6E415A97F366F5E13CEFD752D8EDD97367" name="ruathym  b3_c3.trx" dlsize="1938262" size="14168903" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="67700A5DF197F71B0BF9EDBD4C0BF1B5B15C67D3" downloadHash="6479D4510B07ACA7CF8988EC4B82C08B10499CDC" name="ruathym  b3_c3.trx" dlsize="1957895" size="14193691" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1931,6 +1931,16 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="4096CE39B20A65C43A52ACFED5EB5A7265E9B47B" downloadHash="A78558E8330C32FA8D6D4D8373A3FFF6735EC927" name="ruathym c3 a1 ext drowcave.trx" dlsize="1648754" size="15035763" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="7D3298032C1A956077A6613A65F972A7FB32B459" downloadHash="25C9EF0D1C86B34011EE60D471ACC7770E7FC35B" name="ruathym d2 axgard ext.trx" dlsize="4414529" size="33000896" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="ABE86BF95979AEA53CE0D8D8C3E63B4A89B06095" downloadHash="0AEA429C06A7191161DB043255B6AE6D9B0C231A" name="ruathym c3 ext drowcave.trx" dlsize="2166540" size="18911885" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
