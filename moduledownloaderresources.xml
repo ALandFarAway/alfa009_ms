@@ -1940,7 +1940,52 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="ABE86BF95979AEA53CE0D8D8C3E63B4A89B06095" downloadHash="0AEA429C06A7191161DB043255B6AE6D9B0C231A" name="ruathym c3 ext drowcave.trx" dlsize="2166540" size="18911885" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FDC8020FCAF5C47F4FAF76BF9B1807521E51463B" downloadHash="E50588256AF69D51F5A916BDA2162E96B2B890B3" name="ruathym c3 ext drowcave.trx" dlsize="2336128" size="19440623" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="7D3298032C1A956077A6613A65F972A7FB32B459" downloadHash="25C9EF0D1C86B34011EE60D471ACC7770E7FC35B" name="ruathym d_e2 axgard ext.trx" dlsize="4414529" size="33000896" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="7B829F1217A603CA4AB3CBB24FBF1C3113C2B6AC" downloadHash="D9DE226D44224479F0C6A90F5EFC1DB45BC48E10" name="ruathym b_c6.trx" dlsize="1017219" size="17735613" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="7B829F1217A603CA4AB3CBB24FBF1C3113C2B6AC" downloadHash="D9DE226D44224479F0C6A90F5EFC1DB45BC48E10" name="ruathym d_e6.trx" dlsize="1017219" size="17735613" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="7B829F1217A603CA4AB3CBB24FBF1C3113C2B6AC" downloadHash="D9DE226D44224479F0C6A90F5EFC1DB45BC48E10" name="ruathym a_b5.trx" dlsize="1017219" size="17735613" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="BDF452BFA3809D2CAE1A0F7B1C26B39F9739545D" downloadHash="E9C71AEA3FEB966ED1732E13C8882870472E51D6" name="ruathym b_c5a ext.trx" dlsize="531881" size="11265775" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="7AF4D513ADB69D8C3ABE4E3412F12B4E0AD86793" downloadHash="7AA63DBEBB7405F8B80E974D1E2155637B29380F" name="ruathym a_b4 ext.trx" dlsize="3666384" size="23733010" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="74BBAF183F1C8DE3D0514D5439C82EC919B27D0B" downloadHash="23CCBD0D921E57DB5836E18A3F1C38616EB456EF" name="ruathym c3 int sea caves.trx" dlsize="188448" size="1773097" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="3816E92E52073569585C8A47CDDC3BC392D4E6CF" downloadHash="F9A9C7C423FCD474A8CAA60977E2BA515A1A2F3D" name="ruathym c5 ruathym town ext.trx" dlsize="7918027" size="35711748" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="EAEBFD7D92B8880E51B789524ABBFECEC41B94F6" downloadHash="E9739AE94AE043F090FD4FA53110C1A41E2DDA42" name="ruathym a_b3 ext.trx" dlsize="3387034" size="21422553" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
