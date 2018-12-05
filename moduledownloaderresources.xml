@@ -1990,4 +1990,9 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="133ACEFD510FE12278532A4766D9DDE754357F4D" downloadHash="AE708697FB98A296C838AAF86610E36DF3BA75DB" name="ruathym a_b5 ext.trx" dlsize="4014603" size="28725236" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
 </content>
