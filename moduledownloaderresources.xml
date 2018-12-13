@@ -1965,7 +1965,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BDF452BFA3809D2CAE1A0F7B1C26B39F9739545D" downloadHash="E9C71AEA3FEB966ED1732E13C8882870472E51D6" name="ruathym b_c5a ext.trx" dlsize="531881" size="11265775" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F7D255C87FB701FD14888468D76A2CE6D9FA8A54" downloadHash="58B7858B5B7F15474800BB37F9C9C13C103C2B2B" name="ruathym b_c5a ext.trx" dlsize="527202" size="11262673" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1990,7 +1990,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="133ACEFD510FE12278532A4766D9DDE754357F4D" downloadHash="AE708697FB98A296C838AAF86610E36DF3BA75DB" name="ruathym a_b5 ext.trx" dlsize="4014603" size="28725236" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E5CC51BEB8EC8BCCB9337C8F132A9B139ABF9280" downloadHash="E9BA1CC7E395A6EC748F19FF3387B6D87DA15C66" name="ruathym a_b5 ext.trx" dlsize="4045324" size="28744101" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
