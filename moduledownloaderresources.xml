@@ -1990,7 +1990,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E5CC51BEB8EC8BCCB9337C8F132A9B139ABF9280" downloadHash="E9BA1CC7E395A6EC748F19FF3387B6D87DA15C66" name="ruathym a_b5 ext.trx" dlsize="4045324" size="28744101" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4842E6F14A6AB3F9AB000CD2288751AC4DE4E255" downloadHash="BA5013643764631B499B6E552C58F074C65E87B3" name="ruathym a_b5 ext.trx" dlsize="4859845" size="30250690" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
