@@ -1710,7 +1710,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A6761958A77F36D24237833C8416F965E8F7E5AC" downloadHash="E483112690905BB153E6843E37FD43EC2F419179" name="009_testing grounds.trx" dlsize="337077" size="8522940" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1FC8E9EE649A9FAC2439DD65450DAF34A006CC1C" downloadHash="DBDFDF0EF359D25DE8C0BE1CDDEAD573A73F08A0" name="009_testing grounds.trx" dlsize="337117" size="8522939" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1950,7 +1950,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7B829F1217A603CA4AB3CBB24FBF1C3113C2B6AC" downloadHash="D9DE226D44224479F0C6A90F5EFC1DB45BC48E10" name="ruathym b_c6.trx" dlsize="1017219" size="17735613" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="90EB75AE8FF6E2EF3D720FDE4227AF419666B321" downloadHash="7F1BC8E10112F72BB76B7E31EF8439F1F701502E" name="ruathym b_c6.trx" dlsize="4647957" size="28235876" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1970,7 +1970,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7AF4D513ADB69D8C3ABE4E3412F12B4E0AD86793" downloadHash="7AA63DBEBB7405F8B80E974D1E2155637B29380F" name="ruathym a_b4 ext.trx" dlsize="3666384" size="23733010" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C486CE6147F007D8433FD4AF1119653488449000" downloadHash="290BF02B06A8C1ED87CAFCACCEEB249EDE393859" name="ruathym a_b4 ext.trx" dlsize="3738526" size="23753189" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1990,12 +1990,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4842E6F14A6AB3F9AB000CD2288751AC4DE4E255" downloadHash="BA5013643764631B499B6E552C58F074C65E87B3" name="ruathym a_b5 ext.trx" dlsize="4859845" size="30250690" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="986816602A3A03235B6CC8EB83D579247E972C20" downloadHash="285E3AD8FA215EC34CD6844B4CD46325A63FFA7A" name="ruathym a_b5 ext.trx" dlsize="5551650" size="32326887" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4D131BDE11528A35D1F4674BEA825C5366179603" downloadHash="FF8ACFBB5C75E8CF20C9FD5403ACE5A990443748" name="ruathym a_b3 int.trx" dlsize="792908" size="2833029" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B4D090A2F55DE36D50163B41C787273F87C3398A" downloadHash="158BA7E5315A37CE0AB6BB881D9D70DAF31788FF" name="ruathym a_b3 int.trx" dlsize="896280" size="2939479" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
