@@ -70,7 +70,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9B58B58DC46E171CD8433850E5F05FC1C0699EE7" downloadHash="ECA334B7306ABC3111C8B1908562008EC9541E4D" name="underdark area a.trx" dlsize="506677" size="2635229" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4839D553942E4E7CED96EEBEA40D7A686C2A6DD9" downloadHash="1F203B51C6D47DD295654508F700436FFEFAC84B" name="underdark area a.trx" dlsize="469117" size="2599602" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1305,7 +1305,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FE590EA483FC0FBCD024BF83B8C1A9C2CC8769AF" downloadHash="0E6D9B95CEBBA5F4B586EF1FE07590EFDB8FA3B8" name="gwynneth p33 kingsbay town int.trx" dlsize="271157" size="316094" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="97E779A045390B1930DDD10729A354E1EC5C23DE" downloadHash="D713C378D61260BCD14F67F8E99C4EC3CC1547A2" name="gwynneth p33 kingsbay town int.trx" dlsize="271386" size="316036" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1995,7 +1995,17 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FAF01B8BBB75F0E5108F9D6EC8F9C7331CE31A78" downloadHash="D8D8815CD46B2C1F6F30DD1BC1574F6F80476972" name="ruathym a_b3 int.trx" dlsize="933188" size="2971599" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3AE7DB8080FF7AA078ED197BDB2CF9142A606207" downloadHash="3CE3A1E5CC2BC632BC27E0FF29EFE56BCD84D9F9" name="ruathym a_b3 int.trx" dlsize="948399" size="2983104" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="DBFA2B62B9C966ABA17AC554DD296E49F098AFB8" downloadHash="7A06A67856F960C23BFE6B3F57F3CC13989E2E82" name="gwynneth o33 macsheehan shadow.trx" dlsize="141805" size="143206" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="19F6138D88A07FDA20884B324667F4FEF7BD7797" downloadHash="EF447BA511D1F3D26B4391204CFC756F89280191" name="_plane_myrkuls_domain.trx" dlsize="3817848" size="22892866" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
