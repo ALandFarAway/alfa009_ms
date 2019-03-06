@@ -121,6 +121,12 @@ void main()
 	} // END WHILE
 }
 */
+
+
+#include "acr_vfx_i"
+#include "acr_effects_i"
+#include "acr_creature_i"
+
 void main()
 {
     effect eDamage;
