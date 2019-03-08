@@ -70,7 +70,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="024F75413CF20F355D65D338A3A23AF05ED98268" downloadHash="D3B1ECFC83D4CCA481CBECC61E7591EDE0A3D11C" name="underdark area a.trx" dlsize="474892" size="2599604" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D745BF316815C55A45C059E789A80C1E91E9D1AC" downloadHash="EC6957E8C8D4D50D7A35A27B2659FD3D06AF368C" name="underdark area a.trx" dlsize="448726" size="2579087" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -830,7 +830,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6F0674C54CEC80A24E1AD989DFCA2A98C3AE6A00" downloadHash="D5113F392983B9DD8DB6FA9CCBF9B7D8DA2BCB25" name="underdark kuotoa cavern.trx" dlsize="825120" size="6722029" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7721AD2E2C110DA78AC9E1A0EA64C9249B604235" downloadHash="B966F4039C691A0CC1DB75DD1EEC6C99AF2641E7" name="underdark kuotoa cavern.trx" dlsize="810726" size="6715343" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
