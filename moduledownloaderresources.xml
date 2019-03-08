@@ -70,7 +70,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4839D553942E4E7CED96EEBEA40D7A686C2A6DD9" downloadHash="1F203B51C6D47DD295654508F700436FFEFAC84B" name="underdark area a.trx" dlsize="469117" size="2599602" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="024F75413CF20F355D65D338A3A23AF05ED98268" downloadHash="D3B1ECFC83D4CCA481CBECC61E7591EDE0A3D11C" name="underdark area a.trx" dlsize="474892" size="2599604" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1535,7 +1535,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="AACBFB40289AAE7125CC1C5134C8792C144BA37E" downloadHash="24D89A3E946906157AAF30BF3799BCDFB6F66F7F" name="underdark area b.trx" dlsize="148412" size="552753" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DD4048635CCFC8C347A10C551C338689AB145241" downloadHash="90E088B71B16C6A8C7773FBDCC71BA6977F5DB29" name="underdark area b.trx" dlsize="146261" size="550915" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1560,7 +1560,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E0EF1C956987AF74ED6FBCF49B55536CCC3E3006" downloadHash="FF65B8984693BA21668D33EF80806BBB382D41CB" name="gwynneth m34nw corwell town.trx" dlsize="5222310" size="27215649" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D4EF351E899F2EC61D5EB286E512602A057B3EA7" downloadHash="B3AA99E03A75C6FAA3E468AEEF5F93224FF5913B" name="gwynneth m34nw corwell town.trx" dlsize="5218752" size="27231303" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>

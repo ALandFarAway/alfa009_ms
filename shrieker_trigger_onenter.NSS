@@ -57,4 +57,3 @@ void main()
       //FloatingTextStringOnCreature("Sent event to Shroom", oCreature); // DEBUG
      }
 }
-
