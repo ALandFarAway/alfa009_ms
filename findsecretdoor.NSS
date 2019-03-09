@@ -26,4 +26,3 @@ ACR_TriggerOnEnter();
     oSpawn = CreateObject(OBJECT_TYPE_PLACEABLE, "plc_und_e_secretdoor1", GetLocation(oTarget));
 }
 
-
