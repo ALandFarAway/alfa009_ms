@@ -1230,7 +1230,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="084C6300C7565A69C0272AB3092C08440EE86330" downloadHash="156AE6E6D289ACA6138B144095AF8A5CC1FEFBC5" name="gwynneth p33 kingsbay town ext.trx" dlsize="4615858" size="23558332" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3B1B40D1C4B2553B70FE6B101632C893FFDFB84F" downloadHash="501E3D40BAACCF0C4000B7E8EFD62C37682CEC8F" name="gwynneth p33 kingsbay town ext.trx" dlsize="4634547" size="23579726" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1305,7 +1305,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1280391595079328A518388544B67C262610F235" downloadHash="E057E3EEE7794DA72216A7765D2481AC8A8E91AD" name="gwynneth p33 kingsbay town int.trx" dlsize="271114" size="316041" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5F94336A3D9336EFBAC646D67E0D688F56A20790" downloadHash="E4CB9CAC694531B1B18013F1158ED2312FDC9A5A" name="gwynneth p33 kingsbay town int.trx" dlsize="273542" size="318253" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
