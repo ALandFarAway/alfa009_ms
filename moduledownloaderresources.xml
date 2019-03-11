@@ -1205,7 +1205,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1261A605471DAC972EB11D9C0909B6C682172C44" downloadHash="FE7888B88F5213E45D5248D50E4B6E1BC2208F73" name="underdark area e.trx" dlsize="173382" size="175247" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="278EB8A3C9F1EA1D04681425E6A39BA7FD8A1D20" downloadHash="CAF8002BD30F9AF6574A03D86D9AE8283F710E18" name="underdark area e.trx" dlsize="172601" size="174500" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1305,7 +1305,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6B56C10D6673F7C61C491597EBEBBDB042611FE5" downloadHash="73D6B87025F8DB048659AF681A3957B7D80F66A6" name="gwynneth p33 kingsbay town int.trx" dlsize="271238" size="315969" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1280391595079328A518388544B67C262610F235" downloadHash="E057E3EEE7794DA72216A7765D2481AC8A8E91AD" name="gwynneth p33 kingsbay town int.trx" dlsize="271114" size="316041" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
