@@ -1920,7 +1920,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="83BD09A55D46464C02C505028DDA827CD9CCCD4B" downloadHash="BF0B3DBA72BA27DFAA97C021299EA7A94892ABA0" name="alaron q22w farheight rd mstn.trx" dlsize="416832" size="824820" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="CCCEF095E79E48DB7C4433EE8F88E06E9D64A0E5" downloadHash="EF44A193E5D38DAE66B881E79F479A1C4D942AB5" name="alaron q22w farheight rd mstn.trx" dlsize="419933" size="827663" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
