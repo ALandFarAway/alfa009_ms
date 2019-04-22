@@ -1822,7 +1822,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="30EAAFC15071F6C1E44361AD720F32D3404E5B63" downloadHash="63FD11A78AE7D04C8779DCDF73BB149A5FE3FA1B" name="alfa2_acr.hak" dlsize="4087704" size="133573264" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="209A8F416C70996089B306EFD54B5F3189755605" downloadHash="80B7C0687EBB213271A0E71CFA7DA94F508D9FD4" name="alfa2_acr.hak" dlsize="4092957" size="133574800" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
