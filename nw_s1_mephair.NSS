@@ -1,6 +1,6 @@
 //::///////////////////////////////////////////////
-//:: Cone: Grit
-//:: NW_S1_ConeGrit
+//:: Cone: Mephit_Air_Breath
+//:: NW_S1_MephAir
 //:://////////////////////////////////////////////
 /*
   A cone of damage eminated from the monster. Does
@@ -14,7 +14,7 @@
 
 const string VFX_IMP_GRIT_S = "fx_grit_hit"; // sp_acid_hit.sef
 const string VFX_DUR_CONE_GRIT = "fx_grit_cone_mouth"; // sp_acid_cone_mouth.sef
-const int SPELLABILITY_CONE_GRIT = 1217;
+const int SPELLABILITY_MEPH_AIR_BREATH = 1217;
 
 #include "NW_I0_SPELLS"
 #include "acr_spells_i"
@@ -46,7 +46,7 @@ void main()
             //Calculate the damage
             nDamage = d8(nLoop);
             //Dust cast spell at event for the specified target
-            SignalEvent(oTarget, EventSpellCastAt(OBJECT_SELF, SPELLABILITY_CONE_GRIT));
+            SignalEvent(oTarget, EventSpellCastAt(OBJECT_SELF, SPELLABILITY_MEPH_AIR_BREATH));
             //Determine effect delay
             fDelay = GetDistanceBetween(OBJECT_SELF, oTarget)/20;
             //Set damage effect

@@ -1,6 +1,6 @@
 //::///////////////////////////////////////////////
-//:: Cone: Dust
-//:: NW_S1_ConeDust
+//:: Cone: Mephit_Dust_Breath
+//:: NW_S1_MephDust
 //:://////////////////////////////////////////////
 /*
   A cone of irritating dust eminated from the
@@ -14,7 +14,7 @@
 
 const string VFX_IMP_DUST_S = "fx_dust_hit";
 const string VFX_DUR_CONE_DUST = "fx_dust_cone_mouth";
-const int SPELLABILITY_CONE_DUST = 1219;
+const int SPELLABILITY_MEPHIT_DUST_BREATH = 1219;
 
 #include "NW_I0_SPELLS"
 #include "acr_spells_i"
@@ -38,7 +38,7 @@ void main()
         if (spellsIsTarget(oTarget, SPELL_TARGET_STANDARDHOSTILE, OBJECT_SELF))
         {
             //Dust cast spell at event for the specified target
-            SignalEvent(oTarget, EventSpellCastAt(OBJECT_SELF, SPELLABILITY_CONE_DUST));
+            SignalEvent(oTarget, EventSpellCastAt(OBJECT_SELF, SPELLABILITY_MEPHIT_DUST_BREATH));
 			
 			// Reflex save
             if(!MySavingThrow(SAVING_THROW_REFLEX, oTarget, nDC)) {
@@ -46,8 +46,8 @@ void main()
             	fDelay = GetDistanceBetween(OBJECT_SELF, oTarget)/20;
 				
 				// Check for an existing effect
-				if ( GetHasSpellEffect( SPELLABILITY_CONE_DUST, oTarget ) ) {
-					RemoveEffectsFromSpell( oTarget, SPELLABILITY_CONE_DUST );
+				if ( GetHasSpellEffect( SPELLABILITY_MEPHIT_DUST_BREATH, oTarget ) ) {
+					RemoveEffectsFromSpell( oTarget, SPELLABILITY_MEPHIT_DUST_BREATH );
 				}
 				
 				// Create the penalty effects
@@ -55,7 +55,7 @@ void main()
 				effect eAttackPenalty = EffectAttackDecrease( 2 );
 				effect eCone = EffectLinkEffects( eACPenalty, eAttackPenalty );
 				eCone = ExtraordinaryEffect( eCone );
-				eCone = SetEffectSpellId( eCone, SPELLABILITY_CONE_DUST );
+				eCone = SetEffectSpellId( eCone, SPELLABILITY_MEPHIT_DUST_BREATH );
 				
                 //Apply the VFX impact and effects
 				float fDur = RoundsToSeconds( 3 );

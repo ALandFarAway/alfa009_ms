@@ -1,6 +1,6 @@
 //::///////////////////////////////////////////////
-//:: Cone: Magma
-//:: NW_S1_ConeMagma
+//:: Cone: Mephit_Magma_Breath
+//:: NW_S1_MephMagma
 //:://////////////////////////////////////////////
 /*
   A cone of burning magma eminated from the
@@ -15,7 +15,7 @@
 //:://////////////////////////////////////////////
 
 const string VFX_DUR_CONE_MAGMA = "fx_magma_cone_mouth";
-const int SPELLABILITY_CONE_MAGMA = 1220;
+const int SPELLABILITY_MEPHIT_MAGMA_BREATH = 1220;
 
 #include "NW_I0_SPELLS"
 #include "acr_spells_i"
@@ -44,7 +44,7 @@ void main()
         if (spellsIsTarget(oTarget, SPELL_TARGET_STANDARDHOSTILE, OBJECT_SELF))
         {
             //Dust cast spell at event for the specified target
-            SignalEvent(oTarget, EventSpellCastAt(OBJECT_SELF, SPELLABILITY_CONE_MAGMA));
+            SignalEvent(oTarget, EventSpellCastAt(OBJECT_SELF, SPELLABILITY_MEPHIT_MAGMA_BREATH));
 			
             //Calculate the delay time on the application of effects based on the distance
             //between the caster and the target
@@ -78,8 +78,8 @@ void main()
 			// Reflex save
             if(!MySavingThrow(SAVING_THROW_REFLEX, oTarget, nDC)) {
 				// Check for an existing effect
-				if ( GetHasSpellEffect( SPELLABILITY_CONE_MAGMA, oTarget ) ) {
-					RemoveEffectsFromSpell( oTarget, SPELLABILITY_CONE_MAGMA );
+				if ( GetHasSpellEffect(SPELLABILITY_MEPHIT_MAGMA_BREATH, oTarget ) ) {
+					RemoveEffectsFromSpell( oTarget, SPELLABILITY_MEPHIT_MAGMA_BREATH );
 				}
 				
 				// Create the penalty effects
@@ -87,7 +87,7 @@ void main()
 				effect eAttackPenalty = EffectAttackDecrease( 2 );
 				effect eCone = EffectLinkEffects( eACPenalty, eAttackPenalty );
 				eCone = ExtraordinaryEffect( eCone );
-				eCone = SetEffectSpellId( eCone, SPELLABILITY_CONE_MAGMA );
+				eCone = SetEffectSpellId( eCone, SPELLABILITY_MEPHIT_MAGMA_BREATH );
 				
                 //Apply the VFX impact and effects
 				float fDur = RoundsToSeconds( 3 );

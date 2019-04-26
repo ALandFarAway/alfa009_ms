@@ -1,6 +1,6 @@
 //::///////////////////////////////////////////////
-//:: Cone: Caustic
-//:: NW_S1_ConeCaustic
+//:: Cone:MEPHIT_OOZE_BREATH
+//:: NW_S1_MephOoze
 //:://////////////////////////////////////////////
 /*
   A cone of caustic liquid eminated from the
@@ -14,14 +14,14 @@
 //:: Created On: August 4, 2016
 //:://////////////////////////////////////////////
 
-const int SPELLABILITY_CONE_CAUSTIC = 1221;
+const int SPELLABILITY_MEPHIT_OOZE_BREATH = 1221;
 
 #include "NW_I0_SPELLS"
 #include "acr_spells_i"
 void main()
 {
 object oPC = GetFirstPC();
-SendMessageToPC( oPC, "NW_S1_ConeCaustic" );
+SendMessageToPC( oPC, "NW_S1_MephOoze" );
     //Declare major variables
     int nHD = GetHitDice(OBJECT_SELF);
     int nDC = 11 + (nHD/2);
@@ -45,7 +45,7 @@ SendMessageToPC( oPC, "NW_S1_ConeCaustic" );
         if (spellsIsTarget(oTarget, SPELL_TARGET_STANDARDHOSTILE, OBJECT_SELF))
         {
             //Dust cast spell at event for the specified target
-            SignalEvent(oTarget, EventSpellCastAt(OBJECT_SELF, SPELLABILITY_CONE_CAUSTIC));
+            SignalEvent(oTarget, EventSpellCastAt(OBJECT_SELF, SPELLABILITY_MEPHIT_OOZE_BREATH));
 			
             //Calculate the delay time on the application of effects based on the distance
             //between the caster and the target
@@ -79,8 +79,8 @@ SendMessageToPC( oPC, "NW_S1_ConeCaustic" );
 			// Reflex save
             if(!MySavingThrow(SAVING_THROW_REFLEX, oTarget, nDC)) {
 				// Check for an existing effect
-				if ( GetHasSpellEffect( SPELLABILITY_CONE_CAUSTIC, oTarget ) ) {
-					RemoveEffectsFromSpell( oTarget, SPELLABILITY_CONE_CAUSTIC );
+				if ( GetHasSpellEffect( SPELLABILITY_MEPHIT_OOZE_BREATH, oTarget ) ) {
+					RemoveEffectsFromSpell( oTarget, SPELLABILITY_MEPHIT_OOZE_BREATH );
 				}
 				
 				// Create the penalty effects
@@ -88,7 +88,7 @@ SendMessageToPC( oPC, "NW_S1_ConeCaustic" );
 				effect eAttackPenalty = EffectAttackDecrease( 2 );
 				effect eCone = EffectLinkEffects( eACPenalty, eAttackPenalty );
 				eCone = ExtraordinaryEffect( eCone );
-				eCone = SetEffectSpellId( eCone, SPELLABILITY_CONE_CAUSTIC );
+				eCone = SetEffectSpellId( eCone, SPELLABILITY_MEPHIT_OOZE_BREATH );
 				
                 //Apply the VFX impact and effects
 				float fDur = RoundsToSeconds( 3 );
