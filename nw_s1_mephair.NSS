@@ -17,7 +17,7 @@ const string VFX_DUR_CONE_GRIT = "fx_grit_cone_mouth"; // sp_acid_cone_mouth.sef
 const int SPELLABILITY_MEPH_AIR_BREATH = 1217;
 
 #include "NW_I0_SPELLS"
-#include "acr_spells_i"
+//#include "acr_spells_i"
 void main()
 {
     //Declare major variables
