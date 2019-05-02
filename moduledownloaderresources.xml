@@ -1816,13 +1816,13 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="D468B9625804B0659741A315CB27C2E4414A5E5E" downloadHash="2321FB9419B61DB3DE43FBF852A407CA90B384C9" name="alfa2_2da.hak" dlsize="443574" size="23244509" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="0F057C1455E7D9539A4B94C7DFDDD520595D3583" downloadHash="C875EC995B07BEDA81919A4FB02D456FC6B5876B" name="alfa2_2da.hak" dlsize="444123" size="23244875" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="209A8F416C70996089B306EFD54B5F3189755605" downloadHash="80B7C0687EBB213271A0E71CFA7DA94F508D9FD4" name="alfa2_acr.hak" dlsize="4092957" size="133574800" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="667B69A26892CC9D766F1B3E84248F677CF1B2BE" downloadHash="70A8F49A4A97490C7045E692FF71AF1788ECE3EC" name="alfa2_acr.hak" dlsize="4088561" size="133574792" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
