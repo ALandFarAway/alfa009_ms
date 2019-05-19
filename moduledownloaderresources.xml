@@ -2015,4 +2015,9 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="F8DB88272107024BAD99326D7AA588BDAC8C68DA" downloadHash="65F7A2CF0F4CF2270BF096AB6FE1EDCB25DEBB17" name="wd cod crypt.trx" dlsize="466044" size="6498135" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
 </content>
