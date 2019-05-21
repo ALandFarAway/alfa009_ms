@@ -2015,7 +2015,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F8DB88272107024BAD99326D7AA588BDAC8C68DA" downloadHash="65F7A2CF0F4CF2270BF096AB6FE1EDCB25DEBB17" name="wd cod crypt.trx" dlsize="466044" size="6498135" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1C2C234A1D72F97D86889E60231F8125931F2946" downloadHash="D320F4D36945B29A28538543AAE6F31B9C5BE354" name="wd cod crypt.trx" dlsize="456224" size="6546955" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
