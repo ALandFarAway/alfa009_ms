@@ -95,7 +95,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1D20A586C3C6D58FAD6351BCCE6A92980C8BEE32" downloadHash="B415D09AB57E2094B7FE4C6E163F915A88B32F59" name="alaron q22se high kings road.trx" dlsize="2604884" size="16289419" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="753253CD259A490B401D4628613E75B505D2AD31" downloadHash="BD2F80B31B1944F4C8E117D94997BA24854703D1" name="alaron q22se high kings road.trx" dlsize="2603961" size="16284847" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -300,7 +300,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="929D6BAB4C62ED71B1F73DC4715CD614DEF86AF9" downloadHash="FB83EACDD85C384E3A285B0D29EDA708810D132B" name="gwynneth k29 high home upperlvl2.trx" dlsize="255373" size="351678" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="ABE77911CBD0AE8ADBCA88FC44B96F948A767335" downloadHash="221584EBDD3AB16B189CD262768A061DC3F57FE5" name="gwynneth k29 high home upperlvl2.trx" dlsize="256714" size="351958" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -845,7 +845,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="679AE42ADACE31ECABB778A48F368350EA5B7931" downloadHash="28807A5E3659EE207B22969FE3F313D4CCEC1450" name="snowdown t33 brannoch shop int.trx" dlsize="88789" size="89120" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0CAB90C30CCA4C4CB318477BA6BC676ACFDAC8AC" downloadHash="B52D739630502426116AB5ECD0A8F99882E07166" name="snowdown t33 brannoch shop int.trx" dlsize="89502" size="89702" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1000,7 +1000,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="29B6C642AEEAD84FA5023D6BA4EEC9FF3CBB27B8" downloadHash="31496D2BC61A572275D79F42F3CD78BF57045FEC" name="gwynneth m34s lowhill int.trx" dlsize="420574" size="606035" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="21F240B4DC0DDA0AC7C28F5CF4B370AA740B5846" downloadHash="B0F76D858DB215714FC573ED52CF377384D7DB08" name="gwynneth m34s lowhill int.trx" dlsize="420659" size="606036" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
