@@ -690,7 +690,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D0805FF2C7AF3278966C9D05B750DD870F254797" downloadHash="42CC11D1C155182EAAEB25B2D37596AC38298D85" name="009_dm prep area.trx" dlsize="282121" size="290058" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9117FB2B2107BA046ECC9ED07F1EEE58864DC47D" downloadHash="8DA779FED8E58541E9196581EF5A821F9EC7C2B2" name="009_dm prep area.trx" dlsize="280805" size="288674" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
