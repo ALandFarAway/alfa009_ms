@@ -1095,7 +1095,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="844AD3CD1E2E4BD51DE12EA6D81F23121B05DBA4" downloadHash="FC1FC2524B35FD534A9F48E48FFCBCCE5C3335AF" name="alaron q26a regents field.trx" dlsize="2665803" size="12936559" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="ECD6B3820C79C3D7D66D538700D6A67077FFA78D" downloadHash="52CBDC9D658C091A021378957F2B77EC53C6E607" name="alaron q26a regents field.trx" dlsize="2662807" size="12934371" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
