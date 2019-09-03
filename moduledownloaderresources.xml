@@ -855,7 +855,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FA282F8F27480865BF7789ED17736B1BA40BE549" downloadHash="A9E96CA364622A1177031115E1B186618EE2248E" name="alaron s23w rillifane run int.trx" dlsize="505952" size="601116" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="89A2116BA1AB83D01623AA1C162C77D8D71E92EE" downloadHash="7781F8519A62B621CA7E1FE0A8C7DDBD6ED814AB" name="alaron s23w rillifane run int.trx" dlsize="506039" size="601191" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1095,7 +1095,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="ECD6B3820C79C3D7D66D538700D6A67077FFA78D" downloadHash="52CBDC9D658C091A021378957F2B77EC53C6E607" name="alaron q26a regents field.trx" dlsize="2662807" size="12934371" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6FF1409B88F7305FA17CD03D3FA541EC0BF99EA0" downloadHash="EDCD70324E36885AD29AA0C997118067E3D35D99" name="alaron q26a regents field.trx" dlsize="2722435" size="12993601" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>

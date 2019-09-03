@@ -13,7 +13,7 @@ object oPC = GetLastUsedBy();
 
 if (!GetIsPC(oPC)) return;
 
-CreateItemOnObject("plc_vv_chainring", oPC);
+CreateItemOnObject("000_it_brassring", oPC);
 
 object oTarget;
 oTarget = OBJECT_SELF;
