@@ -1,7 +1,11 @@
-const int maxDifficulty = 25; // how many levels do you want to have?
+const int maxDifficulty = 30; // how many levels do you want to have?
 const int startDC = 10; // the starting DC
 const int dcIncrease = 1; // how much does the dc increase with each level?
 
+void PlayCustomAnimationWrapper(object oTarget, string sAnim, int bLoop)   
+{
+    PlayCustomAnimation(oTarget,sAnim,bLoop);
+}
 void main(){
 
     object oPC = GetLastUsedBy();
@@ -20,12 +24,12 @@ void main(){
 
     if(nSave >= SAVING_THROW_CHECK_SUCCEEDED) // the >= also covers the immune case
     {
-        PlayCustomAnimation(OBJECT_SELF,"drunk", 1);//do your stuff
+        PlayCustomAnimationWrapper(oPC,"drunk", TRUE);//do your stuff
     }
 
     
     else if (nSave == SAVING_THROW_CHECK_FAILED)
     {
-      PlayCustomAnimation(OBJECT_SELF,"collapseB", 3); //do your other stuff
+      PlayCustomAnimationWrapper(oPC,"collapsedB", TRUE); //do your other stuff
     }    
 }
