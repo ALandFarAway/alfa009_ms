@@ -61,7 +61,7 @@ int StartingConditional(int risk)
 					prizeResRef = "abr_it_hex_mask_ornate";
 					break;
 				case 4:
-					prizeResRef = "10_it_hlm_l_pu060";
+				    	prizeResRef = "009_it_p_tophill_lilystarwine";
 					break;
 				case 5:
 					prizeResRef = "abr_it_msc_earring4_2";
