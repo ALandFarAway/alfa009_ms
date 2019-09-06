@@ -1,3 +1,5 @@
+// by sve on NWN2 creator's channel
+
 const int maxDifficulty = 30; // how many levels do you want to have?
 const int startDC = 10; // the starting DC
 const int dcIncrease = 1; // how much does the dc increase with each level?
@@ -8,7 +10,8 @@ void PlayCustomAnimationWrapper(object oTarget, string sAnim, int bLoop)
 }
 void main(){
 
-    object oPC = GetLastUsedBy();
+    //object oPC = GetClickingObject();
+	object oPC=GetLastUsedBy(); 
     int iDifficulty = GetLocalInt(oPC, "DIFF");
 
     if(iDifficulty == maxDifficulty) // if the PC is already at the max difficulty, go back to level 1
@@ -24,12 +27,13 @@ void main(){
 
     if(nSave >= SAVING_THROW_CHECK_SUCCEEDED) // the >= also covers the immune case
     {
+	    PlayCustomAnimationWrapper(oPC,"drink", TRUE);
         PlayCustomAnimationWrapper(oPC,"drunk", TRUE);//do your stuff
     }
 
     
     else if (nSave == SAVING_THROW_CHECK_FAILED)
     {
-      PlayCustomAnimationWrapper(oPC,"collapsedB", TRUE); //do your other stuff
+	   //do your other stuff
     }    
 }

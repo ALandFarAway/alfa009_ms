@@ -1,4 +1,5 @@
-#include "ginc_param_const"
+//by andgalf on NWN2 creators channel
+/*include "ginc_param_const"
 #include "ginc_var_ops"
 
 void PlayCustomAnimationWrapper(object oTarget, string sAnim, int bLoop)   
@@ -9,7 +10,7 @@ void PlayCustomAnimationWrapper(object oTarget, string sAnim, int bLoop)
 void main()
 {
 
-    object oPC = GetClickingObject();
+    object oPC=GetLastUsedBy(); 
     int nOldValue = GetLocalInt(oPC, "intoxicated");
     int nDC;
     
@@ -35,7 +36,9 @@ void main()
     if(nSave >= 1)
     {
     
-    PlayCustomAnimationWrapper(oPC,"collapsedB", TRUE);
+    PlayCustomAnimationWrapper(oPC,"drink", TRUE);
+	  PlayCustomAnimationWrapper(oPC,"drunk", TRUE);
+      PlayCustomAnimationWrapper(oPC,"collapseB", TRUE);
     
     }
 
@@ -49,4 +52,55 @@ void main()
     }
 
 
+}*/
+
+
+
+#include "ginc_param_const"
+#include "ginc_var_ops"
+
+void PlayCustomAnimationWrapper(object oTarget, string sAnim, int bLoop) 
+{
+    PlayCustomAnimation(oTarget,sAnim,bLoop);
+}
+
+void main()
+{
+
+    object oPC = GetClickingObject();
+    int nOldValue = GetLocalInt(oPC, "intoxicated");
+    int nDC;
+    
+    if (!GetLocalInt(oPC,"intoxicated"))
+    {
+    nDC = 10; //just a number, don't know what the DC should be
+    }
+    
+    if(nOldValue >= 1)
+    {    
+    nDC = nDC+1;    
+    }
+    
+    
+    int nSave = FortitudeSave(oPC, nDC, SAVING_THROW_TYPE_POISON);
+
+    if(nSave >= 1)
+    {
+    PlayCustomAnimationWrapper(oPC,"drink", TRUE);
+	  PlayCustomAnimationWrapper(oPC,"drunk", TRUE);
+    int nNewValue = CalcNewIntValue(nOldValue, "+");
+    SetLocalInt(oPC, "intoxicated", nNewValue);
+    
+    }
+
+    
+    else if (nSave == 0)
+    {
+
+    PlayCustomAnimationWrapper(oPC,"drink", TRUE);
+	  PlayCustomAnimationWrapper(oPC,"drunk", TRUE);
+      PlayCustomAnimationWrapper(oPC,"collapseB", TRUE);
+    
+    }
+ 
 }
