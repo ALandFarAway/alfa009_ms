@@ -1,17 +1,24 @@
 // by sve on NWN2 creator's channel
 
-const int maxDifficulty = 30; // how many levels do you want to have?
-const int startDC = 10; // the starting DC
-const int dcIncrease = 1; // how much does the dc increase with each level?
+const int maxDifficulty = 30; 
+const int startDC = 10;
+const int dcIncrease = 1;
 
-void PlayCustomAnimationWrapper(object oTarget, string sAnim, int bLoop)   
+void SendTextToAllInArea(object oPC, string sMessage)
 {
-    PlayCustomAnimation(oTarget,sAnim,bLoop);
+    object oArea = GetArea(oPC);
+    object oPlayer = GetFirstPC(FALSE);
+    while(GetIsObjectValid(oPlayer))
+    {
+        if(GetArea(oPlayer) == oArea && GetDistanceBetween(oPC,oPlayer) <= 20.0) 
+            SendMessageToPC(oPlayer,sMessage);
+        oPlayer = GetNextPC(FALSE);
+    }
 }
+
 void main(){
 
-    //object oPC = GetClickingObject();
-	object oPC=GetLastUsedBy(); 
+    object oPC = GetLastUsedBy();
     int iDifficulty = GetLocalInt(oPC, "DIFF");
 
     if(iDifficulty == maxDifficulty) // if the PC is already at the max difficulty, go back to level 1
@@ -23,17 +30,25 @@ void main(){
     
     int iDC = startDC + dcIncrease * (iDifficulty -1); // the -1 is because we do not want an increase at first level
     
-    int nSave = FortitudeSave(oPC, iDC, SAVING_THROW_TYPE_POISON);
+    int iRoll = d20(); // first we roll a dice
+    int iFort = GetFortitudeSavingThrow(oPC); // the issue here is that if we do it manually we don't get any bonuses against poison, if present
 
-    if(nSave >= SAVING_THROW_CHECK_SUCCEEDED) // the >= also covers the immune case
+    if(iRoll + iFort >= iDC) // the >= also covers the immune case
     {
-	    PlayCustomAnimationWrapper(oPC,"drink", TRUE);
-        PlayCustomAnimationWrapper(oPC,"drunk", TRUE);//do your stuff
+        SendTextToAllInArea(oPC, GetName(oPC) + " - Fortitude Save: " + IntToString(iRoll) + " + " + IntToString(iFort) + " against DC: " + IntToString(iDC) + ". SUCCESS!");
+        AssignCommand(oPC,ActionPlayAnimation(ANIMATION_FIREFORGET_DRINK));
+       AssignCommand(oPC,ActionPlayAnimation(ANIMATION_LOOPING_PAUSE_DRUNK));
     }
 
     
-    else if (nSave == SAVING_THROW_CHECK_FAILED)
+    else
     {
-	   //do your other stuff
+        SendTextToAllInArea(oPC,  GetName(oPC) + " - Fortitude Save: " + IntToString(iRoll) + " + " + IntToString(iFort) + " against DC: " + IntToString(iDC) + ". FAILURE!");
+        PlayCustomAnimation(oPC,"drink", TRUE);
+		AssignCommand(oPC,ActionPlayAnimation(ANIMATION_FIREFORGET_DRINK)); 
+        //PlayCustomAnimation(oPC,"drunk", TRUE);
+		AssignCommand(oPC,ActionPlayAnimation(ANIMATION_LOOPING_PAUSE_DRUNK)); 
+        //PlayCustomAnimation(oPC,"collapseB", TRUE);
+		AssignCommand(oPC,ActionPlayAnimation(ANIMATION_FIREFORGET_COLLAPSE)); 
     }    
 }
