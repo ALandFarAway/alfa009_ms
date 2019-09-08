@@ -44,11 +44,18 @@ void main(){
     else
     {
         SendTextToAllInArea(oPC,  GetName(oPC) + " - Fortitude Save: " + IntToString(iRoll) + " + " + IntToString(iFort) + " against DC: " + IntToString(iDC) + ". FAILURE!");
-        PlayCustomAnimation(oPC,"drink", TRUE);
+       
 		AssignCommand(oPC,ActionPlayAnimation(ANIMATION_FIREFORGET_DRINK)); 
-        //PlayCustomAnimation(oPC,"drunk", TRUE);
+     
 		AssignCommand(oPC,ActionPlayAnimation(ANIMATION_LOOPING_PAUSE_DRUNK)); 
-        //PlayCustomAnimation(oPC,"collapseB", TRUE);
-		AssignCommand(oPC,ActionPlayAnimation(ANIMATION_FIREFORGET_COLLAPSE)); 
+    
+		//AssignCommand(oPC,ActionPlayAnimation(ANIMATION_FIREFORGET_COLLAPSE)); 
+	    PlayCustomAnimation(oPC, "collapseB", 1, 3.0);
+		//DelayCommand(5.2,PlayCustomAnimationWrapper(OBJECT_SELF,"collapseB"));
     }    
 }
+
+
+
+
+

@@ -100,7 +100,7 @@ void main()
     PlayCustomAnimationWrapper(oPC,"drink", TRUE);
 	  PlayCustomAnimationWrapper(oPC,"drunk", TRUE);
       PlayCustomAnimationWrapper(oPC,"collapseB", TRUE);
-    
+    DelayCommand(5.2,PlayCustomAnimationWrapper(OBJECT_SELF,"idle"));
     }
  
 }
