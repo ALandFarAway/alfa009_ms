@@ -50,8 +50,8 @@ void main(){
 		AssignCommand(oPC,ActionPlayAnimation(ANIMATION_LOOPING_PAUSE_DRUNK)); 
     
 		//AssignCommand(oPC,ActionPlayAnimation(ANIMATION_FIREFORGET_COLLAPSE)); 
-	    PlayCustomAnimation(oPC, "collapseB", 1, 3.0);
-		//DelayCommand(5.2,PlayCustomAnimationWrapper(OBJECT_SELF,"collapseB"));
+	    //-PlayCustomAnimation(oPC, "collapseB", 1, 3.0);
+		PlayCustomAnimation(oPC, "proneB", 1, 3.0);
     }    
 }
 

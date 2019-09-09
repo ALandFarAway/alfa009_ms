@@ -580,7 +580,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A0A8D747B8BE2163B3B02338F9924490362192BE" downloadHash="526012A92B9D0784EDA12B86B676AEDB00A43868" name="alaron q22 c callidyrr housing.trx" dlsize="575200" size="1210118" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="35EB599DD393B515D9657CCCE309E169EB4EECD9" downloadHash="000CB3CDD15CDD3CD032D31D082E42C60A2194D0" name="alaron q22 c callidyrr housing.trx" dlsize="573926" size="1207587" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1920,7 +1920,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="EE05B321F14A4C4E6BF8209ABA0D4FE159A427CE" downloadHash="C7BEB7C7A1F94978F4DE38C7FC28B4D39B0809FE" name="alaron q22w farheight rd mstn.trx" dlsize="421338" size="828754" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9428B5527BA40EF6F1ADDE2766CC5E5520E5B192" downloadHash="BB30636E770BDF49E1B451FF2D714076CDCE8866" name="alaron q22w farheight rd mstn.trx" dlsize="419007" size="825446" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
