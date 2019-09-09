@@ -47,14 +47,14 @@ void main(){
        
 		AssignCommand(oPC,ActionPlayAnimation(ANIMATION_FIREFORGET_DRINK)); 
      
-		AssignCommand(oPC,ActionPlayAnimation(ANIMATION_LOOPING_PAUSE_DRUNK)); 
-    
+		AssignCommand(oPC,ActionPlayAnimation(ANIMATION_LOOPING_PAUSE_DRUNK));
+		 
 		//AssignCommand(oPC,ActionPlayAnimation(ANIMATION_FIREFORGET_COLLAPSE)); 
-	    //-PlayCustomAnimation(oPC, "collapseB", 1, 3.0);
-		PlayCustomAnimation(oPC, "proneB", 1, 3.0);
+	    	PlayCustomAnimation(oPC, "proneB", 1, 10.0);
+			
+			
     }    
 }
-
 
 
 
