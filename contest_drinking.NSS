@@ -35,22 +35,27 @@ void main(){
 
     if(iRoll + iFort >= iDC) // the >= also covers the immune case
     {
-        SendTextToAllInArea(oPC, GetName(oPC) + " - Fortitude Save: " + IntToString(iRoll) + " + " + IntToString(iFort) + " against DC: " + IntToString(iDC) + ". SUCCESS!");
-        AssignCommand(oPC,ActionPlayAnimation(ANIMATION_FIREFORGET_DRINK));
+	 AssignCommand(oPC,ActionPlayAnimation(ANIMATION_FIREFORGET_DRINK));
        AssignCommand(oPC,ActionPlayAnimation(ANIMATION_LOOPING_PAUSE_DRUNK));
+        SendTextToAllInArea(oPC, GetName(oPC) + " - Fortitude Save: " + IntToString(iRoll) + " + " + IntToString(iFort) + " against DC: " + IntToString(iDC) + ". SUCCESS!");
+       
     }
 
     
     else
     {
-        SendTextToAllInArea(oPC,  GetName(oPC) + " - Fortitude Save: " + IntToString(iRoll) + " + " + IntToString(iFort) + " against DC: " + IntToString(iDC) + ". FAILURE!");
-       
 		AssignCommand(oPC,ActionPlayAnimation(ANIMATION_FIREFORGET_DRINK)); 
      
 		AssignCommand(oPC,ActionPlayAnimation(ANIMATION_LOOPING_PAUSE_DRUNK));
+        SendTextToAllInArea(oPC,  GetName(oPC) + " - Fortitude Save: " + IntToString(iRoll) + " + " + IntToString(iFort) + " against DC: " + IntToString(iDC) + ". FAILURE!");
+       PlayCustomAnimation(oPC, "proneB", 1, -1.0);
+	
+	   //	AssignCommand(oPC,ActionPlayAnimation(ANIMATION_FIREFORGET_DRINK)); 
+     
+		//AssignCommand(oPC,ActionPlayAnimation(ANIMATION_LOOPING_PAUSE_DRUNK));
 		 
 		//AssignCommand(oPC,ActionPlayAnimation(ANIMATION_FIREFORGET_COLLAPSE)); 
-	    	PlayCustomAnimation(oPC, "proneB", 1, 10.0);
+	    //	PlayCustomAnimation(oPC, "proneB", 1, 10.0);
 			
 			
     }    
