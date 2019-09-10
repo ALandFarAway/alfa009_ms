@@ -75,32 +75,36 @@ void main()
     {
     nDC = 10; //just a number, don't know what the DC should be
     }
-    
+     
     if(nOldValue >= 1)
     {    
     nDC = nDC+1;    
     }
     
-    
+      PlayCustomAnimationWrapper(oPC,"drink", TRUE);
+	  PlayCustomAnimationWrapper(oPC,"drunk", TRUE);
     int nSave = FortitudeSave(oPC, nDC, SAVING_THROW_TYPE_POISON);
 
     if(nSave >= 1)
     {
-    PlayCustomAnimationWrapper(oPC,"drink", TRUE);
-	  PlayCustomAnimationWrapper(oPC,"drunk", TRUE);
+    
     int nNewValue = CalcNewIntValue(nOldValue, "+");
     SetLocalInt(oPC, "intoxicated", nNewValue);
     
     }
 
     
-    else if (nSave == 0)
+    else 
     {
 
-    PlayCustomAnimationWrapper(oPC,"drink", TRUE);
+      PlayCustomAnimationWrapper(oPC,"drink", TRUE);
 	  PlayCustomAnimationWrapper(oPC,"drunk", TRUE);
-      PlayCustomAnimationWrapper(oPC,"collapseB", TRUE);
-    DelayCommand(5.2,PlayCustomAnimationWrapper(OBJECT_SELF,"idle"));
+      //PlayCustomAnimationWrapper(oPC,"collapseB", TRUE);
+	  //PlayCustomAnimationWrapper(oPC,sAnimation);
+      SetCommandable(FALSE);
+      DelayCommand(5.2,PlayCustomAnimationWrapper(oPC,"collapseB", TRUE));
+      DelayCommand(5.3,SetCommandable(TRUE));
+    
     }
  
 }
