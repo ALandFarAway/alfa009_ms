@@ -855,7 +855,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="89A2116BA1AB83D01623AA1C162C77D8D71E92EE" downloadHash="7781F8519A62B621CA7E1FE0A8C7DDBD6ED814AB" name="alaron s23w rillifane run int.trx" dlsize="506039" size="601191" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="76829F18CBD9C643E6E06D0229BE56DC0437ADEE" downloadHash="E7885CB6FEEF769CEE11A85BFC23EC681EEF7E01" name="alaron s23w rillifane run int.trx" dlsize="507045" size="602139" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2010,7 +2010,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6F28C04DD2B55AE16499602E2981BB3D881BFAC0" downloadHash="48FF235156118D43ACEF43E27CB6B407BEA6F776" name="alaron q22w farheight rd th int.trx" dlsize="1337756" size="1898907" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8C54320AAA2B3027DEE57149EBD3F7761E39B7E4" downloadHash="79C345250888A8E9729028D1E3DF73B7790A015F" name="alaron q22w farheight rd th int.trx" dlsize="1422971" size="1986982" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2035,7 +2035,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7387B0B0DE511FD2CE734A30C721F88B736B7A5E" downloadHash="9BFB7FACF5C51EDAD1A48EBB8D38FCAAE12544FB" name="alaron q26a hkr - regents field.trx" dlsize="2792576" size="13181172" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0E5F209E449051ECD10C994B0B264BC2A8FFB2B0" downloadHash="AD0162DE5C289D408756D47A30D88EEDEE4B3F24" name="alaron q26a hkr - regents field.trx" dlsize="2799844" size="13181171" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
