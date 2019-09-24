@@ -13,12 +13,12 @@ int StartingConditional(int risk)
 	}
 	TakeGoldFromCreature(1, oPC, TRUE, TRUE);
 	
-	int chance = 50;
+	int chance = 60;
 	int prize = 2;
 	switch(risk)
 	{
 		case 1:
-			chance = 50;
+			chance = 60;
 			prize = 2;
 			break;
 		case 2:
@@ -26,11 +26,11 @@ int StartingConditional(int risk)
 			prize = 4;
 			break;
 		case 3:
-			chance = 10;
+			chance = 15;
 			prize = 10;
 			break;
 		case 4:
-			chance = 1;
+			chance = 10;
 			prize = 100;
 			break;
 	}
