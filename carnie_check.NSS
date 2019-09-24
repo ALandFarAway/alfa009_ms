@@ -1,5 +1,6 @@
 // This carries out a standard rigged carnival game. They more-or-less vend common
 // items, though wealth plays slightly into one's odds of winning.
+// the more wealth and higher level a PC, the less likely they are to win anything 
 
 #include "acr_wealth_i"
 
@@ -37,10 +38,14 @@ int StartingConditional(int risk)
 	
 	float fMult = ACR_CalculateMultiplier(oPC);
 	int nLevel = GetTotalLevels(oPC, FALSE);
-	if(nLevel <= 8) fMult /= 1.25f;
-	else if(nLevel <= 12) fMult /= 2.5f;
-	else if(nLevel <= 16) fMult /= 5.0f;
-	else fMult /= 10.0f;
+	if(nLevel <= 8) fMult /= 0.625f;
+    else if(nLevel <= 12) fMult /= 1.25f;
+    else if(nLevel <= 16) fMult /= 2.5f;
+    else fMult /= 5.0f;
+//	if(nLevel <= 8) fMult /= 1.25f;
+//	else if(nLevel <= 12) fMult /= 2.5f;
+//	else if(nLevel <= 16) fMult /= 5.0f;
+//	else fMult /= 10.0f;
 	chance = FloatToInt(IntToFloat(chance) * fMult);
 	
 	if(d100(1) <= chance)
