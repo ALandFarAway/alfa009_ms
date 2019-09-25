@@ -57,7 +57,7 @@ void main()
    {
     while (oTarget!=OBJECT_INVALID)
     {
-     //FloatingTextStringOnCreature("Shrieker making noise", oTarget); // DEBUG
+     FloatingTextStringOnCreature("Shrieker making noise", oTarget); // DEBUG
      PlaySound("c_willwisp_atk1");// Combined sounds to bring a little
      PlaySound("as_an_x2cvbat8"); // mystery to the sound.
      DelayCommand(0.50, PlaySound("c_willwisp_atk1"));
