@@ -95,7 +95,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A1228D3A627EC935762912C65A631F30E7F2F08B" downloadHash="B5902C241652AEC7726E4B6B44E9B5B69AC62E07" name="alaron q22se high kings road.trx" dlsize="2595076" size="16275110" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BD94F6F35312F6CE7B3CBC85873EF76C521031CB" downloadHash="099C657D7B2B8A8A1B11A4018D76B776A8FCDC03" name="alaron q22se high kings road.trx" dlsize="2596970" size="16279743" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1920,7 +1920,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="AADB31EE55F21252746F881BB2F2AE377E721D8A" downloadHash="3B53437C2B250AD00923FB1EFC8CAA412D20D93B" name="alaron q22w farheight rd mstn.trx" dlsize="421003" size="829145" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0375BDC65A97C8DA4D0BED00AE7AEB10BCC2B972" downloadHash="4C30E60FBBB0B543CD5E5F84E634B24DAD20B15D" name="alaron q22w farheight rd mstn.trx" dlsize="411830" size="819930" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2035,7 +2035,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3B9EC1B1F687811981CC4CA0816D88AD282E5401" downloadHash="2E446149B54425B2A5498069A0476C9270C53930" name="alaron q26a hkr - regents field.trx" dlsize="2785501" size="13164325" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0FF036B3BE679FAE751AD4C6C45A77E024FFAE32" downloadHash="9AFD10E9AD57491F6718FCDF4BC64C7B3EC33621" name="alaron q26a hkr - regents field.trx" dlsize="2804486" size="13183165" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
