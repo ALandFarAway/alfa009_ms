@@ -38,9 +38,9 @@ int StartingConditional(int risk)
 	
 	float fMult = ACR_CalculateMultiplier(oPC);
 	int nLevel = GetTotalLevels(oPC, FALSE);
-	if(nLevel <= 8) fMult /= 0.5f;
-    else if(nLevel <= 12) fMult /= 1.0f;
-    else if(nLevel <= 16) fMult /= 1.5f;
+	if(nLevel <= 8) fMult /= 0.6f;
+    else if(nLevel <= 12) fMult /= 1.10f;
+    else if(nLevel <= 16) fMult /= 1.7f;
     else fMult /= 2.5f;
 //	if(nLevel <= 8) fMult /= 1.25f;
 //	else if(nLevel <= 12) fMult /= 2.5f;
