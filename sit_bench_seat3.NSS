@@ -10,7 +10,7 @@ void main()
     object oPillow2 = GetLocalObject( OBJECT_SELF, "Pillow 2" );
     object oPillow3 = GetLocalObject( OBJECT_SELF, "Pillow 3" );
 
-    // If "pillow 1" do not exist, create 3 of them and attach them to the bench
+    // If "pillow 1" does not exist, create 3 of them and attach them to the bench
     if( !GetIsObjectValid( oPillow1 ) )
     {
         // Set up some variable for understanding
@@ -19,7 +19,7 @@ void main()
         float fOrient = GetFacing( oBench );
 
         // You can change the space between pillows changing this value
-        float fSpace = 1.0f;
+        float fSpace = 0.80f;
 
         // Calculate location of the 3 pillows
         location locPillow1 = Location( oArea, locBench + AngleToVector( fOrient + 90.0f ) * fSpace, fOrient );
