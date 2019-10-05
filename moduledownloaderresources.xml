@@ -330,7 +330,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="410C3D6863043D835AB038066A99AF000A39391C" downloadHash="F0E3FB08DFB16B1587AA7C48870793248A5B008E" name="generic merchant at sea - int.trx" dlsize="182837" size="186839" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="AD66AE22FEBE7B6C1D1707602D1F50F7D7846562" downloadHash="CFF62597C6955F0B3AEDEC6BED685C2C4426B69C" name="generic merchant at sea - int.trx" dlsize="182774" size="186820" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1405,7 +1405,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E2C6594F9BFD6D117107B09EB91FEC68A4FD5A92" downloadHash="9E6A13BAA8FF4356CC67AA81BD9A5CBAD433BB41" name="generic merchant at sea.trx" dlsize="492057" size="7857113" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="CE1C5D249D25BFADBEE36334C122803FCF35B3CD" downloadHash="33A6FDE6E15B9CCD5807EE12D5EA6C97E9979CC5" name="generic merchant at sea.trx" dlsize="500671" size="7866564" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2035,7 +2035,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="26AC6EED7A4B1F9508D0D6BD6D2ED4BB1DF5B17D" downloadHash="1D4AC98E2B0528AA0461F8B10FD928CE96B467F3" name="alaron q26a hkr - regents field.trx" dlsize="2811881" size="13189961" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D2F7D26F7D3C01D076DEBFEFAB4BE3B03DE51A17" downloadHash="627BEA3B9A97F9E35FABB0221C04B41EE2FE1D96" name="alaron q26a hkr - regents field.trx" dlsize="2742912" size="13117208" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>

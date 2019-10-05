@@ -22,14 +22,14 @@ void SendTextToAllInArea(object oPC, string sMessage)
 void main(){
 
     object oPC = GetLastUsedBy();
-    int iDifficulty = GetLocalInt(oPC, "DIFF");
+    int iDifficulty = GetLocalInt(oPC, "EATING");
 
     if(iDifficulty == maxDifficulty) // if the PC is already at the max difficulty, go back to level 1
         iDifficulty = 1;
     else // else increase difficulty by 1 (if it is 0, which means no variable set yet, it goes to 1
         iDifficulty++;
         
-    SetLocalInt(oPC, "DIFF", iDifficulty); // you set the variable for next time
+    SetLocalInt(oPC, "EATING", iDifficulty); // you set the variable for next time
     
     int iDC = startDC + dcIncrease * (iDifficulty -1); // the -1 is because we do not want an increase at first level
     
@@ -71,4 +71,3 @@ void main(){
 			
     }    
 }
-
