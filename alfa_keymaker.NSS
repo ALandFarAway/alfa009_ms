@@ -1,4 +1,5 @@
 // Put in oninventorydisturbed of the placeable - set to usable and has inventory
+// tag of placeable should be the same as the sTarget(string) in the convo
 
 void main()
 {
