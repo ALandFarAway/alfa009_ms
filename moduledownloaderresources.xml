@@ -225,7 +225,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A45820C9ED18AE26A53BEEEE293203EB117DD935" downloadHash="8ED99542B8B9E853ABC91F76CE8EBC652A63315E" name="alaron q22 c callidyrr east.trx" dlsize="3613404" size="19153923" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="30C24F141B23845B04983A47424C087AA628D417" downloadHash="B916C0E2F45B0CBDF44AC41D0893E7163BCA19B6" name="alaron q22 c callidyrr east.trx" dlsize="3605686" size="19149375" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -460,7 +460,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D9FC60C89BD09E4B6FE3B38891294708AEA6741F" downloadHash="C1BFEC297C7FA8645F46E9910F75EA66695A6FC9" name="snowdown r34 westphal int 1.trx" dlsize="408883" size="456462" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DAF10D00B0A7B6AC3757227564829F4D49AD5053" downloadHash="6A2AB566F7F8D46375024F9C5EC9638B2B6E91D7" name="snowdown r34 westphal int 1.trx" dlsize="409470" size="456986" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -945,7 +945,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="04C23540E8DD4D0DFA377B6434E1E6690B031E5A" downloadHash="EC3120526FBF666FA103D2EAFE7BCC7893EFF95D" name="alaron q22 c callidyrr int 2.trx" dlsize="513706" size="1190617" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="42169BCF26FDEFB5998765B06543947BD1B36801" downloadHash="A8F6777A25647F97FC8D8C3BD023515DAA840218" name="alaron q22 c callidyrr int 2.trx" dlsize="537633" size="1217177" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2035,7 +2035,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0769E0994320DF0EA1138A6F5C3C2D8EC435EA6F" downloadHash="5CFC92D2B2B76D72C973435F111B0E88B801269B" name="alaron q26a hkr - regents field.trx" dlsize="2745641" size="13127054" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A398F303E5A99E47D890A1E4999D603648B2A13E" downloadHash="80A32884C6EC8EAA8703FAD96B98DBAD8E75EBB6" name="alaron q26a hkr - regents field.trx" dlsize="2760325" size="13136699" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
