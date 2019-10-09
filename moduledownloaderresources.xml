@@ -2030,12 +2030,17 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="656B8A42A4060AB05585331D498C8DE08CE81B42" downloadHash="33317438A1659BC683B187A915FE263CA8900F26" name="alaron q28 hkr - village.trx" dlsize="2688945" size="20558567" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5C94011646F6E0659BB3CDE3FC55F280481D863B" downloadHash="693A0ACB3137611563634242832675A4291B4998" name="alaron q28 hkr - village.trx" dlsize="2726149" size="20656616" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="E2534B03E2758A96AA93F59129D0E120AC6EADAB" downloadHash="9E18E49FCD39F3F37F07DF63852D299DDACEE12F" name="alaron q26a hkr - regents field.trx" dlsize="2765237" size="13136708" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="69474BE259FA2956511B49572A799A0134D6ADAD" downloadHash="BF31E90D8312AC5F2D864DFAE5B6C4FE6E4E5D01" name="alaron q27 hkr - grady village.trx" dlsize="3793072" size="23409814" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>

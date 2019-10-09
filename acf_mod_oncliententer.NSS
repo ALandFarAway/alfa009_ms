@@ -27,7 +27,7 @@
 #include "acr_list_i"
 #include "acr_mod_events_i"
 #include "acr_pps_i"
-//#include "009_locations_speed_i"
+#include "009_locations_speed_i"
 
 ////////////////////////////////////////////////////////////////////////////////
 // Constants ///////////////////////////////////////////////////////////////////
@@ -63,6 +63,6 @@ void main() {
 	   ACR_PCUpdateStatus(oEnterer, TRUE);
 	}
 	
-	//loc_cache_speed(oEnterer);
+	loc_cache_speed(oEnterer);
 
 }
