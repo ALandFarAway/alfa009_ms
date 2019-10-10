@@ -45,7 +45,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6652F74B427026EE11124044FF0EF187126EAC57" downloadHash="A1594EC8B60CC6C499F8BE2594995F389CC3B1C1" name="snowdown r34 westphal city.trx" dlsize="2059926" size="13953593" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="83D5AD7190DC88BD5EAFC3219637D7BEB541C7D1" downloadHash="9764CA2819DBEC3EC94733FBD727E19B37292958" name="snowdown r34 westphal city.trx" dlsize="2048046" size="13942197" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -460,7 +460,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DAF10D00B0A7B6AC3757227564829F4D49AD5053" downloadHash="6A2AB566F7F8D46375024F9C5EC9638B2B6E91D7" name="snowdown r34 westphal int 1.trx" dlsize="409470" size="456986" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="903C5EF85C8E1228BBB4AC638B7EBE58BB41643A" downloadHash="C61F74C4DDE75885B5F53DB545BB805FB7759A9B" name="snowdown r34 westphal int 1.trx" dlsize="398817" size="446253" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1685,7 +1685,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="91C4507B0FC8B182CA621D8FB8CD208FE44071EF" downloadHash="16CDB2AADA9C0CE0FE1F9E70E8780A8202B5B4E0" name="snowdown r34 westphal int 2.trx" dlsize="294256" size="969910" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DD565BD0FD952CAAB75A99C34579CEC7280ACF5B" downloadHash="4AFC01A57443626937ABC757FE62BFAF2538202E" name="snowdown r34 westphal int 2.trx" dlsize="319180" size="996205" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2030,17 +2030,22 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5C94011646F6E0659BB3CDE3FC55F280481D863B" downloadHash="693A0ACB3137611563634242832675A4291B4998" name="alaron q28 hkr - village.trx" dlsize="2726149" size="20656616" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="791349E0712D82545DD3969C7BE6FE9E89201D20" downloadHash="EE185D1AFC4D9C4E65D6074804160381EFBA8D8A" name="alaron q28 hkr - village.trx" dlsize="2719227" size="20644310" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E2534B03E2758A96AA93F59129D0E120AC6EADAB" downloadHash="9E18E49FCD39F3F37F07DF63852D299DDACEE12F" name="alaron q26a hkr - regents field.trx" dlsize="2765237" size="13136708" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0CBA93BF7324C7022307ED8C6F55B30A8A7864DF" downloadHash="47CF28EB4E95E403FD70EAC1C3CC645971AAA478" name="alaron q26a hkr - regents field.trx" dlsize="2834109" size="13206609" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="69474BE259FA2956511B49572A799A0134D6ADAD" downloadHash="BF31E90D8312AC5F2D864DFAE5B6C4FE6E4E5D01" name="alaron q27 hkr - grady village.trx" dlsize="3793072" size="23409814" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="F240161FBADE3BE59F438945D7A0A6BA74BC9607" downloadHash="BD1D7016FEB4C70A7A5CA78F826DC4729163BBF6" name="alaron r27 rushdown wood.trx" dlsize="2566552" size="19385684" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
