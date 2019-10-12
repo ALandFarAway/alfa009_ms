@@ -90,7 +90,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9BB630EFB0655C9BCCA304308E99BF790ADC6B73" downloadHash="86BBA0D05C30EF29A2330B734E52EAFD0224E1CD" name="alaron q22 c callidyrr interiors.trx" dlsize="597425" size="690575" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="57DA4AAE4451236FA984067863CEA828D1E782FF" downloadHash="C3F5E911A5395F16352A0ADD5CE11B293BD8A15B" name="alaron q22 c callidyrr interiors.trx" dlsize="597465" size="690600" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -945,7 +945,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="42169BCF26FDEFB5998765B06543947BD1B36801" downloadHash="A8F6777A25647F97FC8D8C3BD023515DAA840218" name="alaron q22 c callidyrr int 2.trx" dlsize="537633" size="1217177" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7CDD90EECCE86765AD87D7D0A99DC9D7D8AC5052" downloadHash="248F89C64097DCCF34AA0D13FB79A994C1127B9F" name="alaron q22 c callidyrr int 2.trx" dlsize="540840" size="1217712" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1605,7 +1605,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2907B5B2D3D6C49DE8E0F852EC68F9AEA966EDAD" downloadHash="6B6AF52B1681D6F6787D0F4824B03A10A963A38C" name="alaron q22 callidyrr temples int.trx" dlsize="359319" size="1079520" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="391F5142B8C771438D8354F08A694444C25FCCFC" downloadHash="258AFCC086931385B8C686682890CC55326756A1" name="alaron q22 callidyrr temples int.trx" dlsize="360070" size="1081170" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2035,17 +2035,22 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DDEC537D42226B4829B9859FA65F2B263A622439" downloadHash="E1979B3DCDB481E5551CE57F67C1613B4823FEA6" name="alaron q26a hkr - regents field.trx" dlsize="2825693" size="13202628" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D2BF991E6D485483383E6AAFD2BCEFCA637A8A69" downloadHash="49325413B91AEB07C9D90711E46965343A40768D" name="alaron q26a hkr - regents field.trx" dlsize="2756788" size="13129846" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="69474BE259FA2956511B49572A799A0134D6ADAD" downloadHash="BF31E90D8312AC5F2D864DFAE5B6C4FE6E4E5D01" name="alaron q27 hkr - grady village.trx" dlsize="3793072" size="23409814" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D159DB7736DAA89DD02700A6E7F801029D03947B" downloadHash="05B48560C3DF1C5AC12188995D502BF6D52C9487" name="alaron q27 hkr - grady village.trx" dlsize="3727565" size="23341155" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8E3FE1B9E931121F389F07FAD0BF6BA0AB4EADFD" downloadHash="BB4DF7CFBACB89EE83B2621F04AD2F9835621878" name="alaron r27 rushdown wood.trx" dlsize="2567182" size="19385685" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BBA7C71686AE692182F6F48826951D064A035DC9" downloadHash="1523BC6081B281B2E1CBEB629E8FBA662596AC4C" name="alaron r27 rushdown wood.trx" dlsize="3373703" size="19655048" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="F71FE48A20A3C4AFD81CA0E64EC99AA4CA1E8F5F" downloadHash="C5DD5BFBE933A52DE00D347C511188F6AA776094" name="alaron r28a rushdown grove.trx" dlsize="390021" size="6382363" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
