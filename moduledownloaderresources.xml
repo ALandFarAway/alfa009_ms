@@ -935,7 +935,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7C30C4EB2D16ED733DFFD3C33079D84EA0AB30AD" downloadHash="75D04D258CF1E5FD988C5EFB744ADA4982E6FAC9" name="_travel template_ferry.trx" dlsize="150469" size="6486624" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="04E5A3A433DCF8CEC3F7C2C2392AAAB45ED98340" downloadHash="8EEFE18BCC566A175BF2B97138D800C4079C05C0" name="_travel template_ferry.trx" dlsize="154690" size="6489553" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2035,22 +2035,27 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D2BF991E6D485483383E6AAFD2BCEFCA637A8A69" downloadHash="49325413B91AEB07C9D90711E46965343A40768D" name="alaron q26a hkr - regents field.trx" dlsize="2756788" size="13129846" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2F7310E930D8BB42BB71DA66432EF4C8A89BE634" downloadHash="CD1AB40089C2D29EA2D52F229528BB06D54047BC" name="alaron q26a hkr - regents field.trx" dlsize="2830217" size="13206126" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D159DB7736DAA89DD02700A6E7F801029D03947B" downloadHash="05B48560C3DF1C5AC12188995D502BF6D52C9487" name="alaron q27 hkr - grady village.trx" dlsize="3727565" size="23341155" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="727A800D0BFB8A4F55B368EE083EC0FCEC6DF0D7" downloadHash="CE7054E810ECDF23692A1661E0C04BA0B05397BA" name="alaron q27 hkr - grady village.trx" dlsize="4387409" size="23599846" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BBA7C71686AE692182F6F48826951D064A035DC9" downloadHash="1523BC6081B281B2E1CBEB629E8FBA662596AC4C" name="alaron r27 rushdown wood.trx" dlsize="3373703" size="19655048" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9518CAD626FD1637083ABF95E7562E65926FB221" downloadHash="944BF987DF27BAE0227526240F2FAA4BCA5F13C3" name="alaron r27 rushdown wood.trx" dlsize="3468807" size="19682333" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F71FE48A20A3C4AFD81CA0E64EC99AA4CA1E8F5F" downloadHash="C5DD5BFBE933A52DE00D347C511188F6AA776094" name="alaron r28a rushdown grove.trx" dlsize="390021" size="6382363" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FDB3435680AA7538FBC7D672CC8D6C4D36F022AD" downloadHash="DB1AA2B885BB5FC24077ADC8D10754CC4538F5A0" name="alaron r28a rushdown grove.trx" dlsize="460423" size="6561172" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="BD94F6F35312F6CE7B3CBC85873EF76C521031CB" downloadHash="099C657D7B2B8A8A1B11A4018D76B776A8FCDC03" name="alaron q22se hkr_merch.trx" dlsize="2596970" size="16279743" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>

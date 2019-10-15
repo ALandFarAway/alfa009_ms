@@ -19,7 +19,7 @@ int StartingConditional(int risk)
 	switch(risk)
 	{
 		case 1:
-			chance = 60;
+			chance = 50;
 			prize = 2;
 			break;
 		case 2:
@@ -46,7 +46,7 @@ int StartingConditional(int risk)
 	else if(nLevel <= 12) fMult /= 2.5f;
 	else if(nLevel <= 16) fMult /= 5.0f;
 //	else fMult /= 10.0f;
-	else fMult /= 7.0f;
+	else fMult /= 8.0f;
 	chance = FloatToInt(IntToFloat(chance) * fMult);
 	
 	if(d100(1) <= chance)
