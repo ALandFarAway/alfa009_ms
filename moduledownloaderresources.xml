@@ -1395,7 +1395,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8851806298DF0D64330B48F094AADA06E62BC5AB" downloadHash="28587CD5CAABB325556CF1B0EF8BBB61DBDCE094" name="alaron o24 aithelar tomb.trx" dlsize="500781" size="684914" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="124EDDC13A78FCB085E39B81BD6F5D9747448C50" downloadHash="FB80FF112D19716EF97EE3DAF4EEDC835368FB97" name="alaron o24 aithelar tomb.trx" dlsize="500673" size="685017" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1822,7 +1822,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="667B69A26892CC9D766F1B3E84248F677CF1B2BE" downloadHash="70A8F49A4A97490C7045E692FF71AF1788ECE3EC" name="alfa2_acr.hak" dlsize="4088561" size="133574792" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="366ACB5A4AAAD7AB1CD40090BD7B6A83F86B88B5" downloadHash="A02C76AEC8133A98CB2B0ED1E6BBAC03F42C407B" name="alfa2_acr.hak" dlsize="4089827" size="133574322" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
