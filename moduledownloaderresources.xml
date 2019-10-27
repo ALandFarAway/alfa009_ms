@@ -1555,7 +1555,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C38B67FDDC951DFBC61CCF2373536D19AB83EE34" downloadHash="C86B7D4DCB3CE5730AFBC91A3642796654762495" name="alaron q22w farheight road.trx" dlsize="3380840" size="20409479" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="354D3D6CF073BA4B5D7897E72AC822DE1253D7B4" downloadHash="D7E73A05E57B70978942F99CA3DDB3ADE76A359C" name="alaron q22w farheight road.trx" dlsize="3385400" size="20352160" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1920,7 +1920,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E0CE022DCA866A55D20967FAD340884A71F0A6B3" downloadHash="2D904C763595BC9535480983F3B23F21D82A2D56" name="alaron q22w farheight rd mstn.trx" dlsize="419694" size="827704" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1D5E5CD2E848BF2AC006542E276D53CDD633EAB0" downloadHash="FE652F4D02624EE4DEF29A400A74F4489330EF38" name="alaron q22w farheight rd mstn.trx" dlsize="417377" size="825948" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
