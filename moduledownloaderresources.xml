@@ -1730,7 +1730,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="57DC9EEB74261449772BAC95A30B2C048D6B8343" downloadHash="473E9FD396304AE1AD61A39FC3D4A4C7AA34CAA1" name="009_startarea.trx" dlsize="145212" size="147842" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8AB0FF3845CDEE61779E72BE4165E8A49766F175" downloadHash="50ABFA60FEA1573D1FFA2EDE6EF26FEA6D3B5BE5" name="009_startarea.trx" dlsize="143478" size="146361" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1920,7 +1920,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="02C9A25D2A80FB08262B662220E420F1010A2DF2" downloadHash="FBDACBF6AD61699D2C0BCC0E4EA824CEB39A1D32" name="alaron q22w farheight rd mstn.trx" dlsize="422133" size="830335" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D97026A04781CF19E8616F1C7FA4FC97C55793A7" downloadHash="635D03DE3B6278A4F3263D58D450E23E8B5CAD6E" name="alaron q22w farheight rd mstn.trx" dlsize="423032" size="830392" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
