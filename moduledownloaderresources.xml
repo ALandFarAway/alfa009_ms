@@ -1828,7 +1828,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="95177C645E6C494A6159374F9336AAC0E4C94CE4" downloadHash="6AF4CC4F27A311D93C5E96D94376B6F8CE11B12C" name="alfa_fx.hak" dlsize="106441572" size="318984868" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="D65505E2731B239000ABB48067726F743E635053" downloadHash="6AF4CC4F27A311D93C5E96D94376B6F8CE11B12C" name="alfa_fx.hak" dlsize="106441572" size="314582050" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
