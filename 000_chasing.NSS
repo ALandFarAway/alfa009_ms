@@ -33,6 +33,7 @@ NOTE: I've uncommented the lines regarding the haste effect that the chaser woul
     //if owner is chasing
     void main()
     {
+    	SetLocalInt(OBJECT_SELF, "nChasing", 1);
         int nUser = GetUserDefinedEventNumber();
         if(nUser == 1001) //HEARTBEAT EVENT
         {
