@@ -855,7 +855,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="76829F18CBD9C643E6E06D0229BE56DC0437ADEE" downloadHash="E7885CB6FEEF769CEE11A85BFC23EC681EEF7E01" name="alaron s23w rillifane run int.trx" dlsize="507045" size="602139" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="37746D6BAD741F390EC0E39664835E24001C77A8" downloadHash="02C41522A9475140FDEC1A338350F7E1134678F8" name="alaron s23w rillifane run int.trx" dlsize="504270" size="598978" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1710,7 +1710,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1FC8E9EE649A9FAC2439DD65450DAF34A006CC1C" downloadHash="DBDFDF0EF359D25DE8C0BE1CDDEAD573A73F08A0" name="009_testing grounds.trx" dlsize="337117" size="8522939" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8D213E227339F2AF98AF529493E6FA2E49BB034F" downloadHash="5C234D11FB2D9F809EDF3A8F97D84E9A6D5484CC" name="009_testing grounds.trx" dlsize="330070" size="8515142" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
