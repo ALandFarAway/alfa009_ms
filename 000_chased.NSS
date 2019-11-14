@@ -22,7 +22,7 @@ NOTE: I've uncommented the lines regarding the haste effect that the chaser woul
  effect to the predefined chaser.
 
 
-4. The Script:*/
+4. The Script:
 
     //tag-playing children by Ralf Schemmann
     //July 17th, 2002
@@ -30,12 +30,24 @@ NOTE: I've uncommented the lines regarding the haste effect that the chaser woul
     //Minor additions by Elhimac
     //Updated 22 July 2002
     //
-    //if owner is chasing
+    //if owner is chasing*/
+	
+#include "NW_I0_GENERIC"
+#include "ginc_event_handlers"
+#include "ginc_math"
+
 	
 	
     void main()
     {
-     	SetLocalInt(OBJECT_SELF, "nChasing", 0);
+		// ===================================================================
+	// *** CUSTOM USER DEFINED EVENTS ***
+	// *   The following settings will allow the user to fire one of the blank user defined events in the NW_D2_DefaultD.  Like the
+	// *   On Spawn In script this script is meant to be customized by the end user to allow for unique behaviors.  The user defined
+	// *   events user 1000 - 1010
+	SetSpawnInCondition(NW_FLAG_HEARTBEAT_EVENT);        // Fire User Defined Event 1001
+	SetLocalInt(OBJECT_SELF, "nChasing", 0); //for the children that you want to start as being chased
+     
         int nUser = GetUserDefinedEventNumber();
         if(nUser == 1001) //HEARTBEAT EVENT
         {
@@ -97,3 +109,4 @@ NOTE: I've uncommented the lines regarding the haste effect that the chaser woul
             }
         }
     }
+	

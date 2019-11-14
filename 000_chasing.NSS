@@ -31,8 +31,16 @@ NOTE: I've uncommented the lines regarding the haste effect that the chaser woul
     //Updated 22 July 2002
     //
     //if owner is chasing
+	
+//tag_spawn_chaser.nss
+#include "x0_i0_anims"
+#include "x0_i0_treasure"
+#include "x2_inc_switches"
+
+	
     void main()
     {
+	SetSpawnInCondition(NW_FLAG_HEARTBEAT_EVENT);        // Fire User Defined Event 1001
     	SetLocalInt(OBJECT_SELF, "nChasing", 1);
         int nUser = GetUserDefinedEventNumber();
         if(nUser == 1001) //HEARTBEAT EVENT

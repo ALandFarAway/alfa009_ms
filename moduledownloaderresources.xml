@@ -1605,7 +1605,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="391F5142B8C771438D8354F08A694444C25FCCFC" downloadHash="258AFCC086931385B8C686682890CC55326756A1" name="alaron q22 callidyrr temples int.trx" dlsize="360070" size="1081170" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3FEDF60C9B1EF1AD567B6FB57FCB7BEAA9824359" downloadHash="2DA1B19C4BA718AC069FF1784782AA15D5281C52" name="alaron q22 callidyrr temples int.trx" dlsize="359398" size="1080954" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2056,6 +2056,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="BD94F6F35312F6CE7B3CBC85873EF76C521031CB" downloadHash="099C657D7B2B8A8A1B11A4018D76B776A8FCDC03" name="alaron q22se hkr_merch.trx" dlsize="2596970" size="16279743" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="C422EE8395A5FAD52B4FE802CC95AAFCB854091A" downloadHash="7A1FED5CCAAE2738FF20129BAB51BFD6A2D95BE2" name="alaron q22w farheight road-th.trx" dlsize="3481300" size="20751214" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
