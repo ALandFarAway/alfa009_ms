@@ -1220,7 +1220,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="42FAD44DE9F83D6AF88544EE4D1C282D0A40A674" downloadHash="C7F71478FB110C495EDD1F108EC33D466EA5DA94" name="oman j26 gramphalt frostgiants.trx" dlsize="718393" size="732838" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A4129CC763A3A50F311A20DAB999267F76BB0780" downloadHash="D02239E1BDFF77C4BDC228EF55308110245D7224" name="oman j26 gramphalt frostgiants.trx" dlsize="715124" size="729362" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1485,7 +1485,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E385ED31EDBD05FF12E0AD7F5A2B84F7CD28426D" downloadHash="01B200B8013505A9C521A0CF967FD498B9FF2721" name="oman j26 gramphalt mountains.trx" dlsize="4477810" size="21234462" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BCC7C30E5D26868DFB5A417BCCAD5A9D5A5C339E" downloadHash="127E91C3947CAAF3A36C7F9E08A8EA3423DC7E52" name="oman j26 gramphalt mountains.trx" dlsize="4471574" size="21235293" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
