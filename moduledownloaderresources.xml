@@ -1828,7 +1828,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="05F506888D5150401A6ABE8B2DDFB6451ECF265F" downloadHash="E7AD17556A387AC50813EC47EFE094C83DC758D3" name="alfa_fx.hak" dlsize="82510954" size="212875427" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="D65505E2731B239000ABB48067726F743E635053" downloadHash="6FFB32DA36C9D52A0DC1E3ACFB5C27059120661A" name="alfa_fx.hak" dlsize="106891649" size="314582050" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
@@ -2061,11 +2061,6 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="C422EE8395A5FAD52B4FE802CC95AAFCB854091A" downloadHash="7A1FED5CCAAE2738FF20129BAB51BFD6A2D95BE2" name="alaron q22w farheight road-th.trx" dlsize="3481300" size="20751214" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="Hak" hash="AF61A08EC96F1C46967D5A880238C9D69D51A026" downloadHash="C187EF970AFA2E9515BE0EAA58EEEF5C8007B85E" name="alfa_fx2.hak" dlsize="99911248" size="146785353" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
