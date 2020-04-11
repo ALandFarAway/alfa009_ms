@@ -90,7 +90,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="57DA4AAE4451236FA984067863CEA828D1E782FF" downloadHash="C3F5E911A5395F16352A0ADD5CE11B293BD8A15B" name="alaron q22 c callidyrr interiors.trx" dlsize="597465" size="690600" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="608FE8D0BAB498C19E5A04536B53FDBBE6BD96D1" downloadHash="4662C5D32145BC3A5BF4D2DB8A32209F56DC3046" name="alaron q22 c callidyrr interiors.trx" dlsize="597527" size="690592" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
