@@ -1,3 +1,5 @@
+// This goes in the onpercepetion of the NPC
+
 void main()
 {
 
@@ -9,7 +11,7 @@ if (!GetLastPerceptionSeen()) return;
 object oTarget;
 oTarget = OBJECT_SELF;
 
-int nRandom = d3();
+int nRandom = d4();
 if (nRandom ==1)
 {
 ActionPlayAnimation(ANIMATION_LOOPING_DANCE01);
@@ -24,4 +26,11 @@ else if (nRandom== 3)
 {
 ActionPlayAnimation(ANIMATION_LOOPING_DANCE03);
 }
+else if (nRandom== 4)
+{
+ActionPlayAnimation(ANIMATION_THROWARMSUP);
 }
+}
+
+
+
