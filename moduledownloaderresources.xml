@@ -1822,7 +1822,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="904981B00390992A948B3722D7E2B98E3089FC38" downloadHash="A02C76AEC8133A98CB2B0ED1E6BBAC03F42C407B" name="alfa2_acr.hak" dlsize="4089827" size="135161554" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="904981B00390992A948B3722D7E2B98E3089FC38" downloadHash="6767DE6211BF9BF015A6E3294A68365F32E229D8" name="alfa2_acr.hak" dlsize="4116887" size="135161554" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
@@ -1834,7 +1834,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="F4707614E319B31623E01ED30F85F21382A139EC" downloadHash="B3057B15940A5C70A2D7D6717A79CCAE60704ED7" name="alfa2_gui.hak" dlsize="10122289" size="42565750" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="D008EB5573178783BE8E03E8CF1FB496A2C652C1" downloadHash="B3057B15940A5C70A2D7D6717A79CCAE60704ED7" name="alfa2_gui.hak" dlsize="10122289" size="42563861" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
