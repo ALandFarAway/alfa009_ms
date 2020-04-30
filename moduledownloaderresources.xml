@@ -2132,19 +2132,19 @@
     </server-ref>
   </resource>
   <resource type="Hak" hash="18B082C249A5325833E10BF27CCFD707B5898AFB" downloadHash="BC940C84BE6F37026E710CA91A40AA7918A98E16" name="alfa_items2.hak" dlsize="188559729" size="820206885" critical="false" exclude="false" urlOverride="">
-     <server-ref>
+    <server-ref>
       <string>1</string>
       <string>3</string>
     </server-ref>
   </resource>
   <resource type="Hak" hash="D3926B5258E62852F697B758AB01A908718F20AD" downloadHash="027F85203DDEBE2016FD1AC4D0F6E75A363B3EF1" name="alfa_placeables3.hak" dlsize="341027303" size="1815794338" critical="false" exclude="false" urlOverride="">
-     <server-ref>
+    <server-ref>
       <string>1</string>
       <string>3</string>
     </server-ref>
   </resource>
   <resource type="Hak" hash="82243578E3D49B9C5E4DF84F52CBEC675AF5128C" downloadHash="C7A28CBA819A7A1B0969962F249FBD9B13D8095D" name="alfa_placeables4.hak" dlsize="325603743" size="1590407869" critical="false" exclude="false" urlOverride="">
-     <server-ref>
+    <server-ref>
       <string>1</string>
       <string>3</string>
     </server-ref>
