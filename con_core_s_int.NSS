@@ -5,7 +5,7 @@
 
 void main(int nDB_Local, string sVariable, int nValue, string sObject="", string sTable="", string sDB="")
 {
-	 object oObject;
+     object oObject;
 
     // Use the PC table by default if nothing is set
     if (sTable == "") {
@@ -29,11 +29,11 @@ void main(int nDB_Local, string sVariable, int nValue, string sObject="", string
     }
 
     // Set campaign DB with value
-	if (nDB_Local == 1 || nDB_Local == 3) {	 
-	    SetCampaignInt(sDB, sVariable, nValue, oObject);
-	}
+    if (nDB_Local == 1 || nDB_Local == 3) {
+        SetCampaignInt(sDB, sVariable, nValue, oObject);
+    }
     // Set local variable with value
-	if (nDB_Local == 2 || nDB_Local == 3) {
-    	SetLocalInt(oObject, sVariable, nValue);
-    }									 
+    if (nDB_Local == 2 || nDB_Local == 3) {
+        SetLocalInt(oObject, sVariable, nValue);
+    }
 }

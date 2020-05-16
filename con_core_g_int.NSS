@@ -1,7 +1,7 @@
 /*
-    nDB_Local = 1 = DB 2 = Local
+  nDB_Local = 1 = DB 2 = Local
   Alucelestria
-  this code is in a beta state and should not be shared.    
+  this code is in a beta state and should not be shared.
 */
 
 
@@ -30,7 +30,7 @@ int StartingConditional(int nDB_Local, string sVariable, int nValue,  string sOb
     else if (sObject == "area") {
         oObject = GetArea(GetPCSpeaker());
     }
-     
+
     // See if we check campaign DB
     if (nDB_Local == 1) {
         nDBInt = GetCampaignInt(sDB, sVariable, oObject);

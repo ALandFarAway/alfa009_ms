@@ -1,6 +1,6 @@
 void main(string sDatabase="", string sVariable, string sObject = "")
 {
-	object oObject;
+    object oObject;
 
     // Use the the object who is conversing by default if nothing is set
     if (sObject == "") {
@@ -24,5 +24,5 @@ void main(string sDatabase="", string sVariable, string sObject = "")
     }
     // Check campaign DB and set local int to that value
     int nDBInt = GetCampaignInt(sDatabase, sVariable, oObject);
-	SetLocalInt(oObject, sVariable, nDBInt);
+    SetLocalInt(oObject, sVariable, nDBInt);
 }
