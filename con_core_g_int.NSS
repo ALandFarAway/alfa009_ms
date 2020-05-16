@@ -5,9 +5,10 @@
 */
 
 
-int StartingConditional(int nDB_Local, string sVariable, int nValue,  string sObject, string sTable = "PC", string sDB = "PC"){
-     
+//int StartingConditional(int nDB_Local, string sVariable, int nValue, string sObject, string sTable = "PC", string sDB = "PC"){
+  int StartingConditional(int nDB_Local, string sVariable, int nValue, string sObject="", string sTable = "PC", string sDB = "PC"){   
 	 object oObject;
+	
 	 if(sObject == "self") oObject = GetPCSpeaker();
 	 if(sObject == "OBJECT_SELF") oObject = OBJECT_SELF;
 	 if(sObject == "area") oObject = GetArea(GetPCSpeaker());

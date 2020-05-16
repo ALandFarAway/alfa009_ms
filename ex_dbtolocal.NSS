@@ -1,5 +1,5 @@
 
-void main(string sDatabase, string sVariable, string sObject = "self"){
+void main(string sDatabase, string sVariable, string sObject = ""){
      if(sDatabase == "") sDatabase = "PC";
 	 object oObject;
 	 if(sObject == "self") oObject = GetPCSpeaker();
