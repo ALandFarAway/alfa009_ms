@@ -5,7 +5,7 @@
 */
 
 
-int StartingConditional(int nDB_Local, string sVariable, int nValue,  string sObject="", string sTable="", string sDB="")
+int StartingConditional(int nDB_Local, string sVariable, int nValue,  string sObject, string sTable, string sDB)
 {
     object oObject;
     int nDBInt;

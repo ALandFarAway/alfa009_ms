@@ -3,7 +3,7 @@
 //  Alucelestria
 //  this code is in a beta state and should not be shared.
 
-void main(int nDB_Local, string sVariable, int nValue, string sObject="", string sTable="", string sDB="")
+void main(int nDB_Local, string sVariable, int nValue, string sObject, string sTable, string sDB)
 {
      object oObject;
 

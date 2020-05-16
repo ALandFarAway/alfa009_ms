@@ -1,4 +1,4 @@
-void main(string sDatabase="", string sVariable, string sObject = "")
+void main(string sDatabase, string sVariable, string sObject)
 {
     object oObject;
 
