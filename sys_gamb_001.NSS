@@ -30,3 +30,4 @@ void main(){
 /*
 This should go on mod load.
          SetLocalInt(GetModule(), SLOT_JACKPOT, GetCampaignInt(DB_GAMBLE, SLOT_JACKPOT));           
+*/
