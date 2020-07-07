@@ -1,4 +1,4 @@
-/*///////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////
 //
 //  System Name : ACR Configuration File
 //     Filename : acf_trg_onenter.nss
@@ -27,7 +27,7 @@
 
 void main()
 {
-   
+ /*  
     // Custom code goes here.
 			object oDM = OBJECT_SELF;
 	        object oFlocker = GetLocalObject(oDM, "Object_Target");
@@ -171,8 +171,7 @@ void main()
 						}
 					}
 				}
-	
+	*/
 			
 }
 
-/*
