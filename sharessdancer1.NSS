@@ -12,25 +12,24 @@ object oTarget;
 oTarget = OBJECT_SELF;
 
 int nRandom = d4();
-if (nRandom ==1)
+   if (nRandom ==1)
 {
-ActionPlayAnimation(ANIMATION_LOOPING_DANCE01);
+   ActionPlayAnimation(ANIMATION_LOOPING_DANCE01);
 }
 
-if (nRandom == 2)
+   if (nRandom == 2)
 {
-ActionPlayAnimation(ANIMATION_LOOPING_DANCE02);
+   ActionPlayAnimation(ANIMATION_LOOPING_DANCE02);
 }
 
-else if (nRandom== 3)
+   else if (nRandom == 3)
 {
-ActionPlayAnimation(ANIMATION_LOOPING_DANCE03);
+   ActionPlayAnimation(ANIMATION_LOOPING_DANCE03);
 }
-else if (nRandom== 4)
+   else if (nRandom == 4)
 {
-ActionPlayAnimation(ANIMATION_THROWARMSUP);
+   PlayCustomAnimation(OBJECT_SELF,"throwarmsloop", 1);
 }
 }
-
 
 

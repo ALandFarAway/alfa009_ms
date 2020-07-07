@@ -46,7 +46,7 @@ void main(string sChatType, int nVariable){
      if(sChatType == "greeting"){
                          
                                 }						 								  
-								  }
+								 // }
 /*								  
 								  		 case 1: sS4 = " would run if I were you!"; break;
 		 case 2: sS4 = "pathetic wench!"; break;
@@ -56,4 +56,7 @@ void main(string sChatType, int nVariable){
 		 case 6: sS4 = "Kobold lover!"; break;
 		 case 7: sS4 = "weak shambling mound!"; break;
 		 case 8: sS4 = "pile of horse snott!"; break;
- }	
+ }	*/
+ 
+ 
+ }

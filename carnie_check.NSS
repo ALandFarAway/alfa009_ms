@@ -163,7 +163,7 @@ int StartingConditional(int risk)
 		return TRUE;
 	}
 	return FALSE;
-}
+//}
 
 // This carries out a standard rigged carnival game. They more-or-less vend common
 // items, though wealth plays slightly into one's odds of winning.
@@ -328,5 +328,5 @@ int StartingConditional(int risk)
 	    ACR_GetPersistentInt(oPC, persistent_wins_name, persistent_wins_value + 1);
 		return TRUE;
 	}
-	return FALSE;
-}/*
+	return FALSE;*/
+}
