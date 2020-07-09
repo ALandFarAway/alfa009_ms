@@ -2175,11 +2175,4 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="ACAD85ABAD075B28EB485D556EAD7D1C48B4C90D" downloadHash="11A891A47DA1D2F13BFA8AEF0FD54DC30C814D4C" name="alfa_music.hak" dlsize="199384102" size="217541842" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-      <string>1</string>
-      <string>3</string>
-    </server-ref>
-  </resource>
 </content>
