@@ -404,13 +404,13 @@ int TEMP_ModuleOnChat(object oSpeaker, object oTarget, int nMode, string sText)
 				return FALSE;
 			}
 		}
-		else if(sNewPick == "@l37")
+		else if(sNewPick == "@koz")
 		{
-			if(_IsLanguageKnown(oSpeaker, LNG_LEETSPEAK) || GetIsDM(oSpeaker) || GetIsDMPossessed(oSpeaker))
-				sLangPick = LNG_LEETSPEAK;
+			if(_IsLanguageKnown(oSpeaker, LNG_KOZAKURAN) || GetIsDM(oSpeaker) || GetIsDMPossessed(oSpeaker))
+				sLangPick = LNG_KOZAKURAN;
 			else
 			{
-				SendMessageToPC(oSpeaker, "You don't know how to speak Leet.");
+				SendMessageToPC(oSpeaker, "You don't know how to speak Kozakuran.");
 				return FALSE;
 			}
 		}
