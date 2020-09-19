@@ -1859,7 +1859,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash=" 9C4B396A775719030D3F0061DFCE04D0C9AA4579" downloadHash="CFF109C0BD6800B6864981F2311E7DAEBCCC5EC4" name="alfa_placeables2.hak" dlsize="435178848" size="1503783992" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="9C4B396A775719030D3F0061DFCE04D0C9AA4579" downloadHash="CFF109C0BD6800B6864981F2311E7DAEBCCC5EC4" name="alfa_placeables2.hak" dlsize="435178848" size="1503783992" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>1</string>
