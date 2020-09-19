@@ -2168,7 +2168,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="8B2314E1BDA407512E815C21D95F4C5C816D7BDC     " downloadHash="0386716C7A97BDFC96797974FDE490DD533E3FE5   " name="alfa_creatures3.hak" dlsize="437947537" size="1346725317" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="8B2314E1BDA407512E815C21D95F4C5C816D7BDC" downloadHash="0386716C7A97BDFC96797974FDE490DD533E3FE5" name="alfa_creatures3.hak" dlsize="437947537" size="1346725317" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>1</string>
