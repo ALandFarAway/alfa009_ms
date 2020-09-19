@@ -1810,21 +1810,21 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="Tlk" hash="8008B6CEB4293356C30425EC3BB132D9A7D8835A" downloadHash="7F70B021B923C7227F98BA67B3AD44EEE1F7DD27" name="alfa_acr02.tlk" dlsize="164326" size="1268699" critical="false" exclude="false" urlOverride="">
+  <resource type="Tlk" hash="811F9D7E082E14D5EAC4F026D1F8F81A12766DFA" downloadHash="C2DE4471A3B0863FF1D21B3FAD96FED246AB026F" name="alfa_acr02.tlk" dlsize="164380" size="1268732" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>1</string>
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="71EF12EC46FF8FD65D89CC3EFAE3AE2EF7802C9F" downloadHash="EF7EFB8046EFD4161D7BA89A247FA4C65C524BF6" name="alfa2_2da.hak" dlsize="496568" size="30520611" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="1BC711AF105038A323008FE4FEE3D53CAB080C46" downloadHash="B8C064061389A87C2BF313963660F237A333D844" name="alfa2_2da.hak" dlsize="498840" size="30509318" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>1</string>
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="FCED27A95FFD4D32E044B8D2730CA6F1CB3D520C" downloadHash="860AFD176B79C11AFFCF5861B610AEEB6CEF3EE2" name="alfa2_acr.hak" dlsize="4197638" size="144256103" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="A70E180C912D3A7644BBC3131E2305B2E3F0BB00" downloadHash="BE3B2466372CC227A9DD2A2D25FA498A0925029A" name="alfa2_acr.hak" dlsize="4197638" size="144256103" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>1</string>
@@ -1859,7 +1859,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="BB450E65B2031098ADE720D0DDEF173FF05C1079" downloadHash="AB591E91632B1BE280C26C9E8794BD8D31D7D93B" name="alfa_placeables2.hak" dlsize="295471929" size="1053189462" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash=" 9C4B396A775719030D3F0061DFCE04D0C9AA4579" downloadHash="CFF109C0BD6800B6864981F2311E7DAEBCCC5EC4" name="alfa_placeables2.hak" dlsize="435178848" size="1503783992" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>1</string>
@@ -1873,14 +1873,14 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="6D82B4B844D1EE8C16A8DD2544296BDC52C8F4FA" downloadHash="B62F113319F4B880F993C1611BBC37328F5A728B" name="alfa_tiles.hak" dlsize="328145078" size="1707072692" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="A0D71808034EDC9902248DFEFD5C17D2F5062B4E" downloadHash="3E2B5211CAE02ED5326EF8F3901A2C68F6A90732" name="alfa_tiles.hak" dlsize="328115481" size="1707072692" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>1</string>
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="B84F958AAAB05FF24BE811E2423BF3F0E7382C91" downloadHash="A7C1FE658C85D1BC2E03D31AB153F76E91551681" name="alfa_tiles2.hak" dlsize="169985215" size="1074231836" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="27C3F6ADFF7A459A66D28A0847F2F25DE6C376C5" downloadHash="142FB6D22B50579399609350C2E3643F05C098FD" name="alfa_tiles2.hak" dlsize="171286330" size="1076329380" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>1</string>
@@ -1894,7 +1894,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="60AC34EC3556668E8D23E524FB923D46B4986B0E" downloadHash="F1B491FAB5CB5E09FFDBC052CA6D9E28F301B535" name="alfa2_templates.hak" dlsize="220748" size="9674902" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="727E18DB01098E37EA59E178310E2B6B40316A33" downloadHash="859622FCAE6DCBC4E14EB9BD5A30D4504972BFAC" name="alfa2_templates.hak" dlsize="220981" size="9694888" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>1</string>
@@ -2154,21 +2154,21 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="D3926B5258E62852F697B758AB01A908718F20AD" downloadHash="027F85203DDEBE2016FD1AC4D0F6E75A363B3EF1" name="alfa_placeables3.hak" dlsize="341027303" size="1815794338" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="82FE7CD27B5B97EC5C635D18D65C310ACAF2CAF0" downloadHash="EC4F474E3C0144924CF0B82A7932153263C0DCE8" name="alfa_placeables3.hak" dlsize="341022913" size="1815481667" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>1</string>
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="05612BB8AE7E4977D2FF263AAC9D2FDF42E37FE2" downloadHash="721C01AA07324C8E836DC355F6DE9B2BBC7A54FA" name="alfa_placeables4.hak" dlsize="367528624" size="1626749241" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="05A097D1CAF56C2946740DB28FEEF5CB27153ED7" downloadHash="0B3085789742D577C397884E3235DAEDFFEA7357" name="alfa_placeables4.hak" dlsize="251101643" size="893189337" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>1</string>
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="76E7021976F60B966C5E9D0555FC8F153FD609AE" downloadHash="B513BF63608C85462142B36E33827F75103A9B3B" name="alfa_creatures3.hak" dlsize="438006953" size="1346725317" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="8B2314E1BDA407512E815C21D95F4C5C816D7BDC     " downloadHash="0386716C7A97BDFC96797974FDE490DD533E3FE5   " name="alfa_creatures3.hak" dlsize="437947537" size="1346725317" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>1</string>
