@@ -280,7 +280,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A66A68A79EE38544C4ABA3B68C927BCC094E7022" downloadHash="60840A3754AB03460A66F33DD7EFDF7EA33EDEFB" name="alaron  aithelar to torriage.trx" dlsize="2778614" size="12531740" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F29C96FB59946518D42046954B282560608F65C2" downloadHash="C9B22E73F281C0F1EF8C6D053483BA279791B214" name="alaron  aithelar to torriage.trx" dlsize="2767937" size="12515408" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -580,7 +580,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="35EB599DD393B515D9657CCCE309E169EB4EECD9" downloadHash="000CB3CDD15CDD3CD032D31D082E42C60A2194D0" name="alaron q22 c callidyrr housing.trx" dlsize="573926" size="1207587" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3667FA7EACA55F948AFE27F5F5611D9097EB14C6" downloadHash="20155FF5B152A8B933058E99EE9A61ACB70E4E90" name="alaron q22 c callidyrr housing.trx" dlsize="550600" size="1184805" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1400,7 +1400,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="113B222B41457A2882E9A80AA9723856F73B3BF6" downloadHash="02D183ECD150FA1749B6A4B8785B22E8D41782FA" name="alaron q22 c callidyrr high dist.trx" dlsize="3046325" size="15783667" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="14093BB3FD4446EA58DE1212C0E47338D12E1AD1" downloadHash="E4015DDF35045BB86A1338D2A1CD7CBC5CAF49A6" name="alaron q22 c callidyrr high dist.trx" dlsize="3050974" size="15793762" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2173,6 +2173,11 @@
       <string>0</string>
       <string>1</string>
       <string>3</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="6C39FF1E5ECAA6A05751BBC63D0C04CD817072A7" downloadHash="31BD2C88E9CA62C5050E33C4C704BFB050C87F27" name="alaron o24 aithelar ext.trx" dlsize="4384255" size="21102607" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
     </server-ref>
   </resource>
 </content>
