@@ -995,12 +995,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E7235E9612C0B2C81F69664A9EC742799A8C9F6F" downloadHash="0E0B216796EEDC534C71267D822B81456C7A50BD" name="gwynneth k29 high home-dwarven.trx" dlsize="9597367" size="41749262" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="310BFAF934D791B1662F8D26308753A3205B318E" downloadHash="085D1A10A0117D15DAA651F112F5BA4B50A67C2D" name="gwynneth k29 high home-dwarven.trx" dlsize="9571138" size="41711375" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="21F240B4DC0DDA0AC7C28F5CF4B370AA740B5846" downloadHash="B0F76D858DB215714FC573ED52CF377384D7DB08" name="gwynneth m34s lowhill int.trx" dlsize="420659" size="606036" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="24C34C28C96C0B76179E722836B59F7F63BC8933" downloadHash="98AF5A93F114CED42843FBD384634783ED83ABD0" name="gwynneth m34s lowhill int.trx" dlsize="421786" size="606437" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1595,7 +1595,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2CEB552DDF78AFAE31DF176A5D0AFE2287E4B852" downloadHash="FD44B004EDA862D825E437038C970E4DCF7E23E7" name="gwynneth k29 high home post.trx" dlsize="461251" size="467749" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5281AFC6270134301662CEEE28AACC74E182904D" downloadHash="D23FE197F6B96CE2ABC2BE8D845A0A66576BA95C" name="gwynneth k29 high home post.trx" dlsize="482963" size="489370" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
