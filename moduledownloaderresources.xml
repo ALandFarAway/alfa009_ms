@@ -910,7 +910,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CD6A678EA22AD21E22D7E64B28B40E0EAD9C1D60" downloadHash="84B53CB8DA2037550ED3D7A1E7E7C58806FA1BA0" name="generic beach.trx" dlsize="3581277" size="17422672" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="01D04BB6D035400B1358FE10F789FE72A3FB3ABF" downloadHash="0B3E5EF84C045D09D70E1C837FC6D0719D85FBF2" name="generic beach.trx" dlsize="3561740" size="17400141" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -925,7 +925,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="EC58E61F7D77DD691E74E3ABEE2E2291572858C4" downloadHash="703E673D85761AC14F2A062E25C8D7A937ED9B34" name="gwynneth m32 sacred grove.trx" dlsize="1864769" size="9352723" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9639D7449098CFFF606E2D8506391C42920985C6" downloadHash="1995D9093413C5C8C7486F05534267E6C4DDF726" name="gwynneth m32 sacred grove.trx" dlsize="1866970" size="9341450" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1570,7 +1570,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2118B011438EA1411D52FFE10525E58ACA8B0551" downloadHash="504939C6CD2ED25C1F170C341FEF148BAE4D06CE" name="gwynneth l35 lost ruins 1.trx" dlsize="290312" size="6636693" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="343BF852109C3490A9AEDEA8557410208E9414AB" downloadHash="3BAFDBDA02D6595873791239EF4DF64591232D94" name="gwynneth l35 lost ruins 1.trx" dlsize="355159" size="6700129" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1710,7 +1710,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8D213E227339F2AF98AF529493E6FA2E49BB034F" downloadHash="5C234D11FB2D9F809EDF3A8F97D84E9A6D5484CC" name="009_testing grounds.trx" dlsize="330070" size="8515142" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="881F22481F130863DAC42DCEECA9534CB20CA8DC" downloadHash="0576920AE0D564016F019BC41DC2F388049A09EB" name="009_testing grounds.trx" dlsize="328575" size="8512515" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2176,6 +2176,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="6C39FF1E5ECAA6A05751BBC63D0C04CD817072A7" downloadHash="31BD2C88E9CA62C5050E33C4C704BFB050C87F27" name="alaron o24 aithelar ext.trx" dlsize="4384255" size="21102607" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="8895BC61431536337CC93EED09D0291962D8A0EE" downloadHash="43D69AAB3919FF0A3FD4097F536F58FF07A160EA" name="gwynneth n32 druid village.trx" dlsize="2972111" size="16699755" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
