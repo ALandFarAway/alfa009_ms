@@ -805,7 +805,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6DECCC9D9981DEC2BBE237334E2E6C87F0B0C986" downloadHash="B8D73259952AE56760838C9292DBBA4CCD554EE6" name="gwynneth l35 llyrath forest.trx" dlsize="2943279" size="16006356" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6D6C2F8B6CDCCCFCC06E4127B640AF40F9949D48" downloadHash="C7554A8DEF6E2ED81DCDD90E6FA5F54E8080533F" name="gwynneth l35 llyrath forest.trx" dlsize="2955299" size="16014906" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -925,7 +925,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9639D7449098CFFF606E2D8506391C42920985C6" downloadHash="1995D9093413C5C8C7486F05534267E6C4DDF726" name="gwynneth m32 sacred grove.trx" dlsize="1866970" size="9341450" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8D8405A6BE299B0262EFAFC1111821BA706C9A13" downloadHash="7CFD145512C143521319589EE30DE5F4E5426851" name="gwynneth m32 sacred grove.trx" dlsize="1871544" size="9344845" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1570,7 +1570,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="343BF852109C3490A9AEDEA8557410208E9414AB" downloadHash="3BAFDBDA02D6595873791239EF4DF64591232D94" name="gwynneth l35 lost ruins 1.trx" dlsize="355159" size="6700129" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="39FEDACC21A2431C1564DCCD8DF59F76AC16B4D3" downloadHash="57BBD138334FC3061F8DEE5C02D76CE755E6BEA3" name="gwynneth l35 lost ruins 1.trx" dlsize="377960" size="6727263" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1735,7 +1735,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="87D52FC6BA1FF145D26DC7FB0691357A26DD86A3" downloadHash="5602DE976156CBEE973F548070B32070C30D6715" name="gwynneth l35 lost ruins 2.trx" dlsize="434065" size="9435028" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="267809E1B4CBB52EA36F933925860C5CE84A8F48" downloadHash="A1E8B0D9BF039EEE791A8448B80EFFC7D3C5226A" name="gwynneth l35 lost ruins 2.trx" dlsize="457615" size="9470171" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2180,7 +2180,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8895BC61431536337CC93EED09D0291962D8A0EE" downloadHash="43D69AAB3919FF0A3FD4097F536F58FF07A160EA" name="gwynneth n32 druid village.trx" dlsize="2972111" size="16699755" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5F7E397781BCC861D52E7C212081751E7BA384B5" downloadHash="08EF58DF5736436107AA92B43D90FDBD5036041F" name="gwynneth n32 druid village.trx" dlsize="2881573" size="16615264" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
