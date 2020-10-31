@@ -695,7 +695,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="403C48D81C767422089030A875C5733CFC184CC6" downloadHash="E43FEDDA2F42DE1F6B98689ACEE13842FCE4D939" name="gwynneth m34nw corwell housing.trx" dlsize="84210" size="216658" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8DCDD55EEFECC272AABC2B37AECCB315E40F4B95" downloadHash="1E445973E92BEB6A14C3262E053CDFA7F422D496" name="gwynneth m34nw corwell housing.trx" dlsize="188597" size="366522" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1560,7 +1560,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D4EF351E899F2EC61D5EB286E512602A057B3EA7" downloadHash="B3AA99E03A75C6FAA3E468AEEF5F93224FF5913B" name="gwynneth m34nw corwell town.trx" dlsize="5218752" size="27231303" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FA66FA2BBFEBFB8A02F9923C6613B4922119FF45" downloadHash="72C43E252EDBD5F7919D3DFA83BB609E7B516811" name="gwynneth m34nw corwell town.trx" dlsize="5223941" size="27219587" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1585,7 +1585,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3295DF0BF08D51BAA76706329DD99DE3CF27DC4E" downloadHash="BA6D8CE8A6AEEA4D8C594555C73101ECEB1A8A5D" name="gwynneth m34nw corwell grove int.trx" dlsize="27883" size="27827" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9A95F0F1EEE0848A953789692A20BD998CD9B1EF" downloadHash="FCCA75B731806CDFF03A3705CB0ED797F96286E1" name="gwynneth m34nw corwell grove int.trx" dlsize="64757" size="64695" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
