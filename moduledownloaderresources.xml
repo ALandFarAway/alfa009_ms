@@ -1585,7 +1585,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9A95F0F1EEE0848A953789692A20BD998CD9B1EF" downloadHash="FCCA75B731806CDFF03A3705CB0ED797F96286E1" name="gwynneth m34nw corwell grove int.trx" dlsize="64757" size="64695" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4576F7CB12750B622D26CC2AEC18C8FE0A36A51F" downloadHash="97EA6F849DD81DB4983E153FFFFE538ED9CD5530" name="gwynneth m34nw corwell grove int.trx" dlsize="63417" size="63407" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
