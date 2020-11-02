@@ -220,7 +220,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="46C53D5A1F24113FCE1D26BBDE9B78A19F7EBC22" downloadHash="1B927A71677C4953D48514D0B2F04F2CEE8AD999" name="gwynneth m34nw corwell grove.trx" dlsize="1425727" size="9043751" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0D4B62D36A93A62C1DD420813846B77C33490B9A" downloadHash="654FE0AA53C5CE5FF5CF8D8B755C0011895190DB" name="gwynneth m34nw corwell grove.trx" dlsize="1403838" size="9019082" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1570,7 +1570,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="40A089095F5137FFE804385C5649091E59BBAE24" downloadHash="DFD1A16D66F130EC101381CCA2CEF156C1D825D0" name="gwynneth l35 lost ruins 1.trx" dlsize="436767" size="6907735" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="CBB7742232B0A29A2FA390D14C2B83B6756079B4" downloadHash="71F4CF1808BAFA6EB07FDFAD3BDE439ADF3C0C0E" name="gwynneth l35 lost ruins 1.trx" dlsize="438254" size="6909140" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
