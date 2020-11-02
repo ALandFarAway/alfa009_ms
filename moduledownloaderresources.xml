@@ -1570,7 +1570,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="39FEDACC21A2431C1564DCCD8DF59F76AC16B4D3" downloadHash="57BBD138334FC3061F8DEE5C02D76CE755E6BEA3" name="gwynneth l35 lost ruins 1.trx" dlsize="377960" size="6727263" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="40A089095F5137FFE804385C5649091E59BBAE24" downloadHash="DFD1A16D66F130EC101381CCA2CEF156C1D825D0" name="gwynneth l35 lost ruins 1.trx" dlsize="436767" size="6907735" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
