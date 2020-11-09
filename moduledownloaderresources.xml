@@ -540,7 +540,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="08F310F585F8C18E41E85972CAE171931A459A3E" downloadHash="1F9568057A73393BA084E2C03AADF12FA1DE720D" name="alaron r26 stirgewick ruins.trx" dlsize="537636" size="546093" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A633A7092189E3F7B54ED33B953CDE3BBCE20308" downloadHash="57D5D12C59ABA7578568A0881299305DAAA0E0CF" name="alaron r26 stirgewick ruins.trx" dlsize="568642" size="577832" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1090,7 +1090,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="40B5110302F60BD2E6C1CCC0733BFEEA30297CFA" downloadHash="5A969F61BE54448DE208C25F83E81F274F6FD485" name="gwynneth m34ne koart under.trx" dlsize="546569" size="1184755" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C87501BF88ACC987ABA0B40FD25D330CA2F158A9" downloadHash="7C549ACAADEB598EE321C6AB591A03CC4E75E9A7" name="gwynneth m34ne koart under.trx" dlsize="548644" size="1185306" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1150,7 +1150,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="374DAE9E668987E95E51B5AF7033F14EE00EDAB9" downloadHash="6D7A2F7883D24423CF0C75B71142ED75FBBC54E1" name="alaron q24 hkr ruins 2.trx" dlsize="364323" size="369839" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FF0E5A718C7F90B4B0E65BB74973269BE9D15C2C" downloadHash="C3D936981AF0598E27362905E326408177C5A840" name="alaron q24 hkr ruins 2.trx" dlsize="359449" size="365044" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1570,7 +1570,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CBB7742232B0A29A2FA390D14C2B83B6756079B4" downloadHash="71F4CF1808BAFA6EB07FDFAD3BDE439ADF3C0C0E" name="gwynneth l35 lost ruins 1.trx" dlsize="438254" size="6909140" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="38ABC8F05A9BAEEDA55B089B2E48562B5DAB4F94" downloadHash="721B79F865CAC357BBEBB9654A2F5A7725367859" name="gwynneth l35 lost ruins 1.trx" dlsize="440632" size="6908533" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1710,7 +1710,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="881F22481F130863DAC42DCEECA9534CB20CA8DC" downloadHash="0576920AE0D564016F019BC41DC2F388049A09EB" name="009_testing grounds.trx" dlsize="328575" size="8512515" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1281B9F366E054E2150307F55EB35264B643C9CD" downloadHash="4BE17A727E19EB8BEA67DD20F304F82B935CD2D0" name="009_testing grounds.trx" dlsize="321381" size="8508043" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
