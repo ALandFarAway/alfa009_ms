@@ -1570,7 +1570,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F450A417E483503345FB2C666D65E8A72DEA8BAA" downloadHash="5674116B2A9C4843296A5C9B28921DD8B53AEE66" name="gwynneth l35 lost ruins 1.trx" dlsize="463650" size="6924863" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8871052D0F24806A6B3F35CF714D37D22865DA68" downloadHash="60A8CCCEEAD2B2DC7DFC2238FE6F039637033454" name="gwynneth l35 lost ruins 1.trx" dlsize="438308" size="6373591" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1735,7 +1735,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="267809E1B4CBB52EA36F933925860C5CE84A8F48" downloadHash="A1E8B0D9BF039EEE791A8448B80EFFC7D3C5226A" name="gwynneth l35 lost ruins 2.trx" dlsize="457615" size="9470171" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C0740B1577F6BCBCB8C60640E3273306E988168E" downloadHash="F6950242010E841ADB3DC61EF057C79A05656836" name="gwynneth l35 lost ruins 2.trx" dlsize="443974" size="9457931" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
