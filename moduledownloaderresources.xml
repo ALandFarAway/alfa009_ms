@@ -490,7 +490,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="16AA65C5A10655901ECD5BE83DD90B37B7414968" downloadHash="88160B5F27EC9642D872C0B6A878A85846F2BF29" name="gwynneth l29 high home grove.trx" dlsize="464781" size="6433025" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="87C1EFFF2D1279201985CBB44BFE2D1AED965C54" downloadHash="8A82A740F0213169149D00EBA90554F547338E07" name="gwynneth l29 high home grove.trx" dlsize="479108" size="6444295" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -555,7 +555,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8478398F7E70D98012C51EB78533FC0036D0799D" downloadHash="315D9D4895D6312E7DA20E3099750568CCBECCCB" name="gwynneth m28 winterglen elfville.trx" dlsize="1029098" size="10770797" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8FB5BFFD14DBA00479FF2A6FDD3B4644C573D36A" downloadHash="6FAAB9091DAC3EC5810ABEAE93FFB876EAEBDD6F" name="gwynneth m28 winterglen elfville.trx" dlsize="1041496" size="10784471" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -670,7 +670,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2C9FF9678DB23AD48D23B8198582C74A32B140F2" downloadHash="89417CF03E9204242D7E0FB2E6E73ED9F46280F0" name="gwynneth i37 wyngate cantrev.trx" dlsize="2378766" size="14766728" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E9D5F7FB1C4D987E1B73F5285D25E474C779511B" downloadHash="D41E2981B0D7A025CC0C1D9911F77638FE32CF1B" name="gwynneth i37 wyngate cantrev.trx" dlsize="2428853" size="14813130" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -995,7 +995,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="310BFAF934D791B1662F8D26308753A3205B318E" downloadHash="085D1A10A0117D15DAA651F112F5BA4B50A67C2D" name="gwynneth k29 high home-dwarven.trx" dlsize="9571138" size="41711375" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="AEBDE2FCD2A55AEFA1B330E84F3675A730049D22" downloadHash="2564CE7771386149D74A055DCC361F05981AF2AF" name="gwynneth k29 high home-dwarven.trx" dlsize="9607311" size="41773879" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1495,7 +1495,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4220A866DCBEBFC502E0B99B9CD094BF877F16DB" downloadHash="C49B201BED6891D9259F7FFD06E1893EE2AB3EC9" name="gwynneth k29 high home lvl1.trx" dlsize="656000" size="685948" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5FC4F62B2DAEB7E75F62B8B52C73EEC1DD03BB89" downloadHash="27AF102BD02EFDB9EDE7BB6CCA40D3F8D5E26772" name="gwynneth k29 high home lvl1.trx" dlsize="760991" size="792195" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1570,7 +1570,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="35FC76339B1282D3422C261C007A10533630CDCC" downloadHash="9DDE8441331D5DEC5B43B0EDA124E06FAC7EAF62" name="gwynneth l35 lost ruins 1.trx" dlsize="449577" size="6374043" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="85CAC7B07F937D614778D0E9DA5A8B7ABB038DCD" downloadHash="2BADF48DC840C92128A67564CE4735FA2999BB4D" name="gwynneth l35 lost ruins 1.trx" dlsize="451013" size="6378655" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1735,7 +1735,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="00B55D038A627F31CC309588AB92EB4C9F6F7E6C" downloadHash="FC7DFB6E380D02DE198585179CD1033A02EBB7CE" name="gwynneth l35 lost ruins 2.trx" dlsize="434584" size="9448787" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7DBA41276FCD24A5CA6B3C59043E12B9D45C5C1E" downloadHash="C3CD493456CB2EC7543B4478AC0F9B7E994726F7" name="gwynneth l35 lost ruins 2.trx" dlsize="460142" size="9470531" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2181,6 +2181,16 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="5F7E397781BCC861D52E7C212081751E7BA384B5" downloadHash="08EF58DF5736436107AA92B43D90FDBD5036041F" name="gwynneth n32 druid village.trx" dlsize="2881573" size="16615264" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="0F88A495AF8902E7BC542E07C5FDB75B24D9991E" downloadHash="A5C4B3B7FE7D4EA35DA3E87E16B680FC46E841E0" name="gwynneth k29 high home upper.trx" dlsize="204714" size="208384" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="3EF5E04607FDD5C0E63026ED6F0C69D16DCF396A" downloadHash="095FA76B7CE82925A591ECF9EE3BA5A272161E3C" name="gwynneth k29 high home forges.trx" dlsize="329119" size="380583" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
