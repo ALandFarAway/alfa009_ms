@@ -490,7 +490,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="87C1EFFF2D1279201985CBB44BFE2D1AED965C54" downloadHash="8A82A740F0213169149D00EBA90554F547338E07" name="gwynneth l29 high home grove.trx" dlsize="479108" size="6444295" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DA2587B0B17FFC694A3C65519A998F9C6C9F6838" downloadHash="5F3102C13DF8369EC34BBF52EE4482D412F01B58" name="gwynneth l29 high home grove.trx" dlsize="473437" size="6437799" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
