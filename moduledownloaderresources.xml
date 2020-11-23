@@ -780,7 +780,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B11EDC12C8DCDDF4B14F9F6497F7FC3E69D33DCB" downloadHash="2190534ABE0EB83ED8FB6CEAFDE737E989ECF9F6" name="wd 4g dock ward int shops.trx" dlsize="130226" size="133069" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7A0CF34A9A66565F8AE49F7BFBDE1C49EFE0109C" downloadHash="AF03E369EC5A5050C3ED677E2D639B8BC071C834" name="wd 4g dock ward int shops.trx" dlsize="129685" size="132617" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1495,7 +1495,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="82E91ECB8B039A99653564D00C98EFE00A9C8B10" downloadHash="09FEBD50D274C422FB1AF769D0A0AFEA9958A8EB" name="gwynneth k29 high home lvl1.trx" dlsize="759821" size="791146" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D88B15815F48F8773324A01B494EBFA0BD69B3DC" downloadHash="4F803176A0A149DC573BFE57C78163993F26B4F5" name="gwynneth k29 high home lvl1.trx" dlsize="714298" size="745978" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2185,12 +2185,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="123F3A9AD8E1F7DC384FAE63C03DA4B62A7A3D9A" downloadHash="494A1865072F28E930ED29D3C2D29F2873A0230F" name="gwynneth k29 high home upper.trx" dlsize="295545" size="386982" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7DEB9C2C4B24909898F19449D84712FA5AA5D600" downloadHash="49C0A3457E3821DAE2D7ABE2F27E956841EDF04F" name="gwynneth k29 high home upper.trx" dlsize="292870" size="384554" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0A596B687FC81D72E95FD4B0C5A23E2AB9E08B52" downloadHash="71831C9F9519A0D07756841175444E675C44CD19" name="gwynneth k29 high home forges.trx" dlsize="336582" size="433257" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="748F1692FCD47E3B4A290E6E2A625BD90A875CEF" downloadHash="848101DEAD5D27603CCB338746B6085A8252CAE8" name="gwynneth k29 high home forges.trx" dlsize="336837" size="433235" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
