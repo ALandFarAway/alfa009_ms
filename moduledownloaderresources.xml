@@ -1495,7 +1495,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D88B15815F48F8773324A01B494EBFA0BD69B3DC" downloadHash="4F803176A0A149DC573BFE57C78163993F26B4F5" name="gwynneth k29 high home lvl1.trx" dlsize="714298" size="745978" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="ED68A7F1A2BFAC4935B68E926119EF964F246202" downloadHash="992AA195E47750003EE5660462F86603D8B14807" name="gwynneth k29 high home lvl1.trx" dlsize="714257" size="745922" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2185,7 +2185,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7DEB9C2C4B24909898F19449D84712FA5AA5D600" downloadHash="49C0A3457E3821DAE2D7ABE2F27E956841EDF04F" name="gwynneth k29 high home upper.trx" dlsize="292870" size="384554" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C23C14296ED43352E09DE1759E0AF53819B475DF" downloadHash="CB82EDA638A4D23A5487B864D154EBC81553E4D1" name="gwynneth k29 high home upper.trx" dlsize="296824" size="387997" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
