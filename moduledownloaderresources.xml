@@ -995,7 +995,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="AEBDE2FCD2A55AEFA1B330E84F3675A730049D22" downloadHash="2564CE7771386149D74A055DCC361F05981AF2AF" name="gwynneth k29 high home-dwarven.trx" dlsize="9607311" size="41773879" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="225AE73168E641D743095998D5ED7B757EA6A620" downloadHash="B0737D9EE7AEBD5FA886922838F5D7EC7685E036" name="gwynneth k29 high home-dwarven.trx" dlsize="9649154" size="41720015" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2185,7 +2185,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="31324CDC3E89204B227C63A5C8D57A17D72F816A" downloadHash="30504F3BA41BCC9EE475368B78C04752B827E225" name="gwynneth k29 high home upper.trx" dlsize="306192" size="397179" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5A099E206CC5AA5BA03E613469488ED3B91D6549" downloadHash="1899E2E4B9CC7BAA9EE5E992DF9243FFAA0DEA3B" name="gwynneth k29 high home upper.trx" dlsize="297005" size="388112" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
