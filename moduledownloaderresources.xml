@@ -310,7 +310,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="AD8A9BDDDA1D0C3667850602BD364E118DD5257C" downloadHash="2902A9E81DA834A8227AC32EFD507B691D2CF17D" name="cave complex 1.trx" dlsize="769015" size="782032" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DDE2D07DF414CB04302ED9AAE4A462700B09019F" downloadHash="94AECFF63CDDF8958F130034EB32E77B509E308D" name="cave complex 1.trx" dlsize="893456" size="909643" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -600,7 +600,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="08094756B56587ACD790A41E1867A5A7FF9008DE" downloadHash="B0149F5A3700F7334741ACB70C48B1ABAA41AED8" name="gwynneth k28 caves.trx" dlsize="2710165" size="2804784" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A87C9A0323524FEB70D0715C986A1E6353C72229" downloadHash="1BD308C284980081A6655E084B1B9FC6B482BFF2" name="gwynneth k28 caves.trx" dlsize="2715045" size="2810254" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -995,7 +995,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="225AE73168E641D743095998D5ED7B757EA6A620" downloadHash="B0737D9EE7AEBD5FA886922838F5D7EC7685E036" name="gwynneth k29 high home-dwarven.trx" dlsize="9649154" size="41720015" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B41905A62B5C3919E903B9827CFCF350590AFDE5" downloadHash="21AA86B001CECE4B360DFD1FEECCEE8EC37A905D" name="gwynneth k29 high home-dwarven.trx" dlsize="9584971" size="41694484" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2195,7 +2195,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="51703E9709020007DA5B314ABF1760957E4E9E9F" downloadHash="2A5AA7CEEDFE48FBE8219D7EC5C4B2645286223A" name="gwynneth m28 winterglen elreirn.trx" dlsize="1030878" size="10740907" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="520E2B099DBB08CA1F9AEFE93BBA7E1B6A6F3A63" downloadHash="4A175CF06EEBB2A49DE0C88F190D494497CD2D32" name="gwynneth m28 winterglen elreirn.trx" dlsize="1063017" size="10762273" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
