@@ -995,7 +995,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B41905A62B5C3919E903B9827CFCF350590AFDE5" downloadHash="21AA86B001CECE4B360DFD1FEECCEE8EC37A905D" name="gwynneth k29 high home-dwarven.trx" dlsize="9584971" size="41694484" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="86A7B3044B5D142ADBA2D6C8C9EB1489667B4332" downloadHash="6BD016795966D4D50BF09EDE339D35710E268B98" name="gwynneth k29 high home-dwarven.trx" dlsize="9667671" size="41763237" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2196,6 +2196,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="520E2B099DBB08CA1F9AEFE93BBA7E1B6A6F3A63" downloadHash="4A175CF06EEBB2A49DE0C88F190D494497CD2D32" name="gwynneth m28 winterglen elreirn.trx" dlsize="1063017" size="10762273" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="D768BE1C3236D326391515C12BD188B012172566" downloadHash="B21A72534E7CDF6D6858120E8F5A2F2CA24AF7BC" name="gwynneth k29 cave complex 1.trx" dlsize="857182" size="870100" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
