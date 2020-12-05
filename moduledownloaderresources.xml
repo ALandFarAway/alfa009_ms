@@ -995,7 +995,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="86A7B3044B5D142ADBA2D6C8C9EB1489667B4332" downloadHash="6BD016795966D4D50BF09EDE339D35710E268B98" name="gwynneth k29 high home-dwarven.trx" dlsize="9667671" size="41763237" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="33E9FC664FF641C17B935BD6D1177A439164F853" downloadHash="65727F31D2B50091C7E5A551A6FE733F8E16DA01" name="gwynneth k29 high home-dwarven.trx" dlsize="9628242" size="41571924" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2201,6 +2201,21 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="D768BE1C3236D326391515C12BD188B012172566" downloadHash="B21A72534E7CDF6D6858120E8F5A2F2CA24AF7BC" name="gwynneth k29 cave complex 1.trx" dlsize="857182" size="870100" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="E190E7527747696C6BFD8D94656D31D82044E620" downloadHash="5541B901269CBB3F80A26E820940C9349196E9DF" name="gwynneth k29 mine complex 2.trx" dlsize="246557" size="335762" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="F089EFB3F46B77C4F4EC49AEDD639C69D2F642A4" downloadHash="F6D2FAA69814D429D74562CC3BAA9D0B14CEB6C0" name="gwynneth k29 mine complex 1.trx" dlsize="880959" size="897284" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="A87C9A0323524FEB70D0715C986A1E6353C72229" downloadHash="1BD308C284980081A6655E084B1B9FC6B482BFF2" name="gwynneth k28 mine complex 3.trx" dlsize="2715045" size="2810254" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
