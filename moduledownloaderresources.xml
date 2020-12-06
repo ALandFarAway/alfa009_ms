@@ -1165,7 +1165,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7A066C3B3651F754ED8D4A7D6264599B22EB295E" downloadHash="2C9D26C0AFCF87B32C389406DC3870AAE6A5D6EF" name="gwynneth j30 aspenheight hills.trx" dlsize="2605007" size="14368723" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="58A4EE1758B9A284075D7C45A9E612D117262E61" downloadHash="A2CC430E79CFA4071FAB46270FB12DD89F74362C" name="gwynneth j30 aspenheight hills.trx" dlsize="2662458" size="14422813" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2210,12 +2210,22 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F089EFB3F46B77C4F4EC49AEDD639C69D2F642A4" downloadHash="F6D2FAA69814D429D74562CC3BAA9D0B14CEB6C0" name="gwynneth k29 mine complex 1.trx" dlsize="880959" size="897284" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0273B0847069684558AF603D16A21105595B89AA" downloadHash="00BC5E8C151F52264C3B87EE4998859DC7426FA0" name="gwynneth k29 mine complex 1.trx" dlsize="795020" size="809542" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="A87C9A0323524FEB70D0715C986A1E6353C72229" downloadHash="1BD308C284980081A6655E084B1B9FC6B482BFF2" name="gwynneth k28 mine complex 3.trx" dlsize="2715045" size="2810254" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="A87C9A0323524FEB70D0715C986A1E6353C72229" downloadHash="1BD308C284980081A6655E084B1B9FC6B482BFF2" name="gwynneth k29 mine complex 3.trx" dlsize="2715045" size="2810254" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="40544BEFC6B6A861A7153AA1EE2C19B2CC1D92A7" downloadHash="53AC1CCA077574C8C458DBAEFA58E8BEB2C75170" name="gwynneth k29 high home - dwarven.trx" dlsize="9842916" size="41874928" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
