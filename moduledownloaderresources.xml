@@ -2210,7 +2210,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0273B0847069684558AF603D16A21105595B89AA" downloadHash="00BC5E8C151F52264C3B87EE4998859DC7426FA0" name="gwynneth k29 mine complex 1.trx" dlsize="795020" size="809542" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7A6335D60E045AF71C87A6EAB450B20A81D92CE2" downloadHash="DF3FF0920BD0E39C06A1D8CBD19D4946B820D848" name="gwynneth k29 mine complex 1.trx" dlsize="1014373" size="1032414" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2225,7 +2225,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="40544BEFC6B6A861A7153AA1EE2C19B2CC1D92A7" downloadHash="53AC1CCA077574C8C458DBAEFA58E8BEB2C75170" name="gwynneth k29 high home - dwarven.trx" dlsize="9842916" size="41874928" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="CE108AB55FC4F7CBF52217FC750A895074F58EAC" downloadHash="80A42C3614D72F28FD07F94D67A7EB1979DD575C" name="gwynneth k29 high home - dwarven.trx" dlsize="9542433" size="41360540" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
