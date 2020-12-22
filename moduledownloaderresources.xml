@@ -80,7 +80,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E4381AFB239B585EDDBC45EDAD50FC1AE6DD90FB" downloadHash="0FC57E92A2EEB29B60D70617C7EE87CAD5BB9FBD" name="snowdown t33 brannoch estate.trx" dlsize="171308" size="172960" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3EA59A4A9CBBE46E3777EE73A7E9DA68B3FD5BFC" downloadHash="C325736BD1CB66AAB724ACDEE04526D9CFB78F71" name="snowdown t33 brannoch estate.trx" dlsize="179197" size="180756" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
