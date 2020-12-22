@@ -80,7 +80,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="459BB315978B94A25B4A94C28756EB69DEF231CF" downloadHash="A0B7F5E5BEAF290018B3A1B51D5879013BB594AB" name="snowdown t33 brannoch estate.trx" dlsize="45933" size="46156" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E4381AFB239B585EDDBC45EDAD50FC1AE6DD90FB" downloadHash="0FC57E92A2EEB29B60D70617C7EE87CAD5BB9FBD" name="snowdown t33 brannoch estate.trx" dlsize="171308" size="172960" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -670,7 +670,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E9D5F7FB1C4D987E1B73F5285D25E474C779511B" downloadHash="D41E2981B0D7A025CC0C1D9911F77638FE32CF1B" name="gwynneth i37 wyngate cantrev.trx" dlsize="2428853" size="14813130" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C0137C925D125B5272CAE4D026EBB8E57CD71E47" downloadHash="19DA5DF4E6D129AF7823AB10E062DDA63F01D56A" name="gwynneth i37 wyngate cantrev.trx" dlsize="2430333" size="14821697" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1350,7 +1350,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="AB178A39AA624710D9CF65F53FDD799D537DA7B8" downloadHash="5590169D8A95D230E7DE68E70D05CD781BDCD24D" name="snowdown t33 broadleaf lodge int.trx" dlsize="564058" size="573699" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8D3DE6BB4A3BC8FC0A5F3555909339956BC0B1DA" downloadHash="C130FB6714419C13EA5F81F8C60DEF374C44C24E" name="snowdown t33 broadleaf lodge int.trx" dlsize="560118" size="569465" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1595,7 +1595,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0D3F5D5F06AA0EE094611BC62011B28298DF7B52" downloadHash="F5119457D6A298841AD1C1D0B3033B6D09A884B6" name="gwynneth k29 high home post.trx" dlsize="522262" size="529454" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F82A73C335C183EE77E78F26F2CEAEFB0EE914BA" downloadHash="D6FEC1210AD04B3EC7A55755FB9ACCE66E52AE02" name="gwynneth k29 high home post.trx" dlsize="523855" size="530686" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1695,7 +1695,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E7E84098927D98EB80A3841A75B74982893A9744" downloadHash="366428DEBC26C254258AE2934EA61FF0BE23904F" name="snowdown t33 brannoch town.trx" dlsize="2187016" size="15501174" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="096B6B626113667BA2B05589154DD69CDB51BB2A" downloadHash="E54ED5C93368EE7537D5885D1FFEDB91118357ED" name="snowdown t33 brannoch town.trx" dlsize="2160467" size="15483832" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2205,12 +2205,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E190E7527747696C6BFD8D94656D31D82044E620" downloadHash="5541B901269CBB3F80A26E820940C9349196E9DF" name="gwynneth k29 mine complex 2.trx" dlsize="246557" size="335762" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="85A2C135ED3BC8D568A9AD118AB32709B3F0F2BD" downloadHash="92C1ECAF2C42AC9259A6AEDF1A5C3E5AAB9A1C25" name="gwynneth k29 mine complex 2.trx" dlsize="249032" size="337876" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7A6335D60E045AF71C87A6EAB450B20A81D92CE2" downloadHash="DF3FF0920BD0E39C06A1D8CBD19D4946B820D848" name="gwynneth k29 mine complex 1.trx" dlsize="1014373" size="1032414" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2A8263F509E2174ACF2421E476DADC37C1DEDB2E" downloadHash="856B4331DF46C74AA5E24C799B352AFAADB7A54C" name="gwynneth k29 mine complex 1.trx" dlsize="982829" size="1000630" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2225,7 +2225,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CE108AB55FC4F7CBF52217FC750A895074F58EAC" downloadHash="80A42C3614D72F28FD07F94D67A7EB1979DD575C" name="gwynneth k29 high home - dwarven.trx" dlsize="9542433" size="41360540" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5E9736AE7599AD511804BBB90D9A2E20D871A50C" downloadHash="922235CBCB6D74537EBB151518FE43632C4DEF92" name="gwynneth k29 high home - dwarven.trx" dlsize="9586696" size="41346642" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="520E2B099DBB08CA1F9AEFE93BBA7E1B6A6F3A63" downloadHash="4A175CF06EEBB2A49DE0C88F190D494497CD2D32" name="gwynneth m28 winterglen loss.trx" dlsize="1063017" size="10762273" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
