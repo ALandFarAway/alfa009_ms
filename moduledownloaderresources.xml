@@ -45,7 +45,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="83D5AD7190DC88BD5EAFC3219637D7BEB541C7D1" downloadHash="9764CA2819DBEC3EC94733FBD727E19B37292958" name="snowdown r34 westphal city.trx" dlsize="2048046" size="13942197" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F1338BA8B9B7A925F5835C9A7C0CFFB7BE52361B" downloadHash="48EBA1113D84761E1B6F1BDF16BC5D3175B42091" name="snowdown r34 westphal city.trx" dlsize="2050141" size="13945776" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -490,7 +490,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DA2587B0B17FFC694A3C65519A998F9C6C9F6838" downloadHash="5F3102C13DF8369EC34BBF52EE4482D412F01B58" name="gwynneth l29 high home grove.trx" dlsize="473437" size="6437799" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="65B6BDE1F5486EA995EDEAD21A3356D2F5D287AE" downloadHash="EFB262BE984C195F689C15DF64C54F11B49EE2B5" name="gwynneth l29 high home grove.trx" dlsize="474939" size="6441174" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1530,7 +1530,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="077411B0321E2543196A505DD4D52CE4F2FE2E80" downloadHash="2B5BF6F6138746A7DED75750CC9AD6564EEC6DCE" name="snowdown s33 the ride n.trx" dlsize="5097086" size="26483696" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2C2894C7EC2F1CECF4175D46F0A07934CF7B8AA5" downloadHash="B00402BB9BA1D1A3EAFF3534022E1DAF33E066A8" name="snowdown s33 the ride n.trx" dlsize="5081585" size="26467539" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2231,6 +2231,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="520E2B099DBB08CA1F9AEFE93BBA7E1B6A6F3A63" downloadHash="4A175CF06EEBB2A49DE0C88F190D494497CD2D32" name="gwynneth m28 winterglen loss.trx" dlsize="1063017" size="10762273" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="AB7F06006B23061C0F64B3E4B8E64281225296D8" downloadHash="719082DBFB4E5DBE5684D71C1EEEB8018EEE94E8" name="snowdown_r33_andover_heights.trx" dlsize="3415028" size="21563701" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
