@@ -2225,7 +2225,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5E9736AE7599AD511804BBB90D9A2E20D871A50C" downloadHash="922235CBCB6D74537EBB151518FE43632C4DEF92" name="gwynneth k29 high home - dwarven.trx" dlsize="9586696" size="41346642" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6A92C2C73D07B3D3E7C21B2D36FE065B93F8D044" downloadHash="48D38B224B342CD100F591649ED1D80D74840C98" name="gwynneth k29 high home - dwarven.trx" dlsize="9610798" size="41346906" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
