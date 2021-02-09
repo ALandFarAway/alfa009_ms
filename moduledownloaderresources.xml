@@ -1730,7 +1730,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8DA708A44C7E632743949FBCE60790676D2E8599" downloadHash="A334AB3E7BFD59B8FB9A5E9599C8E189E87E473B" name="009_startarea.trx" dlsize="144183" size="146891" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C6387FF4C840343C8524BE692072CD3A28F4C8CF" downloadHash="396DB3D647DA6ED71BC0C7DB6970FDE7EE869EF9" name="009_startarea.trx" dlsize="144900" size="147453" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2225,7 +2225,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6A92C2C73D07B3D3E7C21B2D36FE065B93F8D044" downloadHash="48D38B224B342CD100F591649ED1D80D74840C98" name="gwynneth k29 high home - dwarven.trx" dlsize="9610798" size="41346906" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="204145216816AC4FAEEB70D0553BA8F1A4AF731C" downloadHash="892B2FD2791BBC9B1C9912C49F12B71CE024CBA2" name="gwynneth k29 high home - dwarven.trx" dlsize="9601476" size="41333383" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
