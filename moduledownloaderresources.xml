@@ -115,7 +115,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="58419DA4F2A8EA29D71A97E04C9B0D25B45A1E72" downloadHash="6B33929B08F6F732E4D26CEFD6D3671AD0A1DB10" name="gwynneth m28 winterglen vil int.trx" dlsize="81486" size="81714" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="06E7170743ED4A3BFE952B556AB010D18AFCD43B" downloadHash="2A5E3C83772142984F5F5F7794927F0FB353A26C" name="gwynneth m28 winterglen vil int.trx" dlsize="81819" size="82098" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -570,7 +570,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9A9CDD57B8C5B35846A3819E9A8C750FCE74B5EC" downloadHash="5E41B6FF4917F098F3D5633713C5D0707B7BBF03" name="gwynneth m31 darkhorn castle int.trx" dlsize="365706" size="371827" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3EC371BB89404449EA6BD5F68F5C222448676C18" downloadHash="546CB42369D55520593F597CB04BDA4E51822102" name="gwynneth m31 darkhorn castle int.trx" dlsize="384243" size="390117" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2230,7 +2230,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="520E2B099DBB08CA1F9AEFE93BBA7E1B6A6F3A63" downloadHash="4A175CF06EEBB2A49DE0C88F190D494497CD2D32" name="gwynneth m28 winterglen loss.trx" dlsize="1063017" size="10762273" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2987DA2D5DB2E4DB73213026694508DDBA9B2FDF" downloadHash="7716A754032CA7FCA0DA5F3CB034F0F935E221CF" name="gwynneth m28 winterglen loss.trx" dlsize="1070812" size="10762297" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
