@@ -570,7 +570,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3EC371BB89404449EA6BD5F68F5C222448676C18" downloadHash="546CB42369D55520593F597CB04BDA4E51822102" name="gwynneth m31 darkhorn castle int.trx" dlsize="384243" size="390117" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="74FDD7CB2B1993757283A335DC847467FC3E8498" downloadHash="C9535158F192E73B28CB47152D3959BBF6D2CCE3" name="gwynneth m31 darkhorn castle int.trx" dlsize="444511" size="450092" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2000,7 +2000,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6488E21B384125676294014E846870B3FA246D9D" downloadHash="B8A1209143A2E3E4E0532118DFA2CFBB75D04452" name="ruathym a_b3 ext.trx" dlsize="3671891" size="21619508" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="395C088E562B85667A1A5139F03303ACB65B8834" downloadHash="D4123D86C443857B3FD8C2BD77F03C53F543929D" name="ruathym a_b3 ext.trx" dlsize="3675495" size="21615301" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
