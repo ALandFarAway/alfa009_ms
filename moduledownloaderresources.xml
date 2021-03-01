@@ -670,7 +670,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C0137C925D125B5272CAE4D026EBB8E57CD71E47" downloadHash="19DA5DF4E6D129AF7823AB10E062DDA63F01D56A" name="gwynneth i37 wyngate cantrev.trx" dlsize="2430333" size="14821697" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="61D665D43C24DC9B8B99AC40128CE8204C21FCAC" downloadHash="9DAEC84FF1EE48B69F17AACB7E697DF3FFA108BA" name="gwynneth i37 wyngate cantrev.trx" dlsize="2437811" size="14823030" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2236,6 +2236,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="AB7F06006B23061C0F64B3E4B8E64281225296D8" downloadHash="719082DBFB4E5DBE5684D71C1EEEB8018EEE94E8" name="snowdown_r33_andover_heights.trx" dlsize="3415028" size="21563701" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="560D591B645745E967F934A72FD615F5B9CFCF24" downloadHash="F144BA073D2BDE46D1BFB3D1C5054AE561703F91" name="gwynneth i37 int ruins.trx" dlsize="136132" size="137013" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
