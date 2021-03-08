@@ -670,7 +670,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B40FCD36ED5CE989F9BDFBB702B0CDC938444E02" downloadHash="B579AC4C002685D8C4DB909C33FAD86FFE9A9DE8" name="gwynneth i37 wyngate cantrev.trx" dlsize="2438323" size="14822952" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="951F7ECBA0D31CCB41521A724F335CF13C5C4630" downloadHash="99841E4430895E1CEE06E17FCF8801CCDB30DDD4" name="gwynneth i37 wyngate cantrev.trx" dlsize="2440237" size="14822431" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2240,7 +2240,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7E15CAD92C4D36DD00CD5D177785A195F760B517" downloadHash="5DDFCA6A88BB2CC37ED2E5DDF0452131047914CB" name="gwynneth i37 int ruins.trx" dlsize="406225" size="410976" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7FDA7108B4F37E2058696CB6AEE63B79F47FB2FD" downloadHash="AD5609EF42C312E373CDF8BCFE63AD4A73634626" name="gwynneth i37 int ruins.trx" dlsize="553699" size="602553" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
