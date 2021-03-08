@@ -13,7 +13,8 @@ void main()
     object oPC = GetClickingObject();
 
     // Abort if the PC is not a certain race.
-    if ( GetRacialType(oPC) != RACIAL_TYPE_ELF  &&
+  
+	 if ( GetRacialType(oPC) != RACIAL_TYPE_ELF  &&
          GetRacialType(oPC) != RACIAL_TYPE_HALFELF )
     {
         SendMessageToPC(oPC, "You are not of the People");
