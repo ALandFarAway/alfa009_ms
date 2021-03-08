@@ -1495,7 +1495,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="ED68A7F1A2BFAC4935B68E926119EF964F246202" downloadHash="992AA195E47750003EE5660462F86603D8B14807" name="gwynneth k29 high home lvl1.trx" dlsize="714257" size="745922" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="38E8CF8D0B0706226DCC36FEC329AF30410C3B6D" downloadHash="EA9B281446AE154CA8433B4A5506E12CAB5A7DD7" name="gwynneth k29 high home lvl1.trx" dlsize="683999" size="713720" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1560,7 +1560,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E0F16837F3106A1AF6935F74DA4065CB91FB564C" downloadHash="FF847B5C7E50D1B50B128D2A67787D8EC9008CAA" name="gwynneth m34nw corwell town.trx" dlsize="5212999" size="27229167" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7DD188A80C473AC28CAC643621EEAA2F4FF6FCAD" downloadHash="477BA8B4E0FAC3138AFBD92CFE00E3B602649281" name="gwynneth m34nw corwell town.trx" dlsize="5233051" size="27235375" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2240,7 +2240,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1C34F1DC4C907F973E3FF3805FDBDE9091A44441" downloadHash="FB5336499BD89E51D0BBDFD35F19AB0CC28C1AD1" name="gwynneth i37 int ruins.trx" dlsize="143116" size="144122" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7E15CAD92C4D36DD00CD5D177785A195F760B517" downloadHash="5DDFCA6A88BB2CC37ED2E5DDF0452131047914CB" name="gwynneth i37 int ruins.trx" dlsize="406225" size="410976" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
