@@ -2240,7 +2240,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="EB63FAE30BB2E6EB178EFB040738B8EE70B76F0D" downloadHash="4D882164B537F0E5919F1283D921D02492A22B05" name="gwynneth i37 int ruins.trx" dlsize="552724" size="601215" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DCA110D69EFEB58340309DE8BD995AAE7D9CF8FE" downloadHash="D4114FCD5D1FC3F84B9E4538CD58132FCC360E25" name="gwynneth i37 int ruins.trx" dlsize="541078" size="589956" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
