@@ -670,7 +670,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="36DCEC2257C76ED2D3D31C372B75E42684D99552" downloadHash="C991F23E22DC6412F2A0D6D50FD12A71738C687C" name="gwynneth i37 wyngate cantrev.trx" dlsize="2442838" size="14831185" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="77700B15D597AF7C8866145A31A17736BB517770" downloadHash="D4A7651D2BB48E102CFB2A55954E686F80F074D8" name="gwynneth i37 wyngate cantrev.trx" dlsize="2434947" size="14822181" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
