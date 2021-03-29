@@ -240,7 +240,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BA7F0FBE85E08DEF10E370C54FE724DC3F788982" downloadHash="D6A78A7F43DBC7F9BC33B3DCD178B598DDC4A781" name="gwynneth o35 llyrath forest se.trx" dlsize="2357953" size="14587012" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="37A3819F685401577EB32A7E6CD5B4DD2EE5D8F3" downloadHash="C7BEC58B4D970E1D28ED67E7B6ECA89F4E8B10DE" name="gwynneth o35 llyrath forest se.trx" dlsize="2335386" size="14564800" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1700,7 +1700,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A53E11D93E04453D3D17EFB49AD077369BE78075" downloadHash="BD9E1D7E982C0153F75F29AF4C412CFAC19F043B" name="gwynneth p34 cantrev horstall.trx" dlsize="1903157" size="12882543" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A0CAA270A71D14F161D49EA45D3C800A22CCFA94" downloadHash="D06501638F059BA2E9FE2ECC5D453473FF72323F" name="gwynneth p34 cantrev horstall.trx" dlsize="1900670" size="12884492" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2241,6 +2241,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="DCA110D69EFEB58340309DE8BD995AAE7D9CF8FE" downloadHash="D4114FCD5D1FC3F84B9E4538CD58132FCC360E25" name="gwynneth i37 int ruins.trx" dlsize="541078" size="589956" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="0B2AA8E76224B7F68D508D0B46344FC448FCDA94" downloadHash="31698A6C4E4E3EF3A8B81EBC38F442A859FAA94E" name="gwynneth o35 llyrath ruin.trx" dlsize="238633" size="914172" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
