@@ -1560,7 +1560,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7DD188A80C473AC28CAC643621EEAA2F4FF6FCAD" downloadHash="477BA8B4E0FAC3138AFBD92CFE00E3B602649281" name="gwynneth m34nw corwell town.trx" dlsize="5233051" size="27235375" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F1AE2CD216E55C1B13832F87EB1C20E2C9668754" downloadHash="C7FEA73F585460FD8C165314AE9881BC96EEF79F" name="gwynneth m34nw corwell town.trx" dlsize="5228206" size="27233958" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2245,7 +2245,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="05C6708F65B712936BC2C662B5462F873E69C74D" downloadHash="E300DE6CAA8CF9E3A0049BB1824A1E995C2962E3" name="gwynneth o35 llyrath ruin.trx" dlsize="246479" size="922296" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9816897382CCE9F32BAC4A5A6E74232B92EC0A6B" downloadHash="6741598DCE3124092230005AB713FBBEC6E35EF5" name="gwynneth o35 llyrath ruin.trx" dlsize="282688" size="914150" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
