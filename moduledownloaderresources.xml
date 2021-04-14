@@ -1585,7 +1585,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8C334C09CABFF7A23C5AB72043BF13AAD621BB56" downloadHash="A987C88D54935DCB1F3754D9A9E41C226F8562CE" name="gwynneth m34nw corwell grove int.trx" dlsize="63479" size="64428" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5960DA1BDC45B3E91A037F58A1B3223D5F89934D" downloadHash="5136BA7B1A7D1913DF28125D1D619D2DAB309759" name="gwynneth m34nw corwell grove int.trx" dlsize="64474" size="64436" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2075,7 +2075,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A7E20F9059C0285F273302F5FBFD9D4C7A538B46" downloadHash="7A1FED5CCAAE2738FF20129BAB51BFD6A2D95BE2" name="alaron q22w farheight road-th.trx" dlsize="3481300" size="20925482" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4AA376D5C01DCE7978DFA15FB7893EC29D9C3A7F" downloadHash="E3136E4EA93E44CD3A1D341C34095BC728DF37F3" name="alaron q22w farheight road-th.trx" dlsize="3531075" size="20925041" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
