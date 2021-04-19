@@ -240,7 +240,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="739A5C9103BC8A20467BA6338F17F661540137A4" downloadHash="473F86A226BF9414966F2D6D120A3B3CE352398F" name="gwynneth o35 llyrath forest se.trx" dlsize="2314209" size="14540963" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0B952B875313E484656FDC82161DC739D85564FA" downloadHash="8D6A046E0C0EEED8756A2DE9519E6591721AE0B5" name="gwynneth o35 llyrath forest se.trx" dlsize="2381247" size="14735031" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2250,7 +2250,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="AB313195E0768AE696C9FC2FCB3A3ACA1D10626B" downloadHash="90A44FC4B2C8A4B9E44E76BBA12D8FF1F18B8702" name="gwynneth o35 Sirens Grotto.trx" dlsize="591231" size="4983560" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="016007613AB50C9915ADD2775E49AF60A1BA0562" downloadHash="5BD27644502B5B1A167EB71942DE3D29EE23EE0A" name="gwynneth o35 Sirens Grotto.trx" dlsize="759754" size="5195010" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
