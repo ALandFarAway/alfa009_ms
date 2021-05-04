@@ -1889,28 +1889,30 @@
   </resource>
   <resource type="Hak" hash="0A4FF59E20FAEEE5FAFBD33371D62AEAAE0F354C" downloadHash="D8B339BDF603E1786F5C23A7EAEE61400952EFE1" name="alfa2_pr.hak" dlsize="19614673" size="306758259" critical="false" exclude="false" urlOverride="">
     <server-ref>
-      <string>0</string>
       <string>1</string>
       <string>3</string>
     </server-ref>
   </resource>
   <resource type="Hak" hash="727E18DB01098E37EA59E178310E2B6B40316A33" downloadHash="859622FCAE6DCBC4E14EB9BD5A30D4504972BFAC" name="alfa2_templates.hak" dlsize="220981" size="9694888" critical="false" exclude="false" urlOverride="">
     <server-ref>
-      <string>0</string>
       <string>1</string>
       <string>3</string>
     </server-ref>
   </resource>
   <resource type="Hak" hash="8FD014FA150D0136AA8708EC527F82318A96F5CB" downloadHash="9912E0317D6D5B0C6D60E86A514CD5C8BFD308F3" name="alfa_creatures.hak" dlsize="320460178" size="1641614252" critical="false" exclude="false" urlOverride="">
     <server-ref>
-      <string>0</string>
       <string>1</string>
       <string>3</string>
     </server-ref>
   </resource>
   <resource type="Hak" hash="25FE1755C08C029BCA7077E057ACC56F9FAD9C59" downloadHash="05C148587CAEE1D05C1ECCC6D8B618BC7E70CC78" name="alfa_creatures2.hak" dlsize="415182161" size="1511428294" critical="false" exclude="false" urlOverride="">
     <server-ref>
-      <string>0</string>
+      <string>1</string>
+      <string>3</string>
+    </server-ref>
+  </resource>
+  <resource type="Hak" hash="B64E04689E1405918C508B9E209F1FA3E6B02A9A" downloadHash="DAE11C67A13C6EC7E7FFE507A0F63FAF969FA185" name="alfa_fx2.hak" dlsize="232368552" size="471306616" critical="false" exclude="false" urlOverride="">
+    <server-ref>
       <string>1</string>
       <string>3</string>
     </server-ref>
@@ -2078,13 +2080,6 @@
   <resource type="DirectoryEntry" hash="4AA376D5C01DCE7978DFA15FB7893EC29D9C3A7F" downloadHash="E3136E4EA93E44CD3A1D341C34095BC728DF37F3" name="alaron q22w farheight road-th.trx" dlsize="3531075" size="20925041" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
-    </server-ref>
-  </resource>
-  <resource type="Hak" hash="B64E04689E1405918C508B9E209F1FA3E6B02A9A" downloadHash="DAE11C67A13C6EC7E7FFE507A0F63FAF969FA185" name="alfa_fx2.hak" dlsize="232368552" size="471306616" critical="false" exclude="false" urlOverride="">
-    <server-ref>
-      <string>0</string>
-      <string>1</string>
-      <string>3</string>
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="DDD1BB868EC3137BE2A1B0F2509B73FDBE235299" downloadHash="9B562199436B6DC53B880A0545479B8E08E22A0C" name="fx_ceilfog.SEF" dlsize="367" size="4367" critical="false" exclude="false" urlOverride="">
