@@ -12,9 +12,10 @@
 //:: Created On: August 2004
 //:: Modified On: January, 2006
 //:: Rewritten for NWN2 July, 2020 by paazin for ALFA
+//:: needs to be in the module
 //:://////////////////////////////////////////////
 #include "alfa_i0_oozesplit"
-
+    
 void main()
 {
     object oPC = GetLastAttacker();
