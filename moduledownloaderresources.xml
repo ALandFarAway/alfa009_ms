@@ -1824,7 +1824,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="3F54F2A76BE356CB1701DD4EA39B667A6EA7F009" downloadHash="BB14058E0D531551E42B4E5A1748C6E5660A1273" name="alfa2_acr.hak" dlsize="4193146" size="144272909" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="2A423FC408EC8CC3349948850BDF49EF7197163C" downloadHash="0E1EA6425E5ACD8CD76CE5D2361C0281E9A86A8F" name="alfa2_acr.hak" dlsize="4198624" size="144259622" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
       <string>1</string>
