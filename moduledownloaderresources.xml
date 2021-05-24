@@ -2240,7 +2240,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4CEE5572BDE6C70BCDDAF37C26CE5F44CB5C6FA5" downloadHash="5B952DC36680A250F162B56CE108F18359606C60" name="gwynneth o35 llyrath ruin.trx" dlsize="284571" size="914903" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0445E1A9E66843CBF7E33A545CD6DDF52C65BCD0" downloadHash="7C11CBCE8734AC3F2EBE40114234880CEC29C7D8" name="gwynneth o35 llyrath ruin.trx" dlsize="282160" size="913174" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
