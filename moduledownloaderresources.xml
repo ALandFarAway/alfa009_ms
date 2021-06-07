@@ -400,7 +400,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3A77598F7C47D07BF1DD2FA5E104554448668658" downloadHash="0B6EE996486D593B4565B9FC82359FB64662C27E" name="gwynneth m33 firbolg fort int.trx" dlsize="329851" size="1552659" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="155B26179E601C7EAE8CD1081F7FF4516655040D" downloadHash="A17209A37AAD538216BD4CF1BC551A422EC75B27" name="gwynneth m33 firbolg fort int.trx" dlsize="106216" size="1328151" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -570,7 +570,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="74FDD7CB2B1993757283A335DC847467FC3E8498" downloadHash="C9535158F192E73B28CB47152D3959BBF6D2CCE3" name="gwynneth m31 darkhorn castle int.trx" dlsize="444511" size="450092" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6447E4E5B66D0A444B266DDCDE415AB2FF10A6A3" downloadHash="EF3D082F7534ED89311E1D99B7DAEAE1A91A3409" name="gwynneth m31 darkhorn castle int.trx" dlsize="430729" size="435834" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1967,7 +1967,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9D86AE51E4DBAEC92D78AE9F66FA1E27CF1CFEE7" downloadHash="1A40B2648AFF4CABC1405FE5395FA985B3E03C11" name="ruathym b_c6.trx" dlsize="4694048" size="28237226" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FE117559095CC558F84C3BB3E2288DF2491E0328" downloadHash="7698B244513EFC20775FFA8B461E621F5D87E278" name="ruathym b_c6.trx" dlsize="4692249" size="28231473" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2007,7 +2007,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="65135FB6EE36A7B196F8A1D115D53841AD2F04D9" downloadHash="45D9F112D339CFB9BCD69CF6ECBBC5A023720059" name="ruathym a_b5 ext.trx" dlsize="5538091" size="32295499" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DFB885BEF6188398957498180DD2EF05AC21A73F" downloadHash="C48121BB74A699122B7CE68050BE582A5B887434" name="ruathym a_b5 ext.trx" dlsize="5493859" size="32263329" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2260,6 +2260,11 @@
       <string>1</string>
       <string>2</string>
       <string>3</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="7B829F1217A603CA4AB3CBB24FBF1C3113C2B6AC" downloadHash="D9DE226D44224479F0C6A90F5EFC1DB45BC48E10" name="ruathym d_e7.trx" dlsize="1017219" size="17735613" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
     </server-ref>
   </resource>
 </content>
