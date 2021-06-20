@@ -580,7 +580,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3667FA7EACA55F948AFE27F5F5611D9097EB14C6" downloadHash="20155FF5B152A8B933058E99EE9A61ACB70E4E90" name="alaron q22 c callidyrr housing.trx" dlsize="550600" size="1184805" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FE9CB268DB9A9F4004FE9144FB7E992D72D3CE9C" downloadHash="326285F14E210C2C3F9F9563F0C12E9A6640683C" name="alaron q22 c callidyrr housing.trx" dlsize="561692" size="1194129" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -740,7 +740,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="829712EBBC0254F16A06E1A9371E45AED18A79D8" downloadHash="09F8F3AED3678974A5217C2C9B32526C884E3350" name="gwynneth m35 mysterykeep int.trx" dlsize="522970" size="534221" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="480F22A47CB0E9E58DDF21C56FDCFBA1DC7C9096" downloadHash="40CA785504387B2A95047E8250C479CCB4391DA7" name="gwynneth m35 mysterykeep int.trx" dlsize="528134" size="539837" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1400,7 +1400,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="14093BB3FD4446EA58DE1212C0E47338D12E1AD1" downloadHash="E4015DDF35045BB86A1338D2A1CD7CBC5CAF49A6" name="alaron q22 c callidyrr high dist.trx" dlsize="3050974" size="15793762" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DB4139CC7EF4F26D220F5A0F876EC314A871191C" downloadHash="6A5AA3E5EC61955E043255298BF0DAA4DEFBC0E9" name="alaron q22 c callidyrr high dist.trx" dlsize="3041007" size="15789183" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
