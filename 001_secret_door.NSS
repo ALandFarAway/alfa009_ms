@@ -14,7 +14,7 @@ const string SKILL_VAR = "nSkill"; // integer nSkill
 const string SKILL_DC_VAR = "nDC"; // integer nDC
 const string RESREF_VAR = "sResRef"; //string sResRef
 const string WP_TAG_VAR = "sWayPointTag"; //string sWayPointTag
-const string TAG_DESTROY_VAR = "sDestroyMe"; //string placeable tag
+const string PLC_DESTROY_TAG = "sPlcDestroyMe"; //string placeable tag
 
 void main()
 {
@@ -41,7 +41,7 @@ ACR_TriggerOnEnter();
 
 	//destroy placeable
 	
-    object oPlacable = GetObjectByTag(GetLocalString(OBJECT_SELF,TAG_DESTROY_VAR));
+    object oPlacable = GetObjectByTag(GetLocalString(OBJECT_SELF,PLC_DESTROY_TAG));
 	//DestroyObject(OBJECT_SELF);
 		
 }
