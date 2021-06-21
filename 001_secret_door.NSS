@@ -40,7 +40,6 @@ ACR_TriggerOnEnter();
     oSpawn = CreateObject(OBJECT_TYPE_PLACEABLE,GetLocalString(OBJECT_SELF,RESREF_VAR), GetLocation(oTarget));
 
 	//destroy placeable
-	
     object oPlacable = GetObjectByTag(GetLocalString(OBJECT_SELF,PLC_DESTROY_TAG));
 	DestroyObject(oPlaceable);
 		
