@@ -42,6 +42,6 @@ ACR_TriggerOnEnter();
 	//destroy placeable
 	
     object oPlacable = GetObjectByTag(GetLocalString(OBJECT_SELF,PLC_DESTROY_TAG));
-	//DestroyObject(OBJECT_SELF);
+	DestroyObject(oPlaceable);
 		
 }
