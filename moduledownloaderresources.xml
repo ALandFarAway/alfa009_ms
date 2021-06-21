@@ -740,7 +740,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="480F22A47CB0E9E58DDF21C56FDCFBA1DC7C9096" downloadHash="40CA785504387B2A95047E8250C479CCB4391DA7" name="gwynneth m35 mysterykeep int.trx" dlsize="528134" size="539837" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="49F0F15C6D3777AF53B4C1EB7DFC0B3CADCA0958" downloadHash="2C39DF4FD3DE32FCA9806878FC7E78A4FFFF32DD" name="gwynneth m35 mysterykeep int.trx" dlsize="539733" size="550975" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
