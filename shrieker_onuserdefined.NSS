@@ -103,9 +103,9 @@ void main()
      if ((d100()>=nChance)|(GetIsFriend(oTarget, oShroom))) return;
       {
        // Spawn creature next to PC on a X% chance
-       //FloatingTextStringOnCreature("Spawning Enemy", oPC); //DEBUG
+       FloatingTextStringOnCreature("Spawning Enemy", oPC); //DEBUG
        lTarget = GetLocation(oSpawnSite);
-       oSpawn = CreateObject(OBJECT_TYPE_CREATURE, "009_cr_ab_hookhorror6", lTarget);
+       oSpawn = CreateObject(OBJECT_TYPE_CREATURE, "009_violet_fungus3", lTarget);
       }
     oTarget = GetNextObjectInShape(SHAPE_SPHERE, fSphereSize, lCenter, TRUE, OBJECT_TYPE_CREATURE);
     break;
