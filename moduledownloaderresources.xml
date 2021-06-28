@@ -115,7 +115,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="06E7170743ED4A3BFE952B556AB010D18AFCD43B" downloadHash="2A5E3C83772142984F5F5F7794927F0FB353A26C" name="gwynneth m28 winterglen vil int.trx" dlsize="81819" size="82098" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="313EB73C11A5B6654D27BB94592D1CE3F3DBECD7" downloadHash="860C06997B8A520AD12A0F8FFC99C598BFCF7311" name="gwynneth m28 winterglen vil int.trx" dlsize="95810" size="96077" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -740,7 +740,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D4722731D1DC1D63AD5A2AF7DC21506AD3B87B84" downloadHash="5BF51164EE0807DD6F1C11359310E3313E75CB1D" name="gwynneth m35 mysterykeep int.trx" dlsize="1102097" size="1129167" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0461F16957692CFE83DF63FBD5965722305FD03D" downloadHash="7DE0A404E07260C870388AF984B3E9FF231C81DC" name="gwynneth m35 mysterykeep int.trx" dlsize="1447454" size="1490721" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2225,7 +2225,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2987DA2D5DB2E4DB73213026694508DDBA9B2FDF" downloadHash="7716A754032CA7FCA0DA5F3CB034F0F935E221CF" name="gwynneth m28 winterglen loss.trx" dlsize="1070812" size="10762297" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="12D9A7F425F098CDDEB69C63E18727E237D6BF8E" downloadHash="3D743B8750BB60D569382779FA2359E0C1EA263C" name="gwynneth m28 winterglen loss.trx" dlsize="1059579" size="10755695" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
