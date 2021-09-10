@@ -2272,7 +2272,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="43B20764A8248E75030ABA9AEFBED5BC0C57B5DF" downloadHash="187C35409E3C6E75D8C1F87661C3761FA49DCB12" name="gwynneth m31 darkhorn ext.trx" dlsize="1651355" size="15256186" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="951851303FCE8BB71183D2A5C077EEA726A73E4F" downloadHash="F0997F98CF6355D85EB861C9794D980B0D94566D" name="gwynneth m31 darkhorn ext.trx" dlsize="1632973" size="15233027" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
