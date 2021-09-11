@@ -570,7 +570,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7F5C31EF3F606F700970C7EEFE55AB32AAD29B5B" downloadHash="687E3871AC719C7C99F62395B46532A60414CCBC" name="gwynneth m31 darkhorn castle int.trx" dlsize="539696" size="546335" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0EB94601EC5293528B7C994D94A237CEBEA7D1AD" downloadHash="DC09CD8076DE592B62B976CE538490D3B5F1BF46" name="gwynneth m31 darkhorn castle int.trx" dlsize="539175" size="545693" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2272,7 +2272,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="154E9C9FF82100F15888773FF8FBCB7444C0693C" downloadHash="32209BF861473B7C45C03C4B9B03826C089DC071" name="gwynneth m31 darkhorn ext.trx" dlsize="1637020" size="15234706" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2D2071E89D8BCC67969498276D018CA6BCD8C6CD" downloadHash="5756EB088AB58D433C2510F13DE775622C835784" name="gwynneth m31 darkhorn ext.trx" dlsize="3071944" size="16319718" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
