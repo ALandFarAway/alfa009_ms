@@ -570,7 +570,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="12B254132D77609DCB8575A71D20BFE389AD54E6" downloadHash="EDAC702037CD9C5AB8422C2ABA822163A2275A9F" name="gwynneth m31 darkhorn castle int.trx" dlsize="543976" size="550374" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E402005A4E043ECE2A169B3503B5A476797BE261" downloadHash="4A1DF4243455BF35421EB52030FF28800F026960" name="gwynneth m31 darkhorn castle int.trx" dlsize="556544" size="563193" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
