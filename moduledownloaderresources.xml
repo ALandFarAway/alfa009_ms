@@ -365,7 +365,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="98B44E43A5E9BB16DBDB22425FF3AF84C174FE6C" downloadHash="91FE689983B80B1A470BCEB9BC5BDFFA1B61E4A4" name="gwynneth m34ne koart vill.trx" dlsize="3829419" size="20022145" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="13D9F310AE81AC80A8DAD065D8121FBFDCC3E9DA" downloadHash="155EEFCB9DFC6248D883C926CC9413A8561B1B31" name="gwynneth m34ne koart vill.trx" dlsize="3815155" size="20023098" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1937,7 +1937,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6A441D2B41912C2911D02A4771AFD6F6D8C638AE" downloadHash="A034591F970DB11F3A93926F1FE128798B1424C4" name="alaron q22w farheight rd mstn.trx" dlsize="427255" size="835664" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="804D17073EBC2BE2EB733E91AFA0AA8C74740DA1" downloadHash="CEF8E070137E95FB59FE87F8DCA21731DA7F6F5E" name="alaron q22w farheight rd mstn.trx" dlsize="440144" size="847850" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2267,12 +2267,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="68F9A1D01F76E604A0598C9124457DD03D565295" downloadHash="C67E5B947E9E9E06F9E810D22A3C33851234BF3A" name="gwynneth m31a dultann village.trx" dlsize="3540890" size="19461929" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="592665309BD93845F2093BCD72567388CBBB0323" downloadHash="2DEDCD1B7E44F647AA19BBACC0B2D4DE74303DD3" name="gwynneth m31a dultann village.trx" dlsize="3610356" size="19461994" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D6148A0D4457DC1D66463EA358A942FAB16DF6BC" downloadHash="6731145385856D3E523DA3C2DF9A11E68778D5EF" name="gwynneth m31 darkhorn ext.trx" dlsize="3355779" size="17222297" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5C0C3CB0F4FB98C7A6C8846A8A1119D801066CF5" downloadHash="060AFAAA5ABC32AA9A96252F207428C10F7D7A7E" name="gwynneth m31 darkhorn ext.trx" dlsize="3386770" size="17296010" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
