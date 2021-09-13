@@ -460,7 +460,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="903C5EF85C8E1228BBB4AC638B7EBE58BB41643A" downloadHash="C61F74C4DDE75885B5F53DB545BB805FB7759A9B" name="snowdown r34 westphal int 1.trx" dlsize="398817" size="446253" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="093092618A58CD5F5FFEEF57BFF4B734C8FB3F94" downloadHash="38E55508821D011AE377336B66649FB68C4B3743" name="snowdown r34 westphal int 1.trx" dlsize="395054" size="442488" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -855,7 +855,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="37746D6BAD741F390EC0E39664835E24001C77A8" downloadHash="02C41522A9475140FDEC1A338350F7E1134678F8" name="alaron s23w rillifane run int.trx" dlsize="504270" size="598978" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="99E6D3A84521361429E006EEE4269D2AC2CCAA75" downloadHash="E751BE4AA4BBC5B7C2376FCC50529A7012D290B2" name="alaron s23w rillifane run int.trx" dlsize="509290" size="603671" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1685,7 +1685,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="914BD2393711D14C35C10AE304425CC0AF4D8BD1" downloadHash="7B11868CE70A74A48481EAFE427E5325EBBB8679" name="snowdown r34 westphal int 2.trx" dlsize="318624" size="994530" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1B8E512BA76E68F66DCC8DC1A77F7B3BE7A2FA28" downloadHash="751CE08B44C6D7D040CCD1C1691F46BB3BB14F67" name="snowdown r34 westphal int 2.trx" dlsize="317039" size="994604" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
