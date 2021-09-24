@@ -570,7 +570,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E402005A4E043ECE2A169B3503B5A476797BE261" downloadHash="4A1DF4243455BF35421EB52030FF28800F026960" name="gwynneth m31 darkhorn castle int.trx" dlsize="556544" size="563193" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6D8F88EA0AD000AAA302E1A56033BB0D6ED6F338" downloadHash="ACCEA4277C84F289B2FFDB5CF22C19AD41F0CA2F" name="gwynneth m31 darkhorn castle int.trx" dlsize="644198" size="648884" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1937,7 +1937,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="804D17073EBC2BE2EB733E91AFA0AA8C74740DA1" downloadHash="CEF8E070137E95FB59FE87F8DCA21731DA7F6F5E" name="alaron q22w farheight rd mstn.trx" dlsize="440144" size="847850" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6B3340C6DFDD4EB63C1B3D767DEA607632F64724" downloadHash="EAE0DCB8D65DDD5F504FE42CB2DA21182ABCE893" name="alaron q22w farheight rd mstn.trx" dlsize="430324" size="838659" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
