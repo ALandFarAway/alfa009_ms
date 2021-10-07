@@ -355,7 +355,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3149083B463F3A1A9C15E1DCA2B873C5C4A4B791" downloadHash="801818C2B15BAF2EFE84AD3D5A9EA550FDA92D9C" name="skaug d4 jagged mtns.trx" dlsize="1820064" size="10517566" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DED7A3CDC42DD82AB230E326480455BE0A3FB55D" downloadHash="0151CF03F55F6CE8E307AEF46B1701316F0C461C" name="skaug d4 jagged mtns.trx" dlsize="1818906" size="10517566" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -505,7 +505,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6FDB2F667C3B7244531214D647F74BBB361E532E" downloadHash="1812FC21C9854C4663FF512B94631C1B7BEE2BFB" name="skaug c5 coast.trx" dlsize="1493122" size="10575464" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2B712B526A5962052F68479B8DDFADD700B660B8" downloadHash="5D9319166A1F873D576C87066AF475791A1DDFB6" name="skaug c5 coast.trx" dlsize="1494105" size="10575494" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -685,7 +685,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A503B31389A387D7935C0FCBD5F80BE0726DC158" downloadHash="AFD571571860728BA4621DB810FFD41065F7ADDB" name="skaug d3 coast cliff keep.trx" dlsize="1434676" size="10352207" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A04548D2F0A8568B8B746CF52294590616B6EFCF" downloadHash="43EC4B5B6110B1C0D36772ACBBA435FE4232F7A5" name="skaug d3 coast cliff keep.trx" dlsize="1434142" size="10352180" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -875,7 +875,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F471E4A7FEE400C6D29C52C6B861B4B1155E7022" downloadHash="56776339C67224137ACA10BB1552D56A92834656" name="skaug d6 hill fort.trx" dlsize="1337196" size="10962657" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="449294AA7336C6C40975C3B6790624EA70082F4D" downloadHash="C6A870B29140CC04E8ECA3B99F7B1A41FD5A3B6D" name="skaug d6 hill fort.trx" dlsize="1347452" size="10962662" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -975,7 +975,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E7F3A45D14D5B6A24D24C18B9B6920248193AAE6" downloadHash="534CDCF67D853302B59A5F81043EEFFDA8DD058A" name="skaug e4 southern coast.trx" dlsize="1727286" size="11641399" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="849A5C51CCC42F91465F50842C5B45C08B30133A" downloadHash="6AA2AD50B9DE7FCD9D3D04A4BB824EFD8D129726" name="skaug e4 southern coast.trx" dlsize="1738043" size="11642898" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
