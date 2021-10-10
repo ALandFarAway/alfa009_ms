@@ -580,7 +580,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FE9CB268DB9A9F4004FE9144FB7E992D72D3CE9C" downloadHash="326285F14E210C2C3F9F9563F0C12E9A6640683C" name="alaron q22 c callidyrr housing.trx" dlsize="561692" size="1194129" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4315C6ABBB4FF2DDC118370B200880EEAEF07F9D" downloadHash="ADDE125653322ADC7C9C49CEBEC1C6AEC1659F8D" name="alaron q22 c callidyrr housing.trx" dlsize="555561" size="1187688" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>

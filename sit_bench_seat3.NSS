@@ -19,7 +19,7 @@ void main()
         float fOrient = GetFacing( oBench );
 
         // You can change the space between pillows changing this value
-        float fSpace = 0.80f;
+        float fSpace = 0.20f;
 
         // Calculate location of the 3 pillows
         location locPillow1 = Location( oArea, locBench + AngleToVector( fOrient + 90.0f ) * fSpace, fOrient );
