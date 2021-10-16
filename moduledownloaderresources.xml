@@ -580,7 +580,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="ECC03B941A2E07891276B1AF9D0E79ADC7800259" downloadHash="E139CB3167960503E4DE4A2DC0C44F1B0D03556C" name="alaron q22 c callidyrr housing.trx" dlsize="556729" size="1188155" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="CCD4EDFF657AE0C25B031B8B572FB692C031E69E" downloadHash="9A26AC1B837CB3047F55842FBEE9E248ED37CC1D" name="alaron q22 c callidyrr housing.trx" dlsize="552245" size="1184731" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1710,7 +1710,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="27690F34244B9BF4419797CF0237CC2E1C500C4B" downloadHash="241C87E03300664FCDFBEFC0F21EB87667BACB13" name="009_testing grounds.trx" dlsize="321312" size="8509644" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A5B5AABD48D94114C356C167D371832478CB3A11" downloadHash="B61C14A872B7AE4856B6FADB47140005624EEB5F" name="009_testing grounds.trx" dlsize="321537" size="8509552" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2288,6 +2288,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="7B829F1217A603CA4AB3CBB24FBF1C3113C2B6AC" downloadHash="D9DE226D44224479F0C6A90F5EFC1DB45BC48E10" name="ruathym d_e6-not built.trx" dlsize="1017219" size="17735613" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="C9C114B426402A1693AB967D68847AE26CD1F657" downloadHash="DA5D4CAF5AC5C7CF048D223F319B7C549B56736C" name="gwynneth n30 cambro mountains.trx" dlsize="2448957" size="14648883" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
