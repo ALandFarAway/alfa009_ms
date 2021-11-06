@@ -615,7 +615,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0E4285DDFBB25CA12498B4886FD7E0C8D04A645B" downloadHash="6B5EAB299F2CCAA27D8B5ECF30C983793CE2AB1F" name="alaron q22 c callidyrr west.trx" dlsize="2872257" size="17330788" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8704F1AD14B8BB183660622643BF7B1D37C65E0F" downloadHash="F6823DF81683C31177A178ABE828DD7A3A6ABE8C" name="alaron q22 c callidyrr west.trx" dlsize="2888401" size="17331786" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1345,7 +1345,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FB3A2F2F4F6E07AFE87BBA88DEC5312694DB4D9B" downloadHash="4D4F801D4163F3CF37EDA2BC62A5C28614AE42C2" name="alaron s23w rillifanes run.trx" dlsize="1738916" size="11418856" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="AED4B760ED80486B2E31C47EF9E843098A53F729" downloadHash="8062C32F86C57E9500813E3D6E6761859AEAFB89" name="alaron s23w rillifanes run.trx" dlsize="1756045" size="11438414" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1385,7 +1385,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7036EF69C7359E5E136B2EF7C139BAD9945FDE81" downloadHash="7A96B07B1BD159605B5F6913951DD6838001A346" name="gwynneth L29 Mountain range.trx" dlsize="4929602" size="24111728" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="10163C601CED28995BB186E229BE92D8E2284BC3" downloadHash="666090901F82A63DF3B7F42202B0849944999482" name="gwynneth L29 Mountain range.trx" dlsize="4924279" size="24107119" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2220,7 +2220,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="71943F6B92DF5FD32C1134524DAC949E257CD090" downloadHash="95D31EA224F069401C7664D5CED59064B02C0CDF" name="gwynneth k29 high home - dwarven.trx" dlsize="9580553" size="41330360" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9B96B944511599415E9511DD1980A405E9CACF42" downloadHash="C2C7475D99E794D60FF581BB96AFD5259A7E3078" name="gwynneth k29 high home - dwarven.trx" dlsize="9593191" size="41330741" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2277,7 +2277,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="421CDEBC0CD8A7C149B62A88257E46AD741D8119" downloadHash="302A74BB34A93B8FF90B5C374EA2FA923426726E" name="gwynneth m31a dultann int.trx" dlsize="187268" size="188578" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="47406DA2A50222B4DD4E3DEF59290B6A4F8DAC8A" downloadHash="2CA3D5D638FCC14DF1D7AE18B92F255668EA0E8D" name="gwynneth m31a dultann int.trx" dlsize="187220" size="188508" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
