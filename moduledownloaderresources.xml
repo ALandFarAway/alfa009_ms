@@ -955,7 +955,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="25154D359C9A843C499730D18F5AA17ACD47C936" downloadHash="12F787752F9DFDED9F8225DD03CA05BE70787D4A" name="gwynneth m32 myrloch east shore.trx" dlsize="3144739" size="16845460" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="05D82017505CDB745C6F01B00F1590043ABF860D" downloadHash="1DF80BB86B998F094680AF839A667481C41D22DB" name="gwynneth m32 myrloch east shore.trx" dlsize="3135248" size="16845460" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1830,7 +1830,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6B3340C6DFDD4EB63C1B3D767DEA607632F64724" downloadHash="EAE0DCB8D65DDD5F504FE42CB2DA21182ABCE893" name="alaron q22w farheight rd mstn.trx" dlsize="430324" size="838659" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D333916A5FCE7C9B91360F7770F66CDCFCF36E15" downloadHash="19EC195A48343878B119B2CC35A46DC8AF41B949" name="alaron q22w farheight rd mstn.trx" dlsize="430636" size="839008" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2135,7 +2135,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="47406DA2A50222B4DD4E3DEF59290B6A4F8DAC8A" downloadHash="2CA3D5D638FCC14DF1D7AE18B92F255668EA0E8D" name="gwynneth m31a dultann int.trx" dlsize="187220" size="188508" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="96C9FADF840EA1011E69C025EB0E30C785B558F9" downloadHash="6B07A4642106360B02AF49EEB5C95DFBEF90AB6C" name="gwynneth m31a dultann int.trx" dlsize="188993" size="190330" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
