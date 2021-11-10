@@ -5,7 +5,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="524A88B4D43A540C6EE04CF2071BEFA4F34E7FA4" downloadHash="A5F18C3C476767AD2ABE2BF586D118A8268F1132" name="alaron q21 cantrev white rock.trx" dlsize="2826027" size="16140979" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2B4B0E68DBDB3F92CD353780D944776C463DFBD9" downloadHash="C77CAD11EAA491A128675902C61AA9A35F8E7E6A" name="alaron q21 cantrev white rock.trx" dlsize="2942101" size="16242829" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -630,7 +630,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="16B743A1B51240D088293149F24F44D3A784D089" downloadHash="E6B39C293BDAB03034EC3FB385AD9D8F472F7BB7" name="alaron q21 whiterock int.trx" dlsize="296827" size="390040" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A1B321E4F7A0FF57E8BF34EEF0A2E9EF934B301B" downloadHash="CC1C2803B3F70A726B196E055B058FD981D9B581" name="alaron q21 whiterock int.trx" dlsize="333281" size="425305" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1020,7 +1020,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2591781D1A2A90D2239CC172845FC7ED612E4F5F" downloadHash="94CC3C55A23DBB4C7D7B07C392E8EFA91D2C6FDA" name="skaug ship docked.trx" dlsize="144466" size="145360" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7FECE0D86372EBAC865122546FBB4ABDA42B01DD" downloadHash="7A596D3FF9A4F48E9899BB577BFA8A0A741DC470" name="skaug ship docked.trx" dlsize="143924" size="144831" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1265,7 +1265,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F4D0EB49C95B73341060C23DAFC80FD9210C64C8" downloadHash="6A059CB0D07E12A47B9889B04448CA0057382C34" name="alaron q21 whiterock flood mine.trx" dlsize="834903" size="11835175" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="EA537A78A098EB31A1223B08BC5862B12B763C30" downloadHash="E1886EC93FC39C827F595002E3DB280D7A5C3974" name="alaron q21 whiterock flood mine.trx" dlsize="797820" size="11805195" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
