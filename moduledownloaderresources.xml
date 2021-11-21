@@ -665,7 +665,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7F402A1D15FC7EE74926CE6C8F15C1A6F8537BC8" downloadHash="A033B29FA0A27250CED5A0DC6B9144029F756C93" name="gwynneth m28 winterglen forest.trx" dlsize="4756919" size="24270983" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="015BB1835256D5AF1E1036058590714293FB4F5D" downloadHash="5CECCFF77F4A59E84BD599A2BD426AC468EB74FC" name="gwynneth m28 winterglen forest.trx" dlsize="4796354" size="24288280" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1385,7 +1385,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="10163C601CED28995BB186E229BE92D8E2284BC3" downloadHash="666090901F82A63DF3B7F42202B0849944999482" name="gwynneth L29 Mountain range.trx" dlsize="4924279" size="24107119" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1CD2D919B1E0FA8C5CAD3F074B95B654FDB2F3E7" downloadHash="F0A926A57639E4C1D66019283F4B7C4C6BAF27E0" name="gwynneth L29 Mountain range.trx" dlsize="4920512" size="24102254" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1595,7 +1595,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F82A73C335C183EE77E78F26F2CEAEFB0EE914BA" downloadHash="D6FEC1210AD04B3EC7A55755FB9ACCE66E52AE02" name="gwynneth k29 high home post.trx" dlsize="523855" size="530686" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="257B917A453E6EA8ED8AE77F9A426CD7A5BA1B8D" downloadHash="CF589B29237EECAB85930A3523F3F51BD8A73B9A" name="gwynneth k29 high home post.trx" dlsize="514389" size="521266" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
