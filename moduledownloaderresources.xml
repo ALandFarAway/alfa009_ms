@@ -2160,13 +2160,13 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="1ABCB538CC327FEEDC87511063CDA95BEAFD5B41" downloadHash="17132D4CF5135511F1B6371ACE07A7A4C7947D95" name="alfa2_2da.hak" dlsize="529034" size="30909436" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="C11FAFD100AFEE8A9ED7CCB8B6B7761E9ED3AA37" downloadHash="2A77E6132B5400A4BFB6C57EC4B1F1444D638675" name="alfa2_2da.hak" dlsize="537360" size="35261276" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="53AD4B2DE02B566A7613A0DFF90DA5826C5FFA21" downloadHash="7690AED1135CA244B42226CAADAFEA6568B29D02" name="alfa2_acr.hak" dlsize="4200590" size="144261670" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="11398139E7E81AB66046483BFA808142768CAD33" downloadHash="5D3AB068F1790654E61BDA0C55DD84B3C481C783" name="alfa2_acr.hak" dlsize="4197367" size="144263206" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
@@ -2202,7 +2202,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="E803A7440345352C4C5744E8FD2904B38014EFEF" downloadHash="D20D574337705B82FCAE01E7A5159738186BBE57" name="alfa2_gui.hak" dlsize="10144045" size="43292622" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="BE611C60FC6A335AEAC75267B71DBF1BC354988C" downloadHash="12129382D8815D5534FF25D07309D255579F3108" name="alfa2_gui.hak" dlsize="10143455" size="43296659" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
