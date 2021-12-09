@@ -2292,4 +2292,9 @@
       <string>3</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="6C8292D8F6DCF2D4C3A14D8217AFDC61B0B4B15B" downloadHash="478091760B2C70B83B7DDA78D209B3DBA2F1D304" name="gwynneth m28 winterglen.trx" dlsize="5053366" size="24744267" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
 </content>
