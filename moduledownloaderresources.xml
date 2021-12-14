@@ -2297,7 +2297,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BAF3AF21389E175E98D5B606737ACBA7B782B568" downloadHash="3E1BCEEFCF7BB21AA798BC38B5892D5D43C47147" name="gwynneth m28 winterglen-erleirn.trx" dlsize="4943130" size="24458114" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7BFE34C3225321C5CC7D0B495D6BDE05574654F0" downloadHash="7BC5E1D2C604A20C92140E75D3CF0E31F7B3F7D7" name="gwynneth m28 winterglen-erleirn.trx" dlsize="4948997" size="24462489" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
