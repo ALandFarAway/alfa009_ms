@@ -2162,12 +2162,12 @@
   </resource>
   <resource type="Hak" hash="44D2175F947B716BDF8250645FD753653C82B93D" downloadHash="BD4FA815A7DF96FF1E87151D9EEED9F586671389" name="alfa2_acr.hak" dlsize="4199112" size="144850759" critical="false" exclude="false" urlOverride="">
     <server-ref>
-      <string>3</string>
+      <string>1</string>
     </server-ref>
   </resource>
   <resource type="Hak" hash="84F8CA85252B7A2744387C22CDF8696885D91AA4" downloadHash="774B40812CD03708B8DFD6088005431586CCEA29" name="alfa2_2da.hak" dlsize="536410" size="35261346" critical="false" exclude="false" urlOverride="">
     <server-ref>
-      <string>3</string>
+      <string>1</string>
     </server-ref>
   </resource>
   <resource type="Hak" hash="BB4326AC5AF0A7CDEF917B4F3E4B13471A2A7733" downloadHash="D6F8AEF4077D6FC4656049C0766D561AFF96D040" name="alfa_creatures.hak" dlsize="320459260" size="1641279028" critical="false" exclude="false" urlOverride="">
