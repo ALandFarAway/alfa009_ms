@@ -90,7 +90,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D2649320DB616B92306F1DE1040B719D943BB088" downloadHash="5965D810F1B9E7771846E3F542D297716CC57D72" name="alaron q22 c callidyrr interiors.trx" dlsize="594850" size="687646" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C2E60FBEFBCC1EA3A8827A2A473F52E3CBCA0BDF" downloadHash="7A66D1B585FC075029A42A76FE5B01194A2F816E" name="alaron q22 c callidyrr interiors.trx" dlsize="594865" size="687646" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1330,7 +1330,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4158ED1D75315B45701359486F60DF3D64F0ACCC" downloadHash="6F9B13A73E4FCFF291CF0913C1046BC3C6FCFBA3" name="alaron p23 dernal swamptown.trx" dlsize="5345207" size="25643531" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4316637CA9058FAA32E74A15215EF73D8FE17FA3" downloadHash="58543386131EC09773A0E0CE155D665FE6BD3527" name="alaron p23 dernal swamptown.trx" dlsize="5343197" size="25636915" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1730,7 +1730,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="997968180F52B240AEF1C35405CDAFBCA58CC090" downloadHash="3EC4B7233E0E5AE23AFCA0F9BD57B376D8FA9C75" name="009_startarea.trx" dlsize="139495" size="142159" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4E96131877877671C5998D94D5893431ECE64566" downloadHash="FFEA660FFBEA07191E25077D9A59B17D32C7965E" name="009_startarea.trx" dlsize="140721" size="143477" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
