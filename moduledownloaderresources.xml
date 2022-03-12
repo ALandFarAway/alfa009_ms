@@ -115,7 +115,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7E12E33FDDD9982031BB963AD94ABE34CB091DAC" downloadHash="8F659F8C99DEAB030E684CB24CC7D11C2C31951F" name="gwynneth m28 winterglen vil int.trx" dlsize="124395" size="124841" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="CD4159B7E9905481FB64045B05328CD1246DB372" downloadHash="A4B44F17A5B356E5CB9B435CA57BAD841FB53D1C" name="gwynneth m28 winterglen vil int.trx" dlsize="122747" size="123177" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2295,7 +2295,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9DB30C4528130DC725077C3AA22DBF6F1A027AEF" downloadHash="B8D5424D3373F014FEAAC310AA62C72CF80323F9" name="gwynneth m28 winterglen-erleirn.trx" dlsize="4927085" size="24450275" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E63F6DDAEA4400459B2EF7CC07331C2582BD8A1B" downloadHash="FD8455DBDAB80FD0D6FEBDE64EB0E8483C827F49" name="gwynneth m28 winterglen-erleirn.trx" dlsize="4914549" size="24449577" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
