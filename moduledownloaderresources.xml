@@ -2302,7 +2302,8 @@
   </resource>
   <resource type="Hak" hash="4E9011421A2D6250F9356373DA1AB220111A7ED2" downloadHash="1DD71695DB416DAEB1A70B9243997F9A8341DE5B" name="alfa_creatures4.hak" dlsize="26159640" size="105383121" critical="false" exclude="false" urlOverride="">
     <server-ref>
-      <string>0</string>
+      <string>1</string>
+      <string>3</string>
     </server-ref>
   </resource>
 </content>
