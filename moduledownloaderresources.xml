@@ -2157,12 +2157,12 @@
   </resource>
   <resource type="Tlk" hash="811F9D7E082E14D5EAC4F026D1F8F81A12766DFA" downloadHash="C2DE4471A3B0863FF1D21B3FAD96FED246AB026F" name="alfa_acr02.tlk" dlsize="164380" size="1268732" critical="false" exclude="false" urlOverride="">
     <server-ref>
-      <string>0</string>
+      <string>0</string>  
     </server-ref>
   </resource>
   <resource type="Hak" hash="3B89ABF17F65E69E11889A7649E291AFA6512B10" downloadHash="6D0667D13514705A86E8EF7C258AFA4F37EA17DB" name="alfa2_acr.hak" dlsize="4206829" size="145179520" critical="false" exclude="false" urlOverride="">
     <server-ref>
-      <string>1</string>
+      <string>0</string>
     </server-ref>
   </resource>
   <resource type="Hak" hash="88FCEC2D0922040B577ABAB5932C6E9C4E327DAC" downloadHash="682A7BC62BB9B8B33D2EE7E450E8C1CB28BB47FF" name="alfa2_2da.hak" dlsize="545492" size="35274107" critical="false" exclude="false" urlOverride="">
