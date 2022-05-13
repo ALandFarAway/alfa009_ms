@@ -1300,7 +1300,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="43ACF11603289FAF73337329DD280CCA18D62F9B" downloadHash="19CAEE165CE0BF518442E150D377766995C5289B" name="gwynneth p33 kingsbay silver sal.trx" dlsize="185262" size="229471" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7104AD1FBB54DF44A30D147D5A00C35B53CE235E" downloadHash="00E1738F68C993B4810CCD2A2143CC21BFA2A930" name="gwynneth p33 kingsbay silver sal.trx" dlsize="185232" size="229473" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1730,7 +1730,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DB041FA24785574D47519DFBE372C05C96B8D90B" downloadHash="D29FBCB3450C18A7243B905A5A55EF194640FB2D" name="009_startarea.trx" dlsize="142188" size="145063" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="296E9949D2B22D945C97F836FE4EFD9C22584AC6" downloadHash="162A85F2A9BB071CF024105ED77D73533D8029DD" name="009_startarea.trx" dlsize="148385" size="150894" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
