@@ -1520,7 +1520,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6FF040FCAFB4FDB67F9161072A8E683BD60851BC" downloadHash="E3679B3879CC217E28A60162533B83393C121571" name="snowdown s33 shandilar keep.trx" dlsize="384657" size="3269003" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F752CC0FD3712FCB89162B6C9B7B8F7FC340F356" downloadHash="8171199E9593CDBD026FC9A855A0026A8789272E" name="snowdown s33 shandilar keep.trx" dlsize="386764" size="3228548" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
