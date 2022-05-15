@@ -630,7 +630,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="79E8129B66BC413011B7423CBE80B16A8A5FED34" downloadHash="76882B9BB0F97C4923D83DFB0B4783338B42E36F" name="alaron q21 whiterock int.trx" dlsize="348062" size="440155" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="CB296222CCF9E1505A3315EC109D486AFD7B8F6A" downloadHash="9FACA23E0AC8DDF0A6007BED861EC11BC08CDB95" name="alaron q21 whiterock int.trx" dlsize="347611" size="439400" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -655,7 +655,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="49D8AB9E359ADE6655D587D89713F9A20102BCE3" downloadHash="5F91C50A4E53A5A5CB7151AACC097C8F33530465" name="snowdown r34 westphal inn tavern.trx" dlsize="363204" size="366083" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7C3159051454276B6A72C706998737AE9E48ACA1" downloadHash="A8B23ADA8E970B42CA882227702AB7EEED706D1D" name="snowdown r34 westphal inn tavern.trx" dlsize="364235" size="367149" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1520,7 +1520,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F752CC0FD3712FCB89162B6C9B7B8F7FC340F356" downloadHash="8171199E9593CDBD026FC9A855A0026A8789272E" name="snowdown s33 shandilar keep.trx" dlsize="386764" size="3228548" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="884FE5C71D36B637C9840A877B42BA2AD053AA0B" downloadHash="52954577F76D29FE9B57F0A4FC0378CE7714305B" name="snowdown s33 shandilar keep.trx" dlsize="389286" size="3231110" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
