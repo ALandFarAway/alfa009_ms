@@ -670,7 +670,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="31B3075CDDE1E98C3A67490B5A2F42AF2C18E650" downloadHash="69DD2A881F59B5332F1F8CD034F59629D347A40D" name="gwynneth i37 wyngate cantrev.trx" dlsize="2438555" size="14826209" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D1E73C47AA86882D5C851B6AD8453E742F0C68EB" downloadHash="4BBCB1DA0DB3885E84DDEE84FBED5A273FB25E1B" name="gwynneth i37 wyngate cantrev.trx" dlsize="2443548" size="14825513" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1520,7 +1520,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="884FE5C71D36B637C9840A877B42BA2AD053AA0B" downloadHash="52954577F76D29FE9B57F0A4FC0378CE7714305B" name="snowdown s33 shandilar keep.trx" dlsize="389286" size="3231110" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="AC0B1D4533FCB2BC55C26935DA4F8BD3ECD65AFA" downloadHash="D10161529061DD0D1FB54FB44AC329DD2EC88D19" name="snowdown s33 shandilar keep.trx" dlsize="392806" size="3231111" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1560,7 +1560,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F1AE2CD216E55C1B13832F87EB1C20E2C9668754" downloadHash="C7FEA73F585460FD8C165314AE9881BC96EEF79F" name="gwynneth m34nw corwell town.trx" dlsize="5228206" size="27233958" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A22732D80614A0F8D065BA611EDECB7AE682461E" downloadHash="FA3808FC3C8C4AF3187220980AE87226C68704CD" name="gwynneth m34nw corwell town.trx" dlsize="5240577" size="27237899" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1950,7 +1950,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="727A800D0BFB8A4F55B368EE083EC0FCEC6DF0D7" downloadHash="CE7054E810ECDF23692A1661E0C04BA0B05397BA" name="alaron q27 hkr - grady village.trx" dlsize="4387409" size="23599846" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BBD2D5694BFA57CB48B05BA223BDFBC5FE16B21F" downloadHash="33F37C16A6F858314368FAA223085BB9E56ADC0B" name="alaron q27 hkr - grady village.trx" dlsize="4356442" size="23554393" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2085,7 +2085,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9B96B944511599415E9511DD1980A405E9CACF42" downloadHash="C2C7475D99E794D60FF581BB96AFD5259A7E3078" name="gwynneth k29 high home - dwarven.trx" dlsize="9593191" size="41330741" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="73FB8AD4A47C3B10D51F7B5B7A6AB115F3B483F7" downloadHash="CEFFBB465299B1E2A383D092C3370F8908833A38" name="gwynneth k29 high home - dwarven.trx" dlsize="9576436" size="41319110" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
