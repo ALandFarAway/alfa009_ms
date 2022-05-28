@@ -870,7 +870,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0FDEDAB9C45152045935E2BA7D0E5EE6B9D0BD84" downloadHash="C2E849385454451B182D5038DBA9F465B916D2A0" name="gwynneth o33 macsheehan ruins.trx" dlsize="3112866" size="16241289" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3790D2F58FEF71A8579DEA9C2A30FC4CF32289CE" downloadHash="31FBBAF4D43063A5CB307B9039513D34549BEEEE" name="gwynneth o33 macsheehan ruins.trx" dlsize="3055223" size="16187650" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1135,7 +1135,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0ED705351C90364FFF040C8606EE0892A31BC97C" downloadHash="DBE12FD29191EAEF3C21C6918CA46C062ED18075" name="gwynneth o33 macsheehan  int.trx" dlsize="611341" size="4052426" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="45C8CC426AE981EB5A05A81AD3A666CA6AFE2E07" downloadHash="500EA17FAEDDF99D34108E6B51808F7D507DD663" name="gwynneth o33 macsheehan  int.trx" dlsize="728360" size="4166537" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
