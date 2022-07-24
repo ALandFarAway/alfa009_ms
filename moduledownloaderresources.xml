@@ -2311,4 +2311,59 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="FFF424E92B68C6BF251DB2F78093AA287713D1D8" downloadHash="ED97C834D1F97D6C6898247D5EEF206418A1AA9E" name="texture_swap_dirt.SEF" dlsize="389" size="2188" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="644C3A1E81579895DE32F6ED937B0E9837ACB17A" downloadHash="9392E5A4F020867BDB02C74F1BBBCBC4C55CBD6F" name="texture_swap_filament.SEF" dlsize="420" size="2836" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="473098B04514BA46E5C9E82B91CFDBF7A923F0B6" downloadHash="A650F24F5FD4FFA05814505E6DE629C04740B877" name="texture_swap_grain.SEF" dlsize="392" size="2189" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="FE59818A5B1A60728A7DCCBCC62D6F55B4509726" downloadHash="A0DF52D6079B8867AD08E6DD9ACF57E2A38DA0FD" name="texture_swap_translucent60.SEF" dlsize="337" size="845" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="10D79E6B2AF95B5A2C6C3456C97FA3D78FDBA8A4" downloadHash="B746E291C89C18AA1C26E387E22B2F17CA63E674" name="texture_swap_water.SEF" dlsize="439" size="3506" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="2D01FB4F398E8E0959D2D0AEF3D05D1545D24DD3" downloadHash="5BA3836A2E534714CA5686FF1C085B91682AFC27" name="texture_swap_sludge.SEF" dlsize="393" size="2189" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="BCC7EE79B01C8CE5F799B0F927937840CB9D714C" downloadHash="FA544A7756F0C9F34C463D33DE1E4B8DAEC6C656" name="texture_swap_stone.SEF" dlsize="384" size="2190" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="7D41855A94861FA6102D265290FA077C1BA832DE" downloadHash="2968575FDF7824F10AC30CA0609690C1387466BC" name="texture_swap_straw.SEF" dlsize="392" size="2189" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="97F4AF784FDAFC2AD8CFA8348E2F81BCB5B3B719" downloadHash="70922CEF087EF4AFA155433C331E60202BEEFEF6" name="texture_swap_gravel.SEF" dlsize="389" size="2191" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="DC74092F20E49FA67AEB0D0A4861D3A9C90A3982" downloadHash="29176F5877C5D9DE67F362C563566641C85C872B" name="texture_swap_jello.SEF" dlsize="439" size="3498" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="26B5F227203D26F9203A55F28AD23E345C32D566" downloadHash="B94AC0CE0AED65988124CF178C50CABD2F1C3726" name="texture_swap_magma.SEF" dlsize="403" size="2853" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
 </content>
