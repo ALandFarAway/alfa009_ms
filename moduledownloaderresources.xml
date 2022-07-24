@@ -580,7 +580,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6E2F5971C0FE84606F7BFE3D1DDFBF0A599FF61F" downloadHash="94AD2558E5DEAB630C7C8FC7579012454BF02305" name="alaron q22 c callidyrr housing.trx" dlsize="559153" size="1191741" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6FD274A0AE5E541BFDAA5DF33237C828904CDF9B" downloadHash="9C64395FEA5DA4079C0A9A299F91B0197CBDA0BC" name="alaron q22 c callidyrr housing.trx" dlsize="557261" size="1191807" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2304,6 +2304,11 @@
     <server-ref>
       <string>1</string>
       <string>3</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="399BC64E44C213AF8AE6914C7C02DC3A4D2F5DB7" downloadHash="B28C0BA7FC04A5B0BA89E90E147DC017AA9D6E98" name="texture_swap_plainglass.SEF" dlsize="438" size="3496" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
     </server-ref>
   </resource>
 </content>
