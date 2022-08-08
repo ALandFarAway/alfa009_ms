@@ -870,7 +870,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8CBBB5B702D55BCC535E377C0635781A6DDECF42" downloadHash="44FCA49F13B832DCBFB8B3CA3885C91D558E7D12" name="gwynneth o33 macsheehan ruins.trx" dlsize="3139472" size="16184610" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4F2ED37269308DE910BB3BDC11AC40CF53EE0F86" downloadHash="95F2B1FC5137B1D647FD406500CC5F5BC1A32F7D" name="gwynneth o33 macsheehan ruins.trx" dlsize="3138538" size="16185743" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1750,7 +1750,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F9C237AFC89C67162ECA5A0E564A8C1FDC5FAA6B" downloadHash="696345F38262FBE5BD27A330F7E8103616A5C6C1" name="greendragonbody.SEF" dlsize="331" size="825" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="13FD8835196291535B002104DDF52BE246030094" downloadHash="486B267832B0251AD22DC6FB542D6EFED5BD1E82" name="greendragonbody.SEF" dlsize="332" size="854" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1770,37 +1770,37 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="340675C82F1797213F9A4A66384EFB1949604DD0" downloadHash="C29345DB7F7EE70F3E4C5755C57FAE8BA2E93CA0" name="ship.SEF" dlsize="407" size="1162" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="37F3480D5133BB93DFC7E36B90C4CD79153CA226" downloadHash="F95814B8409F441CDC5E9925BBBC538A258E51B0" name="ship.SEF" dlsize="408" size="1209" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5B660E8465B1A853B47DB3B1F59083A7775AD4F7" downloadHash="6B796D758E45D41A6D6CF936F09C0023027A982D" name="ship_cargo.SEF" dlsize="392" size="1152" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D8A679029468BA94AB99192A0542C6E43048BF93" downloadHash="B5B8E919BCC43BE946371C054082E9CE23DD0945" name="ship_cargo.SEF" dlsize="393" size="1199" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D43FA75E98DC139B9C4C09C6FE78FD436945E0F1" downloadHash="C7AC69D12268D918481B9B789CBCF34089E9E658" name="ship_dragon_head.SEF" dlsize="397" size="1163" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="47E2CA269492CEEC581B13C33A32EB79FCC1078B" downloadHash="EA34DC8BAA7128696BB8528773ED5177D00C9069" name="ship_dragon_head.SEF" dlsize="398" size="1210" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7EE934A1593EF0ACAD7C8E453322612C342021B1" downloadHash="8006B8C0FD4B65E0FF91A6A2E967B3B17493296E" name="ship_rowboat.SEF" dlsize="389" size="1152" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9E6B061419B9B98DBA50B1FCD0E1893A65A28AEE" downloadHash="C0D6492D3B33E9628E831B81EEA11018F890ADCA" name="ship_rowboat.SEF" dlsize="392" size="1199" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="05AC0640669C588B7A659BA4C4AE02730EF08D6F" downloadHash="9E61F1AC2795C196E541DCC5AB28BF70FB91B091" name="ship_sea_ghost.SEF" dlsize="392" size="1154" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="623297FF1C7822C6A3ACCB259D65A42469130ED7" downloadHash="26201804404617526267FCD4A08E827814714D1C" name="ship_sea_ghost.SEF" dlsize="392" size="1201" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="44C63A9F90D48F4F8EC6B8D984883F1575C26AEB" downloadHash="BF4F862A31ACF9E1A7FE9C24CD4678E641EB1082" name="ship_warship.SEF" dlsize="391" size="1152" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5A1814CA270B9D46AD328DF800121E2DED4FB092" downloadHash="843D0C1EABF48A82F4ADCFF65515D6A91EEBB76D" name="ship_warship.SEF" dlsize="393" size="1199" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="98F81269AF8DBDC4131951008327EBEF2BA97A20" downloadHash="12C229319683A632FF4E41CD3FFD374E20FE53C6" name="total_invisibility.SEF" dlsize="325" size="809" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FD97CC37F339CC2AF18C5DB7451EC267EDA78FAD" downloadHash="162F4F66B19A2658D90F9F98287218FA8A7AD6C7" name="total_invisibility.SEF" dlsize="326" size="837" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1975,42 +1975,42 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2E138BEA95F9B88053EF9265B6F7DE700CEEC6D4" downloadHash="1A1450A678E2958E8B0825B750B1E04F9E10E4F4" name="fx_ceilfog.SEF" dlsize="362" size="4216" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DDD1BB868EC3137BE2A1B0F2509B73FDBE235299" downloadHash="9B562199436B6DC53B880A0545479B8E08E22A0C" name="fx_ceilfog.SEF" dlsize="367" size="4367" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7D16E851B48E6ADCC00B5F3AAD5034ACAD5F024D" downloadHash="AB7F0251109D2E9353B9C9586D2DBA5B3D61A68D" name="fx_driftglobe.SEF" dlsize="639" size="3896" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C7B2DA8BB7EF266985F9AF53563F87F333BCF2B1" downloadHash="6F0491ABEE6F6DD10B012F9EB21DBCBE8850326D" name="fx_driftglobe.SEF" dlsize="640" size="4045" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="618B8D8D08D46E1822C6837405A7EAE5055CF890" downloadHash="A968D2BC04F94C3CB9D6DE01B8E5E4F9B41D8735" name="fx_icebody.SEF" dlsize="335" size="826" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BC7402DAE14834487CF93E26FA4985E4DC4D3946" downloadHash="B9D07C48E4C66F1386210D2DDB000C3133A3AE3A" name="fx_icebody.SEF" dlsize="335" size="855" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D826CBB32CB79552470484BB13269B96C757306C" downloadHash="C4E000717E12C274B1B87B951B8112418EE2F8B2" name="fx_stars.SEF" dlsize="536" size="2334" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E8FE6A998E5348E6B778FB16986AAF72C1B59180" downloadHash="479BA7535DD4DA1AA6787747B87D4BCA0B949062" name="fx_stars.SEF" dlsize="537" size="2429" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A50D57E66E174DEA6A89879B8F3E4FED24F123C8" downloadHash="82F6193D206458D6569F55B34662A447548EDD20" name="fx_weapontr_bluefire.SEF" dlsize="510" size="3266" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C555F61455A3644F0A287964E96F92DBA72DF98E" downloadHash="E9CC3B053F5D150136F62C464364517D1B513D04" name="fx_weapontr_bluefire.SEF" dlsize="514" size="3391" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="70D97E31DD44700FE359760C84F011D4B2535B2A" downloadHash="0AF639039FA6D12E94E8178A8413B30BF3800EE5" name="fx_weapontr_stars.SEF" dlsize="485" size="1714" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="69C891135BBF0058E11302F4596DC3B9FD708DBB" downloadHash="E6D79F8478478C4DC0DC3CF3ED2C2E0964A50692" name="fx_weapontr_stars.SEF" dlsize="484" size="1780" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A4E004B3D5F43213B7E41085874105FAC3B2F903" downloadHash="F62ADE89FECE8C6694A7C4C8C8AC8A1DD61A83EE" name="sjc_redeyes_lesstrail.SEF" dlsize="294" size="1186" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5AFF1B6E920BEB4B3711D5B49E9ABBAC06F4E4B5" downloadHash="FAF0CC1D93B380D43BD2C2EDFBDEAC2503988EE3" name="sjc_redeyes_lesstrail.SEF" dlsize="295" size="1229" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2500CF75EFCBF9740CF155745C600AE1A57DCB92" downloadHash="AEBD2F0E92B88C02CF2779FD6C497E212A2E6947" name="sp_cloud.SEF" dlsize="277" size="680" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5F095B62236A89F72D0AF773D2E1063D4C199F57" downloadHash="E58D955319CD025014DE4EFF45767CE88A40D8A2" name="sp_cloud.SEF" dlsize="278" size="705" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
