@@ -28,15 +28,15 @@ void main()
         else
         {
             // key used, do the AT stuff
-	//	location lWhereTo = GetLocation(GetObjectByTag("wp_dr_m35_hall_at_door2"));
+		location lWhereTo = GetLocation(GetObjectByTag("wp_dr_m35_hall_at_door2"));
                object oParty = GetFirstFactionMember(GetFirstPC(), FALSE);
                object oWP = GetObjectByTag("wp_dr_m35_hall_at_door2");
         while (GetIsObjectValid(oParty))
         {
             AssignCommand(oParty, ClearAllActions(TRUE));
             AssignCommand(oParty, JumpToObject(oWP));
-           // oParty = GetNextFactionMember(oPlayerPC, FALSE);
+           oParty = GetNextFactionMember(GetNextPC(), FALSE);
         }
-        }
+       }
     }
 }
