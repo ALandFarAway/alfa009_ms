@@ -1830,7 +1830,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="523955A104EE0E1BAC5C87BBD5FD3DA62762998D" downloadHash="967500DA42474622E1D47E887915B0003377E674" name="alaron q22w farheight rd mstn.trx" dlsize="432496" size="840018" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="555291090047691B85DBC6164CD6E313EDD8F3D1" downloadHash="2BCFAC6823914A5E3FBA973648B1C05249EB55DA" name="alaron q22w farheight rd mstn.trx" dlsize="427885" size="835047" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2295,7 +2295,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C4D93D8563F7AA0847E5AF02BAD11D894095B85C" downloadHash="AEF521FD88A1C5E35D90F945A4BC8AE56E645566" name="gwynneth m28 winterglen-erleirn.trx" dlsize="4977272" size="24494282" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F9C87D037995B94ED6D1A1DF5BF0DA9F69059950" downloadHash="5628D5B4C62346BFD8F2926B661934A4BB4FBA96" name="gwynneth m28 winterglen-erleirn.trx" dlsize="4973067" size="24497364" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
