@@ -2411,4 +2411,24 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="2E67F0F6CDF63622626F1407BBFA2A730D1C031B" downloadHash="347AF34596F79FBD7565508B783ADD246A536873" name="skaug port w pirate estate.trx" dlsize="105493" size="106352" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="7D4146F0AA9BA01D4FFFBBB6539B28AC61101496" downloadHash="1FD6CADB7B39350D7ED5BAC10FED7D0C567C1C65" name="skaug floating pirate  int.trx" dlsize="19501" size="19438" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="F2375B1F9DE862EF6B035EF67B345A058619E6CA" downloadHash="43328C1AA337BB9B851AAEC0B401A9935048729E" name="skaug c4 forgotten tpl int.trx" dlsize="270455" size="3301789" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="A494E85F9710DDEEE6633A5715B1D6D699841E85" downloadHash="626C407962151474D1F2A652CDC71880AA63B119" name="skaug ship blooddrake int.trx" dlsize="247305" size="884658" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
 </content>
