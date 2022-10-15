@@ -2431,4 +2431,14 @@
       <string>0</string>
     </server-ref>
   </resource>
+  <resource type="DirectoryEntry" hash="4F2ED37269308DE910BB3BDC11AC40CF53EE0F86" downloadHash="95F2B1FC5137B1D647FD406500CC5F5BC1A32F7D" name="gwynneth o33 macshee ruins.trx" dlsize="3138538" size="16185743" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="F2D6C01A1C1A20FC249C48119513BDCDB5259E09" downloadHash="975523E81B9CC4D89517BD7F8855054987828C1E" name="gwynneth o34 macshee rd int.trx" dlsize="466755" size="6455567" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
 </content>
