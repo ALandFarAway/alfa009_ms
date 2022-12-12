@@ -1,11 +1,13 @@
 
 
 //Put this script OnUsed
+
 void main()
 {
 
 object oPC = GetLastUsedBy();
 
+if (!GetIsPC(oPC)) return;
 {
     // * note that nActive == 1 does  not necessarily mean the placeable is active
     // * that depends on the initial state of the object
@@ -23,13 +25,17 @@ object oPC = GetLastUsedBy();
     SetLocalInt(OBJECT_SELF,"X2_L_PLC_ACTIVATED_STATE",!nActive);
 }
 
-if (!GetIsPC(oPC)) return;
-
 object oTarget;
-oTarget = GetObjectByTag("fx_gem_energy_blue");
+oTarget = GetObjectByTag("m35_forcefield_tower1");
+
+DestroyObject(oTarget, 0.0);
+
+oTarget = GetObjectByTag("m35_forcefield_tower2");
+
+DestroyObject(oTarget, 0.0);
+
+oTarget = GetObjectByTag("m35_forcefield_tower3");
 
 DestroyObject(oTarget, 0.0);
 
 }
-
-

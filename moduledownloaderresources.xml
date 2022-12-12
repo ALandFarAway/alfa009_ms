@@ -530,7 +530,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9E31CE8808E9757107BCD0D0F4EDBD63F1228533" downloadHash="2EE8CEA006E7899F3E46ACEE2586B6E0EACC1391" name="gwynneth m35 mystery keep.trx" dlsize="1145488" size="9889904" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D680D99B9F180A3806FFA71A4BCA45FE45DF3232" downloadHash="79F74306B666A6892858FBC1239043A9C63D50BA" name="gwynneth m35 mystery keep.trx" dlsize="1143993" size="9891626" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -740,7 +740,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B9F82664F87E1451CD3CB881EAD394FAAFB18435" downloadHash="8CF89F99A391F262AE6E99551EB333BE4ACF755F" name="gwynneth m35 mysterykeep int.trx" dlsize="1461479" size="1503930" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="862510F8C289E473307AA75993B35D95254FD68A" downloadHash="C7FB21E12658708002302371DA87355FBA67F008" name="gwynneth m35 mysterykeep int.trx" dlsize="1457205" size="1500384" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
