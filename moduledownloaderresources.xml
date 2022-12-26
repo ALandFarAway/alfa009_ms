@@ -2443,7 +2443,9 @@
   </resource>
   <resource type="Hak" hash="6DA5F69B235E7534642162B72A4699CCC2301577" downloadHash="8062A0210D74FA9B43294216F69AF4F24DDD5E5A" name="alfa_placeables6.hak" dlsize="78533509" size="317575319" critical="false" exclude="false" urlOverride="">
     <server-ref>
-      <string>0</string>
+ <server-ref>
+      <string>1</string>
+      <string>3</string>
     </server-ref>
   </resource>
 </content>
