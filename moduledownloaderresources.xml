@@ -1430,7 +1430,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F9C87D037995B94ED6D1A1DF5BF0DA9F69059950" downloadHash="5628D5B4C62346BFD8F2926B661934A4BB4FBA96" name="gwynneth m28 winterglen-erleirn.trx" dlsize="4973067" size="24497364" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E67B9AA1751D480651C1E01F022BB97353C48019" downloadHash="A08719BA9128FC68C4F5CEB25C272B0DF691B784" name="gwynneth m28 winterglen-erleirn.trx" dlsize="4972377" size="24496022" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1864,7 +1864,7 @@
     <server-ref>
       <string>0</string>
     </server-ref>
-    </resource>
+  </resource>
   <resource type="Hak" hash="E6CF8F6322395F00A0F2C7B98E29DCE532823D8E" downloadHash="D25A67193CB8FFC882CEB2937E529562BF1D6D29" name="alfa2_2da.hak" dlsize="550566" size="35273769" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
