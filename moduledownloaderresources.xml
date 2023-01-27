@@ -435,7 +435,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="EE9EFDBD38DAC3011806709B8CC611547D4D5A37" downloadHash="CE603D9413B457DD6A0C5B8C0746774310AEBF19" name="alaron p22 farheight rd nw.trx" dlsize="3523087" size="19345701" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="22D9F6CAD586388134F491DB002E44A7FD3A9D42" downloadHash="C243F2F7E7D09CA1DFC7C563B094F74531C53F9D" name="alaron p22 farheight rd nw.trx" dlsize="3704106" size="19443200" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -970,7 +970,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3D56CBEF49C60C858467B3862C4FE229942CE5A3" downloadHash="EFA1EB2437D8AD55D455FAAE60EA82F6A3EF9C69" name="moray isle e30 Farview.trx" dlsize="4266803" size="33112684" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1525500CEBFD3354BA299E01CC0928FE41279526" downloadHash="FF4018DE82E31F04DE1512AF6DC8BFA384B0500E" name="moray isle e30 Farview.trx" dlsize="4248063" size="33078237" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -995,7 +995,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4AA376D5C01DCE7978DFA15FB7893EC29D9C3A7F" downloadHash="E3136E4EA93E44CD3A1D341C34095BC728DF37F3" name="alaron q22w farheight road-th.trx" dlsize="3531075" size="20925041" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="EAA920B4A04EB32549F41A95414971D10BB8F435" downloadHash="D275866A5B82FCC56C65C8DE0C8903274606662E" name="alaron q22w farheight road-th.trx" dlsize="3547385" size="20932154" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1050,7 +1050,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6C39FF1E5ECAA6A05751BBC63D0C04CD817072A7" downloadHash="31BD2C88E9CA62C5050E33C4C704BFB050C87F27" name="alaron o24 aithelar ext.trx" dlsize="4384255" size="21102607" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F808424FFFFA1AB4EC0397A446AE90CC7314A561" downloadHash="F29E22EAB2229BBBF899B671F7733F528B0A6981" name="alaron o24 aithelar ext.trx" dlsize="4419616" size="21102392" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1340,7 +1340,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="124EDDC13A78FCB085E39B81BD6F5D9747448C50" downloadHash="FB80FF112D19716EF97EE3DAF4EEDC835368FB97" name="alaron o24 aithelar tomb.trx" dlsize="500673" size="685017" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DB78C05B91DD8612C693571AE43D566AC298D869" downloadHash="18A44CBE70E14846B201E2E70E1CC8D9BB0E4ADB" name="alaron o24 aithelar tomb.trx" dlsize="481324" size="665937" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2007,6 +2007,21 @@
     <server-ref>
       <string>1</string>
       <string>3</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="AB7F06006B23061C0F64B3E4B8E64281225296D8" downloadHash="719082DBFB4E5DBE5684D71C1EEEB8018EEE94E8" name="snowdown r33 andover heights.trx" dlsize="3415028" size="21563701" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="2547E7CFCCF7E5036968FD2A0170CBF67404A4C2" downloadHash="FD2820DCF98C88E2FA077285DEA9C83F9FE7EAEF" name="alaron o23 dernal forest nw.trx" dlsize="2426093" size="16640277" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="70A5122E059214BF3B125C1A94E87A871C6EEAC9" downloadHash="431BE035269CEEEB9DB279415842836CD6F2A148" name="alaron p22 farheight rd new.trx" dlsize="2921873" size="16649234" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
     </server-ref>
   </resource>
 </content>
