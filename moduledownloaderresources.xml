@@ -2014,12 +2014,57 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2547E7CFCCF7E5036968FD2A0170CBF67404A4C2" downloadHash="FD2820DCF98C88E2FA077285DEA9C83F9FE7EAEF" name="alaron o23 dernal forest nw.trx" dlsize="2426093" size="16640277" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="24900D671FBFD2329DA0685B28E89A94A92E51FB" downloadHash="20694CB4D6A41EB0A9B2AC2A2D15A8B411C61E78" name="alaron o23 dernal forest nw.trx" dlsize="3225319" size="17587633" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="70A5122E059214BF3B125C1A94E87A871C6EEAC9" downloadHash="431BE035269CEEEB9DB279415842836CD6F2A148" name="alaron p22 farheight rd new.trx" dlsize="2921873" size="16649234" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="0141DD52B52AFDFE5A7CC649B2B51CBC28417F44" downloadHash="2C7A0505D397139E7DCD4A78BA5AC72535E96C6F" name="alaron p21 fairheight ruin2.trx" dlsize="693962" size="884279" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="2F059046EF3ADC9566D909436EAE7E577D4A27D9" downloadHash="9A84895207152F3CCA58278FC1C842D8CDF46D4D" name="alaron p21 fairheight canyon int.trx" dlsize="500001" size="596405" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="3946CD2E27291903EB61EE9B03933534426C36CC" downloadHash="46A900E97E6123F6A5127C5AFB3529E4BCA018E1" name="alaron p21 fairheight canyonpass.trx" dlsize="2444861" size="12726908" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="2CA7B0508E7FA2F609E4DA190EFA923968CD2321" downloadHash="68A9158983C7F806989A013F74BC70682BD9AC56" name="alaron q20 fairheight caves2.trx" dlsize="178133" size="268061" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="1BC70A63EAB274FCA607F68232B083E39874C611" downloadHash="411A1732B803D31A400A330398F236027132436B" name="alaron q20 fairheight caves3.trx" dlsize="420572" size="2780683" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="A34B7CBB86C2361BF39FB72C2F1D53E78199389F" downloadHash="CC24EF8EB1115EDC4B034723185140F23E52F41C" name="alaron p21 fairheight mountains.trx" dlsize="6230148" size="25794647" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="7E79501DC477CAD14F1066DB4FC13CF3B9886471" downloadHash="0CEF4DAB847AD55B86E69C9879486F0BBABC8A05" name="alaron q20 fairheight mountains.trx" dlsize="2353062" size="13725582" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="D2035039F27FA2D26DBD8EBBF47D5A84421D2A85" downloadHash="BBC31E845FE0FB2DD72F5DA1BCB5E6DE4944EEFA" name="alaron q20 fairheight cave1.trx" dlsize="677297" size="729212" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="FC1FDF17EBC391078B364C64A09B4D51355E6CA6" downloadHash="2745F5CB86A600262D548BBAD7B45FC87D9E176D" name="alaron p22 fairheight rd nw.trx" dlsize="2910079" size="16644365" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
