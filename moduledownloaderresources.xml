@@ -2014,7 +2014,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D73DEE74AC5A189F25AB0EC5053ED879F4C959E3" downloadHash="6E364C403DD154F9AC3D2DA7526D6F907D44CD78" name="alaron o23 dernal forest nw.trx" dlsize="3195032" size="17548051" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="09C3F8282CBF4352B585DE8DA697E6413B1FA688" downloadHash="3CEB0E45A1816148DEEE8BFF853E46A0469D4528" name="alaron o23 dernal forest nw.trx" dlsize="3189824" size="17549641" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2075,6 +2075,11 @@
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="323FA6D1189844156C01EE433B3499C07C70DB24" downloadHash="6E37FEEB95EFE41576AD865872A309C6D5833434" name="alaron o23g dernal forest grove.NWM" dlsize="48" size="34" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="33C154A22625BF2D20FE3F09DD6485420EF66060" downloadHash="D730CF37F21AB602DC2B8861291221660D01226D" name="alaron o23 dernal forest nw int.trx" dlsize="255835" size="258570" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
