@@ -970,7 +970,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1525500CEBFD3354BA299E01CC0928FE41279526" downloadHash="FF4018DE82E31F04DE1512AF6DC8BFA384B0500E" name="moray isle e30 Farview.trx" dlsize="4248063" size="33078237" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D1C4DD1C56860393FDF779542A13EAEA7D1E77D4" downloadHash="329B75F31F1D69CCDAB6D087A15A51EA9D10198F" name="moray isle e30 Farview.trx" dlsize="4287643" size="33078829" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1590,7 +1590,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="12C95DFE0378C5FB61A01256CA85D8BD606DE494" downloadHash="4FAB3A6B0929BDAB833A8D998B58D762B5256F15" name="gwynneth k34 pontswain.trx" dlsize="6719260" size="28180337" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4986DEDF5051AAA7ACE395D34A052BC05910D98F" downloadHash="0EDFA432123189A69A04FA687C4E73995EB56335" name="gwynneth k34 pontswain.trx" dlsize="6752984" size="28180330" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2014,7 +2014,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="09C3F8282CBF4352B585DE8DA697E6413B1FA688" downloadHash="3CEB0E45A1816148DEEE8BFF853E46A0469D4528" name="alaron o23 dernal forest nw.trx" dlsize="3189824" size="17549641" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4A7D8A03710D38F7A54B61F9DF433685235E2DE7" downloadHash="2277AB61CB6C01817EE6E27ED9462E74038BF091" name="alaron o23 dernal forest nw.trx" dlsize="3188341" size="17548201" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2079,7 +2079,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="33C154A22625BF2D20FE3F09DD6485420EF66060" downloadHash="D730CF37F21AB602DC2B8861291221660D01226D" name="alaron o23 dernal forest nw int.trx" dlsize="255835" size="258570" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D1BE2B250E2225605E215CCD4329863AAD0EE52D" downloadHash="9AD51356C1557624790C501A516CADF9B4376BD7" name="alaron o23 dernal forest nw int.trx" dlsize="278990" size="281648" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
