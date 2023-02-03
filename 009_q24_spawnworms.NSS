@@ -31,7 +31,7 @@ void main()
     // Spawn some critters.
 
     oTarget = GetWaypointByTag("WP_worm1");
-    oSpawn = CreateObject(OBJECT_TYPE_CREATURE, "009_cr_mb_purpworm_sm", GetLocation(oTarget));
+    oSpawn = CreateObject(OBJECT_TYPE_CREATURE, "010_cr_magbeast_ankheg4", GetLocation(oTarget));
     AssignCommand(oSpawn, DetermineCombatRound(oPC));
 
     oTarget = GetWaypointByTag("WP_worm2");

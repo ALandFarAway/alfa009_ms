@@ -220,7 +220,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C957B7267880D471C860E1EEBE6BB5F517AB478E" downloadHash="AC1D0A91C390CE57E9D8453621B5D3BA3E847326" name="alaron q22 c callidyrr docks n.trx" dlsize="3134245" size="20028000" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FE89264213696BC52A60FB90C8D72CB07E29DECF" downloadHash="CB88C89DBC848C01F9448B7F55E0DCEEB7ED8F42" name="alaron q22 c callidyrr docks n.trx" dlsize="3148656" size="20046230" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -480,7 +480,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="65B6BDE1F5486EA995EDEAD21A3356D2F5D287AE" downloadHash="EFB262BE984C195F689C15DF64C54F11B49EE2B5" name="gwynneth l29 high home grove.trx" dlsize="474939" size="6441174" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="0018754CF38F48EE604721B117369E9D6996DF7F" downloadHash="B66F47E0FF66808023CF17AD68786173BBED4C3D" name="gwynneth l29 high home grove.trx" dlsize="475502" size="6440578" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1110,7 +1110,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="58A4EE1758B9A284075D7C45A9E612D117262E61" downloadHash="A2CC430E79CFA4071FAB46270FB12DD89F74362C" name="gwynneth j30 aspenheight hills.trx" dlsize="2662458" size="14422813" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="732FBACD339ED8BDBE2455E875DBE58449A29341" downloadHash="683FE4486BF46167FA9D2A5AD7E71E2F8205678F" name="gwynneth j30 aspenheight hills.trx" dlsize="2696400" size="14445055" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2009,7 +2009,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="AB7F06006B23061C0F64B3E4B8E64281225296D8" downloadHash="719082DBFB4E5DBE5684D71C1EEEB8018EEE94E8" name="snowdown r33 andover heights.trx" dlsize="3415028" size="21563701" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C58F3B30A9799F841079355BEDD48F92E018424A" downloadHash="36F208EEC7448CB26F5916E5FDFFF5A5DE1C039B" name="snowdown r33 andover heights.trx" dlsize="3415636" size="21562227" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
