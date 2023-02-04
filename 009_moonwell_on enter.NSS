@@ -19,6 +19,11 @@ SetLocalInt(oPC, GetTag(OBJECT_SELF), TRUE);
 
 object oCaster;
 oCaster = GetObjectByTag("009_moonwell_heals");
+ {
+        SendMessageToPC(oPC, "You feel a gentle warm spread through your body and mind as you enter the water");
+        return;
+    }
+
 
 object oTarget;
 oTarget = oPC;
