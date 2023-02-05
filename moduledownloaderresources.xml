@@ -515,7 +515,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="05A5DFEABC353370F8D21C7A4682C3DA4B36AE1C" downloadHash="AA0E91C0BB0A4920B1EF4E5BCD97B26985D38DC0" name="alaron r26 stirgewick ruins.trx" dlsize="588523" size="598128" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="357AFBF31D59EDAA0FD994FDB7E4EBE47396D6D9" downloadHash="DAEE87862A99587DAFF51AB7A87303B6B637670D" name="alaron r26 stirgewick ruins.trx" dlsize="591346" size="600480" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -895,7 +895,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="86685A626D118ED79494ADD3B9D6C97A160D6799" downloadHash="A3AA06510214CEDEC951441E835998F5FB1847BF" name="alaron q22 c callidyrr int 2.trx" dlsize="565511" size="1242770" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="84FE977AB45FC83D302E49243514541C0CFFCEA6" downloadHash="457539CF65592D06BBEB121BBFDDCAE9AC060AA6" name="alaron q22 c callidyrr int 2.trx" dlsize="565904" size="1243145" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
