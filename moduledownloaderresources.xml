@@ -515,7 +515,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="357AFBF31D59EDAA0FD994FDB7E4EBE47396D6D9" downloadHash="DAEE87862A99587DAFF51AB7A87303B6B637670D" name="alaron r26 stirgewick ruins.trx" dlsize="591346" size="600480" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C14F8D063EA53459E09DDFD8C56CB407A896ACED" downloadHash="2CF15468463B1ABE79F6A015F6F1D4E71CE2AC11" name="alaron r26 stirgewick ruins.trx" dlsize="600908" size="610317" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
