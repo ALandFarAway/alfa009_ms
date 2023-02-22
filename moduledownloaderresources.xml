@@ -1865,7 +1865,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="6D0B9C81073565B1003EF6BFB13E7C3B644C4E0A" downloadHash="6CCC4A1C641C615CD734A406C3F5683CDB1BE50E" name="alfa2_2da.hak" dlsize="543994" size="35276744" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="DF9411C7540D3A47901420A73757AD711FC4F62A" downloadHash="1FFA772EE4AB25C0E80AA0E3FBA94227B72E129B" name="alfa2_2da.hak" dlsize="547296" size="35276744" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
