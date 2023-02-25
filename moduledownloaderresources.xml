@@ -1865,13 +1865,13 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="DF9411C7540D3A47901420A73757AD711FC4F62A" downloadHash="1FFA772EE4AB25C0E80AA0E3FBA94227B72E129B" name="alfa2_2da.hak" dlsize="547296" size="35276744" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="A949F8B843FB1BACCC96DFCC0C4DBA5B85AEE71A" downloadHash="05F81B6F28FBAEF3F1BDCC017512B66CDFB35890" name="alfa2_2da.hak" dlsize="547061" size="35276744" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="42D1B20F77D4708F9B59043E52A72B8AD05EF3C7" downloadHash="8CC3419F287B3248F4E46B6E9EA8BE99F11689A4" name="alfa2_acr.hak" dlsize="4205417" size="145184729" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="76B050515D7964EA152C993DE4ACAC56C4F0FE9F" downloadHash="A7769A0F608CD2E9B88EFB2822987E1135A2E7A8" name="alfa2_acr.hak" dlsize="4209305" size="145506293" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
