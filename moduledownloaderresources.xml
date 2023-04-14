@@ -165,7 +165,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="73FB8AD4A47C3B10D51F7B5B7A6AB115F3B483F7" downloadHash="CEFFBB465299B1E2A383D092C3370F8908833A38" name="gwynneth k29 high home - dwarven.trx" dlsize="9576436" size="41319110" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C0C01CB8C7AD0AA73655FB013DC03E5AD49FA715" downloadHash="CEFFBB465299B1E2A383D092C3370F8908833A38" name="gwynneth k29 high home - dwarven.trx" dlsize="9576436" size="41328456" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -860,7 +860,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="84FE977AB45FC83D302E49243514541C0CFFCEA6" downloadHash="457539CF65592D06BBEB121BBFDDCAE9AC060AA6" name="alaron q22 c callidyrr int 2.trx" dlsize="565904" size="1243145" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2693548976295553184992571F9E729B8D71A5AA" downloadHash="381046C0CDA3E00FAD3A01A0AB0FDE5A8B32C9B8" name="alaron q22 c callidyrr int 2.trx" dlsize="579311" size="1255463" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
