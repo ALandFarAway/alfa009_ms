@@ -505,7 +505,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C14F8D063EA53459E09DDFD8C56CB407A896ACED" downloadHash="2CF15468463B1ABE79F6A015F6F1D4E71CE2AC11" name="alaron r26 stirgewick ruins.trx" dlsize="600908" size="610317" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="70A8C36E3385CAFCEDBDAE919ECDE9C9F53CCC5B" downloadHash="D1E39919E2B08ACF5A691F84968BDEE717A05D87" name="alaron r26 stirgewick ruins.trx" dlsize="606908" size="616158" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1835,7 +1835,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="4D0B19BF237620B7F9ACE6F096AF92C66328E3F6" downloadHash="C3166E5CB91961236E23CEBB51E70327D7F53D12" name="alfa2_2da.hak" dlsize="548567" size="35416696" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="9CCC5DD4C2299C97F273380CDF2C4756938C8451" downloadHash="B52F8B8D2558871D1194A5ECF5641F1D6A01698C" name="alfa2_2da.hak" dlsize="548985" size="35416878" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
@@ -1974,6 +1974,12 @@
     </server-ref>
   </resource>
   <resource type="Hak" hash="30ADDAEA665D8638020C5F1253915757CAE1842E" downloadHash="0DFD46457FDA941DE0E6B45B86294B0ECD67AC0C" name="alfa_tiles2.hak" dlsize="187453209" size="1149711358" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>1</string>
+      <string>3</string>
+    </server-ref>
+  </resource>
+  <resource type="Hak" hash="30445F571C17810605C3E921B01FA1657F436EDF" downloadHash="C6F6D8A24AA76A1A5FA5F44DFA36D323FD4B19B7" name="alfa_creatures5.hak" dlsize="18683082" size="70489016" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
