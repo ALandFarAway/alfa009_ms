@@ -190,7 +190,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0141DD52B52AFDFE5A7CC649B2B51CBC28417F44" downloadHash="2C7A0505D397139E7DCD4A78BA5AC72535E96C6F" name="alaron p21 fairheight ruin2.trx" dlsize="693962" size="884279" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F10BEA016906D48DC26E824AD2D2BDBC628C1D77" downloadHash="F36E3A43ABDA312DB8C32C3FC887E0E2616E2764" name="alaron p21 fairheight ruin2.trx" dlsize="798203" size="991956" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1200,7 +1200,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A34B7CBB86C2361BF39FB72C2F1D53E78199389F" downloadHash="CC24EF8EB1115EDC4B034723185140F23E52F41C" name="alaron p21 fairheight mountains.trx" dlsize="6230148" size="25794647" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F828A3C7458F6A8C26DD799C5EB9AD22383BA7B2" downloadHash="EF98734CD5816B3F41A8DB05A1138E5F2D6C4667" name="alaron p21 fairheight mountains.trx" dlsize="6233640" size="25793241" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
