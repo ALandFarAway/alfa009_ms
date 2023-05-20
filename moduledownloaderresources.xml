@@ -190,7 +190,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F417C5FA9FFA63A2158C972C5D8F2EE5BA0683C1" downloadHash="06ED785673F1FFB9C57589C706B1E2ACF05C6D68" name="alaron p21 fairheight ruin2.trx" dlsize="828274" size="1020282" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E09B0A780E65901A783D5C1BF4E4852D46BC25DD" downloadHash="A7A105F0178D7100D17D3CF25C9CF8F3CA643A99" name="alaron p21 fairheight ruin2.trx" dlsize="827837" size="1019766" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
