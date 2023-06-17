@@ -99,7 +99,7 @@ void main()
 		sMsg = "This herb's root is very mushy and does not look worth harvesting.";
 		sRef = "it_nararoot";
 	}
-	else if (sTag == "009_grassland_wormwood1") {
+	else if (sTag == "009_grassland_wormwood") {
 		// 1/2 probability of no check 1/2 of simple check
 		nHeal = (Random(2)*2)-1;
 		nSurv = (Random(2)*2)-1;
@@ -107,7 +107,7 @@ void main()
 		sRef = "009_field_herb1";
 		
 	}
-	 else if (sTag == "009_it_herb_agrimont") {
+	 else if (sTag == "009_herb_agrimont") {
 		nHeal = 4;
 		nSurv = 5;
 		sMsg = "This plant looks useful, but it seems to be past its useful harvest time.";
