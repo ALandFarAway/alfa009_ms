@@ -1315,7 +1315,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7FFCFE628C55FB3776BB153202E5A015CE4C4B47" downloadHash="83C0BD0C04F3C6B1DE79E1ECDFB09ACC707907FD" name="skaug port west.trx" dlsize="2101733" size="14910478" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F420B0F7588BD87B39BF1491E9F0DBADC6AD78EC" downloadHash="4B2CC12B65BEB93723996A720B0E2A3B10D30E3B" name="skaug port west.trx" dlsize="2129965" size="14946103" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1330,7 +1330,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="555291090047691B85DBC6164CD6E313EDD8F3D1" downloadHash="2BCFAC6823914A5E3FBA973648B1C05249EB55DA" name="alaron q22w farheight rd mstn.trx" dlsize="427885" size="835047" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3CB65357816DEED8BB4A54E412994759D57CC272" downloadHash="64DFC278D45B8F3DC52CBA607FF614BE56345D4D" name="alaron q22w farheight rd mstn.trx" dlsize="431163" size="839292" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
