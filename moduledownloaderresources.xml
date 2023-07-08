@@ -450,7 +450,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DED7A3CDC42DD82AB230E326480455BE0A3FB55D" downloadHash="0151CF03F55F6CE8E307AEF46B1701316F0C461C" name="skaug d4 jagged mtns.trx" dlsize="1818906" size="10517566" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A7AF589BE015AECE95137EE28AE0C3F3DECA3CDB" downloadHash="24B3060C4A77E3C59C54A89D5AC22FFF97A084DB" name="skaug d4 jagged mtns.trx" dlsize="1959581" size="10949022" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
