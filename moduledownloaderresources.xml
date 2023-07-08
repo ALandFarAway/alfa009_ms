@@ -20,7 +20,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="64A58357C1C79939073AED51A33E466459EB0A1D" downloadHash="15B334689C66A01A3A26501D1E6A0B6EF064CB96" name="skaug b5 jiawood.trx" dlsize="2477282" size="12888115" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A4A9AA51113084C75746281348117BFDA8398C2C" downloadHash="B79BA65D93244220A7D4513BD335151E4112B1BB" name="skaug b5 jiawood.trx" dlsize="2475929" size="12882082" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -490,7 +490,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2B712B526A5962052F68479B8DDFADD700B660B8" downloadHash="5D9319166A1F873D576C87066AF475791A1DDFB6" name="skaug c5 coast.trx" dlsize="1494105" size="10575494" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F46306247EBA36284B85394DB0F965F4A8493F2C" downloadHash="7B96DC5DA1A8298F3CCDF8734238F3BFEEE3E935" name="skaug c5 coast.trx" dlsize="1516412" size="10596194" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -745,7 +745,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="58185AD1DD5334A500D72A33EB7AC5DB0DB6C80A" downloadHash="F9959360B5AEA2AD68C0DCE25E5472B47E5423FC" name="skaug c3 coast.trx" dlsize="1500332" size="10691919" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4DFD6730A2E7F432C630D5EBF0F1C3A440C16827" downloadHash="5E46314FA15F1034A50BCC510862646454233BF5" name="skaug c3 coast.trx" dlsize="1499503" size="10697463" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1250,7 +1250,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="10A110181355FD263DAEA3B09275ECD1F481D238" downloadHash="422D15FD72235F539A453129C5D671D6590CE0A3" name="skaug b4 river.trx" dlsize="1589451" size="9941095" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="EF3B5D3AEA856172E8F394845961C2C294E6834E" downloadHash="4186492B4A173BF7F606CBB36AFDC530984F2249" name="skaug b4 river.trx" dlsize="1648821" size="9979879" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1330,7 +1330,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3CB65357816DEED8BB4A54E412994759D57CC272" downloadHash="64DFC278D45B8F3DC52CBA607FF614BE56345D4D" name="alaron q22w farheight rd mstn.trx" dlsize="431163" size="839292" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E593A5B00334F7400A425D6DE2131F05B3EC9010" downloadHash="4118AE79236EFD9FAAEE4E930B6958EB1BBD55C4" name="alaron q22w farheight rd mstn.trx" dlsize="432751" size="839614" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1520,7 +1520,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DDD5AB2EDED98A4C5E7872EA2CB3FB0AB5D4B410" downloadHash="6BB05A60DB457E098BE81076ECCC59666DB6F77A" name="skaug a4 coast.trx" dlsize="1251567" size="10055828" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1EF9C4067704A495BB48134A4439345EEFECEE58" downloadHash="4D2801F8C99F5CF0EFD8491A12907AA84A4C8B24" name="skaug a4 coast.trx" dlsize="1291044" size="10094731" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1605,7 +1605,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="DABB7A4F0317B426E707877F45C6480CD75AAFD9" downloadHash="C5158B4269A643D7964961FB2379B6E2C60EEB78" name="skaug a5 coast.trx" dlsize="1421098" size="10370458" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="644D29BDBBFB7BE498295B03360F925E431B08C7" downloadHash="0F161E576FB84BD44397CE8BC77DD23E7B176809" name="skaug a5 coast.trx" dlsize="1454635" size="10501754" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
