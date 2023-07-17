@@ -270,7 +270,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C58F3B30A9799F841079355BEDD48F92E018424A" downloadHash="36F208EEC7448CB26F5916E5FDFFF5A5DE1C039B" name="snowdown r33 andover heights.trx" dlsize="3415636" size="21562227" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="20A61D8B2015E4CEF062FD2D0BB26616206B9D03" downloadHash="09FCCC2BE7505B40376763CD485B8B02744FEDB9" name="snowdown r33 andover heights.trx" dlsize="3435553" size="21575118" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1520,7 +1520,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1EF9C4067704A495BB48134A4439345EEFECEE58" downloadHash="4D2801F8C99F5CF0EFD8491A12907AA84A4C8B24" name="skaug a4 coast.trx" dlsize="1291044" size="10094731" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="86B801DED46D41223F5B13FBA39CA8F35E25E0F2" downloadHash="61A4D0C3819EBD90F0BDF98302D4EAA6EE33C933" name="skaug a4 coast.trx" dlsize="1280530" size="10083337" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1983,6 +1983,11 @@
     <server-ref>
       <string>1</string>
       <string>3</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="0D0C36960F496892D259DEDDD975592A96C0F1BF" downloadHash="9777A6395AB0AFA2F8DE9104AB2DD047C746D6A3" name="snowdown r33 andover int.trx" dlsize="99723" size="233473" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
     </server-ref>
   </resource>
 </content>
