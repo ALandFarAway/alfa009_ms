@@ -270,7 +270,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="20A61D8B2015E4CEF062FD2D0BB26616206B9D03" downloadHash="09FCCC2BE7505B40376763CD485B8B02744FEDB9" name="snowdown r33 andover heights.trx" dlsize="3435553" size="21575118" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A1797788B39BFBBCD9159402F32478A48222AAC3" downloadHash="1C143A23A7B1595A76B8963E10F8C244BB572C49" name="snowdown r33 andover heights.trx" dlsize="3741762" size="22094228" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
