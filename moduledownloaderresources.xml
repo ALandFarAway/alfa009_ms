@@ -1235,12 +1235,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9518CAD626FD1637083ABF95E7562E65926FB221" downloadHash="944BF987DF27BAE0227526240F2FAA4BCA5F13C3" name="alaron r27 rushdown wood.trx" dlsize="3468807" size="19682333" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="99FFED3B22E3B0E99785BDF78D8E268226FA387C" downloadHash="42FA23D54697E9B951059CB8674B4D83E134B967" name="alaron r27 rushdown wood.trx" dlsize="3505287" size="19685517" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9EA27FF936DC4CBE396191F001322FCC27F4EE59" downloadHash="78C5F46EC7621D5E5E7DF957DAA54EDC2F6FE266" name="alaron s23w rillifanes run.trx" dlsize="1760393" size="11442462" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="507B2B9C404F52A1D8E5C6887691B027615EB0F0" downloadHash="C177AF87595B630911C13A7AC1A1B51938E23373" name="alaron s23w rillifanes run.trx" dlsize="1810742" size="11480996" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1330,7 +1330,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1D9C8D2A0DEC6D0C55A00D3962A371A192CC89C8" downloadHash="033ABD27A0D2239CED187039E00BBDA0D6F50199" name="alaron q22w farheight rd mstn.trx" dlsize="433368" size="840894" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="09779347C64421F162CBBC3526DCEC173EF096A8" downloadHash="0DA141C740BED104B29640F2BD60ED3510F84B02" name="alaron q22w farheight rd mstn.trx" dlsize="435019" size="840899" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
