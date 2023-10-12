@@ -1835,19 +1835,19 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="9CCC5DD4C2299C97F273380CDF2C4756938C8451" downloadHash="B52F8B8D2558871D1194A5ECF5641F1D6A01698C" name="alfa2_2da.hak" dlsize="548985" size="35416878" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="667A7D39C7AAF4EF8CDFBF2D68F3DDCF32FE71CB" downloadHash="206C17D9164DC32072599998DC0499FC2A6ADEEF" name="alfa2_2da.hak" dlsize="550414" size="35424397" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="98412A9A13FA4CBC36B715905AC336DF4E763940" downloadHash="0A363D556A8322EC8EA08F85C3FAD87D80CA3E83" name="alfa2_acr.hak" dlsize="4279324" size="151853359" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="0801C6E1E1A4EC90766BCD386A7762326A8CD97A" downloadHash="242ED00C5DD67089E270BE5719C3CF1003938757" name="alfa2_acr.hak" dlsize="4277072" size="151853359" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="5211904D0E10DE916EAAC2149312863296CB7120" downloadHash="910EF29F375FC3DA10911BC04DBC6CA7B2E3C06E" name="alfa_creatures.hak" dlsize="316911040" size="1630094660" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="FF2DBB682909EDB548FF3A84D29BF40FF84C4ADB" downloadHash="B6446FC9C9CF3B9F8A6ADD635EA7E90555BF45B6" name="alfa_creatures.hak" dlsize="316822825" size="1629744932" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
@@ -1865,13 +1865,13 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="E4C3E1E1499B916DB9B7B2FA4116BBAC577AE61F" downloadHash="AF854119A7B2480185D31BA10CE223A43902CBDA" name="alfa_creatures4.hak" dlsize="483905020" size="1786156582" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="232C921EBC3A43FC0CF2CEF7D1A0126F68898DE9" downloadHash="A55FC9E07EFF613EBC37C555BCC66305CFC04C78" name="alfa_creatures4.hak" dlsize="484004589" size="1786156582" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="F79A788E8FE317255EE2CE3060A8143208A5CF5C" downloadHash="305CC74805F2FAB3E084A251241390C0DC463C56" name="alfa_fx.hak" dlsize="82507931" size="212926320" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="20F7D525AD3586B0DAD459E47835667D7BD79EF2" downloadHash="8C7A576EE12B3E511FA3823B4BDA7BABE58607B7" name="alfa_fx.hak" dlsize="130969186" size="225921929" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
@@ -1889,7 +1889,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="38D77C0E3D28B4D8E4886D0FE744750350BA09AC" downloadHash="2FC0908F92BACAEF90447B4D1C2FE982F65DB8ED" name="alfa_items.hak" dlsize="311078763" size="1544970681" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="5A3A76CBFA875172009DDC7EC34E0F1FC35DD79D" downloadHash="2FF92927CE9491CFEBD3F0C4FFF96E57A7A0B468" name="alfa_items.hak" dlsize="311524156" size="1545896255" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
@@ -1901,19 +1901,19 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="6A16CFFCED0BB0368F5A6EC813C4665020A296AE" downloadHash="2879C6F1908921D3210B3E2AF06B6FEA9AA4EACF" name="alfa_items3.hak" dlsize="542751874" size="1430298488" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="9053DDFFF5EEC3A3DDFADB7254E1E488D7708C79" downloadHash="39A2FA619D2739E68859AD0333A2EB962D1428BD" name="alfa_items3.hak" dlsize="542755095" size="1430298488" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="B678454342A68A41F8664338D5837CC2EAE21DDF" downloadHash="21BB5F348FA2A7B2FED4EBE98539E79E795EFA8F" name="alfa_items4.hak" dlsize="287245445" size="990949346" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="31B177CF0620F570492DA7AFEF3DCF12EEDFE85C" downloadHash="3E8B45492D43A9C618AF2653FBE2A99E7409BE4D" name="alfa_items4.hak" dlsize="389932283" size="1309999286" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="EE7AF9FA75282BB2334A84CC84AEE74913C12D1A" downloadHash="040CDCB63233DE406DFDAAD26A2FC9B0BEB34E09" name="alfa_placeables.hak" dlsize="429265068" size="1411508576" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="816AB69440BA5538DB95028F005B92337A62C6D7" downloadHash="24212AF20F4FAC9FAF7E4EAE2C7D570B87548A54" name="alfa_placeables.hak" dlsize="429592318" size="1411865702" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
@@ -1931,7 +1931,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="5E54B8799866FD8035BE062AF7A50C0F83987B6F" downloadHash="EA7C50C78CA45FBDB65BFF01BE417B5FB7E0356E" name="alfa_placeables4.hak" dlsize="389810384" size="1388637239" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="CAB58F21A3D706B910C043EBCA9DE83CF6C51D04" downloadHash="A85F5D5CA3DD91E64CCEF44666626028ADB945E6" name="alfa_placeables4.hak" dlsize="389860416" size="1389001151" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
@@ -1943,7 +1943,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="E9A47C1C7B8F890AC1DC423E12EC4531225292C5" downloadHash="ABC9C4B2B4240899E7C91B01C3120968BDAC08CC" name="alfa_placeables6.hak" dlsize="111662922" size="483459918" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="D0985EFC27C520978C763A4E10E51DF9CE5A346B" downloadHash="4241629BD10E3A823807B8563D22EEAAD8A0D23E" name="alfa_placeables6.hak" dlsize="335307048" size="1515252073" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
@@ -1973,13 +1973,13 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="30ADDAEA665D8638020C5F1253915757CAE1842E" downloadHash="0DFD46457FDA941DE0E6B45B86294B0ECD67AC0C" name="alfa_tiles2.hak" dlsize="187453209" size="1149711358" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="28BDD7781F38FD678EE2B825846245D72CEEF163" downloadHash="F399AB93757688939230F2C7BD355F1170343D6F" name="alfa_tiles2.hak" dlsize="189223835" size="1153835054" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="30445F571C17810605C3E921B01FA1657F436EDF" downloadHash="C6F6D8A24AA76A1A5FA5F44DFA36D323FD4B19B7" name="alfa_creatures5.hak" dlsize="18683082" size="70489016" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="35445253A6F29B13E42F27778E99CE696FF5F028" downloadHash="43E1663E8BE05BFCF88F5EB0D13C26BB33E1E586" name="alfa_creatures5.hak" dlsize="55854437" size="198399167" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
