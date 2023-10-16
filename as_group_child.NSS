@@ -50,17 +50,72 @@ void main();
 
 void main() {
 
-	switch(Random(4)) {
+	switch(Random(12)) {
         case 0:
-            spawn_npc("010_cr_comm_human700");
+            spawn_npc("abr_cr_hu_m_child_01");
             break;
         case 1:
-            spawn_npc("010_cr_comm_human61");
+            spawn_npc("abr_cr_hu_m_child_10");
             break;
         case 2:
-            spawn_npc("010_cr_comm_human12");
+            spawn_npc("abr_cr_hu_m_child_02");
             break;
+	    case 3:
+            spawn_npc("abr_cr_hu_f_child10");
+            break;
+		case 4:
+            spawn_npc("abr_cr_hu_f_child02");
+            break;
+		case 5:
+            spawn_npc("abr_cr_hu_f_child03");
+            break;
+		case 6:
+            spawn_npc("abr_cr_hu_f_child04");
+            break;
+	    case 7:
+            spawn_npc("abr_cr_hu_m_child_03");
+            break;
+		case 8:
+            spawn_npc("abr_cr_hu_m_child_04");
+            break;
+		case 9:
+            spawn_npc("abr_cr_hu_m_child_06");
+            break;
+		case 10:
+            spawn_npc("abr_cr_hu_m_child_07");
+            break;
+		case 11:
+            spawn_npc("abr_cr_hu_f_child07");
+            break;
+		case 12:
+            spawn_npc("abr_cr_hu_f_child08");
+            break;
+			
+			
         default:
-            spawn_npc("010_cr_comm_human100");
+            spawn_npc("abr_cr_hu_m_child_03");
 	}				
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
