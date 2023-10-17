@@ -1385,7 +1385,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F579B54761661130FF17583E080826DE209BF6A7" downloadHash="291343AA1579FF659DDCE692DFE95793E1D3E921" name="gwynneth m28 winterglen-erleirn.trx" dlsize="5021769" size="24552258" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FF4C8E74154127BF8175ECCE0AE8953C5E2984C0" downloadHash="BC7A6FE3DE6C6C5A9ADBD47210E855AA6511921F" name="gwynneth m28 winterglen-erleirn.trx" dlsize="5017426" size="24548918" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
