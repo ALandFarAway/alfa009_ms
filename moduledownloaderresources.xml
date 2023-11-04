@@ -180,7 +180,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B13D219F9B35BFA659218B3EC9934B9F78661A3F" downloadHash="D6E1EC588A4F2A2CD48975B37886318A3D81486D" name="009_startarea.trx" dlsize="149716" size="152087" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="CC13729D4D1AE764839F71657113D2CBC7B6F8B6" downloadHash="7EE35ABF86CD10DC3B67A666E15CDD93478536AE" name="009_startarea.trx" dlsize="149934" size="152344" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
