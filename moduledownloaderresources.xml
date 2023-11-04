@@ -180,7 +180,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="CC13729D4D1AE764839F71657113D2CBC7B6F8B6" downloadHash="7EE35ABF86CD10DC3B67A666E15CDD93478536AE" name="009_startarea.trx" dlsize="149934" size="152344" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F07E6222CA851EE122726CB5B4FA7B5953E01795" downloadHash="5DDDB8465EC6D72B3020D107FDB5AE3784AF8816" name="009_startarea.trx" dlsize="149938" size="152344" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -190,7 +190,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9C1BEB2A65BECCEBEFAAF612B43BC913790D0DAF" downloadHash="9CEFCA04DC4600684CBDC14E33F5C27139318D3F" name="alaron p21 fairheight ruin2.trx" dlsize="810220" size="1002109" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8EFC0CE8B83152F491D57C6B4915AC471A6103C2" downloadHash="4CFABCEBCC3CEDF92106EF827146646CE8201BFF" name="alaron p21 fairheight ruin2.trx" dlsize="808329" size="1000500" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
