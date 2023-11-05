@@ -190,7 +190,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8EFC0CE8B83152F491D57C6B4915AC471A6103C2" downloadHash="4CFABCEBCC3CEDF92106EF827146646CE8201BFF" name="alaron p21 fairheight ruin2.trx" dlsize="808329" size="1000500" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5E478CDFAE9DBFE5A0305E05A81311549CA02759" downloadHash="5DC16898F50D2CDF34AA51021717C087A6BAFCF5" name="alaron p21 fairheight ruin2.trx" dlsize="830124" size="1022574" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -570,7 +570,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9C10DD115698C3004F916E8C85FA4345BF3B18C5" downloadHash="469E67749C87A38F81C49954A9383B904E795DA1" name="alaron q22 c callidyrr west.trx" dlsize="2895055" size="17335734" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E16537514BEE63F97D416F63C93BB3ABC749B871" downloadHash="83B37E4207DA2F81A2C0659707F05768D50830FB" name="alaron q22 c callidyrr west.trx" dlsize="2881817" size="17331265" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1330,7 +1330,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="09779347C64421F162CBBC3526DCEC173EF096A8" downloadHash="0DA141C740BED104B29640F2BD60ED3510F84B02" name="alaron q22w farheight rd mstn.trx" dlsize="435019" size="840899" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4595FAD870B05FCEC82863DD5F9183BAAC45ECEA" downloadHash="671229C4CE5D6DB8F18C10C4FE3BCA3A76DED28B" name="alaron q22w farheight rd mstn.trx" dlsize="431126" size="839285" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1460,7 +1460,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A22732D80614A0F8D065BA611EDECB7AE682461E" downloadHash="FA3808FC3C8C4AF3187220980AE87226C68704CD" name="gwynneth m34nw corwell town.trx" dlsize="5240577" size="27237899" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="442869A7F112117E57B8ABD9229DBD57DCEE9B57" downloadHash="AD55438832068B80B82ED7A11925409FC6248E66" name="gwynneth m34nw corwell town.trx" dlsize="5244824" size="27242412" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
