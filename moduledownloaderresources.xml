@@ -265,7 +265,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FDB3435680AA7538FBC7D672CC8D6C4D36F022AD" downloadHash="DB1AA2B885BB5FC24077ADC8D10754CC4538F5A0" name="alaron r28a rushdown grove.trx" dlsize="460423" size="6561172" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5FC32420A50AB2079E54E9A422CEAC381B5603E6" downloadHash="583F986D82E5C503B06B9F630F3A990E983874EE" name="alaron r28a rushdown grove.trx" dlsize="442549" size="6546322" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -810,7 +810,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BBD2D5694BFA57CB48B05BA223BDFBC5FE16B21F" downloadHash="33F37C16A6F858314368FAA223085BB9E56ADC0B" name="alaron q27 hkr - grady village.trx" dlsize="4356442" size="23554393" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A7AD4FA5C9F643C3B9B4820BCBBE30124A51B171" downloadHash="D555F47158219170EA52536030C17C85B67D97B0" name="alaron q27 hkr - grady village.trx" dlsize="4521552" size="23559247" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1205,7 +1205,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="791349E0712D82545DD3969C7BE6FE9E89201D20" downloadHash="EE185D1AFC4D9C4E65D6074804160381EFBA8D8A" name="alaron q28 hkr - village.trx" dlsize="2719227" size="20644310" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9B422948CE77743CA5816925C9F84A2579CECA20" downloadHash="54820984297F16AC9CFFAE60BAE9970FD5DAF010" name="alaron q28 hkr - village.trx" dlsize="3415877" size="22090563" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1235,7 +1235,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B69D012CAB7F9B47A322043A08ADE2F34ECC1667" downloadHash="2CB0901BF56FEDB03B69240BEA9111E0CDC3A11E" name="alaron r27 rushdown wood.trx" dlsize="4009122" size="21013933" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A7B138B63E526E550CB7F06C68A681FF26F51786" downloadHash="39C7A91BADB4C4BF2FCD55A8269AC477A387EA3D" name="alaron r27 rushdown wood.trx" dlsize="4010573" size="21017942" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
