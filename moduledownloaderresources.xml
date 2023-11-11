@@ -1235,7 +1235,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="99FFED3B22E3B0E99785BDF78D8E268226FA387C" downloadHash="42FA23D54697E9B951059CB8674B4D83E134B967" name="alaron r27 rushdown wood.trx" dlsize="3505287" size="19685517" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B69D012CAB7F9B47A322043A08ADE2F34ECC1667" downloadHash="2CB0901BF56FEDB03B69240BEA9111E0CDC3A11E" name="alaron r27 rushdown wood.trx" dlsize="4009122" size="21013933" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
