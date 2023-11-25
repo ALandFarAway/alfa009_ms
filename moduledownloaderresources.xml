@@ -190,7 +190,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5E478CDFAE9DBFE5A0305E05A81311549CA02759" downloadHash="5DC16898F50D2CDF34AA51021717C087A6BAFCF5" name="alaron p21 fairheight ruin2.trx" dlsize="830124" size="1022574" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="35FBC6F3996ABD7EACB076BA2DFD2523F1D2BE54" downloadHash="EE2D29401212840E1277E46A811AC068B5A795AF" name="alaron p21 fairheight ruin2.trx" dlsize="843544" size="1036234" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1330,7 +1330,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4595FAD870B05FCEC82863DD5F9183BAAC45ECEA" downloadHash="671229C4CE5D6DB8F18C10C4FE3BCA3A76DED28B" name="alaron q22w farheight rd mstn.trx" dlsize="431126" size="839285" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="483AEB2BF3870EDEF42310B0D7229731318E8EA7" downloadHash="F3680F38F76C08E910D41EE944950C664BC52ABE" name="alaron q22w farheight rd mstn.trx" dlsize="477958" size="884454" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
