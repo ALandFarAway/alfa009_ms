@@ -100,7 +100,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3E0D6FCF433DBDE3173110FFBC166846785D0152" downloadHash="ECA10D8993CA98B9334631AF4A7E04F6FA8D3E46" name="alaron q27 cantrev grady int.trx" dlsize="43571" size="43726" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="DA181C42E7AF3308A8ABD46C7806C3755FE4BDF9" downloadHash="5B0FC2CCF26C3E4AB6091F01EC3F88A9925C4C40" name="alaron q27 cantrev grady int.trx" dlsize="44455" size="44664" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1010,7 +1010,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F808424FFFFA1AB4EC0397A446AE90CC7314A561" downloadHash="F29E22EAB2229BBBF899B671F7733F528B0A6981" name="alaron o24 aithelar ext.trx" dlsize="4419616" size="21102392" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="E0E0D920816B03FCE2E64E7C9BE66E165D99C0B0" downloadHash="B9518D37A9A597F8D04F0253B492CDA89BE2DDFA" name="alaron o24 aithelar ext.trx" dlsize="4461667" size="21115265" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1075,7 +1075,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C6BF0889BFCF90D59DB90A4DAC21B868482936C5" downloadHash="D2DB85C449D3A4C6F12D7E4A50FA6D306B32AA9F" name="alaron o24 aithelar int.trx" dlsize="105295" size="106057" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="1DDDEEC90CB2F454F1B66C688FC8DF05247BBECE" downloadHash="FAA9678F85C54FDE864BAB29A9E3DF0F96803F47" name="alaron o24 aithelar int.trx" dlsize="106856" size="107583" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
