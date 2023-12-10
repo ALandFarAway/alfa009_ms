@@ -1460,7 +1460,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="442869A7F112117E57B8ABD9229DBD57DCEE9B57" downloadHash="AD55438832068B80B82ED7A11925409FC6248E66" name="gwynneth m34nw corwell town.trx" dlsize="5244824" size="27242412" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="83666DDDC61B5E5A59C4507CCF6B889FE054A139" downloadHash="9B7F700F0928D234894453208F40185EF387AD04" name="gwynneth m34nw corwell town.trx" dlsize="5241040" size="27242409" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
