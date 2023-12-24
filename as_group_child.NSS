@@ -50,7 +50,7 @@ void main();
 
 void main() {
 
-	switch(Random(12)) {
+	switch(Random(13)) {
         case 0:
             spawn_npc("abr_cr_hu_m_child_01");
             break;
@@ -96,7 +96,6 @@ void main() {
             spawn_npc("abr_cr_hu_m_child_03");
 	}				
 }
-
 
 
 
