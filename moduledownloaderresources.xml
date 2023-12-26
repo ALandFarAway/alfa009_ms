@@ -1505,7 +1505,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5DF32E36C3B026F3A121A3357755A38786E3918A" downloadHash="02C7B5B2B2C1E2F49F0316C4CCD261EE426AE616" name="alaron o23g dernal forest grove.trx" dlsize="220599" size="4585385" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="192E28D8EEBCB69DEFA32E0A0086904C2729D4DD" downloadHash="724023ED7ED0B58AB8EB11CEF2BADDFA0E976025" name="alaron o23g dernal forest grove.trx" dlsize="220376" size="4585380" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
