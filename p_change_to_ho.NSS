@@ -28,4 +28,3 @@ void main()
 	FeatAdd (oPC,FEAT_DARKVISION,1,1,1);
 }
 
-
