@@ -135,7 +135,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="48781FE04AF60AADAADA1E5B96F58F4C71D086B6" downloadHash="148538FA088110C7AA105DC6E5255BD60E6871A9" name="skaug port temples.trx" dlsize="304477" size="804761" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7CA1F15DAA00C616BB19B019FF816A5DE95895EC" downloadHash="AC7B049763B6F55CAC534EC05B373A77D4A976A8" name="skaug port temples.trx" dlsize="307361" size="806885" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -370,7 +370,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D9F8170D97EA49C987820C34C27D8D01DD16A915" downloadHash="4FB3E8DB54DF217BBAB74E5E98BCB61346797F9A" name="skaug port east.trx" dlsize="2114801" size="16526342" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3D02F015EA59B4614BC2F9051EEBF32DB85D3183" downloadHash="2123BCFCA53D490829938CB917D316F70B655A57" name="skaug port east.trx" dlsize="2114669" size="16531114" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1360,7 +1360,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="47D3595D1BD638A08881A6276FD717AA639D11F3" downloadHash="D7F24467C664B8242B63A39F3BEA6B8D48D805A9" name="skaug port shops.trx" dlsize="676120" size="681746" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D74241F6EA35BDEBCCF8E7CAE863DFBC5A8AED85" downloadHash="336BF9FCB94AD9DB4335050D1B4C16C9081E1D16" name="skaug port shops.trx" dlsize="639810" size="645000" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
