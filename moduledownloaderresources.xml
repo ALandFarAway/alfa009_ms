@@ -370,7 +370,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3D02F015EA59B4614BC2F9051EEBF32DB85D3183" downloadHash="2123BCFCA53D490829938CB917D316F70B655A57" name="skaug port east.trx" dlsize="2114669" size="16531114" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A0026B645634714C4ACFC015A2690554FDBB87B1" downloadHash="0F1A30D67AF685B13FE4A0663049DE78949D8FB2" name="skaug port east.trx" dlsize="1621367" size="12818602" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
