@@ -645,7 +645,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A7F4E2D392ACB811BD0C11C9E85CEA3B47A31A33" downloadHash="BC2571A2F4304507CCEC789867F375E8F1AC19DA" name="alaron q24 hkr - horsa int.trx" dlsize="201365" size="203389" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7EBB5AB3618B41A149FF6FE2A62AC8F21BFBF06E" downloadHash="CC7A57F1C84781F078DB3FAA4FBBDDBB709BAFDF" name="alaron q24 hkr - horsa int.trx" dlsize="200733" size="202863" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1555,7 +1555,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="97B95F7B3F42C293346ECEB042E4B9C34967219C" downloadHash="B9FB716C5F923B8AF39E30F832DA2091FD2E7750" name="alaron q24 hkr - horsa.trx" dlsize="3727921" size="21379616" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="247D1FC7428A5B4EAADFE258834DBA58F069A2A2" downloadHash="90FC65777245FEAC3079DA2862B22DC709CEE2DD" name="alaron q24 hkr - horsa.trx" dlsize="3727283" size="21386659" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1835,13 +1835,13 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="667A7D39C7AAF4EF8CDFBF2D68F3DDCF32FE71CB" downloadHash="206C17D9164DC32072599998DC0499FC2A6ADEEF" name="alfa2_2da.hak" dlsize="550414" size="35424397" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="6798ED2DC43490C97B0AE04DF0E42282D6B61CAA" downloadHash="518292C113C805DFB0317EBBDEC68511D6341ABA" name="alfa2_2da.hak" dlsize="564870" size="35414049" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="0801C6E1E1A4EC90766BCD386A7762326A8CD97A" downloadHash="242ED00C5DD67089E270BE5719C3CF1003938757" name="alfa2_acr.hak" dlsize="4277072" size="151853359" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="37F9FB5D249751CFF6B502584F50E6CAA14A974F" downloadHash="4F0B3C499C457ED660DF117D086117DA4D6AE3B6" name="alfa2_acr.hak" dlsize="4273741" size="151853406" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
@@ -1889,7 +1889,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="5A3A76CBFA875172009DDC7EC34E0F1FC35DD79D" downloadHash="2FF92927CE9491CFEBD3F0C4FFF96E57A7A0B468" name="alfa_items.hak" dlsize="311524156" size="1545896255" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="851CF3CF629277D0C43FE144B99891A8D52F2E81" downloadHash="E33617C5AF3B4CC197EFB845EC3364256E751588" name="alfa_items.hak" dlsize="311515885" size="1545893412" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
@@ -1931,7 +1931,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="CAB58F21A3D706B910C043EBCA9DE83CF6C51D04" downloadHash="A85F5D5CA3DD91E64CCEF44666626028ADB945E6" name="alfa_placeables4.hak" dlsize="389860416" size="1389001151" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="0B249404ADA93400ACBFAA1CD3644D9D89838309" downloadHash="C4DA64F1A18716225D38D64D3ECB178A44A81DE8" name="alfa_placeables4.hak" dlsize="389862123" size="1388999900" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
@@ -1943,7 +1943,7 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="D0985EFC27C520978C763A4E10E51DF9CE5A346B" downloadHash="4241629BD10E3A823807B8563D22EEAAD8A0D23E" name="alfa_placeables6.hak" dlsize="335307048" size="1515252073" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="A696150335B9B47F04CB6DBF9C0693E96647791E" downloadHash="CA7ABAE1093796B67825917EFDE8B9E43F22E2D7" name="alfa_placeables6.hak" dlsize="335272949" size="1515232751" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
@@ -1979,13 +1979,23 @@
       <string>3</string>
     </server-ref>
   </resource>
-  <resource type="Hak" hash="35445253A6F29B13E42F27778E99CE696FF5F028" downloadHash="43E1663E8BE05BFCF88F5EB0D13C26BB33E1E586" name="alfa_creatures5.hak" dlsize="55854437" size="198399167" critical="false" exclude="false" urlOverride="">
+  <resource type="Hak" hash="FE0492268874655EF081A8E2C126E34691DFA82F" downloadHash="B897600CB0AD663483BA750D42CF9DE57A01D1E2" name="alfa_creatures5.hak" dlsize="81523289" size="249654523" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>1</string>
       <string>3</string>
     </server-ref>
   </resource>
   <resource type="DirectoryEntry" hash="0D0C36960F496892D259DEDDD975592A96C0F1BF" downloadHash="9777A6395AB0AFA2F8DE9104AB2DD047C746D6A3" name="snowdown r33 andover int.trx" dlsize="99723" size="233473" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Hak" hash="EC5F4D7D374A623E0CC205581B49DE16BF7C9301" downloadHash="55E82AD3690856B2DE8C10C96217CBEB6C1D8D61" name="alfa_placeables7.hak" dlsize="219461928" size="1124134574" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
+    </server-ref>
+  </resource>
+  <resource type="Hak" hash="65E850FFB8A177575E91258AF9E37CE5DD93AE25" downloadHash="A978910EA6C3C42E3438BED1188A40211916A13F" name="alfa2_bp_icons.hak" dlsize="5758297" size="28557452" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
