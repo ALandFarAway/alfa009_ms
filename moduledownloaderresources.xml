@@ -1992,12 +1992,14 @@
   </resource>
   <resource type="Hak" hash="EC5F4D7D374A623E0CC205581B49DE16BF7C9301" downloadHash="55E82AD3690856B2DE8C10C96217CBEB6C1D8D61" name="alfa_placeables7.hak" dlsize="219461928" size="1124134574" critical="false" exclude="false" urlOverride="">
     <server-ref>
-      <string>0</string>
+      <string>1</string>
+      <string>3</string>
     </server-ref>
   </resource>
   <resource type="Hak" hash="65E850FFB8A177575E91258AF9E37CE5DD93AE25" downloadHash="A978910EA6C3C42E3438BED1188A40211916A13F" name="alfa2_bp_icons.hak" dlsize="5758297" size="28557452" critical="false" exclude="false" urlOverride="">
     <server-ref>
-      <string>0</string>
+      <string>1</string>
+      <string>3</string>
     </server-ref>
   </resource>
 </content>
