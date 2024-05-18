@@ -1555,7 +1555,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="247D1FC7428A5B4EAADFE258834DBA58F069A2A2" downloadHash="90FC65777245FEAC3079DA2862B22DC709CEE2DD" name="alaron q24 hkr - horsa.trx" dlsize="3727283" size="21386659" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="C55FD952FFC978FDDDBB33800ED9AA7DEA1A509C" downloadHash="D9A2EE769D7EACBE43190FDBAA6AF1ABA4D3A76A" name="alaron q24 hkr - horsa.trx" dlsize="3762375" size="21418759" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
