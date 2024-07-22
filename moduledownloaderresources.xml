@@ -45,7 +45,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="034D6D4570120C5583332DF57C15CB1D4968AA7C" downloadHash="F294DA06B7817EC91A268C8DB1D9AAA447C2BA30" name="snowdown r34 westphal city.trx" dlsize="2045409" size="13943585" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2CE0779D8407E88EBC44FDE3F14F7EEBE7AF9480" downloadHash="31FA48512857F03A9EA94662166054FD7B2DF299" name="snowdown r34 westphal city.trx" dlsize="2142831" size="14024990" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1195,7 +1195,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5F94336A3D9336EFBAC646D67E0D688F56A20790" downloadHash="E4CB9CAC694531B1B18013F1158ED2312FDC9A5A" name="gwynneth p33 kingsbay town int.trx" dlsize="273542" size="318253" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A9BB4DFE744BA4C2100D19607A84C7899FCB2F0F" downloadHash="9E093B07C7A94EE006AC08BC340778D6261F65B8" name="gwynneth p33 kingsbay town int.trx" dlsize="272415" size="317102" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1415,7 +1415,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2C2894C7EC2F1CECF4175D46F0A07934CF7B8AA5" downloadHash="B00402BB9BA1D1A3EAFF3534022E1DAF33E066A8" name="snowdown s33 the ride n.trx" dlsize="5081585" size="26467539" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="97E8B66E863417DEDE97C5AA8685259183A85FA0" downloadHash="16ABCC3D0F8FEEB055B8EAB925BE21C8E17BBCCB" name="snowdown s33 the ride n.trx" dlsize="5078618" size="26467477" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1490,7 +1490,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="728A43318C84C389E1656FAC0D93B7882896F860" downloadHash="B04F6C5A8A03D67FFDB48528135A8389E1E1624A" name="moray isle f29e breasal marsh.trx" dlsize="3526483" size="19642399" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="40E0ACD2AC29DFA5DF1E087287D9459B74B28EFD" downloadHash="A7CA96FAEB6601E4AF3A38DE5698CF4FA42426C3" name="moray isle f29e breasal marsh.trx" dlsize="3437995" size="19550525" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -2000,6 +2000,11 @@
     <server-ref>
       <string>1</string>
       <string>3</string>
+    </server-ref>
+  </resource>
+  <resource type="DirectoryEntry" hash="DF9185E11FC29573B18FF165D7FC117292949715" downloadHash="1FB1F5AE925DA63537501CB5F6A3DD27149EFC5F" name="snowdown_s33_harloch_int.trx" dlsize="70438" size="70753" critical="false" exclude="false" urlOverride="">
+    <server-ref>
+      <string>0</string>
     </server-ref>
   </resource>
 </content>
