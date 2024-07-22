@@ -1585,7 +1585,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2851AAD88CF57A83127AA780D662786E8AE8ABD2" downloadHash="2E313B98350A17923ED2E64E6AC30293FA9930A5" name="snowdown t33 brannoch town.trx" dlsize="2146411" size="15466869" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D636093DD74A9DEF68168331EF51538AFE805302" downloadHash="A9B5A985A7130392ECB12136F737F4AEE20B6E03" name="snowdown t33 brannoch town.trx" dlsize="2298098" size="15607739" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
