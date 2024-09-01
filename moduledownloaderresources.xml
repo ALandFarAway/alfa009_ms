@@ -60,7 +60,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F3C19543B05754DF3C44E8B7D97B7A7E29ED4908" downloadHash="F0C596086C547287C6C49A611566FA064FE99F80" name="skaug port public buildings.trx" dlsize="891334" size="1169730" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="463C6DEBD80A0157AB3ACB3969FF2A43AF252A43" downloadHash="2CBB0188D098F95FA4B6229BB7D3EE4FA02D0EEB" name="skaug port public buildings.trx" dlsize="883862" size="1162370" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -675,7 +675,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="862510F8C289E473307AA75993B35D95254FD68A" downloadHash="C7FB21E12658708002302371DA87355FBA67F008" name="gwynneth m35 mysterykeep int.trx" dlsize="1457205" size="1500384" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A12750CB48DEAF8706D6D9D5C30A97BBB8428F99" downloadHash="3BC31E4FE893B83878E62C1360C8C63B4FAB29D5" name="gwynneth m35 mysterykeep int.trx" dlsize="1476347" size="1518845" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1315,7 +1315,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F420B0F7588BD87B39BF1491E9F0DBADC6AD78EC" downloadHash="4B2CC12B65BEB93723996A720B0E2A3B10D30E3B" name="skaug port west.trx" dlsize="2129965" size="14946103" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="94614161FB52B9557DE69EBA530153188AC12118" downloadHash="311F2000DC55B894E92DBF1833245ED273AF8225" name="skaug port west.trx" dlsize="2080535" size="14895414" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1450,7 +1450,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F2375B1F9DE862EF6B035EF67B345A058619E6CA" downloadHash="43328C1AA337BB9B851AAEC0B401A9935048729E" name="skaug c4 forgotten tpl int.trx" dlsize="270455" size="3301789" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A93BB5788D15C86816367551CCDCD89C6DBB6570" downloadHash="3AD9116387E890DE444A21D10132A4C9B6B06611" name="skaug c4 forgotten tpl int.trx" dlsize="267927" size="3347701" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1580,7 +1580,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B24A190DD8B257D61C2EB82D7529E10CA9A7223D" downloadHash="219BF410A35E3DD0634DABFC47BB4DF0CC97F7C1" name="skaug port residences.trx" dlsize="373426" size="377486" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3D6CC6895F7D99BDAE7075ED891DD5CA08E50ACF" downloadHash="E5CC253F3BDF7C56AA196B07DAFB5A97C89D71AF" name="skaug port residences.trx" dlsize="372690" size="376771" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
