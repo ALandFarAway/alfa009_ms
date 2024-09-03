@@ -210,12 +210,12 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="6AD72B45A41CE56F2AE2DEBF909C1EF49D82D3F0" downloadHash="A824679F4BC3984F96EEA97CEA2FB1DEA418A8BE" name="alaron q22 callidyrr temples int.trx" dlsize="360217" size="1083273" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5A710ADBB61030A2D2658D5CEDF7ECAF83E633B2" downloadHash="652ABD065415DADA05965D65E388C6F1581E1E6A" name="alaron q22 callidyrr temples int.trx" dlsize="364122" size="1084723" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A8F1C9CCBF08C7E51485049478028F57FC4FDBE6" downloadHash="38BDCCE80B60E1959433D2A5309FE640F01BDE24" name="norheim j15 middark caves.trx" dlsize="1737310" size="12810216" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3023C3606BB398DACA02216B95D0364FFE31DEA3" downloadHash="3C913804B4BFD43EB316839E17A3DAF28446869E" name="norheim j15 middark caves.trx" dlsize="1710017" size="12785115" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -525,7 +525,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="D1E73C47AA86882D5C851B6AD8453E742F0C68EB" downloadHash="4BBCB1DA0DB3885E84DDEE84FBED5A273FB25E1B" name="gwynneth i37 wyngate cantrev.trx" dlsize="2443548" size="14825513" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="561F29332EB6EDACF5DFFB123EAB60405436972D" downloadHash="A83520DB9B5156A0904C8712277B578B49A04B11" name="gwynneth i37 wyngate cantrev.trx" dlsize="2433097" size="14820176" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -585,7 +585,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="E4849728ABDF0550C2965559684FE352BC0EABE4" downloadHash="08956E265A48253B1669945C9DD509D1FD968059" name="alaron q22 c callidyrr cstl ext.trx" dlsize="2434019" size="12762896" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B484026732D6FC44210937C3DCFF8325C4560ECE" downloadHash="07DFA73D3D5668F454E085A670590F1733CDDFD2" name="alaron q22 c callidyrr cstl ext.trx" dlsize="2431932" size="12756057" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -640,7 +640,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="8CFB61205307BF4D4B1B8E8C8460FB2A8B10D5B9" downloadHash="EB7B55F882CC661E737286C49A8D36F0C01EBDFA" name="moray isle f30 breasl marsh s.trx" dlsize="9304963" size="43893564" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="793F837A3900D92CC84CC74E79573EEB5099C204" downloadHash="3D11BFF1B08C613F04A54869D0A6DB49889B59C6" name="moray isle f30 breasl marsh s.trx" dlsize="9247244" size="43840334" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -690,7 +690,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="014B11EA7629B87C21EA61F7CB7FBBBC9E5B7347" downloadHash="F37F75EC6DA59564CE16FC6ED99D0E274AF72DE9" name="alaron o22 cantrev blackstone.trx" dlsize="3173795" size="15274390" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="00E4A23B3196FA1125649379E5A64EB9B883B497" downloadHash="B6D59F9CE204C423231C0BE803183A44EE7C7AC8" name="alaron o22 cantrev blackstone.trx" dlsize="3181690" size="15286057" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -805,7 +805,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="82C4AD31CFE9D762EC85280E19191766A4A38C08" downloadHash="AD472F6F87F7B7DBF7971BCDA71A8E2E80390B56" name="norheim m15 graystaad town int.trx" dlsize="103619" size="103820" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="8110004A248B72C4ABBF633FF2DE6105DF753AD1" downloadHash="53369504698332063DDECD830BC4DE98FF6EAF64" name="norheim m15 graystaad town int.trx" dlsize="103618" size="103820" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1040,7 +1040,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="79A3E37624D8675498372BFDACADE8E8320C41D0" downloadHash="3C16413F683B5FACBBA0593FED5B3A8BBB98667C" name="alaron o22 cantrev black int.trx" dlsize="89552" size="133055" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="88BCE8A6F8396BEED6123F394E673ACE4E0B067B" downloadHash="7FDA41539FD2DACCDA1FE2C298C68F13E2CFF874" name="alaron o22 cantrev black int.trx" dlsize="89472" size="133054" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1180,7 +1180,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0E9ABEAFE40B5733E185F683E6B4774AFBE96091" downloadHash="DC8D3D3DBB2420E1AFF0B825899AE8A6C631D162" name="norheim m15 graystaad village.trx" dlsize="2357046" size="14678437" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A5E358D8F15AE835251740F4C299A6B619207E33" downloadHash="C9FBAD6B5C4B0DD79E02B2721580C5C42434FAE0" name="norheim m15 graystaad village.trx" dlsize="2327967" size="14658459" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
