@@ -60,7 +60,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="9641CB87B5EF55E572833C6F79CF08D82C90A555" downloadHash="552BEEF3D69E41F355BBFC4D3E2AE6AE0AF2E0DA" name="skaug port public buildings.trx" dlsize="885082" size="1162359" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="EC172450785A18939C4C0AE33EB5DF75565BF589" downloadHash="EC0D19F915A1FA43BE908732310DA6A7D85C7983" name="skaug port public buildings.trx" dlsize="883420" size="1162300" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -260,7 +260,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7C0DEEE1B6BACE8253D79E4BD01F1C941C370B41" downloadHash="F5F26287C976BFBB12F38AED0FEB43268AAD58DD" name="norheim j15 inn.trx" dlsize="67481" size="67822" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9215A7FB03D2BBC0535BEFE7F5C377377BAF1FA4" downloadHash="EAC44A5064E515494BDFB277BF4AD944669A2530" name="norheim j15 inn.trx" dlsize="64514" size="64842" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
