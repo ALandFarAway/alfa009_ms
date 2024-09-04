@@ -455,7 +455,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="0015043221F995059DD3FFDCC3D6CB6F83679394" downloadHash="E45D657EB08CDCBC9A582E49AB6FD2D5E1337F4A" name="alaron q22 c callidyrr cstl int.trx" dlsize="436612" size="753696" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="3C488CC30009C328BF289BCD6A827BC906B9BCF2" downloadHash="DBEA2F48C6C4AD27A2CFE8CB57EDF58BD60A2C3D" name="alaron q22 c callidyrr cstl int.trx" dlsize="436353" size="754203" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -525,7 +525,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="561F29332EB6EDACF5DFFB123EAB60405436972D" downloadHash="A83520DB9B5156A0904C8712277B578B49A04B11" name="gwynneth i37 wyngate cantrev.trx" dlsize="2433097" size="14820176" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5C570AE85FD9408C3CEB7FA467762BB932E685CD" downloadHash="B72130B695230CBD0543DD1B4AE1AD3D97B7EF5A" name="gwynneth i37 wyngate cantrev.trx" dlsize="2457853" size="14823510" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -585,7 +585,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="B484026732D6FC44210937C3DCFF8325C4560ECE" downloadHash="07DFA73D3D5668F454E085A670590F1733CDDFD2" name="alaron q22 c callidyrr cstl ext.trx" dlsize="2431932" size="12756057" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="9B0D3E40963B6B80210A1542AB97267D15AF7DCC" downloadHash="42FA3219A8A260DFFE2C50F034C3FB0F6FFF84EA" name="alaron q22 c callidyrr cstl ext.trx" dlsize="2426498" size="12756057" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -640,7 +640,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="793F837A3900D92CC84CC74E79573EEB5099C204" downloadHash="3D11BFF1B08C613F04A54869D0A6DB49889B59C6" name="moray isle f30 breasl marsh s.trx" dlsize="9247244" size="43840334" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5A09921D2D603240B773E0B44C134109191460BC" downloadHash="EC569EDB4BAA7ABB18079E3F0056785AB92F319F" name="moray isle f30 breasl marsh s.trx" dlsize="9308166" size="43886797" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -730,7 +730,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="09BF1AFC95AA4E02D285ACB350C8A11E6678FEEE" downloadHash="6468D92EBC320760903C7B5E7525050866F072B5" name="snowdown t33 brannoch inn.trx" dlsize="154485" size="155292" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="90B92AEE8AAA10D4C0F59C019E48AC16A3DCA1AB" downloadHash="C194A81C65220E2F4F4D5C79CA7925B4840C0EAB" name="snowdown t33 brannoch inn.trx" dlsize="154403" size="155300" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -865,7 +865,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="A5662A824A3FA71E8F8CF71FB5F44179FCA21637" downloadHash="054D339F6E37A4A298B47F74B40FE62C846A5BA5" name="gwynneth m34ne koart hall.trx" dlsize="69973" size="70254" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="A24B75C82CA5DACDFCBEB3FCBE36BA7365785DC4" downloadHash="56A9A8055D6056EEC4554AB229B940D5305FD3CA" name="gwynneth m34ne koart hall.trx" dlsize="69402" size="69687" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -965,7 +965,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="F7FA9AC217981B5D91A45B2C3671F2F010F70028" downloadHash="5901464B0A4E722438828F46A7C60B706AF708A7" name="ruathym c5 haven interiors.trx" dlsize="714442" size="2573863" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="91A09D276ADBDA0CDAFDB9DC2601AABBB661100B" downloadHash="C414D9E0F8302EDEAD8EA444C1D0556C11EC0C7A" name="ruathym c5 haven interiors.trx" dlsize="710766" size="2573346" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1065,7 +1065,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="732FBACD339ED8BDBE2455E875DBE58449A29341" downloadHash="683FE4486BF46167FA9D2A5AD7E71E2F8205678F" name="gwynneth j30 aspenheight hills.trx" dlsize="2696400" size="14445055" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="4B7CA053B4CE0ED7D68DF59386FF44A8A6D695F0" downloadHash="AB93D2CB6DD0D0D05FF5B1848DF83B73B0948C2E" name="gwynneth j30 aspenheight hills.trx" dlsize="2692557" size="14440850" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1350,7 +1350,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="4CFC4B00EE3C3187DAAE15FFA591EB50A34A7CA4" downloadHash="DAA5002064CC748E46CAF1241D81390F549E0073" name="dwyvach g i36 salt flats.trx" dlsize="2971965" size="15967886" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="43B18C33FBD239906D64544A6ED6316C0CCAB579" downloadHash="C03BA122F8388D4E69089BE5EB6FFC0D9637568C" name="dwyvach g i36 salt flats.trx" dlsize="2964977" size="15968012" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
