@@ -850,7 +850,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1479E92CB78C2FF2E45550C1AB16ADF252C46B64" downloadHash="3A66F1EE02EAF292BC74DE2F79ABB35C37478D02" name="norheim i16 hammerstaad t ext.trx" dlsize="3647170" size="17812893" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="983B8FBED6069CED1BB24A63DCB09724EE7228F8" downloadHash="0788FAD550C64A26474734C530D10ADC3981CE00" name="norheim i16 hammerstaad t ext.trx" dlsize="3626624" size="17787428" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
