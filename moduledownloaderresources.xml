@@ -10,7 +10,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="39E79047EFA695FC87A7225603B710D2A9B391DE" downloadHash="FDFE60EC9A491268049A98174F8E197F04FC236A" name="alaron q21 cantrev white rock.trx" dlsize="2982780" size="16253797" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="82B5F9FC8E0F0316B6F081A148E9B9CA5F7DCE25" downloadHash="DE8EB70BD440DCC1D5525A186A0BC1DE0D4CDED5" name="alaron q21 cantrev white rock.trx" dlsize="3214637" size="16269647" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -455,7 +455,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="3C488CC30009C328BF289BCD6A827BC906B9BCF2" downloadHash="DBEA2F48C6C4AD27A2CFE8CB57EDF58BD60A2C3D" name="alaron q22 c callidyrr cstl int.trx" dlsize="436353" size="754203" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="B1B872DD7A8EB4FBD5F403AADD84ACF11454124B" downloadHash="2C370517A10D68AB315FEA4D6FF3815B3F7F5A6C" name="alaron q22 c callidyrr cstl int.trx" dlsize="436237" size="753937" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
