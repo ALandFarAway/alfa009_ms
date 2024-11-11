@@ -225,7 +225,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="30C24F141B23845B04983A47424C087AA628D417" downloadHash="B916C0E2F45B0CBDF44AC41D0893E7163BCA19B6" name="alaron q22 c callidyrr east.trx" dlsize="3605686" size="19149375" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FDE5B21D478DF0F8BB239DE99BDE0CF20734383A" downloadHash="3A6640E680CF1621F87500A749A391DB3CA72048" name="alaron q22 c callidyrr east.trx" dlsize="3554437" size="19111808" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -540,7 +540,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="813B9BDDFE0856A49B48AEC37DF0DBF829C02A9B" downloadHash="82680ABD0082BEC757C33A93BF75E76E4A381405" name="alaron q22 c callidyrr housing.trx" dlsize="562752" size="1196433" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D2ABC0956A29759C22BB188E20C48BA5E5AB7200" downloadHash="BD047FD7F9C0459338CAFBEF997D2D4503E8CCA2" name="alaron q22 c callidyrr housing.trx" dlsize="563729" size="1198526" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
