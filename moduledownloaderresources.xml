@@ -1330,7 +1330,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="C99EF021986A3ACB50F2AD95455F1899DCF579E9" downloadHash="B670138E4370141A16254BE6A5A705476F36552D" name="alaron q22w farheight rd mstn.trx" dlsize="440479" size="848558" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="D1B1B43540ACEA894FDFE2E459F1412AF8A0FD9E" downloadHash="D52C771536C589ACB99428B978B84360D53FFCCD" name="alaron q22w farheight rd mstn.trx" dlsize="435205" size="841899" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
