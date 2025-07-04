@@ -310,7 +310,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="61431717D737CCABA69FDFFF95DC5FF9EEB55396" downloadHash="53206ADE762BDA9F56D4C6C81B4D03081AF193BA" name="alaron q22 c callidyrr docks n.trx" dlsize="3147684" size="20035965" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="BB0547F82EB76EE3121BCBD3DF4444DA218FFF47" downloadHash="C9A9A25CD04B4266151DF52ED0F106D6C457B5BE" name="alaron q22 c callidyrr docks n.trx" dlsize="3149315" size="20036002" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
