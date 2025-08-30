@@ -210,7 +210,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="2B70769DD9D96BAFE6E0F8C7EE2D93DF58451F21" downloadHash="02087C1926E3F2444BE222DE400274CC295B7616" name="alaron q22 callidyrr temples int.trx" dlsize="377712" size="1101595" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="F9E13E1CD228357857F31C7E6746F58612BCB4B9" downloadHash="D62EA05BE4EABB50D033AC3FE7D3FA334376B80A" name="alaron q22 callidyrr temples int.trx" dlsize="380538" size="1102055" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -310,7 +310,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="BB0547F82EB76EE3121BCBD3DF4444DA218FFF47" downloadHash="C9A9A25CD04B4266151DF52ED0F106D6C457B5BE" name="alaron q22 c callidyrr docks n.trx" dlsize="3149315" size="20036002" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6BDFEF717F8DA44A6D4D23F71CD5993A4DD8F4B8" downloadHash="F03A4F3C515C326807A315ED61BC34E34D2DDB36" name="alaron q22 c callidyrr docks n.trx" dlsize="3180423" size="20070576" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
