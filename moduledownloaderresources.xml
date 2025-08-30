@@ -210,7 +210,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5A710ADBB61030A2D2658D5CEDF7ECAF83E633B2" downloadHash="652ABD065415DADA05965D65E388C6F1581E1E6A" name="alaron q22 callidyrr temples int.trx" dlsize="364122" size="1084723" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="2B70769DD9D96BAFE6E0F8C7EE2D93DF58451F21" downloadHash="02087C1926E3F2444BE222DE400274CC295B7616" name="alaron q22 callidyrr temples int.trx" dlsize="377712" size="1101595" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
