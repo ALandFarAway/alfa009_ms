@@ -45,7 +45,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="13477199E1369BF3A54D5C2FA358BB7B8616319C" downloadHash="2EA025E6ABC4FD44B98FAD1360807EADB355C217" name="snowdown r34 westphal city.trx" dlsize="2119443" size="14003880" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="6947227F20350347086FF2E6D382091646AC1B21" downloadHash="56299245D635133F6F39EDADF6E492291F335126" name="snowdown r34 westphal city.trx" dlsize="2117108" size="14003881" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1575,7 +1575,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="1B8E512BA76E68F66DCC8DC1A77F7B3BE7A2FA28" downloadHash="751CE08B44C6D7D040CCD1C1691F46BB3BB14F67" name="snowdown r34 westphal int 2.trx" dlsize="317039" size="994604" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="5F56DF1DA874D2E59015E223C5D604148D9EEB1A" downloadHash="4D5EC025E1C5E13D05425A0B8D632E5F92CA266D" name="snowdown r34 westphal int 2.trx" dlsize="369301" size="1045734" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
