@@ -270,7 +270,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="AC5959B29B4899727D5E170122AD536740C0CC2C" downloadHash="3F1CC9D1BC11FA6FBD7590CDED65350253F1B942" name="snowdown r33 andover heights.trx" dlsize="4238842" size="23021161" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="FE94C6AE9E612F8FAD16C7623FDEF773FCCF0F59" downloadHash="B49C04ECEC341655C615FC999834CB3047E5ABF4" name="snowdown r33 andover heights.trx" dlsize="4238527" size="23012381" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1415,7 +1415,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="97E8B66E863417DEDE97C5AA8685259183A85FA0" downloadHash="16ABCC3D0F8FEEB055B8EAB925BE21C8E17BBCCB" name="snowdown s33 the ride n.trx" dlsize="5078618" size="26467477" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="ACF30490D362CA9EC2DD22C023F863D8B554B65C" downloadHash="F4A79B65F5C25BCCDAB02FA63E5C487AB2D82F97" name="snowdown s33 the ride n.trx" dlsize="5080357" size="26441453" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
