@@ -62,10 +62,10 @@ void main()
 
     // Custom code goes here.
 	object oPC = GetEnteringObject();
+	if((GetIsPC(oPC))|| GetIsDMPossessed(oPC)) {
+	//SendMessageToPC(oPC, "Heat");
+		SetLocalInt(oPC, "HeatLoop", 1);
+		ExecuteScript("tsm_trg_onloop_heat", oPC);
+	}
 
- if(GetLocalInt(oPC, "HeatRep") == 0)
-		{SetLocalInt(oPC, "HeatRep", 1);
-		 DelayCommand(61.0, ExecuteScript("slv_static_voice_cr_pc", oPC));
-		}
-	   
 }

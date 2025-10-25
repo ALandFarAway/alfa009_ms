@@ -270,7 +270,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="FE94C6AE9E612F8FAD16C7623FDEF773FCCF0F59" downloadHash="B49C04ECEC341655C615FC999834CB3047E5ABF4" name="snowdown r33 andover heights.trx" dlsize="4238527" size="23012381" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7BE88DCEB8D0B343401C4C5C76DE64887D1B5B4A" downloadHash="57DCB1A8806CC8C32407FF6D32252A53500E7125" name="snowdown r33 andover heights.trx" dlsize="4193148" size="22958368" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
@@ -1575,7 +1575,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="5F56DF1DA874D2E59015E223C5D604148D9EEB1A" downloadHash="4D5EC025E1C5E13D05425A0B8D632E5F92CA266D" name="snowdown r34 westphal int 2.trx" dlsize="369301" size="1045734" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="7CC47BFC6E53FD6C45276E24D85283BC25844C6C" downloadHash="63812DD576C48F63AA03A74CA49082559C56FB11" name="snowdown r34 westphal int 2.trx" dlsize="426821" size="1105299" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
