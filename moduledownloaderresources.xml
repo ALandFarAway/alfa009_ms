@@ -1575,7 +1575,7 @@
       <string>0</string>
     </server-ref>
   </resource>
-  <resource type="DirectoryEntry" hash="7CC47BFC6E53FD6C45276E24D85283BC25844C6C" downloadHash="63812DD576C48F63AA03A74CA49082559C56FB11" name="snowdown r34 westphal int 2.trx" dlsize="426821" size="1105299" critical="false" exclude="false" urlOverride="">
+  <resource type="DirectoryEntry" hash="06E0CF2FAB5DAA35C5F2CEC5D394C6BE2FA0C928" downloadHash="4C955E54BF51B57530184952A6196815523E80B3" name="snowdown r34 westphal int 2.trx" dlsize="427607" size="1105924" critical="false" exclude="false" urlOverride="">
     <server-ref>
       <string>0</string>
     </server-ref>
