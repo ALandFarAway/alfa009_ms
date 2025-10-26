@@ -10,7 +10,7 @@ if (!GetIsPC(oPC)) return;
 int nInt;
 nInt=GetLocalInt(oPC, "NW_JOURNAL_ENTRYsndn_taxes_westphal");
 
-if (nInt = 3)
+if (nInt = 4)
    return;
 
 object oTarget;

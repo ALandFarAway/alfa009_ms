@@ -63,7 +63,8 @@ void main()
     // Custom code goes here.
 	object oPC = OBJECT_SELF;
 	int nRepHeat = GetLocalInt(oPC, "nRepHeat");
-	float fTimeLoop = 91.0;
+//	float fTimeLoop = 91.0;     //original time 
+    float fTimeLoop = 9.0;	    // shortened for Temple Kossuth
 			
 if((GetLocalInt(oPC, "HeatLoop") == 1) && (nRepHeat < 100)  && (oPC != OBJECT_INVALID)) {
 //SendMessageToPC(oPC, "HeatLoop");
@@ -81,7 +82,7 @@ if((GetLocalInt(oPC, "HeatLoop") == 1) && (nRepHeat < 100)  && (oPC != OBJECT_IN
 			 int nDC = 15 + nRepHeat - nSurvival;
 			 if(nRepHeat > 0) {
 			 if(!FortitudeSave(oPC, nDC, SAVING_THROW_TYPE_FIRE, oPC))
-				{ACR_ApplyNLDDamageToCreature(oPC, d6());
+				{ACR_ApplyNLDDamageToCreature(oPC, d8());
 				 ACR_NLD_ReportTotal(oPC, oPC, 0);
 				 SendMessageToPC(oPC, "The burning heat takes its toll!");
 				 }
