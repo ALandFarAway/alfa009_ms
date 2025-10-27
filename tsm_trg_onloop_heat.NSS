@@ -79,7 +79,7 @@ if((GetLocalInt(oPC, "HeatLoop") == 1) && (nRepHeat < 100)  && (oPC != OBJECT_IN
 			}
 		if((!GetHasSpellEffect(SPELL_ENDURE_ELEMENTS, oPC)) && (!GetHasSpellEffect(SPELL_RESIST_ENERGY, OBJECT_SELF))&& (!GetHasSpellEffect(SPELL_PROTECTION_FROM_ENERGY, OBJECT_SELF))&& (!GetHasSpellEffect(SPELL_ENERGY_IMMUNITY_FIRE, OBJECT_SELF)))
 			{int nSurvival = GetLocalInt(oPC, "Survival");
-			 int nDC = 15 + nRepHeat - nSurvival;
+			 int nDC = 20 + nRepHeat - nSurvival;
 			 if(nRepHeat > 0) {
 			 if(!FortitudeSave(oPC, nDC, SAVING_THROW_TYPE_FIRE, oPC))
 				{ACR_ApplyNLDDamageToCreature(oPC, d8());

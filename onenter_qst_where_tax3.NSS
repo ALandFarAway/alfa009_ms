@@ -20,19 +20,19 @@ oTarget = GetWaypointByTag("Where_Tax1");
 
 lTarget = GetLocation(oTarget);
 
-oSpawn = CreateObject(OBJECT_TYPE_PLACEABLE, "abr_pl_mr_corpse14", lTarget);
+oSpawn = CreateObject(OBJECT_TYPE_PLACEABLE, "abr_pl_mr_corpse140", lTarget);
 
 oTarget = GetWaypointByTag("Where_Tax2");
 
 lTarget = GetLocation(oTarget);
 
-oSpawn = CreateObject(OBJECT_TYPE_PLACEABLE, "abr_pl_mr_corpse20", lTarget);
+oSpawn = CreateObject(OBJECT_TYPE_PLACEABLE, "abr_pl_mr_corpse200", lTarget);
 
 oTarget = GetWaypointByTag("Where_Tax3");
 
 lTarget = GetLocation(oTarget);
 
-oSpawn = CreateObject(OBJECT_TYPE_PLACEABLE, "abr_pl_mr_corpse30", lTarget);
+oSpawn = CreateObject(OBJECT_TYPE_PLACEABLE, "abr_pl_mr_corpse300", lTarget);
 
 oTarget = GetWaypointByTag("Where_Tax4");
 
