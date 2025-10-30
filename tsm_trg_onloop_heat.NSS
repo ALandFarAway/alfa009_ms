@@ -64,7 +64,7 @@ void main()
 	object oPC = OBJECT_SELF;
 	int nRepHeat = GetLocalInt(oPC, "nRepHeat");
 //	float fTimeLoop = 91.0;     //original time 
-    float fTimeLoop = 9.0;	    // shortened for Temple Kossuth
+    float fTimeLoop = 1.0;	    // shortened for Temple Kossuth
 			
 if((GetLocalInt(oPC, "HeatLoop") == 1) && (nRepHeat < 100)  && (oPC != OBJECT_INVALID)) {
 //SendMessageToPC(oPC, "HeatLoop");
@@ -79,10 +79,10 @@ if((GetLocalInt(oPC, "HeatLoop") == 1) && (nRepHeat < 100)  && (oPC != OBJECT_IN
 			}
 		if((!GetHasSpellEffect(SPELL_ENDURE_ELEMENTS, oPC)) && (!GetHasSpellEffect(SPELL_RESIST_ENERGY, OBJECT_SELF))&& (!GetHasSpellEffect(SPELL_PROTECTION_FROM_ENERGY, OBJECT_SELF))&& (!GetHasSpellEffect(SPELL_ENERGY_IMMUNITY_FIRE, OBJECT_SELF)))
 			{int nSurvival = GetLocalInt(oPC, "Survival");
-			 int nDC = 20 + nRepHeat - nSurvival;
+			 int nDC = 25 + nRepHeat - nSurvival;
 			 if(nRepHeat > 0) {
 			 if(!FortitudeSave(oPC, nDC, SAVING_THROW_TYPE_FIRE, oPC))
-				{ACR_ApplyNLDDamageToCreature(oPC, d8());
+				{ACR_ApplyNLDDamageToCreature(oPC, d10());
 				 ACR_NLD_ReportTotal(oPC, oPC, 0);
 				 SendMessageToPC(oPC, "The burning heat takes its toll!");
 				 }
