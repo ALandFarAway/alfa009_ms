@@ -128,4 +128,3 @@ void main()
 	AssignCommand(OBJECT_SELF,ActionEquipItem(oBoots,2)); 
 
 }
-

@@ -35,6 +35,13 @@
 //to change the one liners the blacksmith speaks
 void NpcKerenSpeak (int nSpeak)
 {
+object oPC = GetLastPerceived();
+
+if (!GetIsPC(oPC)) return;
+
+if (!GetLastPerceptionSeen()) return;
+object oTarget;
+oTarget = OBJECT_SELF;
 int nRand = Random (4); //change the integer to vary the frequency of speech
     {switch (nSpeak)
         {
